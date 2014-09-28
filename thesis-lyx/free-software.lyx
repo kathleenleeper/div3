@@ -1,0 +1,583 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrreprt
+\begin_preamble
+\usepackage{preamble}
+\end_preamble
+\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty
+\use_default_options false
+\begin_modules
+biblatex
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type numerical
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+free software
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+NAHNAHNAH here are sme summary notes
+\end_layout
+
+\begin_layout Minisec
+some notes
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+these are some marginal notes
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+Sumathipala2004
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sumathipala2004"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+think
+\emph default
+ Herb's argument is that the directionality of the technology depends on
+ why it was 
+\end_layout
+
+\begin_layout Section
+What is Free software?
+\end_layout
+
+\begin_layout Quote
+
+\size large
+\begin_inset Quotes eld
+\end_inset
+
+The terminology of and factions within this movement are complex, but, in
+ short, “free software” tends to be associated with the ideology of freedom,
+ “open source” with the openness of the development process, and “libre”
+ with those concerned about confusion from the previous two.
+ FOSS/FLOSS are used as monikers to refer to all of these meanings.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{Reagle2012}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Free software is typically attributed to Stallman and the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+GPL
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+, written as the era of personal computers began and the comparative ease-of-sha
+ring by IBM ended.
+ The founding document is the GPL, which defines (among other things) notions
+ of freedom, of software, and of rights.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "FreeSoftwareFoundation2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Intriguing for a number of reasons -- (i.e.
+ light on something we usually skip over, founded in a genuinely anti-capitalist
+ spirit, not a $$ scheme, embracement of legality) 
+\end_layout
+
+\begin_layout Standard
+So anyway --
+\end_layout
+
+\begin_layout Standard
+Well, also, my thoughts are primarily on linux for (very) small businesses
+ and the individual user.
+ While I believe big companies would benefit from a linux infusion on a
+ personal level (i.e.
+ empowering workers, although maybe not?), it may not be in the best interests
+ of a company built on capitalism and draining workers.
+\end_layout
+
+\begin_layout Standard
+Free software is defined, legally, as software that the user is free to
+ modify as they wish
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+like locking someone out bc of a passcode or other restrictions?
+\end_layout
+
+\end_inset
+
+, and any distribution of the program must also include access to the source
+ code
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+source code or 
+\begin_inset Quotes eld
+\end_inset
+
+other appropriate whatevers
+\begin_inset Quotes erd
+\end_inset
+
+ -- this is kinda imp.
+\end_layout
+
+\end_inset
+
+.
+ It builds a compelling case on almost entirely morals (to me, at least...);
+ on top of a prominent political/moral stance, many GPL'ed products, including
+ the behemoth flagship of Linux, boast increased stability, flexibility,
+ power, and cost.
+ Those things are not inherent to libre-ness, but are typical consequences
+ of well maintained projects and the fervent communities that develop around
+ them.
+\end_layout
+
+\begin_layout Subsection
+software, like science: a unit of one
+\end_layout
+
+\begin_layout Standard
+Like hard science, and the advocates open science, the libre software movement
+ appeals to a similar range of people (or at least the classic image does).
+ Relatively logical, focused on the individual.
+ Both movements place their rhetoric on the shoulder's of individuals.
+ 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+I think?
+\end_layout
+
+\end_inset
+
+ Anyway, point: the units of use are the individual, because we frame the
+ users of Linux as 
+\begin_inset Quotes eld
+\end_inset
+
+users protecting their privacy
+\begin_inset Quotes erd
+\end_inset
+
+ and access as 
+\begin_inset Quotes eld
+\end_inset
+
+helping other scientists do more!
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Individuals are the currency of rhetoric, and individual power.
+\end_layout
+
+\begin_layout Standard
+The individuals, however, are not classed, raced, or gendered.
+ They occupy no more than the width of a human; that is to say, in the world
+ of free software and of science, all individuals are the same at heart,
+ with perhaps minor differences (old hardware, so a different OS)
+\end_layout
+
+\begin_layout Quote
+In this book I show the existence of a confluence between the Mertonian
+ ethos, the famous account of scientist’s norms of behaviour proposed in
+ the 1930s by the science sociologist Robert Merton (1973) and the hacker
+ ethic, a very diverse and heterogeneous set of moral norms and cultural
+ practices whose foundations are based upon the desire to have a free and
+ direct approach to technology and information.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor {Delfanti2013}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delfanti2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+But my point is exactly that ‘the old tradition’ of the open science ethos
+ is not enough to understand the transformations we are facing.
+ This narrative about a corrupted Eden and its redemption is too simple
+ and static
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor {Delfanti2013}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delfanti2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The point is:: scientists and technology advocates are grouped together
+ by virtue of both the 
+\begin_inset Quotes eld
+\end_inset
+
+technical
+\begin_inset Quotes erd
+\end_inset
+
+ aspects of their field (read: objectivity, lack of individual differences,
+ a belief that tools are the way XYZ are produced) and by the self-characterizat
+ion of many (although possibly only the hacker/scientists, not all scientists).
+ But by and large, science and technology advocates, at their most meaningful,
+ believe themselves to be advancing the state of humanity/world 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+perhaps not really an appropriate slash..?
+\end_layout
+
+\end_inset
+
+ in really meaningful ways, whether it's functionality or cheapness or curative
+ properties or all three.
+\end_layout
+
+\begin_layout Standard
+Scientists and libre advocates advocates also, and this is important, see
+ themselves as equal opportunity employers.
+ In 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor {Coleman2012}
+\end_layout
+
+\end_inset
+
+'s ethnography of the FLOSS movement, one developer writes “I realized...that
+ I could delve through that code and learn things that I could never learn
+ from a high school teacher.
+ 
+\emph on
+It’s one of the reasons why I feel so strongly about the GPL’d software
+ now; it allows anyone to learn and participate
+\emph default
+”(emphasis mint) 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 39"
+key "Coleman2012"
+
+\end_inset
+
+ Science is the quintessential discipline of invisible humans, existing
+ just as names or as products.
+ If you can make the protocol run, does it matter who you are? If you can
+ make discoveries, your physicality shouldn't matter.
+ thus, equal opportunity.
+ In technology, the body is hidden behind wires, and in biology, a wall
+ of ivory and several years of inculcation.
+\end_layout
+
+\begin_layout Section
+co-option & the GPL: distinctions between open-source and free software?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor {Delfanti2013}
+\end_layout
+
+\end_inset
+
+ doesn't spend time deliberating on the difference between open source and
+ free software; both are lumped, as they often are, by virtue of their productio
+n ethics
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+although this is not really accurate either...?
+\end_layout
+
+\end_inset
+
+, into a model driven(?) by an ethic of sharing, and equally prone to usage
+ by the capitalist economy.
+\end_layout
+
+\begin_layout Paragraph*
+Does the GPL provide a measure of anti-capitalist protection by extending
+ the time period of control? 
+\end_layout
+
+\begin_layout Standard
+If it does, and if we can think of new ways to twist the system (in a limited
+ frame of time/revolution) and technically still operate within the rules
+ of capitalist & corporate economy; then that seems like a way forward.
+ Part of it is the necessity of revision; as time has passed, the GPL has
+ new iterations.
+ As time passes, the vision and the rules and what we're working towards
+ must be a moving target.
+ What worked 10 years ago cannot work now; if the rules we develop are the
+ antibody to capitalist exploitation, capitalism evolves.
+ So a willingness to keep working and accept the complete lack of a solution
+ is fundamental.
+\end_layout
+
+\begin_layout Standard
+So I think Delfanti is wrong to so easily dismiss the distinction between
+ open and free, and I think that applies here, to.
+ Open science is the watered down version, I think, of what science could
+ be, in an economy where life and health didn't depend on two minimum wage
+ jobs.
+ Libre science and libre software can only reach their full potential (insofar
+ as they are used effectively by 
+\begin_inset Quotes eld
+\end_inset
+
+common
+\begin_inset Quotes erd
+\end_inset
+
+ people, not in any sense of being 'finished') when they also exist in an
+ economy of no -isms.
+\end_layout
+
+\begin_layout Standard
+But that economy doesn't happen unless we keep pushing the elastic boundary;
+ keep messing at the boundaries of capitalism.
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,191 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing double
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle plain
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Division III is a year long undergraduate thesis project; for me, it's both
+ problematizing and exploring solutions to those problems.
+ I began with neuroscience, and a naive fascination with pathologies of
+ the brain and perception.
+ I have since learned or come to believe that my interests, and what I do
+ with those interests, has an impact on the world -- this is both self-presevera
+tion, for otherwise what's the point? and self-recrimination; my impact
+ on the world is my responsibility, and I need to figure out ways to meld
+ a shattered world view into a practice that has tangible effects on the
+ people and society around me.
+ People are society; if we don't change them, we cannot begin to move forward.
+ Change can come from the top or the bottom, but we write the laws, we execute
+ them, and we -- humans -- create our societys.
+\end_layout
+
+\begin_layout Standard
+The pathologies of the brain are still intriguing, but so loaded with societal
+ implications that I cannot try to unravel them without also examining the
+ long term effect of my research, specifically, but more broadly the impact
+ of cellular-level research etc.
+ on vulnerable (vulnerability being conferred by long-standing encoded discrimin
+ation that results in genetic, economic, or social exclusion [or the potential
+ thereof]) groups.
+ One solution I found early in my tenuous and at the time exploratory/unguided
+ phase was free/libre software and its sibling in the sciences, open science.
+ While to my current chagrin much of open science does not appear (at first
+ glance, at least) to be founded on the same moral basis as Stallman's GNU/libre
+ brainchild, it is nonetheless science that shares much of that [theoretically]
+ moral spirit.
+ On both practical levels and a deeper moral level, open science seemed
+ justifiable and 
+\emph on
+right
+\emph default
+ for the same reason free software and free culture feel 
+\emph on
+right
+\emph default
+ -- they are technologies and creations with care beyond a profit motive,
+ and give more than a token nod to users.
+ They also produce amazing and powerful things with very little money, which
+ makes their highflying rhetoric more believable.
+ And their stuff is usually free-of-cost, never mind the licenscing.
+\end_layout
+
+\begin_layout Standard
+Users have power.
+ In open science, scientists can reclaim power (by taking control of distributio
+n, by interacting with the common folk, by engaging in conversations), although
+ it's of course limited to only one direction and to limited effect.
+ 
+\end_layout
+
+\begin_layout Standard
+So the mundane first.
+\end_layout
+
+\begin_layout Section
+What is 
+\begin_inset Quotes eld
+\end_inset
+
+open science
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Standard
+Open science derives from many places.
+ It has its origins in science as we know it today, where it was practiced
+ in England and France by wealthy (largely white and male) folks with time
+ on their hands.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Science
+\begin_inset Quotes erd
+\end_inset
+
+ found its roots in curiosity, in spare time, in exploration for the sake
+ of exploration.
+ Probably not totally true, but I believe there's a grain of truth.
+ Journals were free because anyone who did science was high-profile enough
+ to afford them; you paid for long distance or translations or whatever.
+ Tesla was probably different.
+ Fleck was different.
+ Many scientists or practicioners were different;;;;; so maybe I'm wrong.
+\end_layout
+
+\begin_layout Standard
+But all that said; there is nonetheless a perception of science as a brotherhood
+, a fraternity, a cult of fathers and sons, of inquisitive boys learning
+ to harness their curiosity and work in harmony with their brethren around
+ the world to help humanity.
+ Thus, sharing.
+ Because science is philanthropic and interested in progress, not profit,
+ and because the heartbeat of progress is experiments and papers and data,
+ sharing those can only create progress.
+ Thus, it's the way science is going.
+\end_layout
+
+\begin_layout Standard
+What open science looks like in the Western academies, what it looks like
+ from my spot in the academy of the United States, is removing cost barriers,
+ removing license barriers, and conceiving of the scientific process as
+ a sort of inside out building; possibly uglier, but more effective as a
+ building.
+ Exposing lab notebooks, methodology, 
+\end_layout
+
+\end_body
+\end_document

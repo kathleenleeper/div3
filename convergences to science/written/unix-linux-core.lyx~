@@ -1,0 +1,378 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\def\mparsetup{%
+    \slshape\footnotesize%
+    \parindent=0pt \lineskip=0pt \lineskiplimit=0pt %
+    \tolerance=2000 \hyphenpenalty=300 \exhyphenpenalty=300%
+    \doublehyphendemerits=100000%
+    \finalhyphendemerits=\doublehyphendemerits}
+
+\let\oldmarginpar\marginpar
+
+\renewcommand{\marginpar}[1]{\oldmarginpar[\mparsetup\raggedleft\hspace{0pt}{#1}]{\mparsetup\raggedright\hspace{0pt}{#1}}}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 1.5cm
+\bottommargin 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Part
+in defense of using linux: 
+\begin_inset Quotes eld
+\end_inset
+
+why not just use the unix shell?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+Unix is architecturally transparent; every part of the system is a file
+ that can be seen, altered, and customized.
+ It gives users the ability to "go behind the scenes" to individually configure
+ the system for special needs and oper- ates along a similar logic to that
+ of open source.
+ Customization may mean something as seemingly insigni " cant as setting
+ your own keyboard shortcuts (which in fact is crucial if you are typing
+ most of the day, seven days a week) or rewriting any confguration file
+ to optimize your hardware" (p.
+ 36, Gabriella Coleman, "Coding Freedom")
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+(p.
+ 36-37, Gabriella Coleman, 
+\begin_inset Quotes eld
+\end_inset
+
+Coding Freedom
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+Indeed, like so many hacker naming conventions, the name Unix is a clever
+ his- torical referent— in this case, indexing its conditions of birth.
+ Unix derives from another related OS, the much larger Multics, originally
+ developed in AT&T’s Bell Labs.
+ In 1969 Bell Labs canceled funding for Multics; its authors, Ken Thomson
+ and Denis Ritchie, salvaged (and many would say improved) Multics by parsing
+ it down to a much smaller system, which they renamed Unix.
+ Once Unix was “cut down,” it
+\series bold
+s creators renamed Multics to “eunuchs”
+\series default
+ to capture the idea that some really signifcant “things” had been cut from
+ its body, but what was created was something forever eternally beautiful.
+ 
+\series bold
+Eventually, its creators kept the phonetic instantiation of eunuchs (Unix)
+ to commemorate and signal its conditions of birth as an essentially castrated
+ version of Multics.
+
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+Many hackers’ understandings of the morality and legality of free software
+ were quite rudimentary.
+ Although the technical implications of unhampered ac- cess to code were
+ usually quite clear,
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+(38, ibid)
+\end_layout
+
+\end_inset
+
+ few developers understood this access in relation to the GPL in particular
+ or legality in general.
+ 
+\end_layout
+
+\begin_layout Itemize
+“I realized,” a developer named Wolfgang wrote me over email, “that I could
+ delve through that code and learn things that I could never learn from
+ a high school teacher.
+ 
+\series bold
+It’s one of the reasons why I feel so strongly about the GPL’d software
+ now; it allows anyone to learn and participate.
+\series default
+” (39)
+\end_layout
+
+\begin_layout Itemize
+As these examples illustrate, for most developers (with the exception of
+ anticapitalist activist- geeks), acceptance of free software rarely led
+ to a wholesale political opposition to corporate producers of proprietary
+ software.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+like the question of feminism -- who does feminist include? who can it include?
+ is it just equality of women? what ideals are 
+\emph on
+required
+\emph default
+ in a 
+\begin_inset Quotes eld
+\end_inset
+
+feminist
+\begin_inset Quotes erd
+\end_inset
+
+?;;;; basically, 
+\end_layout
+
+\end_inset
+
+ Instead, developers used their experiences with free software to develop
+ a critical eye toward proprietary software " rms, targeting their complaints
+ at speci " c practices, such as abuse of intellectual property law and
+ the tendency to hide problems from customers (40) 
+\end_layout
+
+\begin_layout Itemize
+conceptualization of code as a form of expression (44); coding freedom is
+ speech freedom
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Much has been made of the fact that hacking and F/OSS development unfold
+ in the ethereal space of bits and bytes.
+ “Indeed, serious hackers,” writes Manuel Castells (2001, 50), “primarily
+ exist as hackers on- line.” The substantial academic attention given to
+ the virtual ways that hackers produce technology is undoubtedly warranted
+ and rich, and has advanced our sociological understanding of labor and
+ virtuality.
+ But what this litera- ture fails to substantially address (and sometimes
+ even barely acknowledge) is the existence of face- to- face interactions
+ among these geeks, hackers, and developers
+\begin_inset Quotes erd
+\end_inset
+
+ (45) 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+hackers -- technology -- science, occurs in real space and needs real space
+ to be confirmed; cons and meetups and having physical space;
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+physicality
+\emph default
+ is important to cement something; embodiment; hackers exist as real people
+ and academics like the internet; where it's trackable?
+\end_layout
+
+\begin_layout Plain Layout
+hacker spaces!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+p.
+ 51
+\end_layout
+
+\end_inset
+
+During talks, IRC becomes the high- tech peanut gallery.
+ Hackers un- abashedly discuss the presentations as they unfold, giving
+ those not there in person, but online, an often- humorous textual play-
+ by- play.
+ At the con, these networked and virtual technologies exist in much the
+ same way they ordinarily do.
+ Rarely used in isolation or to replace the “meat world,” they augment interacti
+vity (Hakken 1999; Miller and Slater 2001; Taylor 2006).
+ And hackers have grown adept at 2 uidly moving between them, cultivating
+ a peculiar incorporated competence— a hexis , or “durable manner of stand-
+ ing, speaking and thereby of feeling and thinking” (Bourdieu 1977, 93)
+ used to negotiate this movement.
+ Even while typing away furiously, eyes scan var- ious open windows on the
+ computer, but ears are usually perked up, listen- ing to the chatter and
+ ready to contribute to the conversations unfolding in the room.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+56
+\end_layout
+
+\end_inset
+
+For those who return annually, the hacker con takes on the par- ticular
+ ritual quality of a pilgrimage
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+59-60
+\end_layout
+
+\end_inset
+
+The relations between the conference and the public have affective, moral,
+ technical, economic, and political dimensions.
+ Transportation technologies, trains in times past and planes in times present,
+ are as much a part of the (often- unacknowledged) architecture of publics
+ as are newspapers and the Internet, for they transport bodies, normally
+ connected by discourse, to interact in an intense atmosphere for a short
+ burst of time.
+ It requires a signi " cant amount of labor and money to both organize and
+ attend these events.
+ The contexts of labor and organization— Is it affordable? Should it be
+ held in a downtown hotel or a small forest outside of Eugene, Oregon? How
+ is the conference advertised? Is it open to all or based on invitation?
+ What is the environmental impact of far- 2 ung global travel?— shape their
+ moral and political valence.
+ Given that most conferences, even those that are consciously made affordable,
+ usually require long- distance travel, the economics of conferences make
+ them signicantly less accessible to certain populations...A political economy
+ of the conference can illuminate how members of a public are poised differentia
+lly to each other because of their ability or inability to meet in person
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+60
+\end_layout
+
+\begin_layout Plain Layout
+physicality confirms other people care and that we are not alone in our
+ beliefs; serves the same purpose as protests and support groups; 
+\end_layout
+
+\end_inset
+
+Sometimes, as one sits at their computer, coding feverishly for a project,
+ thousands of miles away from some of their closest friends and interlocu-
+ tors, one has to wonder, “Does this matter to others in the same way as
+ it does to me? In what ways does this matter?” And more than any other
+ event, the hacker conference answers such questions with lucidity and clar-
+ ity.
+ During the con, hackers see themselves
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+END OF CHAPTER ONE
+\end_layout
+
+\begin_layout --Separator--
+
+\end_layout
+
+\end_body
+\end_document
