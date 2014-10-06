@@ -82,45 +82,71 @@ Div III Contract
 
 \begin_layout Standard
 Chairs: Herbert Bernstein, John Castorino
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-My Division III goals, are, good or bad, largely self-centered.
- The goal is simple: reconcile the inherent values of my scientific production
- with my personal ones.
- The two are interlaced, of course, and 
-\begin_inset Quotes eld
-\end_inset
-
-values
-\begin_inset Quotes erd
-\end_inset
-
- encapsulates years of academic and personal effort/growth.
+My Division III goal is simple: reconcile the inherent values and assumptions
+ of my scientific production with my personal ones.
+ The two are interlaced, of course, and “values” encapsulates years of academic
+ and personal work.
+ I'm interested in open (neuro) science, both as a growing phenomenon in
+ science and as an active participant myself, while also deconstructing
+ and recreating science and open biology as a value-driven enterprise.
+   
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-like i've written in a hundred thousand grants/whatevers already
+The neuroscience/biology aspect of my work is a comparatively small technical
+ question.
+ Can introducing a set of transcription factors into stem cells change their
+ differentiation fate, thus making P19 stem cells a useful model system
+ for serotonin receptors?  
 \end_layout
 
-\end_inset
-
- The neuroscience/biology aspect of my work is specific differentiation
- of neurons by manipulating transcription factors, the goal being to explore
- serotonergic model systems and P19s.
+\begin_layout Standard
+Building on that scientific project as model system for scientific production,
+ I can explore the theories behind and the slmaking of “open science”.
+ I'm making/practicing open science with an open lab notebook online, which
+ is, granted, mostly for my benefit.
+ But it's also a way  to document my  fact creation process, and developing
+ ways based on first-hand experience to make open science & technology more
+ useful and accessible to biologists.
  
 \end_layout
 
 \begin_layout Standard
-Using that research as a model, I'd like to explore, practice, and make
- open science, making technology more accessible and more useful to biologists.
- That goes with exploring and giving shape to a system where biology is
- more open -- e.g.
- the process of fact creation is more open, tracked, and accountable.
+Overall, of course, there's an encapsulating goal.
+ The heart and spine of my Div III is an analysis of the hidden logics inherent
+ in open knowledge and neuroscience.
+ In exposing those, I can challenge and redirect my work to better align
+ with my feminist, anti-racist, and anti-colonialist values.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+like I've written in a hundred thousand grants/whatevers already
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -131,36 +157,35 @@ So what am I actually producing?
 Tentatively, but likely:
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 an open lab notebook/website tracking the course of my research day-by-day
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 serious and clean documentation thereof;
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 practical open science
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
-generate/use a protocol writer to make the instructions for protocols more
- interactive
+\begin_layout Enumerate
+interactive protocols (elaboration in person)
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-;;; integrate it with jekyll or build the site with node..:(
+;;; integrate it with Jekyll or build the site with node..:(
 \end_layout
 
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Itemize
+\begin_layout Enumerate
 a plug in for the citation manager Zotero that takes a set of citations
  (probably starting with .bib) and parses them (roughly) by gender, so researcher
 s can quickly and effectively see citation biases and act to correct it
@@ -168,10 +193,16 @@ s can quickly and effectively see citation biases and act to correct it
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 additional functionality: organized/parsed by location of publication
+\end_layout
+
+\end_deeper
+\end_inset
+
+
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
  (are you boycotting Israel? This might be important....)
@@ -183,13 +214,13 @@ status open
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
-a multi-sectioned written work with
+\begin_layout Enumerate
+a multi-sectioned written work with sections on:
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
-scientific background & results (e.g.
+\begin_layout Enumerate
+the scientific background & results (e.g.
  a 
 \begin_inset Quotes eld
 \end_inset
@@ -201,26 +232,27 @@ classic
  science-oriented Division III)
 \end_layout
 
-\begin_layout Itemize
-a section detailing the pros & cons of open science, whether it works or
- not, and if yes, what Hampshire could do going forward to encourage it
+\begin_layout Enumerate
+the pros & cons of open science, whether it works or not, and if yes, what
+ Hampshire could do going forward to encourage it
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 how my own experience with OS shapes my current (well, end of year) suggestions
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
-a value-driven analysis of the assumptions implicit in
+\begin_layout Enumerate
+my value-driven analysis of the assumptions implicit/inherent and ways of
+ going forward in
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 neuroscience work
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 AH I do not know how to do this.
@@ -230,14 +262,19 @@ AH I do not know how to do this.
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 what does 'good' neuroscience look like? what does 'good' molecular neuroscience
  work look like?
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 I don't feel motivated to explore and care about this? HERB.
@@ -248,8 +285,7 @@ I don't feel motivated to explore and care about this? HERB.
 
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 rhetorics of 
 \begin_inset Quotes eld
 \end_inset
@@ -262,14 +298,12 @@ openness
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
-what are the implications of an open science that is essentially synonymous
- with technoscience?
+\begin_layout Enumerate
+implications of an open science synonymous with technoscience?
 \end_layout
 
-\begin_layout Itemize
-how does it allow for new ways of connection between people and data and
- 
+\begin_layout Enumerate
+does it allow for new ways of connection between people and data and 
 \begin_inset Quotes eld
 \end_inset
 
@@ -280,11 +314,11 @@ science
 
 \end_layout
 
-\begin_layout Itemize
-who gets to use libre things? or open data? what barriers exist?
+\begin_layout Enumerate
+Who gets to use libre things? or open data? what barriers exist?
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 in what worlds is open science 
 \emph on
 good
@@ -292,19 +326,19 @@ good
  science?
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 how does openness and/or libre-ness work with corporate/gov't powers?
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 whose voices are the loudest in OS, and what voices are left out or used
  in ways they don't consent/agree with?
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 making space: is there space in my science and my technology for other knowledge
- forms and beliefs, how can I put it there, and 
+ forms and beliefs & how can I put it there?
 \end_layout
 
 \end_deeper
@@ -316,8 +350,8 @@ status collapsed
 \begin_layout Plain Layout
 Differentiate neurons.
  The scope of the project is much smaller than I think I originally envisioned,
- and is only very distantly related to small molecules and signalling.
- Differentiate P19s by messing w/ signalling pathways to develop a better
+ and is only very distantly related to small molecules and signaling.
+ Differentiate P19s by messing w/ signaling pathways to develop a better
  model system.
  
 \end_layout
@@ -369,7 +403,7 @@ running
 \begin_inset Quotes erd
 \end_inset
 
- a protocol) and the zotero plugin to check your feminism
+ a protocol) and the Zotero plugin to check your feminism
 \end_layout
 
 \begin_layout Section
