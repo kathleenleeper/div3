@@ -303,18 +303,6 @@ filename "introduction.lyx"
 \end_layout
 
 \begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "why-plos-one-first.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \noindent
 
 \lang american
@@ -346,6 +334,26 @@ filename "free-software.lyx"
 \end_layout
 
 \begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "mol-neuro.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "why-plos-one-first.lyx"
+
+\end_inset
+
 
 \end_layout
 

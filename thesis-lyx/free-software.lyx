@@ -8,9 +8,6 @@
 \end_preamble
 \options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty
 \use_default_options false
-\begin_modules
-biblatex
-\end_modules
 \maintain_unincluded_children false
 \language english
 \language_package default

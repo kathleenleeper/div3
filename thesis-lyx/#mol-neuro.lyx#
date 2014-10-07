@@ -77,80 +77,12 @@
 Serotonin & Signalling
 \end_layout
 
-\begin_layout Section*
-Acronyms
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPCRs}{G-protein coupled receptors}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{5-HT}{5-hydroxytryptamine}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Serotonin
 \end_layout
 
 \begin_layout Standard
-Serotonin is 
+Serotonin is 5-hydroxytryptamine
 \begin_inset ERT
 status open
 
@@ -171,106 +103,7 @@ ac{5-HT}
 \end_layout
 
 \begin_layout Standard
-Model systems for serotonergic signalling are fundamental to drug design
- and development for depression and 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{whatever the other stuff is that serotonin does}
-\end_layout
-
-\end_inset
-
-, and in the case of hallucinogenic drugs, present an uncommon means to
- explore consciousness because of their unique signal transduction specificity.
-\end_layout
-
-\begin_layout Standard
-Endogenous serotonin systems comprise 14 families, with multiple subtypes
- in each family.
- All but one are 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCRs}
-\end_layout
-
-\end_inset
-
-, which, among other things, means their effects are mediated through a
- great deal of secondary messengers.
- Evidence from a multiplicity of different 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCRs}
-\end_layout
-
-\end_inset
-
-, as well as specifically the serotonin subtypes, implies that these secondary
- messengers are differentially activated by ligand binding; signal transduction
- mileage may vary.
- The degree of activation of any specific pathway depends on receptor-ligand
- interactions, typically those of the aromatic residues at the active site.
-\end_layout
-
-\begin_layout Standard
-The key to 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{GPCRs}
-\end_layout
-
-\end_inset
-
- is, of course, how those second messenger system are modulated.
- With hallucinogens, two primary research routes have comprised most of
- the research.
- Much of the recent and high profile research has occurred in primary mouse
- neurons, which are difficult to culture, expensive, and extremely delicate
- to work with.
- The other option, beloved by molecular biologists since the disciplines
- infancy, is the transgenic expression of the receptor of interest in a
- cell line.
- Work has been done in CHO cells
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{my work, at least, is true for this and was the original motivation
- so}
-\end_layout
-
-\end_inset
-
- Serotonin model systems come in a variety of shapes and forms; much of
- the work on hallucinogenic signalling has either been done on primary neurons
- (difficult to culture, expensive, and hardly inexhaustible) or in transgenic
- cells expressing the appropriate subtype of receptor.
+Probing the mechanism of action for 
 \end_layout
 
 \begin_layout Standard
