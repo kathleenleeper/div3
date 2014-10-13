@@ -6,7 +6,7 @@
 \begin_preamble
 \usepackage{preamble}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty
+\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -137,6 +137,22 @@ status open
 
 
 \backslash
+acro{CNS}{central nervous system}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 end{acronym}
 \end_layout
 
@@ -146,7 +162,7 @@ end{acronym}
 \end_layout
 
 \begin_layout Section
-Serotonin
+Serotonin & signalling
 \end_layout
 
 \begin_layout Standard
@@ -164,10 +180,56 @@ ac{5-HT}
 \end_inset
 
  , a monoamine neurotransmitter implicated in hella things.
- Serotonin, or rather, its uptake system, has been implicated in depression
- -- hence the SSRI class of antidepressants.
- Serotonin receptors are the target of numerous drugs, notably the classical
- hallucinogens (LSD, psilocybin, etc.)
+ The serotonin signalling system comprises 14 classes of receptors, all
+ but one of which are 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCRs}
+\end_layout
+
+\end_inset
+
+.
+ With a wide array of receptors distributed across the brain , nearly every
+ basic 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{CNS}
+\end_layout
+
+\end_inset
+
+ function, including mood, cognition, sleep, pain, motor function and endocrine
+ secretion, is in some part modulated by serotonin signalling.
+ As such, disruptions in serotonergic transmission is implicated in many
+ psychological diseases (eg schizophrenia etc)
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+elaborate
+\end_layout
+
+\end_inset
+
+, as well as some of the mechanisms behind the relevant therapeutic drugs.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Millan2008"
+
+\end_inset
+
+ Serotonin receptors are also the main agent of the classical hallucinogens
 \end_layout
 
 \begin_layout Standard
@@ -187,27 +249,15 @@ graffito{whatever the other stuff is that serotonin does}
 
 , and in the case of hallucinogenic drugs, present an uncommon means to
  explore consciousness because of their unique signal transduction specificity.
+ 
 \end_layout
 
 \begin_layout Standard
-Endogenous serotonin systems comprise 14 families, with multiple subtypes
- in each family.
- All but one are 
-\begin_inset ERT
-status open
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-ac{GPCRs}
-\end_layout
-
-\end_inset
-
-, which, among other things, means their effects are mediated through a
- great deal of secondary messengers.
- Evidence from a multiplicity of different 
+Evidence from a multiplicity of different 
 \begin_inset ERT
 status open
 
@@ -227,7 +277,7 @@ ac{GPCRs}
  interactions, typically those of the aromatic residues at the active site.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The key to 
 \begin_inset ERT
 status open
@@ -253,7 +303,7 @@ graffito{GPCRs}
  Work has been done in CHO cells
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -273,7 +323,9 @@ graffito{my work, at least, is true for this and was the original motivation
  cells expressing the appropriate subtype of receptor.
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -852,30 +904,94 @@ Autem timeam deleniti usu id.
 \end_layout
 
 \begin_layout Section
-Transcription Factors & Signalling Pathways
+Model serotonin systems
+\end_layout
+
+\begin_layout Section
+Transcription Factors
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
+Many experimental systems use straight transfection 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-\begin_inset Caption Standard
+
+
+\backslash
+graffito{eg CHO cells w/ 5-HT2a receptors}
+\end_layout
+
+\end_inset
+
+ to study serotonin signalling of the receptor.
+ 
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-signalling pathways in the raphe nuclei
+sources &/or examples of major papers that use this technique
 \end_layout
 
 \end_inset
 
+ In my own work with a fluorescent 5-HT2a receptor, the assay used receptor
+ internalization as a metric for drug-inducted activation.
+ Internalization and recycling depends on a large system of internal trafficking
+ proteins
+\begin_inset Note Note
+status collapsed
 
+\begin_layout Plain Layout
+source
 \end_layout
 
 \end_inset
 
+.
+ 
+\begin_inset Note Greyedout
+status collapsed
 
+\begin_layout Plain Layout
+Logically, it seems like a system with the receptor tacked into an otherwise
+ non-serotonergic cell might not have all of the requisite machinery to
+ process receptor signalling fully.
+ Thus, I wanted to find ways to develop better and more reliable -- more
+ holistic while still relatively inexpensive -- serotonergic model systems.
+ 
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor {Nefzger2011}
+\end_layout
+
+\end_inset
+
+ proposed just such a system, using directed expression of three proneural
+ transcription factors to set cell fate early in the differentation process.
+\end_layout
+
+\begin_layout Subsection
+Gata2
+\end_layout
+
+\begin_layout Subsection
+Mash1
+\end_layout
+
+\begin_layout Subsection
+FoxA2
 \end_layout
 
 \begin_layout Section
@@ -1146,7 +1262,10 @@ P19 derived neurons
 \end_layout
 
 \begin_layout Itemize
-express NMDA and metabotropic glutamate receptors
+express NMDA and me\SpecialChar \-
+\SpecialChar \-
+\SpecialChar \-
+tabotropic glutamate receptors
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Nefzger2011"
