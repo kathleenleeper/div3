@@ -135,15 +135,16 @@ n, by interacting with the common folk, by engaging in conversations), although
 can
 \emph default
  
-\begin_inset Marginal
-status collapsed
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
-although maybe this actually deserves more than a token nod to the 'can
-\begin_inset Quotes erd
-\end_inset
 
-...and that ability-without-usability is where some of our problems come from
+
+\backslash
+graffito{although maybe this actually deserves more than a token nod to
+ the 'can...and that ability-without-usability is where some of our problems
+ come from}
 \end_layout
 
 \end_inset
