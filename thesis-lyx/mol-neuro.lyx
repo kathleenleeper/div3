@@ -46,7 +46,7 @@
 \cite_engine natbib
 \cite_engine_type numerical
 \biblio_style plainnat
-\use_bibtopic true
+\use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
@@ -74,7 +74,23 @@
 \begin_body
 
 \begin_layout Chapter
-Serotonin & Signalling
+Serotonin System
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begingroup
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -161,8 +177,20 @@ end{acronym}
 
 \end_layout
 
-\begin_layout Section
-Serotonin & signalling
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+endgroup
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -229,7 +257,7 @@ key "Millan2008"
 
 \end_inset
 
- Serotonin receptors are also the main agent of the classical hallucinogens
+ Serotonin receptors are also the main agent of the classical hallucinogens.
 \end_layout
 
 \begin_layout Standard
@@ -903,12 +931,281 @@ Autem timeam deleniti usu id.
 
 \end_layout
 
-\begin_layout Section
-Model serotonin systems
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+The central serotonergic neurons [5–hydroxytryptamine (5–HT) neurons] are
+ sever- al clusters of neurons located bilaterally along the midline and
+ in the adjacent reti- cular formation of the brainstem.
+ These neurons project widely to almost every part of the brain and spinal
+ cord, and thereby modulate a variety of developmental pro- cesses and animal
+ behaviors.
+ A deregulation of the 5–HT level in the central nervous system might contribute
+ to numerous psychiatric disorders, including fear, aggres- sion, depression,
+ and anxiety, and to pain modulation.
+ The recent identification of 5–HT-specific transcription factors and the
+ genetic manipulation of these factors in mice have begun to unveil molecular
+ mechanisms underlying the specification, differentiation, survival, and
+ maintenance of the central 5–HT neurons.
+ This chap- ter summarizes some of recent advances about transcriptional
+ control of 5–HT neuron development, and highlights the results from gene-target
+ing experiments in mice.
+ The discussion concentrates on two classes of transcription factors.
+ One class, represented by Nkx2.2 and Mash1, is expressed in 5–HT progenitor
+ cells residing within the ventricular zone.
+ The second class, represented by Lmx1b and Pet1, is expressed in 5–HT postmitot
+ic neurons only.
+ The comparison of different mutant lines that lack an individual transcription
+ factor has permitted us to speculate about their relationship during the
+ development of 5–HT neurons.
+ Finally, behavioral study of knockout mice with impaired 5–HT systems have
+ shown the involvement of some transcription factors in the etiology of
+ psychiatric abnormalities.
+\begin_inset Quotes erd
+\end_inset
+
+ - Abstract, Chen & Ding 2005
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-Transcription Factors
+The 5-HT system: introduction
+\end_layout
+
+\begin_layout Enumerate
+location
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+nomenclature
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/classification-5-HT-neurons_nuclei-rhombomeres
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+classification of 5-HT neurons (from 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{Chen2005}
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+the 5-HT neurons probably possess the most complex projection network in
+ the CNS
+\begin_inset Quotes erd
+\end_inset
+
+ -- three major descending 5-HT efferents from B1-B4 project to the spinal
+ cord, whereas B5-B9 neurons project through 5 ascendingrouts to almost
+ every region of the CNS
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+because of these projections, serotonin modulates p.
+ much everything
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+embryonic development
+\end_layout
+
+\begin_layout Enumerate
+distinction b/t groups unclear
+\end_layout
+
+\begin_layout Enumerate
+among the earliest born CNS neurons
+\end_layout
+
+\begin_layout Enumerate
+rostral 5-HT neuron formation precedes caudal;
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{vMNs}
+\end_layout
+
+\end_inset
+
+ derived from same domain
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+induction and specification may rely on 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{Shh}
+\end_layout
+
+\end_inset
+
+ which acts through transcription factors
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{Nkx2.2}
+\end_layout
+
+\end_inset
+
+ specifies ventral cell types in response to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{Shh}
+\end_layout
+
+\end_inset
+
+; may specifiy 5-HT in hindbrain
+\end_layout
+
+\begin_layout Section
+Transcription factors expressed in 5-HT progenitor cells
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/transcription-factor-KO-effects.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Summary of the phenotype of knockout mice lacking individual tran- scription
+ factor in 5–HT neurons.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{Chen2005}
+\end_layout
+
+\end_inset
+
+ wrote this entire thing on transcription factors so basically this whl
 \end_layout
 
 \begin_layout Standard
@@ -938,6 +1235,13 @@ sources &/or examples of major papers that use this technique
 
  In my own work with a fluorescent 5-HT2a receptor, the assay used receptor
  internalization as a metric for drug-inducted activation.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Chen2005"
+
+\end_inset
+
  Internalization and recycling depends on a large system of internal trafficking
  proteins
 \begin_inset Note Note
@@ -967,19 +1271,68 @@ Logically, it seems like a system with the receptor tacked into an otherwise
 
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-cauthor {Nefzger2011}
+cauthor{Nefzger2011}
 \end_layout
 
 \end_inset
 
  proposed just such a system, using directed expression of three proneural
  transcription factors to set cell fate early in the differentation process.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The classical proneural gene Mash1 is expressed in Nkx positive precursors,
+ although in r2–r3 and r5–r7 its pro- neural activity is suppressed by Phox2b
+ [6].
+ Early expression of the forkhead transcription factor Foxa2 in r1 prevents
+ expression of Phox2b and motor neuron differentiation, while delayed expression
+ of Foxa2 in r2–r3 and r5–r7 down regu- lates Phox2b expression and allows
+ the switch from motor neuron to 5-HT neuron differentiation [7]
+\end_layout
+
+\begin_layout Plain Layout
+Postmitotically, the differentiation of all 5-HT neurons is marked by the
+ expres- sion of zinc finger (Gata2 and Gata3), homeodomain (Lmx1b), and
+ Ets domain (Pet1) transcription factors [6].
+\end_layout
+
+\begin_layout Plain Layout
+Enhancing 5-HT neuron differentiation from ESCs has been most notably achieved
+ by treatment with growth factors [10, 12], in the pres- ence of serum [10],
+ or in coculture with stromal cell lines [13].
+ However, the variability of animal serum batches and undefined stromal
+ cell-derived inducing activity make serum free methods, with defined media,
+ the most attractive approach to investigate the basic mechanisms of ESC
+ differentiation.
+ In this study, we investigate whether the over-expression of transcription
+ factors essential for the differentiation of 5-HT neuron in vivo increases
+ the yield of 5-HT neurons from ESCs.
+ Monolayer culture, pro- ducing only a few 5-HT positive cells in the absence
+ of genetic modifications, was employed as a model for neuronal cell differ-
+ entiation under chemically defined conditions [14].
+ After initial experiments with lentiviral constructs constitutively expressing
+ a gene of interest, the use of transient tissue-specific promoters was
+ explored for transgene expression at a particular stage of the differentiation
+ process (directed expression).
+ Using this approach, we show that expression of Gata2 significantly enhanced
+ 5-HT neuron differentiation.
+ In addition, the combined directed expression of Gata2, Mash1, and Foxa2
+ produced a fur- ther 10-fold increase in 5-HT neuron differentiation.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -1262,10 +1615,7 @@ P19 derived neurons
 \end_layout
 
 \begin_layout Itemize
-express NMDA and me\SpecialChar \-
-\SpecialChar \-
-\SpecialChar \-
-tabotropic glutamate receptors
+express NMDA and metabotropic glutamate receptors
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Nefzger2011"
@@ -1289,7 +1639,7 @@ A
 
 \end_inset
 
-receptors specifcally; starting as excitator, mature into inhibitory
+receptors specifcally; starting as excitatory, mature into inhibitory
 \end_layout
 
 \begin_layout Subsection
@@ -1310,7 +1660,7 @@ interacts directly w/DNA
 
 \begin_deeper
 \begin_layout Itemize
-small, lipophilic mol
+small, lipophilic molecules
 \end_layout
 
 \begin_layout Itemize
@@ -1319,19 +1669,10 @@ binds heterodimer of nuclear retinoic acid receptors and modifies transcription
 
 \end_deeper
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "critically-open-neuroscience"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
