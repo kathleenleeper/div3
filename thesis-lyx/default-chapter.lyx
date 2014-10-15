@@ -76,10 +76,14 @@
 \begin_body
 
 \begin_layout Minisec
+\begin_inset Note Note
+status open
+
+\begin_layout Minisec
 some notes
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 this is how you do an acronym! 
 \begin_inset ERT
 status open
@@ -153,7 +157,7 @@ status collapsed
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \noindent
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -164,7 +168,7 @@ key "Sumathipala2004"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Foot
 status open
 
@@ -177,11 +181,11 @@ footnotes are normal, more or less
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 enumeration with letters ---
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -197,7 +201,7 @@ begin{aenumerate}
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -213,7 +217,7 @@ item
 Enumeration with small caps (alpha) 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -242,7 +246,7 @@ end{aenumerate}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 then also some other pretty things: 
 \begin_inset ERT
 status collapsed
@@ -272,11 +276,11 @@ eg
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 UHHHH FILLER HERE
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \noindent
 \begin_inset Float table
 wide false
@@ -644,20 +648,17 @@ Autem timeam deleniti usu id.
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
-Neuroscience
+Sample
 \end_layout
 
 \begin_layout Section
-Serotonin
-\end_layout
-
-\begin_layout Section
-Transcription Factors & Signalling Pathways
-\end_layout
-
-\begin_layout Section
-P19s: Weird Lil' Stem Cells
+Sample section
 \end_layout
 
 \begin_layout Standard
