@@ -2,7 +2,7 @@
 /unregistered/*
 /enzymes
 #*.lyx#
-*.lyx~
+*~
 *.aux
 *.glo
 *.idx
