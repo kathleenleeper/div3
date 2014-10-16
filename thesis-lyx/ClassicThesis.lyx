@@ -326,6 +326,30 @@ myPart{Contents}
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
+filename "workflow.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "open-science-musings.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
 filename "free-software.lyx"
 
 \end_inset
