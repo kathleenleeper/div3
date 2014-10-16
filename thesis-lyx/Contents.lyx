@@ -563,6 +563,10 @@ begin{acronym}
 
 \end_layout
 
+\begin_layout Section*
+Software
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -633,6 +637,58 @@ status open
 
 \backslash
 acro{PLoS}{Public Library of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Science
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPCRs}{G-protein coupled receptors}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{5-HT}{5-hydroxytryptamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CNS}{central nervous system}
 \end_layout
 
 \end_inset
