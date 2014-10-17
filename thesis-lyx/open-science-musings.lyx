@@ -5,10 +5,8 @@
 \textclass scrreprt
 \begin_preamble
 \usepackage{preamble}
-
-\usepackage{cite}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty
+\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -45,8 +43,8 @@
 \use_package stackrel 1
 \use_package stmaryrd 1
 \use_package undertilde 1
-\cite_engine basic
-\cite_engine_type default
+\cite_engine natbib
+\cite_engine_type numerical
 \biblio_style plainnat
 \use_bibtopic false
 \use_indices false
@@ -155,6 +153,22 @@ status open
 
 
 \backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 end{acronym}
 \end_layout
 
@@ -165,57 +179,6 @@ end{acronym}
 
 \begin_layout Subsection
 Definitions and/or interpretations
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\emph on
-free
-\begin_inset space ~
-\end_inset
-
-as
-\begin_inset space ~
-\end_inset
-
-in
-\begin_inset space ~
-\end_inset
-
-freedom 
-\emph default
-The open science movement is closely affiliated with the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- movement, and as such, there's a large overlap in terminology.
- Fsree/libre (I'll use largely libre to avoid confusion)
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Stallman claims "libre" is good in U.S.
- and European contexts, but isn't recognizable in India as a term...so potentially
- interesting to see if that's true}
-\end_layout
-
-\end_inset
-
- content is licen ***** ****** ****** *** ********* ********* ******************
-**** ********** *********** *************
 \end_layout
 
 \begin_layout Standard
@@ -237,7 +200,30 @@ anyone
 \series default
  can 
 \series bold
-freely
+freely access, use, modify, and share 
+\series default
+[content] for 
+\series bold
+any purpose
+\series default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+ in that definition is, of course, free as in freedom, not as in beer.
+ The open science movement is closely affiliated with the 
 \begin_inset ERT
 status collapsed
 
@@ -245,23 +231,46 @@ status collapsed
 
 
 \backslash
-graffito{free as in freedom, not as in beer, of course}
+ac{FLOSS}
 \end_layout
 
 \end_inset
 
- access, use, modify, and share 
-\series default
-[content] for 
-\series bold
-any purpose
-\series default
- (subject, at most, to requirements that preserve provenance and openness).”
+ movement, and as such, there's a large overlap in terminology.
+ Some preemptive clarification:
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The terminology of and factions within this movement are complex, but, in
+ short, “free software” tends to be associated with the ideology of freedom,
+ “open source” with the openness of the development process, and “libre”
+ with those concerned about confusion from the previous two.
+ FOSS/FLOSS are used as monikers to refer to all of these meanings.
+\begin_inset Quotes erd
+\end_inset
+
+ (from 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{Reagle2012}
+\end_layout
+
+\end_inset
+
+)
 \end_layout
 
 \begin_layout Standard
-In the common definitions of open science, this principle manifests with
- 3 (or 4, or 6, depending on who you ask) areas:
+This one underlying principle open science, this principle manifests with
+ 3 (or 4, or 6, depending on who you ask) areas of interest:
 \end_layout
 
 \begin_layout Enumerate
@@ -273,16 +282,18 @@ open data - publishing raw data pre- or concurrently with paper publication
 \end_layout
 
 \begin_layout Enumerate
-open research - everything else, including, but not limited to
+open research - everything else, including, but not limited to:
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-open code distribution 
+open code distribution - code for analyses, model generation, etc.
+ should be hosted somewhere accessible
 \end_layout
 
 \begin_layout Enumerate
-open lab notebooks
+open lab notebooks - tracing the entire research process with all dead ends
+ and kinks included
 \end_layout
 
 \end_deeper
@@ -296,39 +307,61 @@ open
 \begin_inset Quotes erd
 \end_inset
 
- peer review (see 
-\begin_inset CommandInset href
-LatexCommand href
-name "Faculty of 1000"
-target "http://blog.f1000research.com/2014/05/21/what-is-open-peer-review/"
+ peer review 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+see 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://blog.f1000research.com/2014/05/21/what-is-open-peer-review/
+\end_layout
 
 \end_inset
 
  or 
-\begin_inset CommandInset href
-LatexCommand href
-name "PeerJ"
-target "https://peerj.com/about/how-it-works/"
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://peerj.com/
+\end_layout
 
 \end_inset
 
-)or community discussion of publications, like the work at PubPeer, billed
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+or community discussion of publications, like the work at PubPeer, billed
  as an 
 \begin_inset Quotes eld
 \end_inset
 
-online journal club (see
-\begin_inset CommandInset href
-LatexCommand href
-name "PubPeer"
-target "https://pubpeer.com/"
-
+online journal club
+\begin_inset Quotes erd
 \end_inset
 
-).
- 
+.
+ So open science is frustratingly broad and inconsistent, just like any
+ other community.
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 ughhhhh i hate definining this so so much
@@ -337,45 +370,53 @@ ughhhhh i hate definining this so so much
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
-
+\begin_layout Section
+Preliminary Value(s)
 \end_layout
 
 \begin_layout Standard
-I think open science is really interesting, now, as a concept, because of
- its ties enormous similarities to the free and open source software movement.
+I think open science is really interesting as a 
+\noun on
+Big Idea
+\noun default
+, because of its ties to the free and open source software movement, specificall
+y in the realm of community goals.
  
 \end_layout
 
 \begin_layout Standard
-In the F/LOSS movement, there's a sharp ideaological divide between the
- 
-\begin_inset Quotes eld
+In the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
 \end_inset
 
-free/libre
-\begin_inset Quotes erd
-\end_inset
-
- and the 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\begin_inset Quotes erd
-\end_inset
-
- licenses.
+ movement, there's a sharp ideaological divide between the free/libre and
+ the open licenses.
  Advocates of the libre licensing model list many advantages, but their
- main justification is libre software as a social necessity for user freedom.
- Open source software focus is just distributed production.
- Open source, in its infancy, was created and adopted in an explicit attempt
- to side-step the ideological and confrontational connotations of the term
- "free software", with a narrow focus on access and production of source
- code - the 'practical' benefits.
- It explicitly disavows the social values laid out in the 
+ main focus is libre software as a social imperative.
+ User freedom (or their conception of it) is paramount.
+ The Open source software focus is 
+\begin_inset Quotes eld
+\end_inset
+
+just
+\begin_inset Quotes erd
+\end_inset
+
+ distributed production.
+ Open source, on the other hand, was created and remains in an explicit
+ attempt to side-step the social values and idealogical connotations of
+ the term "free software" as laid out in the 
 \begin_inset ERT
 status open
 
@@ -388,11 +429,9 @@ ac{GPL}
 
 \end_inset
 
-.
-\begin_inset Newline newline
-\end_inset
-
-
+ .
+ It instead has a narrow focus on access and production of source code -
+ the 'practical' benefits of distributed production.
 \end_layout
 
 \begin_layout Standard
@@ -459,8 +498,202 @@ better
 
  science -- more reproducible, more reliable, more powerful (disruptive,
  even).
- Open science is defined almost entirely by mechanisms
-\begin_inset Newline newline
+ Open science is defined almost entirely by mechanisms, with some gloss
+ on top about social responsibility.
+ But even projects that pitch themselves as a place for citizen scientists
+ are, in many ways, just a way to shift labor from cheap graduate students
+ to even cheaper laypeople.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Biohackers
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{Delfanti2013}
+\end_layout
+
+\end_inset
+
+, in 2013, published 
+\begin_inset Quotes eld
+\end_inset
+
+Biohackers: The Politics of Open Science
+\begin_inset Quotes erd
+\end_inset
+
+.
+ It lies at the 
+\begin_inset Quotes eld
+\end_inset
+
+the intersection of digital cultures, science communication and science
+ and technology studies,
+\begin_inset Quotes erd
+\end_inset
+
+ a grouping that bears no little similarity to my own interests.
+ Delfanti's book is a delight, and covers in brief detail a number of relevant
+ topics.
+\end_layout
+
+\begin_layout Subsubsection
+Lineages of open (science)
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+The most common narrative about open science tells us that, once upon a
+ time, science was an ethical enterprise: sharing, equality, disinterest
+ and the commont good drove the everyday work of scientsits.
+ Then evil corporations entered science and changed the rules of the game,
+ patenting life, enclosing the commonts, and eventaully destroying the willingne
+ss to share data, information, and knowledge.
+ But today, so the story goes, we have new tools that together with the
+ old open science spritic an be used to rebel against evil, defeat it and
+ allow scientific knowledge to flow freely again.
+ These tools are open source and open access science, and they can be used
+ to tear down the barriers to the access of scientific knowledge.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{Delfanti2013}, p.
+ 5
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Open science, in almost all narratives I've seen, does exactly this.
+ Drawing on a mystical past where information flowed free (
+\begin_inset Quotes eld
+\end_inset
+
+In the 17th century, journal publication 
+\emph on
+was
+\emph default
+ open science!), and in so doing, constructing a seamless narrative where
+ open science is part of every major discovery since Newton.
+ Or whoever, pick your scientist.
+ The construction of a history lends legitimacy to the moral appeal of the
+ movement.
+\end_layout
+
+\begin_layout Subsubsection
+Public image management
+\end_layout
+
+\begin_layout Standard
+Delfanti profiles 3 projects in his book:
+\end_layout
+
+\begin_layout Enumerate
+The J.
+ Craig Venter Institute and J.
+ Craig Venter himself, representing venture capitalists and open science
+ for monetary and prestige
+\end_layout
+
+\begin_layout Enumerate
+Ilaria Capua, a vetinarian virologist in Italy, who during the 2006 global
+ avian influenza crisis, pushed the WHO through public shaming into changing
+ their data policies to an open access model to better combat the disease
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+DIYBio
+\begin_inset Quotes erd
+\end_inset
+
+, a loose network of homegrown biologists.
+\end_layout
+
+\begin_layout Standard
+Both Venter and Capua used publications in both prestigious journals 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{citations here for when I  find them}
+\end_layout
+
+\end_inset
+
+ and in more public forums (
+\emph on
+Scientific American
+\emph default
+, 
+\emph on
+The New York Times
+\emph default
+) as a way to get the public involved in their work and on their side; public
+ pressure, as conveyed by the media, was influential in both their success
+ stories.
+\end_layout
+
+\begin_layout Standard
+While these are particularly high profile cases, science has an intimate
+ relationship with the media, and both parties use each other as a tool
+ for various goals.
+ The media gets a reputable scientist figure to bolster their claims; the
+ scientist gets a public venue to couch their ideas or goals in objective-but-po
+sitive ways.
+\end_layout
+
+\begin_layout Subsubsection
+Corporate uses of open science
+\end_layout
+
+\begin_layout Standard
+Open science, by definition, can be used by anybody for anything.
+ That also means corporate entities can borrow methods, tools, and data
+ released into the public sphere by government-funded organizations
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{and other organizations, but...beginning analysis}
+\end_layout
+
 \end_inset
 
 
@@ -468,14 +701,42 @@ better
 \end_inset
 
 
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Standard
+Delfanti does not, however, draw on explicit feminist analysis of race and
+ gender in the spheres he discusses.
+ The intricacies of who can or will practice (open) science on a social
+ access are almost entirely absent.
+\end_layout
+
+\begin_layout Subsection
+Feminist Open Science
+\end_layout
+
+\begin_layout Standard
+Feminist science has, of course, many levels of analysis, but --
+\end_layout
+
+\begin_layout Subsubsection
+Who gets to code?
+\end_layout
+
+\begin_layout Standard
+Generally, white men.
+ In the free software world, men outnumber women to a much greater degree
+ than in more traditional development structures.
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Nafus2012"
+
 \end_inset
 
+ Minorities fare even worse.
+\end_layout
 
-\begin_inset Newline newline
-\end_inset
-
-
+\begin_layout Section
+In practice
 \end_layout
 
 \begin_layout Standard
@@ -1105,28 +1366,19 @@ on.
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
+\begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-renewcommand
-\backslash
-bibname{References} 
-\end_layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "critically-open-neuroscience"
+options "plainnat"
 
 \end_inset
 
 
 \end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "critically-open-neuroscience"
-options "plainnat"
 
 \end_inset
 
