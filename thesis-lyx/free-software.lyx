@@ -341,7 +341,7 @@ other appropriate whatevers
  on top of a prominent political/moral stance, many GPL'ed products, including
  the behemoth flagship of Linux, boast increased stability, flexibility,
  power, and cost.
- Those things are not inherent to libre-ness, but are typical consequences
+ Those things are not inherent to libre-ness, but are typical***** consequences
  of well maintained projects and the fervent communities that develop around
  them.
 \end_layout
@@ -351,8 +351,9 @@ software, like science: a unit of one
 \end_layout
 
 \begin_layout Standard
-Like hard science, and the advocates open science, the libre software movement
- appeals to a similar range of people (or at least the classic image does).
+Like hard science, and the advocates for open science, the libre software
+ movement appeals to a similar range of people (or at least the classic
+ image does).
  Relatively logical, focused on the individual.
  Both movements place their rhetoric on the shoulder's of individuals.
  
@@ -502,7 +503,7 @@ cauthor {Coleman2012}
 It’s one of the reasons why I feel so strongly about the GPL’d software
  now; it allows anyone to learn and participate
 \emph default
-”(emphasis mint) 
+” (emphasis mine) 
 \begin_inset CommandInset citation
 LatexCommand citep
 after "p. 39"

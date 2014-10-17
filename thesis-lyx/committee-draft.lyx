@@ -145,7 +145,7 @@ pagestyle{plain}
 
 \lang american
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -168,7 +168,7 @@ filename "DirtyTitlepage.lyx"
 
 \lang american
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -193,7 +193,7 @@ filename "Contents.lyx"
 
 \lang american
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -206,7 +206,7 @@ pagenumbering{arabic}
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -222,56 +222,12 @@ cleardoublepage here to avoid problems with pdfbookmark
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-myPart{Introduction}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "introduction.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\lang american
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-myPart{Contents}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "workflow.lyx"
 
 \end_inset
 
@@ -295,7 +251,7 @@ filename "open-science-musings.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "free-software.lyx"
+filename "workflow.lyx"
 
 \end_inset
 
@@ -312,15 +268,13 @@ filename "mol-neuro.lyx"
 \end_inset
 
 
-\lang english
+\end_layout
 
+\begin_layout Standard
 \begin_inset Newpage cleardoublepage
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "Bibliography.lyx"

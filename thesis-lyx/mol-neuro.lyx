@@ -77,11 +77,15 @@
 Serotonin, transcription factors, and differentiation
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
 \begin_layout Section*
 Acronyms
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -97,7 +101,7 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -113,7 +117,7 @@ acro{GPCRs}{G-protein coupled receptors}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -129,7 +133,7 @@ acro{5-HT}{5-hydroxytryptamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -145,7 +149,7 @@ acro{CNS}{central nervous system}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -161,7 +165,7 @@ acro{bHLH}{basic helix-loop-helix protein structural motif}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -177,7 +181,7 @@ acro{vMNs}{ventral motor neurons}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -193,7 +197,7 @@ acro{Shh}{sonic hedgehog}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -209,7 +213,7 @@ acro{Ascl1}{Achaete-scute homolog 1}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -225,7 +229,8 @@ end{acronym}
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
 Serotonin is 
 \begin_inset ERT
 status open

@@ -76,8 +76,7 @@
 \begin_body
 
 \begin_layout Chapter
-Justification; i.e.
- what is this thing?
+Introduction
 \end_layout
 
 \begin_layout Standard
@@ -86,32 +85,40 @@ Division III is a year long undergraduate thesis project; for me, it's both
  I began with neuroscience, and a naive fascination with pathologies of
  the brain and perception.
  I have since learned or come to believe that my interests, and what I do
- with those interests, has an impact on the world -- this is both self-presevera
-tion, for otherwise what's the point? and self-recrimination; my impact
- on the world is my responsibility, and I need to figure out ways to meld
- a shattered world view into a practice that has tangible effects on the
- people and society around me.
+ with those interests, has an impact on the world -- this is both self-interest,
+ for otherwise what's the point? and self-recrimination; my impact on the
+ world is my responsibility, and I need to figure out ways to meld a shattered
+ world view into a practice that has tangible effects on the people and
+ society around me.
  People are society; if we don't change them, we cannot begin to move forward.
  Change can come from the top or the bottom, but we write the laws, we execute
- them, and we -- humans -- create our societys.
+ them, and we -- humans -- create our societies.
 \end_layout
 
 \begin_layout Standard
 The pathologies of the brain are still intriguing, but so loaded with societal
  implications that I cannot try to unravel them without also examining the
- long term effect of my research, specifically, but more broadly the impact
- of cellular-level research etc.
- on vulnerable (vulnerability being conferred by long-standing encoded discrimin
-ation that results in genetic, economic, or social exclusion [or the potential
- thereof]) groups.
- One solution I found early in my tenuous and at the time exploratory/unguided
- phase was free/libre software and its sibling in the sciences, open science.
+ long term effect of 
+\emph on
+my
+\emph default
+ research, specifically, but more broadly the impact of cellular-level research
+ etc., on local and global communities.
+ 
+\end_layout
+
+\begin_layout Standard
+One tangential tact I found early in my tenuous and at the time exploratory/ungu
+ided phase was free/libre software and its sibling in the sciences, open
+ science.
+ Both movements acknowledge more than just the functionality of science
+ and technology; they include society in their calculations.
  While to my current chagrin much of open science does not appear (at first
- glance, at least) to be founded on the same moral basis as Stallman's GNU/libre
- brainchild, it is nonetheless science that shares much of that [theoretically]
- moral spirit.
- On both practical levels and a deeper moral level, open science seemed
- justifiable and 
+ glance, at least) to be founded on the same moral basis as Richard Stallman's
+ free/libre software movement, it is nonetheless science, as a whole, that
+ shares much of that [theoretically] moral spirit.
+ On both practical levels and a deeper moral level, open science seems justifiab
+le and 
 \emph on
 right
 \emph default
@@ -120,42 +127,15 @@ right
 right
 \emph default
  -- they are technologies and creations with a care beyond profit, and give
- more than a token nod to users/productrs of work.They also produce amazing
- and powerful things with very little money, which makes their highflying
- rhetoric more believable.
- And their stuff is usually free-of-cost, never mind the licenscing debates.
+ more than a token nod to the users and producers of work.
+ They also produce amazing and powerful things with very little money, which
+ makes their farflung rhetoric more believable.
+ And their stuff is usually free-of-cost, never mind the licensing debates.
 \end_layout
 
 \begin_layout Standard
-Users have power.
- In open science, scientists can reclaim power (by taking control of distributio
-n, by interacting with the common folk, by engaging in conversations), although
- it's of course limited to only one direction and to limited effect.
- In free software, users 
-\emph on
-can
-\emph default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{although maybe this actually deserves more than a token nod to
- the 'can...and that ability-without-usability is where some of our problems
- come from}
-\end_layout
-
-\end_inset
-
- do all of the above as well, and regain power.
- It's what I imagine Marxism, if I knew anything about Mar
-\end_layout
-
-\begin_layout Standard
-So the mundane first.
+Open science could, potentially, link research to people, and introduce
+ values that way.
 \end_layout
 
 \end_body
