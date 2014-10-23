@@ -1,0 +1,845 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass tufte-handout
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Open/science/neocolonialism: annotated bibliography
+\end_layout
+
+\begin_layout Author
+Kathleen Leeper
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Jaan
+\begin_inset space ~
+\end_inset
+
+Valsiner, 
+\begin_inset Quotes eld
+\end_inset
+
+'Open Access' and its Social Context: New Colonialism in the Making?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Valsiner2006"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+failure to analyze wider sociological nature of...negotiations of the control
+ over scientific communications channels of which the 
+\begin_inset Quotes eld
+\end_inset
+
+open access
+\begin_inset Quotes erd
+\end_inset
+
+ movement is a part
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+on knowing
+\end_layout
+
+\begin_layout Standard
+New technical possibilities -> new ways of organizing knowledge.
+ Knowing 
+\begin_inset Quotes eld
+\end_inset
+
+transcends
+\begin_inset Quotes erd
+\end_inset
+
+ communication**
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+transcendence
+\begin_inset Quotes erd
+\end_inset
+
+ is p.
+ clearly not true, but there's space for an argument that this is the narrative;
+ but actually knowing is communication is access
+\end_layout
+
+\end_inset
+
+, but communication still central to progress
+\end_layout
+
+\begin_layout Subsection
+utopia of 
+\begin_inset Quotes eld
+\end_inset
+
+being in touch
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Being in touch means being on top.
+ Publishing is competitive rather than cooperative; publishing first brings
+ [perceived] social benefits.
+ Communication is about talking but als about positioning of power.
+ Exaggerated by the internet.
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+The issues of 'open access' are those of who sets up (and controls) this
+ rule system in the [radically altered] scientific publication world...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Scientists [or individual actors more generally] have little power in this
+ reorganization; instead, social institutions play to take new forms.
+ New techs, however, 
+\emph on
+are
+\emph default
+ catalysts for the 
+\emph on
+reorganization
+\emph default
+ of the boundary system of scientific communication, and thus the social
+ values.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+this seems contradictory and/or not supported by evidence in the paper,
+ but I would 
+\emph on
+like
+\emph default
+ it to be true
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+new opportunities
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+National boundaries disappear in the face of the speed of the Internet,
+ librarians create virtual data bases and catalogues, and the users of all
+ of our knowledge challenge their memory by remembering all the many passwords
+ one needs for survival in our present world, as well as challenging their
+ intellect as to what combination of keywords is needed for the next search
+ of the unimaginably large virtual universe.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+BOOM DIRECT HIT
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+[Social] sciences are moving irreversibly towards electronic publication.
+ The open access movement finds supporters in basic science movement; cost
+ of traditional published journals are prohibitively high, even for European
+ and N.
+ American markets.
+ Raising of prices coincides with corporate consolidation and control of
+ market, which is not surprising.
+ BUT with open access, 
+\begin_inset Quotes eld
+\end_inset
+
+desktop
+\begin_inset Quotes erd
+\end_inset
+
+ publishing, we -- scientists -- can sidestep that manipulation and communicate
+ more directly.
+\end_layout
+
+\begin_layout Subsection
+history of scientific journals
+\end_layout
+
+\begin_layout Standard
+Current OA movement bears interesting & cyclical resemblances to original
+ purpose and set up of 17th century journals.
+ Journals dedicated to knowledge accumulation & distribution came into being
+ in the 17th century, as means of correspondence between a few learned scholars,
+ and then became collections of communications with some authors and wide,
+ anonymous readership.
+ E-science/open access restores direct communication and potential for extended
+ scholarly debate
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+sources sources sources?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+big assumption: 
+\end_layout
+
+\end_inset
+
+interactive treatment of ideas is beneficial for their growth.
+ 
+\end_layout
+
+\begin_layout Standard
+Barrier (institutional access; fixed print) have previously limited achievement,
+ but now those are fixed! New ones arise -- besides the new physical access
+ issues (electricity, Internet, printer), catching researcher attention
+ is exponentially more difficult.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Freedom of access is freedom 
+\emph on
+not
+\emph default
+ to access!
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+similar to the 
+\begin_inset Quotes eld
+\end_inset
+
+paralyzing choice
+\begin_inset Quotes erd
+\end_inset
+
+ re: reproduction, and politician's (e.g.
+ McCain's) new tactic of giving too much information instead of none
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The locus of control shifted: from being denied by others (subscription
+ prices) to denying oneself (
+\begin_inset Quotes eld
+\end_inset
+
+I am not interested in X
+\begin_inset Quotes erd
+\end_inset
+
+).
+ In maximizing resources, researcher capabilities are the rate limiting
+ step.
+
+\emph on
+ Issue is not # articles read, but the # new ideas generated.
+\end_layout
+
+\begin_layout Section
+change in culture of knowledge construction
+\end_layout
+
+\begin_layout Standard
+Break down of linear structure of publishing/knowldege, bypassing many formerly-
+important gatekeepers.
+ But as long as scientific comm.
+ has social value, 
+\begin_inset Quotes eld
+\end_inset
+
+players
+\begin_inset Quotes erd
+\end_inset
+
+ of social-institutional game of 
+\begin_inset Quotes eld
+\end_inset
+
+capturing
+\begin_inset Quotes erd
+\end_inset
+
+ sci.
+ knowledge are likely to recapture the 
+\begin_inset Quotes eld
+\end_inset
+
+liberated
+\begin_inset Quotes erd
+\end_inset
+
+ author<-> reader interaction.
+\end_layout
+
+\begin_layout Standard
+Who provides resources for the open access journals? The fight for OA is
+ the fight for takeover of control of the flow of information, which in
+ this case means internet providers are a major power-holder/participatn
+ in author-> reader knowledge transfer.
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+new tech leads to re-org in power relations b/t social institutions
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Open access" is thus—in a wider sense—relocation of the location of the
+ "access boundaries" from their traditional places (publishers) to new ones
+ (technology access providers).
+\end_layout
+
+\begin_layout Quote
+It is thus a convenient illusion for scientists that by eliminating publishers'
+ "access boundaries" access to scientific information becomes "open." Rather,
+ access becomes "closed" in ways that are socially controlled by new players
+ in the commercialization of the newly created Internet world.
+ It is, in a sense, a process of "closing down openings" in unison with
+ "opening up closures."
+\end_layout
+
+\begin_layout Standard
+Open 
+\begin_inset Formula $\neq$
+\end_inset
+
+ gratis, of course, but current promises build on the euphoria of 
+\begin_inset Quotes eld
+\end_inset
+
+liberation
+\begin_inset Quotes erd
+\end_inset
+
+ of the communication from its present 
+\begin_inset Quotes eld
+\end_inset
+
+holders
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Quote
+[on Harnad, an OA advocat] His paper in the Special Issue covers all sides
+ of the new media and "open access," preemptively answering questions that
+ are on the minds of many skeptical readers.
+ After reading his paper the reader is left with the comfortable feeling
+ that the Internet has liberated the scientific world from its vanities
+ and returned it to the honorable state of the old academe where knowledgeable
+ people dispute ideas, rather than fight for power.
+\end_layout
+
+\begin_layout Section
+social / scientific capital
+\end_layout
+
+\begin_layout Standard
+The social system supporting science has to preserve and re-construct its
+ social capital in the public eye.
+ Publishing is the major form of doing so; it creates new scientific/social
+ capital for scientists 
+\emph on
+and
+\emph default
+ institutions.
+ Knowledge -- production of -- is closely watched and regulated by social
+ institutions (e.g.
+ gov't, not just academies)
+\end_layout
+
+\begin_layout Standard
+Capital is created through acts of social certification -- peer review,
+ weighting of publication (impact factor).
+ There's 
+\begin_inset Quotes eld
+\end_inset
+
+pure
+\begin_inset Quotes erd
+\end_inset
+
+ vs 
+\begin_inset Quotes eld
+\end_inset
+
+institutional
+\begin_inset Quotes erd
+\end_inset
+
+ scientific capital -- citation index would be institutional capital
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+except if it's a controversial paper, in which case neither scientist nor
+ university benefits from the attention
+\end_layout
+
+\end_inset
+
+, whereas basic breakthroughs
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+what counts as a basic breakthrough?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+New techs disrupt the generation of capital.
+
+\series default
+ 
+\end_layout
+
+\end_inset
+
+This wouldn't matter, except scientific capital is backed by real capital.
+ Symbolic 
+\begin_inset Quotes eld
+\end_inset
+
+knowledge capital
+\begin_inset Quotes erd
+\end_inset
+
+ is transformed to $$ patents, instituational permissions, etc, --> institutiona
+l power.
+ Who controls those channels, even with OA? Still institutions, because
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+author pays
+\begin_inset Quotes erd
+\end_inset
+
+ model places the burden/control on the funding bodies.
+ 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+justificaiton is that publishing channels should be included as an integral
+ part of funded research
+\end_layout
+
+\end_inset
+
+.
+ 
+\series bold
+Freedom = new business models
+\end_layout
+
+\begin_layout Subsection
+neo colonialism
+\end_layout
+
+\begin_layout Quote
+Yet here’s the rub: while the "open access" initiative has been focusing
+ on the accessibility of already published journals to audiences who cannot
+ afford to subscribe to them, can one expect that representatives of some
+ of these audiences—as authors—will be able to afford the per page costs
+ required to publish his or her paper in a new Internet journal? If the
+ answer is no, and the new developments in the scientific publishing world
+ lead to a state of neo-colonialism at the source, then what is being published
+ comes from that part of the World that can afford to pay the publication
+ costs, but is indeed free to all of the World, without any "access boundaries."
+ This would mean that opening up access may be equal to closing it at the
+ other end.
+ Technology allows for many new forms of scientific communication, but also
+ for many new forms of commercial profit-making from the collective acts
+ of symbolic capital creation in the social institution of science.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+why can't grants cover this? does that just re-center power w/publishers?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+We are living in the middle of a tough negotiation of the relations between
+ science and society.
+ In relation to the latter it is not democratic governance but the growing
+ interests of various corporations that need to control the free flow of
+ scientific information to protect their products and advertise them for
+ a wide audience of potential consumers.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Warwick
+\begin_inset space ~
+\end_inset
+
+Anderson 
+\series default
+From subjugated knowledge to conjugated subjects: science and globalisation,
+ or postcolonial studies of science? 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Anderson2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Together these terms thus trace the trajectory of postcolonial studies of
+ science, technology and medicine over the past twenty years or so.
+ Further, the subtitle indicates my intention to track the recent decline
+ (from a low base) of explicitly postcolonial approaches as scholars choose
+ now to fetishise ‘globalisation’.
+ In science and technology studies (STS), as elsewhere, euphoric accountings
+ of globalisation rapidly are displacing anhedonic postcolonial genealogies,
+ o
+\begin_inset space ~
+\end_inset
+
+ften to the detriment of critical thought.
+\end_layout
+
+\begin_layout Standard
+minor post-colonial agenda of STS subsumed by describing how formal knowledge/pr
+actice travel and are articulated across cultures
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+formal
+\begin_inset Quotes erd
+\end_inset
+
+ - focus is on modern science/tech/medicine associated with W.
+ Europe & N.
+ America
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+How science travels -- answers drawn on variety of approaches, w/ no satisfactor
+y answers/minor interest
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Postcolonial theory and insight rarely have been mobilised explicitly in
+ attempts to explain the transaction, translation and transformation of
+ science and technology.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+lack of traction the standard, or formal, postcolonial theorists have encountere
+d on the slippery slopes of science studie
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+most STS scholars haven't seen the 
+\begin_inset Quotes eld
+\end_inset
+
+point
+\begin_inset Quotes erd
+\end_inset
+
+ of post-colonial theories
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+lingering effects of a British imp.
+ education where humanities are taught to loathe science
+\end_layout
+
+\end_inset
+
+most post-colonial scholars do literary texts
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+even if not explicit, however, STS scholar work to recognize colonized world's
+ aftermath
+\end_layout
+
+\begin_layout Section
+actor network theory almost becomes post colonial
+\end_layout
+
+\begin_layout Standard
+useful; broke some boundaries...but also, 
+\end_layout
+
+\begin_layout Standard
+thoughts of a 
+\begin_inset Quotes eld
+\end_inset
+
+immutable mobile
+\begin_inset Quotes erd
+\end_inset
+
+ - facts that stay the same (e.g.
+ physics) via extension and transformation f networks -- stabilizes facts
+\end_layout
+
+\begin_layout Quotation
+[Latour] - In deepest Amazonia, scientists developed a laboratory in the
+ depopulated jungle, remaining in conversation with their European colleagues
+ in order to stabilise scientific facts on the margins of civilisation.
+ More colonial amour-propre than postcolonial analysis, Latour’s engaging
+ story manages to omit local agents and context, thus turning the network
+ into a sort of iron cage through which no native can break.
+\end_layout
+
+\begin_layout Section
+post colonial studies almost colonizes science studies
+\end_layout
+
+\begin_layout Quotation
+sing feminist standpoint theory, she imagined a multicultural science incorporat
+ing the knowledge and practice of Third World peoples.
+ Harding made a number of specific proposals, including integrating indigenous
+ scientific traditions into Western ‘ethnoscience’, supporting autonomous
+ Third World scientific projects, and taking other sciences as models for
+ the global science of the future.
+\end_layout
+
+\begin_layout Standard
+third world 
+\begin_inset Quotes eld
+\end_inset
+
+tendencies
+\begin_inset Quotes erd
+\end_inset
+
+ as counterpoint to imperialistic western culture
+\end_layout
+
+\begin_layout Standard
+HOLY SHIT I DON'T GET IT
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/thesis-lyx/critically-open-neuroscience"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
