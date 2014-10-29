@@ -1,0 +1,934 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass tufte-handout
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/thesis-lyx/critically-open-neuroscience"
+options "plain"
+
+\end_inset
+
+
+\series default
+
+\begin_inset CommandInset citation
+LatexCommand nocite
+key "Harding2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+overlap between agendas of feminist & post colonial STS; complementary fields
+\end_layout
+
+\begin_layout Quotation
+Both argue that the perspectives and interests of their particular constituencie
+s are not well served by modern Western science and technology philosophies,
+ policies, or practices.
+ The global social progress promised by modern Western philosophies of science
+ has resulted in economic, political, social, and cultural regress for them.
+\end_layout
+
+\begin_layout Itemize
+political & intellectual engagement; but weak complentarity in this respect
+\end_layout
+
+\begin_layout Standard
+interlocked discoures & overlapping constituents:
+\end_layout
+
+\begin_layout Itemize
+half of ex-colonized/neo-colonized are women
+\end_layout
+
+\begin_layout Itemize
+majority of women & dependents are among ex-colonized & neo-imperialized
+\end_layout
+
+\begin_layout Itemize
+dominant discourses criticized/used are imbricated/locke
+\end_layout
+
+\begin_layout Itemize
+colonialism, imperialism, and male supremacy represent
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+gender in racial/colonial terms
+\end_layout
+
+\begin_layout Itemize
+racial and colonial relations in gender terms
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+gender and racial categories still coconstitute eachother 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+what does that even mean??? co-constitute?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+both STS movements have to depend on success of the other to achieve goals
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+strongly complementary
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+some explorations
+\end_layout
+
+\end_inset
+
+ have been made
+\end_layout
+
+\begin_layout Itemize
+scatterd and undertheorized;
+\end_layout
+
+\begin_layout Itemize
+addons to prevailing framework rather than transformations 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+transformation to fully engage w/ issues and innovations of postcolonial
+ 
+\emph on
+and
+\emph default
+ feminist STS
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+internal heterogeneity
+\end_layout
+
+\end_inset
+
+ in both movements: political, disciplinary, institutional, and regional
+ cultural histories and commitments create strikingly different analyses
+\end_layout
+
+\begin_layout Standard
+-> futile project to form productive coalitions?
+\end_layout
+
+\begin_layout Section
+what are feminist & post-colonial STS?
+\end_layout
+
+\begin_layout Standard
+Both: 
+\series medium
+scientific & tech.
+ projects co-constituted w/ social orders
+\end_layout
+
+\begin_layout Standard
+-> no scientific/tech could be autonomous and value-free
+\end_layout
+
+\begin_layout Standard
+interests are created as part of social transformations; social transformations
+ are shaped by the kinds of prjects that can be im/explicitly turned towards
+ goals
+\end_layout
+
+\begin_layout Quote
+To put this point another way, feminism and postcolonialism both argue in
+ effect that how we live together both enables and limits what we can know,
+ and vice versa.
+\end_layout
+
+\begin_layout Standard
+Both movements position themselves against the politices/practices/epistemelogie
+s of Western sciences/techs -- i.g.
+ w/o articulating reference to each other
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+androcentric
+\series default
+ early postcolonial STS
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Eurocentric
+\series default
+ early feminist STS
+\end_layout
+
+\begin_layout Subsection
+Gender & science themes/research
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+early trajectory
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+where are (and have been) women in social structures, and why are there
+ so few in the arenas of the design and management of scientific and technologic
+al research?
+\end_layout
+
+\begin_layout Enumerate
+how have 
+\begin_inset Quotes eld
+\end_inset
+
+sexist sciences
+\begin_inset Quotes erd
+\end_inset
+
+ taken on project of providing empirical support for claimed inferiority
+ of women?
+\end_layout
+
+\begin_layout Enumerate
+how have tech/applications been used against women's equality? 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+health, reproductive, and environmental converns early focusses
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+how does education restrict women's development as scientists and engineers?
+\end_layout
+
+\begin_layout Enumerate
+what sucks [is problematic] about epistemologies, methodologies, and philosophie
+s of science that support/produce sexist & androcentric practics?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+4 decades later
+\end_layout
+
+\end_inset
+
+still important.
+\end_layout
+
+\begin_layout Itemize
+progress in
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+increasing access of women to educations/publications/organizations/labs/classro
+oms
+\end_layout
+
+\begin_layout Itemize
+token presences in policy
+\end_layout
+
+\begin_layout Itemize
+health and reproductive policies for women in already advantaged groups
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+regression in (i.e.
+ changes for the wors)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Western, esp.
+ US policies have contributed to increased threats to environmental, health,
+ and life as experienced by women/dependents (and adult men)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+development of epist./method.
+ approaches that transform 
+\begin_inset Quotes eld
+\end_inset
+
+logic of scientific inquiry
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+adopted in social sciences and some biology/medical research
+\end_layout
+
+\begin_layout Itemize
+largely marginalized in N.
+ if researchers are not 
+\begin_inset Quotes eld
+\end_inset
+
+studying women
+\begin_inset Quotes erd
+\end_inset
+
+; gender/assumptions are irrelevant
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+five areas slower in other non-North areas & applied in different ways
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+scientific literacy for girls in 
+\begin_inset Quotes eld
+\end_inset
+
+Third world
+\begin_inset Quotes erd
+\end_inset
+
+ contries requires conquering more/different barriers
+\end_layout
+
+\begin_layout Itemize
+class, not gender, is sometimes the more salient topic
+\end_layout
+
+\begin_layout Itemize
+also difficult in extremely gender-segregated societies:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+girls need to be trained as professionals so they can teach other girls
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+colonialism, imperialism, science, and tech
+\end_layout
+
+\begin_layout Enumerate
+counter histories of western achievement
+\end_layout
+
+\begin_layout Enumerate
+re-evaluation of legacies of traditional knowledge
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+some eradicated/appropriated by Western societies
+\end_layout
+
+\begin_layout Enumerate
+some survive/continue to provide resources to
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+poor societies unable to use Western meds
+\end_layout
+
+\begin_layout Enumerate
+societies maintaing/using both traditional and Western
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+residues/resurrections of colonial/imperial science/tech since 'independence'
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+carrots and sticks by First World financial/development policies
+\end_layout
+
+\begin_layout Enumerate
+difficulty of escaping habits & practices of colonial/imperial relations
+\end_layout
+
+\begin_layout Enumerate
+critical modernity studies 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+more on this later!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+possibly ways to move forward in their own science/tech projects w/in conditions
+ set by global political/economic policies
+\end_layout
+
+\begin_layout Section
+sites of dissonance
+\end_layout
+
+\begin_layout Subsection
+relevant social relations?
+\end_layout
+
+\begin_layout Standard
+Recognizing women to be fully human undermines historical methodological
+ assumptions:
+\end_layout
+
+\begin_layout Enumerate
+chronologies grounded in men ignore most significant changes for women &
+ the effect of women on men 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+e.g.
+ technology and sciences targeted at or relevant to women; medicalized abortion
+ come to mind; hysteria; condoms..?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+women's conditions tend to regress @ precisely the same historical moment
+ that are conventionally marked as high points of 
+\begin_inset Quotes eld
+\end_inset
+
+human progress
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+sex/gender is one of the most significant determinants of a person's right/respo
+nsibilities in cultures
+\end_layout
+
+\begin_layout Enumerate
+conventional theories of social change fail to account for transformations
+ insofar as they ignore women's roles/fate in processes
+\end_layout
+
+\begin_layout Standard
+postcolonial STS relies on this historical methodolgy 
+\end_layout
+
+\begin_layout Itemize
+(w/ exceptions) social relations considered gender-free imperialism, colonialism
+, nation-building
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+gender-free resistance
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+assume unless it is 
+\emph on
+specifically 
+\emph default
+women's concern, consideration of gender relations is irrelevant
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+Western feminist STS
+\end_layout
+
+\end_inset
+
+ assume that as long as they're talking about Western women, social relations
+ of colonialism and imperialism are irrelevant to obeserved sciences and
+ techs.
+ Rarely pay attention to non-Western women's experiences or such women's
+ activities in knolwedge production.
+ Leaves Western feminisms ignorant of history and practices globally, and
+ of women's participation in/of
+\end_layout
+
+\begin_layout Quote
+Western feminists do not treat non-Westerners ar fully human insofar as
+ they ignore colonial and imperial relations'
+\end_layout
+
+\begin_layout Subsection
+what are the relevant sciences?
+\end_layout
+
+\begin_layout Standard
+For western feminists, Western sciences.
+ Addressing gender dimensions of even physics and chemistry; but history
+ of modern Sciences rarely set in context of colonialism/imp.
+ and contemporary resurrections.
+ Indigenous knowledge traditions seem beyond horizons of that work.
+ Western feminist wrk unaware of counter-histories; indigenous knowledge
+ success; 
+\begin_inset Quotes eld
+\end_inset
+
+world of sciences
+\begin_inset Quotes erd
+\end_inset
+
+, or current colonial/imperial science relations.
+\end_layout
+
+\begin_layout Standard
+For postcolonial, critical perspectives and design of practices that integrate
+ both/many sciences/worlds are central; but no focus on women's domains
+ of production, or on distortions in both Western and nonWestern projects
+ orginating from the absence of women
+\end_layout
+
+\begin_layout Subsection
+who can/should be the subjects of progressive historical transformation?
+\end_layout
+
+\begin_layout Itemize
+no centering of 
+\emph on
+other
+\emph default
+ group in design/management
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+post colonial: few women cited
+\end_layout
+
+\begin_layout Itemize
+feminist: complete absence of post colonial lit
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+other groups work consigned to a 
+\begin_inset Quotes eld
+\end_inset
+
+special interest
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+conjoining conceptual frameworks
+\end_layout
+
+\begin_layout Standard
+two study clusters have conjoined
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+before formal end of European rule
+\end_layout
+
+\end_inset
+
+ effects of gender relations on scientific/tech projects of colonialism
+ and imperialism 
+\end_layout
+
+\begin_layout Enumerate
+indigenous 
+\emph on
+women
+\emph default
+ may have been majority of 
+\begin_inset Quotes eld
+\end_inset
+
+native informants
+\begin_inset Quotes erd
+\end_inset
+
+ about indingeous pharmacologies; women were chief custodians of botanical
+ knowledge
+\end_layout
+
+\begin_layout Enumerate
+nature perceived/mapped through gender stereotypes of era -- notions of
+ courtship & gendered behaviors attributed to flowering plants/animals
+\end_layout
+
+\begin_layout Enumerate
+gendering of racial distinctions
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+tropics = 
+\begin_inset Quotes eld
+\end_inset
+
+feminine
+\begin_inset Quotes erd
+\end_inset
+
+ -- legitimated and explained imperial order
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+all male groups have gender relations [not just when women are around]
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+how is search for knowledge itself gendered as 
+\noun on
+Manly? 
+\noun default
+how does that legitimate scientific work?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+scientific explorer as knight; as hero; 
+\end_layout
+
+\begin_layout Enumerate
+jesuit' rhetoric of masculinity - trials of strength and endurance
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+hyper masculinization continued: high-energy physics labs
+\end_layout
+
+\begin_layout Enumerate
+game hunting - provided animals for scientific study/museums
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+These studies situate their accounts at the point where gender and colonial/
+ imperial relations are co-constituting each other.
+ The sciences of interest are modern Western ones and the array of (other)
+ regional ones, and the influences and exchanges between them.
+ And the age
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+masculinazation of modernization/development
+\end_layout
+
+\end_inset
+
+: effects of gender relations w/in Third World 
+\begin_inset Quotes eld
+\end_inset
+
+development
+\begin_inset Quotes erd
+\end_inset
+
+ policies and practices post WWII
+\end_layout
+
+\begin_layout Enumerate
+modernization theory - 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+linking social progress to dissemination of North's sci.
+ rationality & expertise; new masculinities; necessity of public/private
+ domain
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+leave behind loyalties & sustaining nature; move to metropolitan sites;
+ primary responsibility to new world, not birthworlds
+\end_layout
+
+\begin_layout Enumerate
+economic/political activities must move from households to 
+\begin_inset Quotes eld
+\end_inset
+
+public sphere
+\begin_inset Quotes erd
+\end_inset
+
+, leaving 
+\begin_inset Quotes eld
+\end_inset
+
+private sphere
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+scientific rationality & expertise transport everything -- men and all the
+ institutions -- except family into modern/public
+\end_layout
+
+\begin_layout Enumerate
+transformation is presented in 
+\emph on
+natural
+\emph default
+ terms: this is humanity evolving from childhood tradition to mature civilizatio
+n
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+consequences: women & non-Western men are positioned in the species childhood;
+ horizons of modernity
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+welfare of women/households is abandoned; they are drags on economic growth
+ & political progress 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+what is political progress vis a vis Harding?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+women/house external to economies/politics
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+not active agents of progress
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+male supremacy/white supremacy work for each other
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+women are 
+\begin_inset Quotes eld
+\end_inset
+
+outside civilization
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+non-Euro.
+ men are not manly
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+First world development policies for third world: how have development projects
+ affected women? 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Enumerate
+bringing social progress through transferring First world rationality &
+ expertise to Third world
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+liberal attempts to integrate women into development projects as workers
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+counter: isolated gender from economic relations
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+emphasis eventually on BOTH liberal & marxist: women are unequal everywhere
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+necessity for Men's Studies: gender is a relation; men matter to how women
+ are
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_body
+\end_document
