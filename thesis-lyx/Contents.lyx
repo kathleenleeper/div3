@@ -57,7 +57,7 @@
 \color #008000
 \end_index
 \secnumdepth 3
-\tocdepth 3
+\tocdepth 0
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -115,7 +115,7 @@ status open
 
 
 \backslash
-setcounter{tocdepth}{2}
+setcounter{tocdepth}{1}
 \end_layout
 
 \end_inset
@@ -547,6 +547,10 @@ spacedlowsmallcaps{Acronyms}}
 Acronyms
 \end_layout
 
+\begin_layout Section*
+Stuff that's not science
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -556,6 +560,22 @@ status open
 
 \backslash
 begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FLOSS}{free/libre open source software}
 \end_layout
 
 \end_inset
@@ -593,35 +613,6 @@ acro{GNU}{GNUs Not Unix}
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{yes, it's recursive, because why the hell not?}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{F/LOSS}{free/libre/open source software}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -633,6 +624,170 @@ status open
 
 \backslash
 acro{PLoS}{Public Library of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Science
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPCRs}{G-protein coupled receptors}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{5-HT}{5-hydroxytryptamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CNS}{central nervous system}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{bHLH}{basic helix-loop-helix protein structural motif}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{vMNs}{ventral motor neurons}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{Shh}{sonic hedgehog}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{Ascl1}{Achaete-scute homolog 1}
 \end_layout
 
 \end_inset
@@ -670,9 +825,6 @@ endgroup
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage cleardoublepage
 \end_inset
 

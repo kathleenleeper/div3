@@ -5,10 +5,8 @@
 \textclass scrreprt
 \begin_preamble
 \usepackage{preamble}
-
-\usepackage{cite}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty
+\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -45,8 +43,8 @@
 \use_package stackrel 1
 \use_package stmaryrd 1
 \use_package undertilde 1
-\cite_engine basic
-\cite_engine_type default
+\cite_engine natbib
+\cite_engine_type numerical
 \biblio_style plainnat
 \use_bibtopic false
 \use_indices false

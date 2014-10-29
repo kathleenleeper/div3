@@ -78,26 +78,14 @@ Serotonin, transcription factors, and differentiation
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begingroup
-\end_layout
-
-\end_inset
-
-
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Section*
 Acronyms
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -113,7 +101,7 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -129,7 +117,7 @@ acro{GPCRs}{G-protein coupled receptors}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -145,7 +133,7 @@ acro{5-HT}{5-hydroxytryptamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -161,7 +149,7 @@ acro{CNS}{central nervous system}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -169,7 +157,7 @@ status open
 
 
 \backslash
-acro{bHLH}{basic helix-loop-helix}
+acro{bHLH}{basic helix-loop-helix protein structural motif}
 \end_layout
 
 \end_inset
@@ -177,7 +165,55 @@ acro{bHLH}{basic helix-loop-helix}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{vMNs}{ventral motor neurons}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{Shh}{sonic hedgehog}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{Ascl1}{Achaete-scute homolog 1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -193,23 +229,8 @@ end{acronym}
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-endgroup
-\end_layout
-
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 Serotonin is 
 \begin_inset ERT
 status open
@@ -223,9 +244,8 @@ ac{5-HT}
 
 \end_inset
 
- , a monoamine neurotransmitter implicated in hella things.
- The serotonin signalling system comprises 14 classes of receptors, all
- but one of which are 
+ , a monoamine neurotransmitter binding 14 classes of receptors, all but
+ one of which are 
 \begin_inset ERT
 status open
 
@@ -239,7 +259,7 @@ ac{GPCRs}
 \end_inset
 
 .
- With a wide array of receptors distributed across the brain , nearly every
+ With a wide array of receptors distributed across the brain, nearly every
  basic 
 \begin_inset ERT
 status open
@@ -258,7 +278,7 @@ ac{CNS}
  As such, disruptions in serotonergic transmission is implicated in many
  psychological diseases (eg schizophrenia etc)
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 elaborate
@@ -273,20 +293,17 @@ key "Millan2008"
 
 \end_inset
 
- Serotonin receptors are also the main agent of the classical hallucinogens.
+ 
 \end_layout
 
 \begin_layout Standard
 Model systems for serotonergic signalling are fundamental to drug design
  and development for depression and 
-\begin_inset ERT
-status collapsed
+\begin_inset Note Greyedout
+status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito{whatever the other stuff is that serotonin does}
+whatever the other stuff is that serotonin does
 \end_layout
 
 \end_inset
@@ -294,6 +311,21 @@ graffito{whatever the other stuff is that serotonin does}
 , and in the case of hallucinogenic drugs, present an uncommon means to
  explore consciousness because of their unique signal transduction specificity.
  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{obviously hallucinogens are what I want to write abut but it's
+ very far away from what I'm doing in lab, so not clear on how they'll get
+ in yet}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -994,19 +1026,61 @@ ic neurons only.
 \end_layout
 
 \begin_layout Section
-The 5-HT system: introduction
+Model systems: e.g.
+ the intention for the whole lab bit
+\end_layout
+
+\begin_layout Standard
+If I want to study second messenger signalling pathways, transfecting cells
+ with the cloned receptor doesn't make sense, because the messenger pathways
+ wouldn't necessarily be consistent with fully differentiated neurons.
+\end_layout
+
+\begin_layout Standard
+So ideally, you'd use primary neuron cultures to study signalling -- but
+ those are expensive and hard to maintain.
+ 
+\end_layout
+
+\begin_layout Standard
+Thus, development of a holistic serotonin model systems -- granted, transgenes
+ are still involved, but they should set cell fate early and thus promote
+ full GPCR signalling.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Be nice.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Also, cell differentiation is cool.
+ So how can we manipulate the P19 stem cells earlier in the process?
+\end_layout
+
+\begin_layout Section
+The 5-HT system
 \end_layout
 
 \begin_layout Enumerate
-location
+Neuroanatomical location
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 nomenclature
-\end_layout
+\begin_inset Note Note
+status open
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
@@ -1048,7 +1122,8 @@ cauthor{Chen2005}
 
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
+
 
 \end_layout
 
@@ -1062,8 +1137,7 @@ cauthor{Chen2005}
 \begin_inset Quotes eld
 \end_inset
 
-the 5-HT neurons probably possess the most complex projection network in
- the CNS
+most complex projection network in the CNS
 \begin_inset Quotes erd
 \end_inset
 
@@ -1088,7 +1162,7 @@ embryonic development
 \end_layout
 
 \begin_layout Enumerate
-distinction b/t groups unclear
+distinction b/t future groups unclear
 \end_layout
 
 \begin_layout Enumerate
@@ -1160,7 +1234,7 @@ ac{Shh}
 
 \end_inset
 
-; may specifiy 5-HT in hindbrain
+; may specify 5-HT in hindbrain
 \end_layout
 
 \begin_layout Section
@@ -1968,100 +2042,6 @@ cauthor{Chen2005}
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{Chen2005}
-\end_layout
-
-\end_inset
-
- wrote this entire thing on transcription factors so basically this whl
-\end_layout
-
-\begin_layout Standard
-Many experimental systems use straight transfection 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{eg CHO cells w/ 5-HT2a receptors}
-\end_layout
-
-\end_inset
-
- to study serotonin signalling of the receptor.
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-sources &/or examples of major papers that use this technique
-\end_layout
-
-\end_inset
-
- In my own work with a fluorescent 5-HT2a receptor, the assay used receptor
- internalization as a metric for drug-inducted activation.
- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Chen2005"
-
-\end_inset
-
- Internalization and recycling depends on a large system of internal trafficking
- proteins
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-source
-\end_layout
-
-\end_inset
-
-.
- 
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Logically, it seems like a system with the receptor tacked into an otherwise
- non-serotonergic cell might not have all of the requisite machinery to
- process receptor signalling fully.
- Thus, I wanted to find ways to develop better and more reliable -- more
- holistic while still relatively inexpensive -- serotonergic model systems.
- 
-\end_layout
-
-\end_inset
-
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{Nefzger2011}
-\end_layout
-
-\end_inset
-
- proposed just such a system, using directed expression of three proneural
- transcription factors to set cell fate early in the differentation process.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -2227,7 +2207,23 @@ required for 5-HT diff via KO mice
 
 \begin_deeper
 \begin_layout Enumerate
-vMNs generated normally but all post-mitotic TFs (
+
+\bar under
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{vMNs}
+\end_layout
+
+\end_inset
+
+
+\bar default
+ generated normally but all post-mitotic TFs (
 \begin_inset ERT
 status open
 
@@ -2240,46 +2236,7 @@ ac{Ascl1}
 
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Pet1}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Gata2}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Gata3}
-\end_layout
-
-\end_inset
-
-) fail to express
+Pet1,Gata2, Gata3 fail to express
 \end_layout
 
 \begin_layout Enumerate
@@ -2404,14 +2361,6 @@ poorly understand epistatic relationships
 \end_layout
 
 \end_deeper
-\begin_layout Section
-Transcription Factors in Postmitotic 5-HT neurons
-\end_layout
-
-\begin_layout Subsection
-Lmx1b
-\end_layout
-
 \begin_layout Standard
 \begin_inset Note Note
 status collapsed
@@ -2743,10 +2692,19 @@ binds heterodimer of nuclear retinoic acid receptors and modifies transcription
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "critically-open-neuroscience"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
