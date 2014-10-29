@@ -1,8 +1,7 @@
 *#
 /unregistered/*
 /resources
-/enzymes
-/advanced-methods
+/classes
 #*.lyx#
 *~
 *.aux
