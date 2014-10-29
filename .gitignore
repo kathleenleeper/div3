@@ -1,6 +1,6 @@
 *#
 /unregistered/*
-/resources
+/resources/*
 /enzymes
 /advanced-methods
 #*.lyx#
