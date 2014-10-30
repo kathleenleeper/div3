@@ -2,6 +2,7 @@
 /unregistered/*
 /resources
 /classes
+*.bib
 #*.lyx#
 *~
 *.aux

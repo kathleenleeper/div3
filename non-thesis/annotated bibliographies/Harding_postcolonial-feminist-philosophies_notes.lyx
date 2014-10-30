@@ -84,7 +84,7 @@ key "Harding2009"
 \series bold
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience"
+bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience,/home/feline/Documents/div3/TheThesis/critically-open-neuro"
 options "plain"
 
 \end_inset
