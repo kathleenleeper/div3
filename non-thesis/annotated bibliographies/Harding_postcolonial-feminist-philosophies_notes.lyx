@@ -70,21 +70,22 @@
 \begin_body
 
 \begin_layout Verse
-
-\series bold
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "/home/feline/Documents/div3/thesis-lyx/critically-open-neuroscience"
-options "plain"
+\begin_inset CommandInset citation
+LatexCommand nocite
+key "Harding2009"
 
 \end_inset
 
 
-\series default
+\end_layout
 
-\begin_inset CommandInset citation
-LatexCommand nocite
-key "Harding2009"
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience"
+options "plain"
 
 \end_inset
 
@@ -925,10 +926,456 @@ emphasis eventually on BOTH liberal & marxist: women are unequal everywhere
 \begin_deeper
 \begin_layout Enumerate
 necessity for Men's Studies: gender is a relation; men matter to how women
- are
+ are and vice versa
+\end_layout
+
+\begin_layout Enumerate
+unfortunately, liberal approaches that deign to even consider women generally
+ favor 
+\begin_inset Quotes eld
+\end_inset
+
+development is bad for women
+\begin_inset Quotes erd
+\end_inset
+
+ approach; fits neolib assumptions easily
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Marie Mies argues:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+appropration of both women's and peasants land rights/labor for export productio
+n that makes major contribution to increased gross national productivity
+ in newly developing societies [and thus to the first world]
 \end_layout
 
 \end_deeper
 \end_deeper
+\begin_layout Enumerate
+accounts rarely focus on STS issues; but are relevant/raise relevant issues
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Western scientific rationale is 
+\begin_inset Quotes eld
+\end_inset
+
+motor
+\begin_inset Quotes erd
+\end_inset
+
+ for projects -- so failure raises question about viability of that as method
+ to advance progress
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+challenge the triumphal narrative of standard historic narratives
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+feminist environmentalism <-> socialist feminist analysis raises issue of
+ faulty concept of limitless natural resources assumed by Western philosophies
+ of science 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+I guess I don't know western philosophies of science, but it seems like
+ everybody is pretty aware of the limited resources game, if only not in
+ agreement on what it means.
+ Although many rad/liberals say "there's enough for everybody if only..." }
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+started from daily lives of women and peasants - least visible actors in
+ the political economy that directed policies --> 
+\noun on
+standpoint theory
+\noun default
+ 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "sub:standpoint-methodology"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Quote
+In these criticisms of modernization and Third World development theories,
+ policies, and practices, gender and colonial/imperial social relations
+ co-constitute each other.
+ The fates of ‘traditional’ knowledge and of Western scientific rationality
+ and technical expertise are mapped together in relation to each other.
+ And those who have borne most of the costs and received fewest of the benefits
+ of these First World agendas are represented as actual and potential agents
+ of valuable knowledge for everyone, and of progressive social transformations.
+ Thus the conceptions here of relevant social relations, relevant sciences,
+ and desirable agents of progressive social transformations integrate feminist
+ and postcolonial standpoints.
+\end_layout
+
+\begin_layout Section*
+engaging with 'strange logics'
+\end_layout
+
+\begin_layout Quote
+Especially challenging for each movement is to engage with what appears
+ to be a strange ‘logic of scientific inquiry’ in the other movement.
+ Strange to postcolonial researchers and activists is to start out thinking
+ about any and every issue - not just ‘women’s issues’ - from the standpoint
+ of the women affected by it.
+ Strange for Northern feminist work is to think within a framework in which
+ modern Western sciences are just one among many valuable scientific legacies.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:standpoint-methodology"
+
+\end_inset
+
+standpoint methodology
+\end_layout
+
+\begin_layout Enumerate
+importance of different standpoints for revealing counter narratives to
+ prevailing frameworks of disciplines
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+frameworks designed to answer questions for dominant institutions
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+studying up
+\begin_inset Quotes erd
+\end_inset
+
+ - think about situation from [group]'s lives, but attempted to explain
+ high level institutional decisions that maintained/initiated
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+post colonialism
+\end_layout
+
+\end_inset
+
+: 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+In all of its diverse varieties, it starts off thinking about colonialism
+ and imperialism from the situations of those who have borne most of the
+ costs and received fewest of the benefits of such exploitative and violent
+ institutional practices.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+interesting discussion here of standpoint theory as a Western invention
+ as well that loses critical edge in other societies with different philosophica
+l problems
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+multiple sciences, multiple modernities
+\end_layout
+
+\begin_layout Itemize
+value of recognizing a 
+\begin_inset Quotes eld
+\end_inset
+
+world of sciences
+\begin_inset Quotes erd
+\end_inset
+
+ -- multiple scientific and tech.
+ traditions adapted to regional needs & interests
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+like RuBisCO! PERFECT.
+ #candide
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+central arg: modernization =/= Westernization
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+rather, most peoples now live in societies that have left feudalism or earlier
+ poli/eco forms
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+every society lives in modernity...if only in darkest corners
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+modernity is not disseminated 
+\begin_inset Quotes eld
+\end_inset
+
+West to 'rest'
+\begin_inset Quotes erd
+\end_inset
+
+; produced w/in each society
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+thoughts on dissimenation of scientific information globally-- needs to
+ be reproduced in each lab/group/society;;; so same argument of the re-productio
+n of modernity/knowledge
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+takes on distinct local features in each appearance
+\end_layout
+
+\begin_layout Itemize
+reappropriates and reshapes social hierarchies
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+feminist STS has not yet engaged w/ reality of Western science being only
+ one of many 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+need to read about pseudo sciences and get this through my skull somehow
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+unresolved issues
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+Problems for an Alliance
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+post colonial theorists far more willing to commit to abandoning conventional
+ ideals of modern W.
+ science than Western fem.
+ scientists/scholars
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+W.
+ feminism concern has been to revise and transform existing ideals 
+\end_layout
+
+\begin_layout Enumerate
+how to undermine Enlightment notions useful to colonial projects while also
+ advocating their use in transformed 
+\begin_inset Quotes eld
+\end_inset
+
+better
+\begin_inset Quotes erd
+\end_inset
+
+ tech & sciences
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+what counts as legit.
+ genalogies of post colonialism?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+geographic locations
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+settler colonies
+\end_layout
+
+\begin_layout Enumerate
+Indian sub continent
+\end_layout
+
+\begin_layout Enumerate
+Africa
+\end_layout
+
+\begin_layout Enumerate
+Latin America
+\end_layout
+
+\begin_layout Enumerate
+Eastern Europe, china? ETC.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+how far back does post-coloniality go?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+post WWII?
+\end_layout
+
+\begin_layout Enumerate
+LA independence struggle?
+\end_layout
+
+\begin_layout Enumerate
+colonial era struggles?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+what are disiclinary priorities?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+cultural, economic, political, epistemic?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+what is the focus?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+universities or gov'ts or corporations or missionaries?
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+why the fuck do we keep finding gender wherever we look?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+related issue: Western feminists saying 
+\begin_inset Quotes eld
+\end_inset
+
+we need to rescue the poor indigenous wimmins!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+but actual issue: men and women exist in every culture we've ever seen;
+ so where does it come from if we don't have a gender binary [e.g.
+ what feminist/trans work has been breaking down)
+\end_layout
+
+\begin_layout Quote
+The way out of this discouraging fate for hard-working and already beleaguered
+ social determinists will probably be to put the issue another way: the
+ insistence on the sex-difference vs.
+ gender-difference distinction seems to reinstate the nature vs.
+ culture, genes vs.
+ environment binary that has been so vigorously criticized by scientists
+ recently with respect to race as well as sex/ gender, 52 and which has
+ become indefensible in Western science studies.
+ The solution cannot be to go back to the old biological determinist accounts
+ of gender differences.
+ However, a more complex and nuanced biology/history/ sociology, in which
+ nature and culture are always fundamentally inseparable, is not yet available.
+ Of course wheresoever culture exists, it will on occasion be valuable to
+ focus on one rather than the other.
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Conclusion
+\end_layout
+
 \end_body
 \end_document
