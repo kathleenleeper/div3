@@ -75,7 +75,7 @@
 
 \begin_layout Minisec
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Minisec
 some notes
@@ -720,7 +720,7 @@ end{acronym}
 \end_layout
 
 \begin_layout Chapter
-Global Science
+Representation & Science
 \end_layout
 
 \begin_layout Standard
@@ -743,7 +743,7 @@ Developing Countries
 
 \begin_layout Standard
 \begin_inset CommandInset citation
-LatexCommand citealt
+LatexCommand citet
 key "Sumathipala2004"
 
 \end_inset
@@ -876,6 +876,199 @@ Gender Disparities
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lariviere2013"
+
+\end_inset
+
+ - Bibliometrics: Global gender disparities in science
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Although there are more female than male undergraduate [especially in 
+\begin_inset Quotes eld
+\end_inset
+
+softer
+\begin_inset Quotes erd
+\end_inset
+
+ scientific fields
+\begin_inset Quotes erd
+\end_inset
+
+ and graduate students in many countries, there are relatively few female
+ full professors, and gender inequalities in hiring, earningsg, funding,
+ satisfaction and patenting persist.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quantitition of gender disparities in measures of scholarly output and has
+ been few and far between -- 
+\begin_inset Quotes eld
+\end_inset
+
+highly localized, mono-disciplinary, and dated
+\begin_inset Quotes erd
+\end_inset
+
+; they take little account of the rise in collaborative research etc.
+ This paper analyzed the relationship between gender and research output
+ (authorship), collaboration extent (co-authorships) and scientific impact
+ of publications (citation count, according to the Web of Science); 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Web of science, of course, is an extremely flawed way to do this
+ because it barely includes anything that isn't the US or UK.
+ See the sections on citation factors and global publishing}
+\end_layout
+
+\end_inset
+
+ analyzed >5 million research papers and reviews with more than 27 million
+ involved authors, assigning gender using data from Social Security database.
+\end_layout
+
+\begin_layout Standard
+Some results: 
+\end_layout
+
+\begin_layout Enumerate
+in the most productive cntries, all articles with women in dominant author
+ positions receive fewer citations than those with men in the same position
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+accentuated by domesticity [nationality-wise] - women benefit less from
+ the extra citations accrued by international collaborations
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+globally, women account for <30% of fractionalized authorship, men are >70%
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+1:1.93 women:men first authorships
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+South America & Eastern Europe had best gender parity
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+female authorship generally more prevalent in countries and/or states with
+ lower output
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+impact: when a woman is in prominent position (sole authorship, first-author,
+ last-author), paper attracts fewer citations; holds for national and internatio
+nal collaborations
+\end_layout
+
+\begin_layout Standard
+There are, of course, major limitations, the biggest one being obvious --
+ age has an enormous role to play.
+ Many observed trends are likely proxies of a different problem: that women
+ aren't making it to the top ranks of sicence, and that those senior ranks
+ bear the imprint of previous barriers.
+ 
+\end_layout
+
+\begin_layout Standard
+Basically, this is quantitive numbers to back up what women ===have been
+ saying for years -- there are barriers, and they are tall.
+ In 17% of countries, scientists are equally represented: but fewer than
+ 6% Web of Science countries come even close to gender parity in # papers
+ published.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cauthor{West2013}
+\end_layout
+
+\end_inset
+
+ published an extremely similar paper in PLoS one the same year, without
+ the global analysis component but with even more involved papers.
+ Their source was the JSTOR corpus, 
+\begin_inset Quotes eld
+\end_inset
+
+a body of academic papers...spanning five centuries.
+ They look at similar variables -- authorship order and overall percentages.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+diacritto{with the mention that publication counts obviously are relevant
+ in 
+\backslash
+emph{tenure} discussions, e.g.
+ hiring e.g.
+ perpetuating cycle}
+\end_layout
+
+\end_inset
+
+ This includes the humanities research as well, which is interested.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+diacritto{Also, HUGE points for their methods and reproducibility, e.g.
+ creating the gender browser and communicating with me about making that
+ something to apply to own libraries.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Global Citation Indices
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -896,7 +1089,7 @@ bibname{References}
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "critically-open-neuroscience"
+bibfiles "cnltx,critically-open-neuro"
 options "plainnat"
 
 \end_inset
