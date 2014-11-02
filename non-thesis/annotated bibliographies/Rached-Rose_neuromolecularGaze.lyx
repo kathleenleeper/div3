@@ -1,0 +1,530 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass tufte-handout
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Verse
+\begin_inset CommandInset citation
+LatexCommand nocite
+key "Abi-Rached2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience,/home/feline/Documents/div3/TheThesis/critically-open-neuro"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+long history of brain research; 
+\emph on
+neuroscience
+\emph default
+ emerged in 1960s in sociohistorical context w/ political change, faith
+ in sci/tech, and rise of a 
+\begin_inset Quotes eld
+\end_inset
+
+molecular gaze
+\begin_inset Quotes erd
+\end_inset
+
+ in life sciences
+\end_layout
+
+\begin_layout Standard
+stakeholders mobilized around idea of brain breakthroughs as crucial and
+ achievable via collaborative efforts
+\end_layout
+
+\begin_layout Standard
+***emphasis: 
+\emph on
+neuroscience
+\emph default
+ was not inevitable in history (as traditional narratives have it), but
+ is part of a specific set of decisions
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+how have histories been written?
+\end_layout
+
+\begin_layout Enumerate
+many types of histories which embody different times
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+continuous chronology
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+milestones in neuro research
+\begin_inset Quotes erd
+\end_inset
+
+ - time begins in 4000 bc w/ Sumerian writings in a continous line leading
+ to today
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+Neuronal Man - 
+\emph default
+1862 deciphering of papyrus scroll of head & neck injuries
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+geological time
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+brain as narrative focus for history starting with early hominins
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Foucault: appeal for disrupted chronologies - 
+\begin_inset Quotes eld
+\end_inset
+
+historical time as laminar
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+still needs dates as symbolic landmark
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+conventional histories 
+\end_layout
+
+\begin_layout Enumerate
+linear/chronological account of 
+\begin_inset Quotes eld
+\end_inset
+
+events
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+milestones
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+biographical: chronological succession of personal histories;
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+highlighting a family tree; schools o thoughts
+\end_layout
+
+\begin_layout Enumerate
+compare to 
+\begin_inset CommandInset href
+LatexCommand href
+name "Neurotree"
+target "www.neurotree.org/neurotree"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+quest for a precursor
+\end_layout
+
+\end_inset
+
+ common factor in accounts of frameworks: looking for object (brain, nerves,
+ institute, etc) remain static through history
+\end_layout
+
+\begin_layout Itemize
+why we do not consider someone a 
+\emph on
+founder
+\emph default
+ of the neurosciences, but exemplifies the epistemelogical shift
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+conceptual account - affiliation or genealogy of concept
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+internalist approaches - history of ideas
+\end_layout
+
+\begin_layout Enumerate
+externalist approaches - ideas as product of socio historical context
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+quest for a precursor
+\end_layout
+
+\end_inset
+
+ still exists here as well
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Description
+
+\series bold
+point
+\series default
+: new style of thought emerged in new community of scientists in the 1960s
+\end_layout
+
+\begin_layout Section
+birth of modern neuroscience/s?
+\end_layout
+
+\begin_layout Enumerate
+first journal articles using term 
+\begin_inset Quotes eld
+\end_inset
+
+neuroscience
+\begin_inset Quotes erd
+\end_inset
+
+ - end of 1960s, 1970s
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+all articles/publications emerge from self-consciously new community formed
+ from others -- intentional hybridization
+\end_layout
+
+\begin_layout Enumerate
+post war gov't grants to explore brain sciences
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+also became imp.
+ in other countries; neuroscientific 
+\emph on
+lobbying
+\emph default
+ groups [p 19]
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+3 decades following WWII -- cybernetics, then neurochem, cog.
+ neuro in the 1970s, molecular biology of cognitions in 1980s -- continuing
+ melding of disciplines for reductionist neurobiological approach
+\end_layout
+
+\begin_layout Subsection
+america context, 1960s
+\end_layout
+
+\begin_layout Enumerate
+pre WWII - US lag in science/specifically nervous system
+\end_layout
+
+\begin_layout Enumerate
+Schmitt -- coined 
+\begin_inset Quotes eld
+\end_inset
+
+neuroscience
+\begin_inset Quotes erd
+\end_inset
+
+ in 1962
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+preceded by 
+\begin_inset Quotes eld
+\end_inset
+
+biophysics of the mind
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The neurosciences were thus born, not as a fact or as a given object but
+ as a project that took shape in the 1960s modelled by Schmitt explicitly
+ on the advances that had recently taken place in biophysics, molecular
+ genetics and immunology through the interaction of physical and chemical
+ sciences with the life sciences.
+\end_layout
+
+\begin_layout Enumerate
+reductionist mol.
+ approach - study 
+\begin_inset Quotes eld
+\end_inset
+
+simple
+\begin_inset Quotes erd
+\end_inset
+
+ behavior to shed light on abnormalcy 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+progress one cell/neuron/mutation @ a time 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+epistemelogical shift in understanding of the brain
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+brain as complex but dissectable system; accessible from different complementary
+ levels of analysis
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+synthetic approach
+\begin_inset Quotes erd
+\end_inset
+
+ - backed by molecular rationale
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+neuroscience as repalcement for psychoanalysts - desire for more rigorous
+ study
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+1973
+\series default
+ - Amherst College establishes first neuroscience major
+\end_layout
+
+\begin_layout Subsection
+british neuroscience, 1950s-60s
+\end_layout
+
+\begin_layout Itemize
+much later institutionalization (first undergrad course in 1988); first
+ gatherings traced to 1950s
+\end_layout
+
+\begin_layout Itemize
+dated to 1960s hybridization of disciplinary perspectives
+\end_layout
+
+\begin_layout Itemize
+neurology =/= neuroscience; disciplinization of 
+\emph on
+neuroscience 
+\emph default
+only occurred in the 1970s, despite neurology being a long standing discipline
+\end_layout
+
+\begin_layout Subsection
+french context, 1945-75
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+neurosciences
+\begin_inset Quotes erd
+\end_inset
+
+ appears in 1984 
+\end_layout
+
+\begin_layout Itemize
+situated [by philosophers] in post war
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+empashsis on 
+\begin_inset Quotes eld
+\end_inset
+
+interdisciplinarity
+\begin_inset Quotes erd
+\end_inset
+
+ as new ways articulating study
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+internationalization of science [specifically brain science] - increased
+ exchange politically important and crucial to growth; hybridization of
+ geographical/cultural styles of neuros-sciences --> accelerated neuro progress
+\end_layout
+
+\begin_layout Section
+concluding remarks
+\end_layout
+
+\begin_layout Standard
+most neuroscience stories: look @ neurosciences as linear process
+\end_layout
+
+\begin_layout Standard
+suggestion: 1960s marks hybridization event -- introduction of reductionist
+ and predominantly molecular approach to nervous system
+\end_layout
+
+\begin_layout Standard
+allowing 
+\begin_inset Quotes eld
+\end_inset
+
+direct
+\begin_inset Quotes erd
+\end_inset
+
+ investigation of complex neurobiological phenomena like memory, learning,
+ or conciousness
+\end_layout
+
+\begin_layout Standard
+currently: argument that neuroscience hold key to managment of all manner
+ of human activities and experiences -- genuine advance in understanding
+ or unwise extrapolation to society of uncertain laboratory sciences?
+\end_layout
+
+\end_body
+\end_document
