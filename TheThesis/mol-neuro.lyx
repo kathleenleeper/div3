@@ -78,6 +78,22 @@ Serotonin, transcription factors, and differentiation
 \end_layout
 
 \begin_layout Standard
+\align right
+\begin_inset Quotes eld
+\end_inset
+
+every biological organism 
+\begin_inset Newline newline
+\end_inset
+
+is inherently individual
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -1063,18 +1079,15 @@ graffito{Be nice.}
 
 \begin_layout Standard
 Also, cell differentiation is cool.
- So how can we manipulate the P19 stem cells earlier in the process?
+ So how can we manipulate the P19 stem cells earlier in the process? We
+ can (hopefully) set cell fate early on via expression of important transcriptio
+n factors, and then allow cells to develop somewhat normally.
 \end_layout
 
 \begin_layout Section
 The 5-HT system
 \end_layout
 
-\begin_layout Enumerate
-Neuroanatomical location
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 nomenclature
 \begin_inset Note Note
@@ -1132,7 +1145,44 @@ cauthor{Chen2005}
 
 \end_layout
 
-\end_deeper
+\begin_layout Standard
+The 5-HT system is one of the most complex projection networks in the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{CNS}
+\end_layout
+
+\end_inset
+
+.
+ It has three descending efferents to the spinal cord, while the B5-B9 neurons
+ project via 5 different routes to almost every region of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{CNS}
+\end_layout
+
+\end_inset
+
+.
+ This large network means serotonin signalling not only transmits information,
+ but plays a large role in 
+\emph on
+modulating
+\emph default
+ the rest of brain function.
+\end_layout
+
 \begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
@@ -2329,7 +2379,7 @@ Gata2 affects different 5-HT cluster development differently
 
 \begin_deeper
 \begin_layout Enumerate
-necessary and sufficient in r1
+necessary and sufficient in r1 
 \end_layout
 
 \begin_deeper
@@ -2692,19 +2742,10 @@ binds heterodimer of nuclear retinoic acid receptors and modifies transcription
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "critically-open-neuroscience"
+bibfiles "critically-open-neuroscience,critically open neuroscience"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 

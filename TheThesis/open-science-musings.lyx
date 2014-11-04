@@ -77,6 +77,127 @@
 Open Science
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FLOSS}{free/libre open source software}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPL}{GNU General Public License}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GNU}{GNUs Not Unix}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLoS}{Public Library of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Definitions & interpretations
 \end_layout
@@ -258,7 +379,7 @@ The terminology of and factions within this movement are complex, but, in
 \begin_inset Quotes erd
 \end_inset
 
- (from 
+ (
 \begin_inset ERT
 status open
 
@@ -266,7 +387,7 @@ status open
 
 
 \backslash
-cauthor{Reagle2012}
+cauthor{Reagle2012}, 2012
 \end_layout
 
 \end_inset
@@ -386,7 +507,8 @@ ughhhhh i hate definining this so so much
 
 \end_inset
 
-
+ But there are some commonalities in intent and goals, and from that some
+ general open science values can be extrapolated.
 \end_layout
 
 \begin_layout Section
@@ -398,8 +520,22 @@ I think open science is really interesting as a
 \noun on
 Big Idea
 \noun default
-, because of its ties to the free and open source software movement, specificall
-y in the realm of community-driven goals.
+, largely because of its ties to the free and open source software movement,
+ and specifically in the realm of community-driven goals.
+ A lot more analytical work has been done on 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ sociological values than the narrower and newer niche of OS.
 \end_layout
 
 \begin_layout Standard
@@ -421,18 +557,9 @@ ac{FLOSS}
  Advocates of the libre licensing model list many advantages, but their
  main focus is libre software as a social imperative.
  User freedom (or their conception of it) is paramount.
- The Open source software focus is 
-\begin_inset Quotes eld
-\end_inset
-
-just
-\begin_inset Quotes erd
-\end_inset
-
- distributed production.
  Open source, on the other hand, was created and remains in an explicit
  attempt to side-step the social values and ideological connotations of
- the term "free software" as laid out in the 
+ the term "free software", as laid out in the 
 \begin_inset ERT
 status open
 
@@ -451,7 +578,8 @@ ac{GPL}
 \end_layout
 
 \begin_layout Standard
-With that in mind, I think the usage of 
+Bearing that distinction in mind, trivial as it initially seems, I think
+ the usage of 
 \emph on
 open
 \emph default
@@ -484,7 +612,7 @@ ac{OS}
 \end_inset
 
  either come from and/or explicitly draw from the F/LOSS movement, but the
- chosen nomenclature is 
+ chosen movement nomenclature is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -513,11 +641,18 @@ better
 \end_inset
 
  science -- more reproducible, more reliable, more powerful (disruptive,
- even).
- Open science is defined almost entirely by mechanisms, with some gloss
- on top about social responsibility.
- But even projects that pitch themselves as a place for citizen scientists
- are, in many ways, just a way to shift labor from cheap graduate students
+ even!).
+ Open science is defined almost entirely by the 
+\emph on
+mechanisms
+\emph default
+, in the same way open source is 
+\emph on
+just 
+\emph default
+focused on production.
+ Even projects that pitch themselves as a place for citizen scientists can
+ be construed as just a way to shift labor from cheap graduate students
  to even cheaper laypeople.
 \end_layout
 
@@ -862,24 +997,61 @@ key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
 
 \end_layout
 
-\begin_layout Subsection
-Liberty vs.
- libertarians
+\begin_layout Section
+Open access and globalization of knowledge
 \end_layout
 
 \begin_layout Standard
-Essentially: free software and open science advocates work with and often
- are libertarian, anti-affirmative action, anti-gun control, gender- and
- race-blind, 
+
+\emph on
+If 
+\emph default
+indigenous sciences are local sciences, specific to the time and place and
+ users involved, then they may not be generalizable to a mythic global community
+ of 
 \begin_inset Quotes eld
 \end_inset
 
-all big government is bad
+scientists
 \begin_inset Quotes erd
 \end_inset
 
- conservatives.
+.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Destroy the idea of a global community of scientists.
+ If science is local, there is no homogenous community.
+\end_layout
+
+\end_inset
+
+ And 
+\emph on
+if
+\emph default
+ we create a system where one of those many sciences is targeted as the
+ right one to be spreading, and making access to it the ultimate success
+ or bridge to success, local knowledges are crowded out and erased.
+ Indigenous sciences lose by virtue of what they are -- non globalized,
+ local knowledges -- with no excuse to 
+\emph on
+not
+\emph default
+ use globalized standardized bits of (scientific) knowledge.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "critically open neuroscience"
+options "plainnat"
+
+\end_inset
+
+
 \end_layout
 
 \end_body

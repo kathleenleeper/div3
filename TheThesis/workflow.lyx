@@ -656,15 +656,16 @@ Autem timeam deleniti usu id.
 \end_layout
 
 \begin_layout Standard
+\align right
 \begin_inset Quotes eld
 \end_inset
 
-Only at Hampshire would your workflow be part of submitted work.
-\begin_inset Quotes erd
+Only at Hampshire would your 
+\begin_inset Newline newline
 \end_inset
 
-
-\begin_inset Newline newline
+workflow be part of submitted work.
+\begin_inset Quotes erd
 \end_inset
 
 
@@ -675,7 +676,7 @@ Only at Hampshire would your workflow be part of submitted work.
 \end_layout
 
 \begin_layout Standard
-But that's probably not true, or at least shouldn't be.
+But that's probably not true -- or at least shouldn't be.
  
 \begin_inset ERT
 status collapsed
@@ -692,21 +693,25 @@ graffito{in other places as well, e.g.
 
 \end_inset
 
-In academic/lab settings , there's an enormous amount of 
+In academic/lab settings, there's an enormous amount of 
 \emph on
 things
 \emph default
  to manage.
  References, formatting, collaboration, and data and figures come to mind
  immediately.
- With open science, it's crucial that all of that information be logically
- organized, meaningful, and easy to use.
+ With science where the whole process 
+\emph on
+is
+\emph default
+ the work, it's crucial that all of that information be logically organized,
+ meaningful, and easy to use.
  
 \end_layout
 
 \begin_layout Standard
-In my case, it also has to run on my Linux distribution (Fedora 20, if you
- were wondering), and ideally is libre-licensed software.
+In my case, it also has to run on my Linux distribution (Fedora 20 and soon
+ to be 21, if you were wondering), and is ideally libre-licensed software.
  Fortunely, the first requirement almost always guarantees the second.
  It's also important (to me) that my software generates freely-formatted
  files that don't require specialized software for other people to read
@@ -724,7 +729,7 @@ graffito{open to committee debate on this point}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
@@ -782,8 +787,7 @@ graffito{Agood and bad: maybe if it wasn't so easy to download things, I
 Zotero also generates a .bib tex file on command of a given collection.
  The generated .bib, plain-text file contains, in a structured and organized
  way, all of the bibliographic information.
- It's designed to integrate with the incredibly powerful LaTeX system, a
- necessity as well.
+ It's designed to integrate with the incredibly powerful LaTeX system.
 \end_layout
 
 \begin_layout Subsection
@@ -928,15 +932,19 @@ WYSIWYM.
 -LyX intro
 \end_layout
 
+\begin_layout Standard
+Generally, 
+\end_layout
+
 \begin_layout Subsection
-git and versioning
+git and version control
 \end_layout
 
 \begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
-[the wikipedia definition] is 'Version control is a system that records
+[The wikipedia definition] is 'Version control is a system that records
  changes to a file or set of files over time so that you can recall specific
  versions later.' We all deal with version control issues.
  I would guess that anyone reading this has at least one file on their computer
@@ -1621,14 +1629,16 @@ ion that could be easily employed.
 It's also been really interesting to see the conversations that come up
  -- people are either completely uninterested, or very very interested in
  sharing ideas and tools to make science more open and more usable.
+ None of the tools that exist so far are really 
+\emph on
+perfect
+\emph default
+ - one friend is uploading all of her data to Dropbox.
+ She has a terabyte of storage because she has a friend.
  
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -1646,16 +1656,11 @@ bibname{References}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "critically-open-neuroscience"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 

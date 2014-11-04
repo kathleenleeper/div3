@@ -251,7 +251,7 @@ bibname{References}
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "Bibliography,critically-open-neuroscience"
+bibfiles "critically open neuroscience"
 options "plainnat"
 
 \end_inset
