@@ -1,0 +1,398 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass tufte-handout
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+introduction
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gorelick2014"
+
+\end_inset
+
+indigenous sciences cnstrued as pseudo-, despite sophistication and nuance
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Cajete's 2000 
+\emph on
+Native Science
+\emph default
+ and Pierotti's 2011 
+\emph on
+Indigenous knowledge
+\end_layout
+
+\end_inset
+
+, and are dismissed as heterodox because of socially, economically, and
+ politically dominant Europeans are.
+ Indigenous peoples still exist in large and flourishing numbers; at the
+ time of colonization, Europeans had an almost negligible technological
+ superiority to indigenous North Americans.
+\end_layout
+
+\begin_layout Standard
+In practical ways, North American sciences have surpassed western -- much
+ more is known about Greenland sharks by Inuit fisherman than westerners.
+\end_layout
+
+\begin_layout Quote
+Several traditional indigenous plant medicines are only collected at night.
+ I suspect that several such plants have CAM photosynthesis, hence are more
+ acidic at night, which can alter efficacies of medicines.
+ Finding plant medicines is often not serendipitous, but a matter of listening
+ to and watching others, including non-human animals.
+ How do I decide when to tap sugar maples (Acer saccharum)? I don’t read
+ a book, look at a calendar, check the weather forecast, or ask commercial
+ producers, but instead watch the grey squirrels (Sciurus carolinensis),
+ which only chew maple buds to release the sugars once the sap is running.
+\end_layout
+
+\begin_layout Standard
+Traditional knowledge rooted in intimacy with the land and generations of
+ observation.
+ Obviously, 
+\begin_inset Quotes eld
+\end_inset
+
+indigenous science
+\begin_inset Quotes erd
+\end_inset
+
+ is far from homogenous, but there are commonalities between many.
+ 
+\end_layout
+
+\begin_layout Subsection
+what is science?
+\end_layout
+
+\begin_layout Standard
+As western philosophers struggle with demarcating science, so do we have
+ trouble with indigenous scienses.
+ For Gorelick, science is 
+\begin_inset Quotes eld
+\end_inset
+
+anything that is Bayesian.
+\begin_inset Quotes erd
+\end_inset
+
+ Both western and indigenous sciences strive for explanation and prediction;
+ both start with prior probabilities, update those with new data, to form
+ auxiliary hypothoses.
+ Gorelick proposes a probability skill for science; that implies no marked
+ demarcation between science and pseudo-.
+\end_layout
+
+\begin_layout Standard
+The typical scientific unit is not a single explanation, but a program of
+ research: a systematic exploration.
+\end_layout
+
+\begin_layout Standard
+Western and indigenous sciences are like Euclidean and non-Euclidean geometry:
+ valid ways of knowing, but starting with different axioms and thus ending
+ with different results.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+in this instance whether zero, one, or an infinite number of parallel lines
+ can go through a given point in two-dimensional space.
+\end_layout
+
+\end_inset
+
+ Not all science, and not all Western science, is reductionist - much is
+ observational and 
+\begin_inset Quotes eld
+\end_inset
+
+still empirical
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Indigenous science is the same way, relying on natural experiments arising
+ 
+\begin_inset Quotes eld
+\end_inset
+
+naturally.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+to a large extent, the idea of a 
+\begin_inset Quotes eld
+\end_inset
+
+natural
+\begin_inset Quotes erd
+\end_inset
+
+ non reductionist experimen seems...a contradiction in terms.
+ Human vision/view is still shaping how and why and when the natural exists
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Science and religions both in business of providing explanations to phenomena;
+ and then extrapolating from those explanations.
+ Indigenous science do this as well: to live off the land requires accurate
+ predictions of environmental conditions and resources - survival depends
+ on it.
+ Knowledge is accumulated through oral storytelling and refinement - training
+ of new generations is similar to the traditions of western teachings to
+ younger scientists.
+\end_layout
+
+\begin_layout Subsection
+what are indigenous sciences?
+\end_layout
+
+\begin_layout Standard
+Indigenous scholars have not made this a quest, although this is possibly
+ a reflection of the local nature of indigenous knowledges; this is opposition
+ to the supposed conformity of Western sciences, relying on standardizing
+ information to share amongst people who don't necessarily live in the same
+ region.
+ 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+HOLY SHIT OPEN ACCESS GLOBAL KNOWLEDGE NO MORE LOCAL KNOWLEDGES OR KNOWLEDGE
+ COMMUNITIES
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+also, synthetic biology and standardized parts
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Alessa, 2009, p 248
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Attempts at definitions, largely Cajete, 
+\emph on
+Native Science
+\end_layout
+
+\begin_layout Itemize
+science as a process, a way of knowing natural world, consisten w/ N.A.
+ languages being verb-based
+\end_layout
+
+\begin_layout Itemize
+verb-based -Potawatomi - 
+\begin_inset Quotes eld
+\end_inset
+
+to be a bay
+\begin_inset Quotes erd
+\end_inset
+
+: a bay is not an inanimate landform, but sloshes with tides and winds in
+ a dynamic shoreline-water-other water-organism relationship
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Verb-based languages are much better for describing relativity and quantum
+ physics than are noun-based languages
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+see Duran, 2007
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+inclusion of spirituality as integral part of sciences
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+vs Popper - explicit exclusion of religion
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+although ofc religion =/= spirituality
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+science and knowledge used interchangeably;
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+indigenous science is almost always relational
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+lack of distinction between observer and bserved: what would ecosystems
+ look like w/o humans? should 
+\begin_inset Quotes eld
+\end_inset
+
+wilderness
+\begin_inset Quotes erd
+\end_inset
+
+ be maintained by indigenous interactions?
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+notion of wilderness is so interesting and so flawed: never existed, and
+ only does now through specific human intervention and policing.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience,/home/feline/Documents/div3/TheThesis/critically-open-neuro"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
