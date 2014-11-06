@@ -1,6 +1,7 @@
 *#
-/unregistered
-/resources
+/unregistered/
+*.tex
+/resources/
 /classes
 *.bib
 #*.lyx#

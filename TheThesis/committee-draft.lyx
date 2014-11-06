@@ -144,29 +144,6 @@ pagestyle{plain}
 \begin_layout Standard
 
 \lang american
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "DirtyTitlepage.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
 \begin_inset ERT
 status open
 
