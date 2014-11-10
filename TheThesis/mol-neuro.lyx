@@ -79,14 +79,13 @@ Serotonin, transcription factors, and differentiation
 
 \begin_layout Standard
 \align right
+
+\series bold
+\size larger
 \begin_inset Quotes eld
 \end_inset
 
-every biological organism 
-\begin_inset Newline newline
-\end_inset
-
-is inherently individual
+every biological organism is inherently individual
 \begin_inset Quotes erd
 \end_inset
 
@@ -95,7 +94,7 @@ is inherently individual
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Section*
 Acronyms
@@ -126,6 +125,22 @@ status open
 
 \backslash
 acro{GPCRs}{G-protein coupled receptors}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{RA}{retinoic acid}
 \end_layout
 
 \end_inset
@@ -2374,12 +2389,9 @@ in vitro
 
 \end_deeper
 \begin_layout Enumerate
-Gata2 affects different 5-HT cluster development differently
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-necessary and sufficient in r1 
+Gata2 affects different 5-HT cluster development differently.
+ It is necessary and sufficient in R1 neurons, and capable of inducing other
+ 5-HT specific TFs in r1.
 \end_layout
 
 \begin_deeper
@@ -2387,7 +2399,10 @@ necessary and sufficient in r1
 capable of inducing other 5-HT specific TFs in r1
 \end_layout
 
-\end_deeper
+\begin_layout Enumerate
+necessary and sufficient in r1 
+\end_layout
+
 \begin_layout Enumerate
 necessary but not sufficient
 \end_layout
@@ -2411,7 +2426,100 @@ poorly understand epistatic relationships
 \end_layout
 
 \end_deeper
+\begin_layout Chapter
+P19 Dif
+\end_layout
+
 \begin_layout Standard
+P19s are derived from rat embryonal teratocarcinoma cells.
+ They retain pluripotency under normal cell culture conditions, and upon
+ application of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RA}
+\end_layout
+
+\end_inset
+
+ differentiate into 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{CNS}
+\end_layout
+
+\end_inset
+
+ cells, including glia, neurns, and fibroblast like cells.
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes erd
+\end_inset
+
+P19s have valuable charactersits -- they are immortal, allowing the creation
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+almost unlimited amounts of material for analysis, and easy to grow and
+ maintain as undifferentiated cells, but can also be efficiently induced
+ to differentiate by manipulation of culture conditions.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Babuska2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+The P19 embryonic carcinoma cell line has proved to be a particularly tractable
+ system for studying neuron and glia differentiation.
+ P19 cells are pluripotent and can be induced to differentiate into derivatives
+ of all three germ layers: endoderm, mesoderm and ectoderm, depending on
+ the nature of chemical inducers and the culture conditions (Runnicki and
+ McBruney, 1987).
+ After treatment with high concentrations of retinoic acid (RA) and aggregation,
+ P19 cells can differentiate into neurons, glia and fibroblast-like cells
+ (Jones-Villeneuve et al., 1982).
+\end_layout
+
+\begin_layout Quote
+RA has also been implicated in the development of vertebrate nervous system
+ in vivo.
+ RA is involved in the stimulation of axon outgrowth, the migration of neural
+ crest cells and the specification of rostrocaudal position in the developing
+ central nervous system (Maden and Holder, 1992).
+ Studies of RA-induced P19 neural differ- entiation have led to the discovery
+ of a number of genes that are important for neural development in vivo
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wei2002"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+text text text 
 \begin_inset Note Note
 status collapsed
 
