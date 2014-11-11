@@ -1,0 +1,191 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass tufte-handout
+\begin_preamble
+\usepackage[acronym]
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset Quotes eld
+\end_inset
+
+from open source to open gov't: a critique of open politics
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Tkacz2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Tracing the proliferation of openness as a political concept, through (re)emerge
+nce in the 1980s and the continuity with older writings (namely Popper).
+ How is it that new movements championing openness have emerged w/in already-ope
+n society?
+\end_layout
+
+\begin_layout Section
+introduction
+\end_layout
+
+\begin_layout Standard
+Openness appear without tensions, without need of clarification or qualification
+ in diverse.
+ What is the 
+\begin_inset Quotes eld
+\end_inset
+
+second coming of the open
+\begin_inset Quotes erd
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Subsection
+the open society
+\end_layout
+
+\begin_layout Standard
+Popper wasn't the first to discuss the 
+\begin_inset Quotes eld
+\end_inset
+
+open society
+\begin_inset Quotes erd
+\end_inset
+
+, but with the publication of 
+\emph on
+The open society and its enemies 
+\emph default
+(1962) brought the political notion of 
+\begin_inset Quotes eld
+\end_inset
+
+poen
+\begin_inset Quotes erd
+\end_inset
+
+ to the masses.
+ Basically, Popper criticizes Plato (a 
+\begin_inset Quotes eld
+\end_inset
+
+closed
+\begin_inset Quotes erd
+\end_inset
+
+ philosopher), for placing philosphers as the knowers of truth about how
+ society should be -- denying individuals in 
+\emph on
+The Republic
+\emph default
+ agency.
+ Any political philosophy based on unchallengeable truth is a 
+\emph on
+closed society
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Social programmes based on unmutable truth or the 
+\begin_inset Quotes eld
+\end_inset
+
+laws of history
+\begin_inset Quotes erd
+\end_inset
+
+ emerge as a fundamental enemy, regardless of their 
+\end_layout
+
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/TheThesis/CriticalOpenNeuro"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

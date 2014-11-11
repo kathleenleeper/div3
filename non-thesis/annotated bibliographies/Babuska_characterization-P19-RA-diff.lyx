@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass tufte-handout
+\begin_preamble
+\usepackage[acronym]
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -69,185 +72,125 @@
 
 \begin_body
 
-\begin_layout Section
-Laboratory Studies: The Cultural Approach to the Study of Science
-\end_layout
-
-\begin_layout Subsection
-origin of laboratory studies
-\end_layout
-
-\begin_layout Description
-laboratory
-\begin_inset space ~
-\end_inset
-
-studies study of STS through direct analysis @ root of knowledge production
-\end_layout
-
-\begin_deeper
-\begin_layout Standard
-hard to unravel facts once they 
-\begin_inset Quotes eld
-\end_inset
-
-set
-\begin_inset Quotes erd
-\end_inset
-
-
+\begin_layout Title
+characterization of P19 cells during RA-induced differentiation
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Cetina1995"
+key "Babuska2010"
 
 \end_inset
 
 
 \end_layout
 
-\end_deeper
-\begin_layout Standard
-unfinished knowledge = province of lab.
- studies: unfinished knowledge
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Hampshire as source of 
-\emph on
-only 
-\emph default
-unfinished knowledge still in production; lends itself to STS
+\begin_layout Abstract
+Characterize P19s during R induced neurodifferentiation by immunocytochemistry
+ and RT qPCR.
+ Differentiation degree can be characterized by levels of gene expression.
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-lab studies: 
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ethnographies of scientific production 
-\end_layout
-
-\begin_layout Itemize
-constructionism 
-\end_layout
-
-\begin_layout Itemize
-notion of laboratory: power of locales in modern society
-\end_layout
-
-\end_deeper
 \begin_layout Section
-laboratories
+introduction
 \end_layout
 
-\begin_layout Itemize
-distinct fom experiments or organization
-\end_layout
-
-\begin_layout Subsection
-experiments
-\end_layout
-
-\begin_layout Itemize
-carried epistemological burden for scientific results/rational belief
-\end_layout
-
-\begin_layout Itemize
-units of 
-\begin_inset Quotes eld
-\end_inset
-
-science
+\begin_layout Standard
+ES cells represent a
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-what is a science unit IRL?
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-defined methodologicaly: testing of theories, exp.
- design, double/blind procedures,etc
-\end_layout
-
-\begin_layout Itemize
-advantages
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-disentangle variables
-\end_layout
-
-\begin_layout Itemize
-controls
-\end_layout
-
-\begin_layout Itemize
-avoid experimenter bias & subjective expectations
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset Flex NewThought
-status open
-
-\begin_layout Plain Layout
-lab studies
-\end_layout
-
-\end_inset
-
- shifted focus away from methodology and towards 
-\emph on
-cultural
-\emph default
- activity of science
-\end_layout
-
-\begin_layout Itemize
-allowed social context to enter w/o ignoring technical content
-\end_layout
-
-\begin_layout Itemize
-shows sci.
- objects as not just manufactured but as political/symbolically construed
+universal stock of spare parts for tissues and organs.
  
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-construed?
-\end_layout
-
+\emph on
+In vitro
+\emph default
+ expriments allow study of cell differentiation and function under 
+\begin_inset Quotes eld
 \end_inset
 
+supervised
+\begin_inset Quotes erd
+\end_inset
 
+ conditions.
+\end_layout
+
+\begin_layout Standard
+P19s have valuable charactersits -- they are immortal, allowing the creation
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+almost unlimited amounts of material for analysis, and easy to grow and
+ maintain as undifferentiated cells, but can also be efficiently induced
+ to differentiate by manipulation of culture conditions.
+ 
+\end_layout
+
+\begin_layout Standard
+Chosen things to look @:
+\end_layout
+
+\begin_layout Itemize
+immunofluorescence
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-via literary techniques of persuasion
+Transcription factor OCT-4 -- pluripotency markers
+\end_layout
+
+\begin_layout Itemize
+FORSE-1 is structurally related to SSEA-1; it labels proliferative cells
+ in the embryonic forebrain and in proximity to the central canal
+\end_layout
+
+\begin_layout Itemize
+MAP-2 is dendrite-specific; one of earlies markers for post-mitotic neurons
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Itemize
+RT qPCR
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+PAX-6 - key factor in CNS patterning and glial cell diff.; transcriptional
+ factor expressied w/region specific pattern.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+absence --> abnormalities in developing cortex, e.g.
+ failure of neuronal migration and altered neuronal cell adhesion
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+MASH-1 expressed in developing PNS and essential in development of autonomic
+ neurons
+\end_layout
+
+\begin_layout Itemize
+GATA-4 - marker in endoderm- and mesoderm-derived lineages; reflects endodermal
+ diff.
+ of pluripotent stem cells
+\end_layout
+
+\begin_layout Itemize
+AFP - alpha-globulin; ensures specific transport and modulation of activisiet
+ of ligands
+\end_layout
+
+\begin_layout Itemize
+Brachyury - encodes TF essential for genesis and maintenance of mesoderm
+ and notochord
+\end_layout
+
+\end_deeper
+\begin_layout Verse
+
+\series bold
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "/home/feline/Documents/div3/TheThesis/CriticalOpenNeuro"

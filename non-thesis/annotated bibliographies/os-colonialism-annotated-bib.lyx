@@ -73,27 +73,9 @@
 Open/science/neocolonialism: annotated bibliography
 \end_layout
 
-\begin_layout Author
-Kathleen Leeper
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\begin_layout Abstract
 
 \series bold
-Jaan
-\begin_inset space ~
-\end_inset
-
-Valsiner, 
-\begin_inset Quotes eld
-\end_inset
-
-'Open Access' and its Social Context: New Colonialism in the Making?
-\begin_inset Quotes erd
-\end_inset
-
- 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Valsiner2006"
@@ -101,9 +83,8 @@ key "Valsiner2006"
 \end_inset
 
 
-\end_layout
+\series default
 
-\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
@@ -138,7 +119,7 @@ transcends
 \end_inset
 
  communication**
-\begin_inset Marginal
+\begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
@@ -151,12 +132,13 @@ transcendence
 
  is p.
  clearly not true, but there's space for an argument that this is the narrative;
- but actually knowing is communication is access
+ but actually knowing is communication is access, but communication still
+ central to progress
 \end_layout
 
 \end_inset
 
-, but communication still central to progress
+
 \end_layout
 
 \begin_layout Subsection
@@ -204,7 +186,7 @@ reorganization
 \emph default
  of the boundary system of scientific communication, and thus the social
  values.
-\begin_inset Marginal
+\begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
@@ -246,8 +228,8 @@ National boundaries disappear in the face of the speed of the Internet,
 \end_inset
 
  
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 BOOM DIRECT HIT
@@ -291,8 +273,8 @@ Current OA movement bears interesting & cyclical resemblances to original
  anonymous readership.
  E-science/open access restores direct communication and potential for extended
  scholarly debate
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 sources sources sources?
@@ -343,8 +325,8 @@ not
 \end_inset
 
  
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 similar to the 
@@ -424,8 +406,8 @@ Who provides resources for the open access journals? The fight for OA is
  this case means internet providers are a major power-holder/participatn
  in author-> reader knowledge transfer.
  
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 new tech leads to re-org in power relations b/t social institutions
@@ -524,7 +506,7 @@ institutional
 \end_inset
 
  scientific capital -- citation index would be institutional capital
-\begin_inset Marginal
+\begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
@@ -535,8 +517,8 @@ except if it's a controversial paper, in which case neither scientist nor
 \end_inset
 
 , whereas basic breakthroughs
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 what counts as a basic breakthrough?
@@ -584,17 +566,16 @@ author pays
 
  model places the burden/control on the funding bodies.
  
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 justificaiton is that publishing channels should be included as an integral
- part of funded research
+ part of funded research.
 \end_layout
 
 \end_inset
 
-.
  
 \series bold
 Freedom = new business models
@@ -619,8 +600,8 @@ Yet here’s the rub: while the "open access" initiative has been focusing
  Technology allows for many new forms of scientific communication, but also
  for many new forms of commercial profit-making from the collective acts
  of symbolic capital creation in the social institution of science.
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 why can't grants cover this? does that just re-center power w/publishers?
@@ -686,8 +667,8 @@ ften to the detriment of critical thought.
 \begin_layout Standard
 minor post-colonial agenda of STS subsumed by describing how formal knowledge/pr
 actice travel and are articulated across cultures
-\begin_inset Marginal
-status collapsed
+\begin_inset Foot
+status open
 
 \begin_layout Plain Layout
 \begin_inset Quotes eld
@@ -699,12 +680,11 @@ formal
 
  - focus is on modern science/tech/medicine associated with W.
  Europe & N.
- America
+ America.
 \end_layout
 
 \end_inset
 
-.
  
 \end_layout
 
@@ -745,7 +725,8 @@ point
 \end_layout
 
 \begin_layout Itemize
-\begin_inset Marginal
+most post-colonial scholars do literary texts
+\begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
@@ -755,7 +736,7 @@ lingering effects of a British imp.
 
 \end_inset
 
-most post-colonial scholars do literary texts
+
 \end_layout
 
 \end_deeper
@@ -823,17 +804,10 @@ tendencies
 HOLY SHIT I DON'T GET IT
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
 \begin_layout Quote
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "/home/feline/Documents/div3/thesis-lyx/critically-open-neuroscience"
+bibfiles "/home/feline/Documents/div3/TheThesis/CriticalOpenNeuro"
 options "plain"
 
 \end_inset

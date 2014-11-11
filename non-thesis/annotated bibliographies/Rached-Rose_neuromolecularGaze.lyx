@@ -69,30 +69,17 @@
 
 \begin_body
 
-\begin_layout Verse
+\begin_layout Title
+The birth of the neuromolecular gaze
+\end_layout
+
+\begin_layout Abstract
 \begin_inset CommandInset citation
-LatexCommand nocite
-key "Abi-Rached2010"
+LatexCommand cite
+key "Abi-Rached2010b"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Verse
-
-\series bold
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience,/home/feline/Documents/div3/TheThesis/critically-open-neuro"
-options "plain"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 long history of brain research; 
 \emph on
 neuroscience
@@ -109,12 +96,12 @@ molecular gaze
  in life sciences
 \end_layout
 
-\begin_layout Standard
+\begin_layout Abstract
 stakeholders mobilized around idea of brain breakthroughs as crucial and
  achievable via collaborative efforts
 \end_layout
 
-\begin_layout Standard
+\begin_layout Abstract
 ***emphasis: 
 \emph on
 neuroscience
@@ -524,6 +511,19 @@ direct
 currently: argument that neuroscience hold key to managment of all manner
  of human activities and experiences -- genuine advance in understanding
  or unwise extrapolation to society of uncertain laboratory sciences?
+\end_layout
+
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/TheThesis/CriticalOpenNeuro"
+options "plain"
+
+\end_inset
+
+
 \end_layout
 
 \end_body

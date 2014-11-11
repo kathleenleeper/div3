@@ -69,39 +69,38 @@
 
 \begin_body
 
-\begin_layout Verse
+\begin_layout Title
+Postcolonial and feminist philosophies of science and technology: convergences
+ and dissonances
+\end_layout
+
+\begin_layout Abstract
 \begin_inset CommandInset citation
-LatexCommand nocite
+LatexCommand cite
 key "Harding2009"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Verse
-
-\series bold
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "/home/feline/Documents/div3/TheThesis/critically open neuroscience,/home/feline/Documents/div3/TheThesis/critically-open-neuro"
-options "plain"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 overlap between agendas of feminist & post colonial STS; complementary fields
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Abstract
+\begin_inset Quotes eld
+\end_inset
+
 Both argue that the perspectives and interests of their particular constituencie
 s are not well served by modern Western science and technology philosophies,
  policies, or practices.
  The global social progress promised by modern Western philosophies of science
  has resulted in economic, political, social, and cultural regress for them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+introduction
 \end_layout
 
 \begin_layout Itemize
@@ -1375,6 +1374,19 @@ The way out of this discouraging fate for hard-working and already beleaguered
 \end_deeper
 \begin_layout Section
 Conclusion
+\end_layout
+
+\begin_layout Verse
+
+\series bold
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/feline/Documents/div3/TheThesis/CriticalOpenNeuro"
+options "plain"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
