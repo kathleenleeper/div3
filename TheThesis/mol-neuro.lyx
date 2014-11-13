@@ -97,7 +97,7 @@ inherently individual
 \end_layout
 
 \begin_layout Section
-Why Serotonin?
+Why serotonin?
 \end_layout
 
 \begin_layout Standard
@@ -1219,6 +1219,359 @@ graffito {as far as cancerous, genetically manipulated, and traumatized
 \end_layout
 
 \begin_layout Section
+P19s
+\end_layout
+
+\begin_layout Standard
+P19s are derived from rat embryonal teratocarcinoma cells.
+ They retain pluripotency under normal cell culture conditions, and upon
+ application of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RA}
+\end_layout
+
+\end_inset
+
+ differentiate into 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{CNS}
+\end_layout
+
+\end_inset
+
+ cells, including glia, neurns, and fibroblast like cells.
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes erd
+\end_inset
+
+P19s have valuable charactersits -- they are immortal, allowing the creation
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+almost unlimited amounts of material for analysis, and easy to grow and
+ maintain as undifferentiated cells, but can also be efficiently induced
+ to differentiate by manipulation of culture conditions.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Babuska2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+The P19 embryonic carcinoma cell line has proved to be a particularly tractable
+ system for studying neuron and glia differentiation.
+ P19 cells are pluripotent and can be induced to differentiate into derivatives
+ of all three germ layers: endoderm, mesoderm and ectoderm, depending on
+ the nature of chemical inducers and the culture conditions (Runnicki and
+ McBruney, 1987).
+ After treatment with high concentrations of retinoic acid (RA) and aggregation,
+ P19 cells can differentiate into neurons, glia and fibroblast-like cells
+ (Jones-Villeneuve et al., 1982).
+\end_layout
+
+\begin_layout Quote
+RA has also been implicated in the development of vertebrate nervous system
+ in vivo.
+ RA is involved in the stimulation of axon outgrowth, the migration of neural
+ crest cells and the specification of rostrocaudal position in the developing
+ central nervous system (Maden and Holder, 1992).
+ Studies of RA-induced P19 neural differ- entiation have led to the discovery
+ of a number of genes that are important for neural development in vivo
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wei2002"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Section
+P19s & Cell lines
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{the rest taken from Bea's Div III, loosely inspired, quoted where
+ necessary}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+model systems
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+humanized model
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{holy shit, humanizing models via gene expression? christ is that
+ ripe for analysis}
+\end_layout
+
+\end_inset
+
+ - introducing human genes to express phenotypes
+\end_layout
+
+\begin_layout Subsubsection
+in vivo - animal models
+\end_layout
+
+\begin_layout Itemize
+assess balance b/t risk and benefit of new therapies before clinical trials
+\end_layout
+
+\begin_layout Itemize
+animals do not experience same types of neurodev.
+ disorders; so how can we represent a human model? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+de/activation of homologous genes
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+drawbacks
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+lack of endogenous neurodegenerative disease
+\end_layout
+
+\begin_layout Itemize
+complex!!
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+i
+\end_layout
+
+\begin_layout Subsection
+Cell types
+\end_layout
+
+\begin_layout Itemize
+primary neurons hard, expensive, don't grow fast; also hard to genetically
+ manipulate
+\end_layout
+
+\begin_layout Itemize
+EC, ES, and iPSC stem cells
+\end_layout
+
+\begin_layout Itemize
+generic stem cell model =/= good, bc of genetic variability in 
+\begin_inset Quotes eld
+\end_inset
+
+humanity
+\begin_inset Quotes erd
+\end_inset
+
+ :( 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+personalized stem cells to test therapies
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+P19s
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+a line of murine
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+ pluripotent embryonal teratocarinoma cells used as model of early neural
+ tube development
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+retain pluripotentiality
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+cardiomyocytes with DMSO
+\end_layout
+
+\begin_layout Itemize
+neural cells with all-trans RA 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{ohh that's why the light/left out overnight is imp.
+ because it isomerizes to cis}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+change cell from malignant to non-malignant via differentiation
+\end_layout
+
+\begin_layout Itemize
+retain normal karyotype 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{no.
+ of chromosomes, for those of us who haven't taken basic bio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+P19 derived neurons
+\end_layout
+
+\begin_layout Itemize
+express NMDA and metabotropic glutamate receptors
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nefzger2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+not AMPA/kainate
+\end_layout
+
+\begin_layout Itemize
+GABA
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+A
+\end_layout
+
+\end_inset
+
+receptors specifcally; starting as excitatory, mature into inhibitory
+\end_layout
+
+\begin_layout Subsection
+Sgnalling pathways? Bea thinks these are important.
+\end_layout
+
+\begin_layout Subsection
+Retinoic acid diff.
+\end_layout
+
+\begin_layout Itemize
+regulation of over 500 protein coding genes
+\end_layout
+
+\begin_layout Itemize
+interacts directly w/DNA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+small, lipophilic molecules
+\end_layout
+
+\begin_layout Itemize
+binds heterodimer of nuclear retinoic acid receptors and modifies transcription
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 The 5-HT system
 \end_layout
 
@@ -1363,7 +1716,21 @@ tional code.
 \end_layout
 
 \begin_layout Section
-Transcription factors: 5-HT progenitor cells
+Transcription factors in 5-HT differentiation 
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+5-HT differentiation
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+in 5-HT progenitor cells
 \end_layout
 
 \begin_layout Standard
@@ -2212,7 +2579,7 @@ Enhancing 5-HT neuron differentiation from ESCs has been most notably achieved
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Nkx2.2
 \end_layout
 
@@ -2272,7 +2639,7 @@ dispensable in r1 5-HT; Nkx2.2 KO neurons derived from r1 are unaffected
 in the absence of Phox2b, adopts a default pathway to promote 5-HT fate
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Ascl1/Mash1 *
 \end_layout
 
@@ -2393,8 +2760,8 @@ sufficient
 Nkx2.2.
 \end_layout
 
-\begin_layout Section
-Transcription factors: ventricular zone & post-mitotic 5-HT neurons
+\begin_layout Subsection
+in the ventricular zone & post-mitotic 5-HT neurons
 \end_layout
 
 \begin_layout Subsubsection
@@ -2482,361 +2849,20 @@ poorly understand epistatic relationships
 \end_layout
 
 \end_deeper
-\begin_layout Section
-P19s
-\end_layout
-
-\begin_layout Standard
-P19s are derived from rat embryonal teratocarcinoma cells.
- They retain pluripotency under normal cell culture conditions, and upon
- application of 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RA}
-\end_layout
-
-\end_inset
-
- differentiate into 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{CNS}
-\end_layout
-
-\end_inset
-
- cells, including glia, neurns, and fibroblast like cells.
- 
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes erd
-\end_inset
-
-P19s have valuable charactersits -- they are immortal, allowing the creation
- of 
-\begin_inset Quotes eld
-\end_inset
-
-almost unlimited amounts of material for analysis, and easy to grow and
- maintain as undifferentiated cells, but can also be efficiently induced
- to differentiate by manipulation of culture conditions.
- 
-\begin_inset Quotes eld
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Babuska2010"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-The P19 embryonic carcinoma cell line has proved to be a particularly tractable
- system for studying neuron and glia differentiation.
- P19 cells are pluripotent and can be induced to differentiate into derivatives
- of all three germ layers: endoderm, mesoderm and ectoderm, depending on
- the nature of chemical inducers and the culture conditions (Runnicki and
- McBruney, 1987).
- After treatment with high concentrations of retinoic acid (RA) and aggregation,
- P19 cells can differentiate into neurons, glia and fibroblast-like cells
- (Jones-Villeneuve et al., 1982).
-\end_layout
-
-\begin_layout Quote
-RA has also been implicated in the development of vertebrate nervous system
- in vivo.
- RA is involved in the stimulation of axon outgrowth, the migration of neural
- crest cells and the specification of rostrocaudal position in the developing
- central nervous system (Maden and Holder, 1992).
- Studies of RA-induced P19 neural differ- entiation have led to the discovery
- of a number of genes that are important for neural development in vivo
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Wei2002"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
-
-\begin_layout Section
-P19s & Cell lines
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito{the rest taken from Bea's Div III, loosely inspired, quoted where
- necessary}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-model systems
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-humanized model
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{holy shit, humanizing models via gene expression? christ is that
- ripe for analysis}
-\end_layout
-
-\end_inset
-
- - introducing human genes to express phenotypes
-\end_layout
-
-\begin_layout Subsubsection
-in vivo - animal models
-\end_layout
-
-\begin_layout Itemize
-assess balance b/t risk and benefit of new therapies before clinical trials
-\end_layout
-
-\begin_layout Itemize
-animals do not experience same types of neurodev.
- disorders; so how can we represent a human model? 
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-de/activation of homologous genes
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-drawbacks
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-lack of endogenous neurodegenerative disease
-\end_layout
-
-\begin_layout Itemize
-complex!!
-\end_layout
-
-\end_deeper
-\begin_layout Subsubsection
-i
-\end_layout
-
-\begin_layout Subsection
-Cell types
-\end_layout
-
-\begin_layout Itemize
-primary neurons hard, expensive, don't grow fast; also hard to genetically
- manipulate
-\end_layout
-
-\begin_layout Itemize
-EC, ES, and iPSC stem cells
-\end_layout
-
-\begin_layout Itemize
-generic stem cell model =/= good, bc of genetic variability in 
-\begin_inset Quotes eld
-\end_inset
-
-humanity
-\begin_inset Quotes erd
-\end_inset
-
- :( 
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-personalized stem cells to test therapies
-\end_layout
-
-\end_deeper
-\begin_layout Subsection
-P19s
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-a line of murine
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-?
-\end_layout
-
-\end_inset
-
- pluripotent embryonal teratocarinoma cells used as model of early neural
- tube development
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-retain pluripotentiality
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-cardiomyocytes with DMSO
-\end_layout
-
-\begin_layout Itemize
-neural cells with all-trans RA 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{ohh that's why the light/left out overnight is imp.
- because it isomerizes to cis}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-change cell from malignant to non-malignant via differentiation
-\end_layout
-
-\begin_layout Itemize
-retain normal karyotype 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{no.
- of chromosomes, for those of us who haven't taken basic bio}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Subsubsection
-P19 derived neurons
-\end_layout
-
-\begin_layout Itemize
-express NMDA and metabotropic glutamate receptors
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Nefzger2011"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-not AMPA/kainate
-\end_layout
-
-\begin_layout Itemize
-GABA
-\begin_inset script subscript
-
-\begin_layout Plain Layout
-A
-\end_layout
-
-\end_inset
-
-receptors specifcally; starting as excitatory, mature into inhibitory
-\end_layout
-
-\begin_layout Subsection
-Sgnalling pathways? Bea thinks these are important.
-\end_layout
-
-\begin_layout Subsection
-Retinoic acid diff.
-\end_layout
-
-\begin_layout Itemize
-regulation of over 500 protein coding genes
-\end_layout
-
-\begin_layout Itemize
-interacts directly w/DNA
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-small, lipophilic molecules
-\end_layout
-
-\begin_layout Itemize
-binds heterodimer of nuclear retinoic acid receptors and modifies transcription
-\end_layout
-
-\end_deeper
-\end_inset
-
-
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

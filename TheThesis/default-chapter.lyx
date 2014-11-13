@@ -660,28 +660,23 @@ Sample section
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-renewcommand
-\backslash
-bibname{References} 
-\end_layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "CriticalOpenNeuro"
+options "plainnat"
 
 \end_inset
 
 
 \end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "critically-open-neuroscience"
-options "plainnat"
 
 \end_inset
 

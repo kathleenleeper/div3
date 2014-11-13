@@ -79,7 +79,7 @@ Open Science
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -198,8 +198,71 @@ end{acronym}
 
 \end_layout
 
+\begin_layout Section
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Why care? 
+\end_layout
+
+\end_inset
+
+Why Do I Care About Open Science?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+I think the movement, generally, is trying to do the right thing.
+ and connects people and researchs
+\end_layout
+
+\begin_layout Plain Layout
+I think technology 
+\emph on
+can
+\emph default
+ be amazingly helpful; I want everybody to have the tools they need/want.
+\end_layout
+
+\begin_layout Plain Layout
+I recognize that science is largely inaccessible, and that technology --
+ 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ technology -- can make it more accessible.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+I think this maybe needs the context of neuroscience.
+ Possibly.
+ At the end though.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
-Definitions & interpretations
+Defining 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -725,21 +788,14 @@ s to share data, information, and knowledge.
 \begin_inset Quotes erd
 \end_inset
 
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{Delfanti2013}, p.
- 5
-\end_layout
+ (
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Delfanti2013"
 
 \end_inset
 
-
+, p 5)
 \end_layout
 
 \begin_layout Standard
@@ -967,7 +1023,23 @@ I don't know yet! But probably I won't like it.
 \end_layout
 
 \begin_layout Subsection
-global definitions
+Global Definitions of 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -998,7 +1070,7 @@ key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
 \end_layout
 
 \begin_layout Section
-Open access and globalization of knowledge
+Globalized and/or indigenous sciences
 \end_layout
 
 \begin_layout Standard
@@ -1044,10 +1116,19 @@ not
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

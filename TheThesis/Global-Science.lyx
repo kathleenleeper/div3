@@ -651,6 +651,10 @@ Autem timeam deleniti usu id.
 
 \end_layout
 
+\begin_layout Chapter
+Representation & Science
+\end_layout
+
 \begin_layout Section*
 Acronyms
 \end_layout
@@ -717,10 +721,6 @@ end{acronym}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Chapter
-Representation & Science
 \end_layout
 
 \begin_layout Standard
@@ -876,13 +876,7 @@ Gender Disparities
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Lariviere2013"
-
-\end_inset
-
- - Bibliometrics: Global gender disparities in science
+bal gender disparities in science
 \end_layout
 
 \begin_layout Quote
@@ -1007,20 +1001,15 @@ Basically, this is quantitive numbers to back up what women ===have been
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{West2013}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "West2013"
 
 \end_inset
 
  published an extremely similar paper in PLoS one the same year, without
- the global analysis component but with even more involved papers.
+ the global analysis component but with even more papers as part of the
+ analysis.
  Their source was the JSTOR corpus, 
 \begin_inset Quotes eld
 \end_inset
@@ -1035,7 +1024,7 @@ status collapsed
 
 
 \backslash
-diacritto{with the mention that publication counts obviously are relevant
+graffito {with the mention that publication counts obviously are relevant
  in 
 \backslash
 emph{tenure} discussions, e.g.
@@ -1054,7 +1043,7 @@ status collapsed
 
 
 \backslash
-diacritto{Also, HUGE points for their methods and reproducibility, e.g.
+graffito {Also, HUGE points for their methods and reproducibility, e.g.
  creating the gender browser and communicating with me about making that
  something to apply to own libraries.}
 \end_layout
@@ -1065,10 +1054,73 @@ diacritto{Also, HUGE points for their methods and reproducibility, e.g.
 \end_layout
 
 \begin_layout Section
+Research Access & Assessment
+\end_layout
+
+\begin_layout Subsection
 Global Citation Indices
 \end_layout
 
 \begin_layout Standard
+Test text
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Wagner2011"
+
+\end_inset
+
+ - Actually apparently this isn't a real problem.
+ As in, only 4% of journals in 
+\emph on
+any
+\emph default
+ country are indexed.
+ Which really just means like, why are we bothering with this?
+\end_layout
+
+\begin_layout Subsection
+effect of open access publishing 
+\emph on
+on
+\emph default
+ access
+\end_layout
+
+\begin_layout Standard
+What is the influence of publishing OA on research attention? It's greatest
+ impact is the development of world participation.
+\end_layout
+
+\begin_layout Quote
+Across sub-fields, the impact of commercial online availability was positive,
+ statistically significant, and on average 40% larger than the OA effect,
+ suggesting that most researchers rely on institutional subscriptions.
+\end_layout
+
+\begin_layout Quote
+The influence of OA was more than twice as strong in the develop- ing world
+ but was less apparent in the very poorest countries where electronic access
+ is limited (Fig.
+ 1D).
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Evans2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Good/bad/always more complicated
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -1086,11 +1138,16 @@ bibname{References}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,critically-open-neuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
