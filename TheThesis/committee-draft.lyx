@@ -202,9 +202,56 @@ cleardoublepage here to avoid problems with pdfbookmark
 \end_layout
 
 \begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+% use 
+\backslash
+cleardoublepage here to avoid problems with pdfbookmark
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
-filename "introduction.lyx"
+filename "science-as-culture.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "Global-Science.lyx"
 
 \end_inset
 
@@ -228,7 +275,7 @@ filename "open-science-musings.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "workflow.lyx"
+filename "mol-neuro.lyx"
 
 \end_inset
 
@@ -240,7 +287,19 @@ filename "workflow.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "mol-neuro.lyx"
+filename "OS-case-study.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "critical-neuro.lyx"
 
 \end_inset
 
