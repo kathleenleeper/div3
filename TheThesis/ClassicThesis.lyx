@@ -223,7 +223,7 @@ filename "Acknowledgments.lyx"
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -248,7 +248,7 @@ filename "Contents.lyx"
 
 \lang american
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -261,7 +261,7 @@ pagenumbering{arabic}
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -278,7 +278,7 @@ cleardoublepage here to avoid problems with pdfbookmark
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -290,9 +290,8 @@ myPart{Introduction}
 \end_inset
 
 
-\end_layout
+\lang english
 
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "introduction.lyx"
@@ -307,7 +306,7 @@ filename "introduction.lyx"
 
 \lang american
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -322,11 +321,21 @@ myPart{Contents}
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "science-as-culture.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "workflow.lyx"
+filename "Global-Science.lyx"
 
 \end_inset
 
@@ -350,7 +359,7 @@ filename "open-science-musings.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "free-software.lyx"
+filename "mol-neuro.lyx"
 
 \end_inset
 
@@ -362,7 +371,7 @@ filename "free-software.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "mol-neuro.lyx"
+filename "critical-neuro.lyx"
 
 \end_inset
 
