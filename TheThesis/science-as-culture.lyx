@@ -75,7 +75,7 @@
 
 \begin_layout Chapter
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Science is a Cultural Artifact
@@ -94,7 +94,30 @@ Science Studies, Feminist Theory, Cultural Studies
 
 \end_layout
 
+\begin_layout Section
+Science as Produced Knowledge: Kuhn, Fleck, and Foucault: 
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Science as Produced Knowledge
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
+Fleck was right.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fleck1981"
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -670,16 +693,58 @@ Autem timeam deleniti usu id.
 \end_inset
 
 
-\begin_inset Note Greyedout
-status open
+\end_layout
 
-\begin_layout Section
-Science as Produced Knowledge: Kuhn, Fleck, and Foucault: 
-\begin_inset Argument 1
-status open
+\begin_layout Standard
+Kuhn was only somewhat right, but he wasn't a Jew in Poland in the early
+ half of the 20th century, and he said it with less actual science, 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kuhn1996"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Thomas Kuhn’s work occupies an awkward and somewhat inexplicable position
+ in the contemporary intellectual environment.
+ Kuhn’s thinking and here I refer specifically and exclusively to the thoughts
+ put forth in The Structure of Scientific Revolutions (SSR)while conceptually
+ worthwhile, erodes quickly under scrutiny.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+-Campbell, Essays on Biological Epistemology, Div III in 2007
+\end_layout
+
+\begin_layout Standard
+Foucault doesn't say enough for me, but (enormous simplification) describes
+ a system that underlies/exists between all knowledges of a certain time
+ period; certain ways of seeing the world.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Foucault1994"
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
 
 \begin_layout Plain Layout
-Science as Produced Knowledge
+I'm not sure this is scientism, persay.
 \end_layout
 
 \end_inset
@@ -687,27 +752,82 @@ Science as Produced Knowledge
 
 \end_layout
 
-\begin_layout Plain Layout
-re: Kuhn, Fleck, Foucault
-\end_layout
-
-\begin_layout Plain Layout
-Science is fake; or rather, it's made in a lab by people -- it's the genesis
- of facts, not discovery
-\end_layout
-
 \begin_layout Section
 Feminist Science Studies: 
 \end_layout
 
+\begin_layout Standard
+Kuhn, Fleck, and Foucault established science as a sociological field of
+ knowing.
+ Feminist science studies --
+\end_layout
+
+\begin_layout Standard
+1970s -- ecofeminism, 
+\emph on
+Silent Spring
+\emph default
+, regular people mobilizing around scientific/corporate damages.
+ Also second wave feminism -- goddesses, hippies? 70s? Science studies converged
+ probabl y with feminist studies/
+\end_layout
+
+\begin_layout Standard
+Whatever, anyay, at some point in the past 30-40 years (mid-1980s?), the
+ aspects of science as constructed narrative appeared, and that 
+\emph on
+mattering
+\emph default
+ happened.
+\begin_inset Note Greyedout
+status collapsed
+
 \begin_layout Plain Layout
+Science wars? Dunno when those were, don't care, don't find them relevant.
+\end_layout
+
+\end_inset
+
+ Feminist voices, or at least the ones most highly lauded today, appeared.
+ Donna Haraway, Sandra Harding, Anne Fausto-Sterling, Evelyn Fox Keller
+ all emerged as analytical voices, no longer willing to give techno/science
+ the benefit of the doubt.
+  A large part of their legacy, and certainly the easiest part of it to
+ swallow, is asking 
+\begin_inset Quotes eld
+\end_inset
+
+Where are the women?
+\begin_inset Quotes erd
+\end_inset
+
+ Often, it asks 
+\begin_inset Quotes eld
+\end_inset
+
+Where are queer folk?
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Where is the rest of the world?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Produced knowledge as a point to analyze: feminist science studies, re:
  Keller, Haraway, Harding, Fausto-Sterling, Roberts
 \end_layout
 
-\begin_layout Plain Layout
-standpoint theory & strong objectivity!
-\end_layout
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
 
 \begin_layout Plain Layout
 women in science: eh, boring
@@ -725,7 +845,7 @@ gender in scientific knowledge: much more interesting and to me, important
 
 \begin_layout Standard
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Section
 Beyond Gender Analyses
@@ -764,19 +884,10 @@ nal questions about queer, colored, trans, feminism/femme/women, poor etc;
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
