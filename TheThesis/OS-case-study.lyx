@@ -73,9 +73,24 @@
 
 \begin_body
 
-\begin_layout Minisec
-\begin_inset Note Note
+\begin_layout Chapter
+Open Science & Serotonin: Case Study
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
 status open
+
+\begin_layout Plain Layout
+I keep an open lab notebook.
+ So what?
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Minisec
 some notes
@@ -651,25 +666,81 @@ Autem timeam deleniti usu id.
 
 \end_layout
 
-\begin_layout Chapter
-Open Science & Serotonin: Case Study
+\begin_layout Standard
+Some thoughts: Since being open is 
+\emph on
+not
+\emph default
+ the same as being accessible, transparent, or even useful (re: 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Slee2013"
+
+\end_inset
+
+
+\emph on
+, Notes against openness
+\emph default
+); anything that wants to accomplish those goals needs a lot more thought
+ and planning.
+ I think open notebooks are only a small component of what sharing procedures
+ is; said differently, 
+\begin_inset Quotes eld
+\end_inset
+
+notebooks
+\begin_inset Quotes erd
+\end_inset
+
+ need redefinining.
+ The open, accessible, etc.
+ notebook online is identical in terms of words, graphics, etc.
+ to my paper notebook -- in many instances, it's even better.
+ It is not, however, 
+\emph on
+complete
+\emph default
+.
+ No one would ever look at my paper notebook and be able to coherently trace
+ protocols as they evolved; at least, not without my help.
+ 
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
-status open
+I think a more ideal situation is 
+\emph on
+not
+\emph default
+ a transfer of paper to electronic.
+ Rather, multiple layers of publication - namely, including methods.
+ Real protocols, but protocols as you might write them out for someone in
+ your lab running an experiment for you, instead of bite-sized uber-simplified
+ 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Plain Layout
-I keep an open lab notebook.
- So what?
-\end_layout
-
+Procedures were performed as described previously.
+\begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
+That would be paired with a record of why changes were made in protocols,
+ in the form of annotations linking back to lab notebook entries on various
+ steps.
+ e.g.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Annealing temperature is 59° based on the [date] gradient PCR and subsequent
+ cloning attempts of [date_1], [date_2]
+\begin_inset Quotes erd
+\end_inset
+
 
 \end_layout
 
