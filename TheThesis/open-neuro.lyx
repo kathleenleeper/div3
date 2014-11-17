@@ -73,9 +73,20 @@
 
 \begin_body
 
-\begin_layout Minisec
+\begin_layout Chapter
+\begin_inset Quotes eld
+\end_inset
+
+Open Neuroscience
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Minisec
 some notes
@@ -649,13 +660,6 @@ Autem timeam deleniti usu id.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Chapter
-Open Neuroscience
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Greyedout
 status collapsed
 
