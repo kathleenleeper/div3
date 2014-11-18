@@ -78,7 +78,25 @@ Critical Neuroscience
 \end_layout
 
 \begin_layout Section
-Historical Neuroscience?
+Notes on a critical analysis
+\end_layout
+
+\begin_layout Standard
+@ Gendered innovations, Sandra Harding talks about problems of gender in
+ science.
+ They come in the form of either not 
+\emph on
+enough
+\emph default
+ attention to gender (seatbelts, heart attacks, stem cells) or 
+\emph on
+too much
+\emph default
+ attention to gender 
+\end_layout
+
+\begin_layout Section
+Historical Neuroscience
 \end_layout
 
 \begin_layout Standard
@@ -686,82 +704,109 @@ key "Abi-Rached2010b"
 \end_layout
 
 \begin_layout Section
-Some questions
+Questions I want to ask (and answer?)
 \end_layout
 
-\begin_layout Itemize
-Do stem cells have sex? 
+\begin_layout Subsection
+Stem Cells and Gender
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-YES.
- They do.
+\begin_layout Standard
+Stem cells: They have a 
+\begin_inset Quotes eld
+\end_inset
+
+sex
+\begin_inset Quotes erd
+\end_inset
+
+, in the sense that there is a chromosomal makeup, and it matters.
  See 
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citeauthor
 key "Ray2008"
 
 \end_inset
 
-
+ and Gendered Innovations.
 \end_layout
 
-\begin_layout Itemize
-also, see http://genderedinnovations.stanford.edu/case-studies/stem_cells.html
+\begin_layout Subsection
+Molecular and genetic reductionism
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
-where does molecular reductionism come from? [genomics]
+\begin_layout Standard
+generally a trend in the sciences, not limited to biomedical.
 \end_layout
 
-\begin_layout Itemize
-where does molecular red.
- lead us?
-\end_layout
-
-\begin_layout Itemize
-can/should we rely on cell studies to give us answers about cognition?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-or therapies, generally
-\end_layout
-
-\begin_layout Itemize
-what do we lose when we make diseases 
+\begin_layout Standard
+Somewhat inherent to 
 \begin_inset Quotes eld
 \end_inset
 
-solvable
+neuroscience
 \begin_inset Quotes erd
 \end_inset
 
- in vitro; what nuances?
+, since the ultimate goal is to reduce function/cognition to a set of circuits/c
+ells/meaningful small and completely circumscribed/understood units.
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
+\begin_layout Standard
+Where does it come from?
+\end_layout
+
+\begin_layout Standard
+What goals and how does reductionism accomplish for us? What is good and
+ not good about applications to neuro? Can and should cell studies be used
+ to 
 \begin_inset Quotes eld
 \end_inset
 
-personalized medicine
+answer
 \begin_inset Quotes erd
 \end_inset
 
- -- still reductionist to genomic/cellular information
+ or explore questions about cognition? What do we lose when we 
+\begin_inset Quotes eld
+\end_inset
+
+solve
+\begin_inset Quotes erd
+\end_inset
+
+ disease in vitro? 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+/graffito {A sensible research strategy (isolationism/reducitonism) becomes
+ a metaphysical commitment to a system, where the system is reality.
+ For us, cell lines are indicative of some reality.
+ It's plausible that scientists themselves know their work to be missing
+ enormous sweeps of holistic knowledge, but any written work rarely acknowledges
+ it.
+ Grants and papers imply and argue, point-blank that molecular work is the
+ answer to XYZ -- and not just the answer, but the problem to be studied
+ as well.}
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
-model systems as a philosoph
+\end_inset
+
+
 \end_layout
 
-\end_deeper
+\begin_layout Standard
+Personalized medicine; or personalized neuroscience is still a way of reducing
+ the individual to the cellular and genomic information, without accounting
+ for personhood.
+ Personalized medicine in its current information is the exact opposite
+ of feminist medicine.
+\end_layout
+
 \begin_layout Section
-some thoughts and stuff
+Baby Critical Thoughts
 \end_layout
 
 \begin_layout Standard
@@ -773,8 +818,11 @@ key "Choudhury2011"
 
 \end_inset
 
-, in the introduction to Critical Neuro.
- say propose 
+, in the introduction to 
+\emph on
+Critical Neuroscience 
+\emph default
+propose 
 \begin_inset Quotes eld
 \end_inset
 
@@ -782,13 +830,31 @@ interdisciplinary
 \begin_inset Quotes erd
 \end_inset
 
- as a code word for scientism.
- Neuroscience is a scientific-only approach to a centuries old question
- of consciousness/humanity/what it is -- or at least that's what we want
- to think about neuroscience.
- Potentially, and largely, missing out on a holistic embedded version of
- humanity.
- I think relevant is 
+ as a code word for scientism; and neuroscience, the field, was deliberately
+ named, funded, and institutionalized to lie at the intersection of complementar
+y disciplines.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Abi-Rached2010b"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Neuroscience is a scientific approach to a centuries old question of consciousne
+ss and/or what makes us human promising, at long last, success.
+ At the very least, that's what the most high-profile members of the neuroscient
+ific community imply.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+I think relevant is 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Gorelick2014"
@@ -869,26 +935,7 @@ key "Kirmayer2006,Pickersgill2009"
 \end_layout
 
 \begin_layout Standard
-A sensible research strategy (isolationism/reducitonism) becomes a metaphysical
- 
-\emph on
-commitment 
-\emph default
-to a system, where the system 
-\emph on
-is 
-\emph default
-reality.
- For us, cell lines are indicative of some reality.
- It's plausible that scientists themselves know their work to be misisng
- enormous sweeps of holistic knowledge, but any written work rarely acknowledges
- it.
- Grants and papers imply and argue that molecular work is 
-\emph on
-the
-\emph default
- answer to XYZ -- and not just the answer, but the problem.
- See the 
+See the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -945,10 +992,6 @@ free market forces
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -966,16 +1009,11 @@ bibname{References}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
