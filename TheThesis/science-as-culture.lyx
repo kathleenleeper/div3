@@ -753,10 +753,25 @@ I'm not sure this is scientism, persay.
 \end_layout
 
 \begin_layout Section
-Feminist Science Studies: 
+Science Studies: 
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {
+\backslash
+emph{Section Goal:} Produced knowledge as a point to analyze: feminist science
+ studies, re: Keller, Haraway, Harding, Fausto-Sterling, Roberts}
+\end_layout
+
+\end_inset
+
 Kuhn, Fleck, and Foucault established science as a sociological field of
  knowing.
  Feminist science studies --
@@ -820,9 +835,121 @@ Where is the rest of the world?
 
 \end_layout
 
+\begin_layout Subsection
+Feminism ≠ Gender/Women
+\end_layout
+
 \begin_layout Standard
-Produced knowledge as a point to analyze: feminist science studies, re:
- Keller, Haraway, Harding, Fausto-Sterling, Roberts
+\begin_inset Quotes eld
+\end_inset
+
+Feminism
+\begin_inset Quotes erd
+\end_inset
+
+ and/or 
+\begin_inset Quotes eld
+\end_inset
+
+feminist
+\begin_inset Quotes erd
+\end_inset
+
+ is usually linked to 1970's bra burning and the Equal Rights Amendment,
+ or to 1920's suffragists and the 
+\emph on
+Iron Jawed Angels
+\emph default
+ movie.
+ While not an inaccurate portrait of some activists, it's a vast, uncritical,
+ and dismissive characterization of a multifaceted collection of people.
+ To cite the inimitable Donna 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Haraway1994"
+
+\end_inset
+
+ in 
+\emph on
+Cat's Cradle, 
+\emph default
+feminism or feminist studies are:
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+situated knowledges, where the description of the situation is never self-eviden
+t, never simply 
+\begin_inset Quotes eld
+\end_inset
+
+concrete,
+\begin_inset Quotes erd
+\end_inset
+
+ always critical; the kind of standpoint with stakes in showing how 
+\begin_inset Quotes eld
+\end_inset
+
+gender,
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+race,
+\begin_inset Quotes erd
+\end_inset
+
+ or any structured inequality in each interlocking specific instance gets
+ built into the world--i.e., not 
+\begin_inset Quotes eld
+\end_inset
+
+gender
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+race
+\begin_inset Quotes erd
+\end_inset
+
+ as attributes or as properties, but 
+\begin_inset Quotes eld
+\end_inset
+
+racialized gender
+\begin_inset Quotes erd
+\end_inset
+
+ as a practice that builds worlds and objects in some ways rather than others,
+ that gets built into objects and practices and exists in no other way\SpecialChar \ldots{}
+gender
+ and race are built into practice, which is the social, and have no other
+ reality, no origin, no status as properties.
+ \SpecialChar \ldots{}
+questioning representation with a vengeance.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+All that is merely to impress upon a reader that using the word feminism
+ is merely a shortcut to describe an activism and analysis focused on lines
+ between historical power structures and today's societal existence.
+ Gender is merely one of many axes.
 \end_layout
 
 \begin_layout Subsection
@@ -830,13 +957,21 @@ Strong objectivity,
 \end_layout
 
 \begin_layout Standard
-Strong objectivity is not, I think, apparent at first glance; and I think
- Sandra Harding, despite being the named innovater of the term, doesn't
- give us enough to build a support system.
+Strong objectivity is not, I think, apparent at first glance as a concept
+ or even as a useful tools -- Sandra Harding doesn't provide enough concrete
+ demonstrations of the power and implementation of 
+\begin_inset Quotes eld
+\end_inset
+
+strong objectivity
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
-My reworked interpretation of this is based largely on Deboleena
+The reworked of this is based largely on Deboleena 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Roy2004"
@@ -847,7 +982,7 @@ key "Roy2004"
 \emph on
 Feminist theory in science: working toward a practical transformation, 
 \emph default
-with assistance from
+with assistance from Uma
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Narayan2004"
@@ -862,7 +997,10 @@ Perspectives from a Nonwestern Feminist.
 My rebuild is as follows:
 \end_layout
 
-\begin_layout Description
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
 Strut
 \begin_inset space ~
 \end_inset
@@ -871,7 +1009,9 @@ no.
 \begin_inset space ~
 \end_inset
 
-1: What is the simple best intentions of 
+1:
+\series default
+ What is the simple best intentions of 
 \emph on
 scientific 
 \emph default
@@ -880,7 +1020,10 @@ objectivity? The best method to find a truth to helps us/scientists better
  
 \end_layout
 
-\begin_layout Description
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
 Strut
 \begin_inset space ~
 \end_inset
@@ -889,7 +1032,9 @@ no.
 \begin_inset space ~
 \end_inset
 
-2: Does 
+2: 
+\series default
+Does 
 \begin_inset Quotes eld
 \end_inset
 
@@ -899,19 +1044,12 @@ true
 
  objectivity exist? No, because science is made by people.
  
-\begin_inset Note Greyedout
-status open
-
-\begin_layout Plain Layout
-This has been covered before, whatever
 \end_layout
 
-\end_inset
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 
-
-\end_layout
-
-\begin_layout Description
+\series bold
 Strut
 \begin_inset space ~
 \end_inset
@@ -920,7 +1058,9 @@ no.
 \begin_inset space ~
 \end_inset
 
-3: We can better accomplish the 
+3:
+\series default
+ We can better accomplish the 
 \emph on
 goals
 \emph default
@@ -937,8 +1077,8 @@ truth
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
-status open
+\begin_inset Marginal
+status collapsed
 
 \begin_layout Plain Layout
 women in science: eh, boring
@@ -954,15 +1094,11 @@ gender in scientific knowledge: much more interesting and to me, important
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Greyedout
-status collapsed
-
 \begin_layout Section
-Beyond Gender Analyses
+Beyond Gender
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 not so much gender, but how science appears globally, currently.
  specifically sparked by the pen access 
 \begin_inset Quotes eld
@@ -984,21 +1120,25 @@ rescue
  women in former European colonies
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 bored of asking where are women? (not in science) more interested in intersectio
 nal questions about queer, colored, trans, feminism/femme/women, poor etc;
 \end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "cnltx,CriticalOpenNeuro"
+options "plainnat"
 
 \end_inset
 
 
 \end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "CriticalOpenNeuro"
-options "plainnat"
 
 \end_inset
 
