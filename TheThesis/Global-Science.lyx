@@ -734,7 +734,9 @@ purely
 
  numbers standpoint, scientific production is unequally distributed around
  the world and on a variety of axes.
- 
+ This is basic feminist analysis: where are the women? Where are the colonized
+ countries? Where are the black and brown researchers, where are the queer
+ and trans researchers?
 \end_layout
 
 \begin_layout Section
@@ -742,18 +744,26 @@ Developing Countries
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Numbers are boring, but wow, are they depressing.}
+\end_layout
+
+\end_inset
+
+In a retrospective of 5 major medical journals, 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "Sumathipala2004"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-In a retrospective of 5 major medical journals, the authors examined contributio
-ns by 4 geographic areas: the UK, USA, 
+ examined contributions by 4 geographic areas: the UK, USA, 
 \begin_inset ERT
 status open
 
@@ -875,10 +885,6 @@ Some notable variations in the regional data: 2 countries (Japan and Israel)
 Gender Disparities
 \end_layout
 
-\begin_layout Standard
-bal gender disparities in science
-\end_layout
-
 \begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
@@ -896,8 +902,8 @@ softer
 \end_inset
 
  and graduate students in many countries, there are relatively few female
- full professors, and gender inequalities in hiring, earningsg, funding,
- satisfaction and patenting persist.
+ full professors, and gender inequalities in hiring, earning, funding, satisfact
+ion and patenting persist.
 \begin_inset Quotes erd
 \end_inset
 
@@ -915,11 +921,18 @@ highly localized, mono-disciplinary, and dated
 \end_inset
 
 ; they take little account of the rise in collaborative research etc.
- This paper analyzed the relationship between gender and research output
- (authorship), collaboration extent (co-authorships) and scientific impact
- of publications (citation count, according to the Web of Science); 
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lariviere2013"
+
+\end_inset
+
+ analyzed the relationship between gender and research output (authorship),
+ collaboration extent (co-authorships) and scientific impact of publications
+ (citation count, according to the Web of Science); 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -932,8 +945,9 @@ graffito {Web of science, of course, is an extremely flawed way to do this
 
 \end_inset
 
- analyzed >5 million research papers and reviews with more than 27 million
- involved authors, assigning gender using data from Social Security database.
+ The authors analyzed >5 million research papers and reviews with more than
+ 27 million involved authors, assigning gender using data from the Social
+ Security database.
 \end_layout
 
 \begin_layout Standard
@@ -974,26 +988,30 @@ female authorship generally more prevalent in countries and/or states with
 
 \end_deeper
 \begin_layout Enumerate
-impact: when a woman is in prominent position (sole authorship, first-author,
- last-author), paper attracts fewer citations; holds for national and internatio
-nal collaborations
+
+\series bold
+impact:
+\series default
+ when a woman is in prominent position (sole authorship, first-author, last-auth
+or), paper attracts fewer citations; holds for national and international
+ collaborations
 \end_layout
 
 \begin_layout Standard
 There are, of course, major limitations, the biggest one being obvious --
  age has an enormous role to play.
- Many observed trends are likely proxies of a different problem: that women
- aren't making it to the top ranks of sicence, and that those senior ranks
- bear the imprint of previous barriers.
- 
+ Many trends are likely not actually markers of overt discrimination, but
+ rather that women aren't making it to the top ranks of sicence and thus
+ are not in a position to be publishing or collaborating on the mst important
+ papers.
 \end_layout
 
 \begin_layout Standard
-Basically, this is quantitive numbers to back up what women ===have been
- saying for years -- there are barriers, and they are tall.
- In 17% of countries, scientists are equally represented: but fewer than
- 6% Web of Science countries come even close to gender parity in # papers
- published.
+Basically, this is quantitive numbers to back up what women have been saying
+ for years -- there are tall, tall hurdles to jump.
+ In 17% of countries, active scientists are equally represented: but fewer
+ than 6% Web of Science countries come even close to gender parity in #
+ papers published.
 \begin_inset VSpace medskip
 \end_inset
 
@@ -1002,7 +1020,7 @@ Basically, this is quantitive numbers to back up what women ===have been
 
 \begin_layout Standard
 \begin_inset CommandInset citation
-LatexCommand citeauthor
+LatexCommand citealt
 key "West2013"
 
 \end_inset
@@ -1014,7 +1032,11 @@ key "West2013"
 \begin_inset Quotes eld
 \end_inset
 
-a body of academic papers...spanning five centuries.
+a body of academic papers...spanning five centuries
+\begin_inset Quotes erd
+\end_inset
+
+.
  They look at similar variables -- authorship order and overall percentages.
  
 \begin_inset ERT
@@ -1045,7 +1067,9 @@ status collapsed
 \backslash
 graffito {Also, HUGE points for their methods and reproducibility, e.g.
  creating the gender browser and communicating with me about making that
- something to apply to own libraries.}
+ something to apply to individual libraries in reference managers.
+ Secret part of my div that may or may not manifest depending on the cooperation
+ of these authors}
 \end_layout
 
 \end_inset
@@ -1062,20 +1086,26 @@ Global Citation Indices
 \end_layout
 
 \begin_layout Standard
-Test text
 \begin_inset CommandInset citation
-LatexCommand citeauthor
+LatexCommand citealt
 key "Wagner2011"
 
 \end_inset
 
- - Actually apparently this isn't a real problem.
- As in, only 4% of journals in 
+, in 
+\emph on
+Unseen Science: Scholarly Publication in the BRICs but not in the Web of
+ Science
+\emph default
+, examined representation in citation indices and found only 4% of developing
+ countries journals were counted.
+ Luckily, this isn't country specific -- only 4% of journals in 
 \emph on
 any
 \emph default
  country are indexed.
- Which really just means like, why are we bothering with this?
+ Which is not so much an indictment of what countries get indexed, but of
+ impact factors in general.
 \end_layout
 
 \begin_layout Subsection
@@ -1098,7 +1128,7 @@ Across sub-fields, the impact of commercial online availability was positive,
 \end_layout
 
 \begin_layout Quote
-The influence of OA was more than twice as strong in the develop- ing world
+The influence of OA was more than twice as strong in the developing world
  but was less apparent in the very poorest countries where electronic access
  is limited (Fig.
  1D).
@@ -1118,7 +1148,7 @@ Good/bad/always more complicated
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT

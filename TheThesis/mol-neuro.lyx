@@ -75,6 +75,16 @@
 
 \begin_layout Chapter
 Serotonin, transcription factors, and differentiation
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+real science
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -96,13 +106,30 @@ inherently individual
 
 \end_layout
 
+\begin_layout Standard
+But now for some 
+\begin_inset Quotes eld
+\end_inset
+
+real
+\begin_inset Quotes erd
+\end_inset
+
+ science.
+ 
+\end_layout
+
 \begin_layout Section
 Why serotonin?
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -272,6 +299,11 @@ end{acronym}
 
 \end_inset
 
+
+\end_layout
+
+\end_inset
+
 Serotonin is 
 \begin_inset ERT
 status open
@@ -285,8 +317,8 @@ ac{5-HT}
 
 \end_inset
 
-, a monoamine neurotransmitterbinding 14 classes of receptors, all but one
- of which are 
+, a monoamine neurotransmitter binding 14 classes of receptors, all but
+ one of which are 
 \begin_inset ERT
 status open
 
@@ -300,7 +332,7 @@ ac{GPCRs}
 \end_inset
 
 .
- With a wide array of receptors distributed across the brain, nearly every
+ With receptors distributed across most parts of the brain, nearly every
  basic 
 \begin_inset ERT
 status open
@@ -317,18 +349,8 @@ ac{CNS}
  function, including mood, cognition, sleep, pain, motor function and endocrine
  secretion, is in some part modulated by serotonin signalling.
  As such, disruptions in serotonergic transmission is implicated in many
- psychological diseases (eg schizophrenia etc)
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-elaborate
-\end_layout
-
-\end_inset
-
-, as well as some of the mechanisms behind the relevant therapeutic drugs.
- 
+ psychological diseases (eg schizophrenia etc) and their corresponding pharmaceu
+tical treatments.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Millan2008"
@@ -340,7 +362,7 @@ key "Millan2008"
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -348,38 +370,16 @@ status collapsed
 \backslash
 graffito{obviously hallucinogens are what I want to write abut but it's
  very far away from what I'm doing in lab, so not clear on how they'll get
- in yet}
+ in yet.
+ This section is really just a placeholder at the moment.}
 \end_layout
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{also, hella reductionism.
- I don't know if this is BAD though}
-\end_layout
-
-\end_inset
-
-Model systems for serotonergic signalling are fundamental to drug design
- and development for depression and 
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-whatever the other stuff is that serotonin does
-\end_layout
-
-\end_inset
-
-, and in the case of hallucinogenic drugs, present a potential method to
- link molecular and sub-cellular processes to cognition and thought.
+Model systems for serotonergic signalling are fundamental to therapeutic
+ drug design and development, and in the case of hallucinogenic drugs, present
+ a potential method to link molecular and sub-cellular processes to cognition
+ and thought.
  
 \begin_inset Note Note
 status collapsed
@@ -1078,43 +1078,12 @@ ic neurons only.
 Model systems
 \end_layout
 
-\begin_layout Standard
-If I want to study second messenger signalling pathways, transfecting cells
- with the cloned receptor doesn't make sense, because the messenger pathways
- wouldn't necessarily be consistent with fully differentiated neurons --
- or at least that's my current theory and original motivation.
- 
+\begin_layout Subsection
+why model systems are great!
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Current model system options for serotonin 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {and my own experience with CHO cells and flaws in studying receptor
- internalization}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-systems/work with 5-HT2a receptors and flaws? aka why mine is better for
- any reason besides $$
-\end_layout
-
-\begin_layout Plain Layout
-other advantages 
+\begin_layout Itemize
+exclusion of external elements
 \begin_inset ERT
 status collapsed
 
@@ -1130,10 +1099,6 @@ graffito {Bea thought these were important to discuss, but I'm not convinced
 \end_inset
 
 
-\end_layout
-
-\begin_layout Itemize
-exclusion of external elements
 \end_layout
 
 \begin_layout Itemize
@@ -1157,9 +1122,8 @@ specific cell.
 support cells (microglia, astrocytes, etc)
 \end_layout
 
-\end_inset
-
-
+\begin_layout Subsection
+current options
 \end_layout
 
 \begin_layout Standard
@@ -1169,8 +1133,42 @@ Ideally, of course, one uses primary neuron cultures to study signalling
 \end_layout
 
 \begin_layout Standard
+--> other options? Haven't researched this yet mostly.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+conclusion 
+\series default
 Thus, differentation of fast-growing and easy to maintain cells, that nonetheles
-s express a relatively fully functional GPCR signalling intracellular network.
+s express a relatively fully functional GPCR signalling intracellular network
+ is an alternate model for us.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Current model system options for serotonin 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {and my own experience with CHO cells and flaws in studying receptor
+ internalization}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -1187,7 +1185,8 @@ Thus, development of a holistic serotonin model systems -- granted, transgenes
 
 \begin_layout Standard
 The available cell line to me is P19 stem cells, which are known to differentiat
-e into poorly-characterized neuron-like cells with the use of retinoic acid.
+e into relatively poorly-characterized neuron-like cells with the use of
+ retinoic acid.
  The trick is to direct expression towards serotonergic neurons instead
  of 
 \emph on
@@ -1200,10 +1199,9 @@ neurons.
 \emph default
 So how can we manipulate the P19 stem cells earlier in the process? We can
  (hopefully) set cell fate early on via expression of important transcription
- factors in serotonergic differentiation, and then allow cells to develop
- serotonin-receptor GPCR machinery relatively normally.
+ factors in serotonergic differentiation, and then allow
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1215,7 +1213,7 @@ graffito {as far as cancerous, genetically manipulated, and traumatized
 
 \end_inset
 
-
+ cells to develop serotonin-receptor GPCR machinery relatively normally.
 \end_layout
 
 \begin_layout Section
@@ -1251,7 +1249,7 @@ ac{CNS}
 
 \end_inset
 
- cells, including glia, neurns, and fibroblast like cells.
+ cells, including glia, neurons, and fibroblast like cells.
  
 \end_layout
 
@@ -1259,7 +1257,7 @@ ac{CNS}
 \begin_inset Quotes erd
 \end_inset
 
-P19s have valuable charactersits -- they are immortal, allowing the creation
+P19s have valuable characteristics-- they are immortal, allowing the creation
  of 
 \begin_inset Quotes eld
 \end_inset
@@ -1308,9 +1306,6 @@ key "Wei2002"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -1731,6 +1726,19 @@ status open
 
 \begin_layout Subsection
 in 5-HT progenitor cells
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+more neuroanatomy! more signalling pathways!
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

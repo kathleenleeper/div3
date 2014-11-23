@@ -548,10 +548,24 @@ Acronyms
 \end_layout
 
 \begin_layout Section*
-Stuff that's not science
+Non-science Stuff
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{There'll also be an index of terms, I think, but it's not written
+ yet.}
+\end_layout
+
+\end_inset
+
+
 \begin_inset ERT
 status open
 
@@ -664,7 +678,7 @@ end{acronym}
 \end_layout
 
 \begin_layout Section*
-Science
+Science Stuff
 \end_layout
 
 \begin_layout Standard
@@ -692,6 +706,22 @@ status open
 
 \backslash
 acro{GPCRs}{G-protein coupled receptors}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{RA}{retinoic acid}
 \end_layout
 
 \end_inset
@@ -755,7 +785,7 @@ status open
 
 
 \backslash
-acro{vMNs}{ventral motor neurons}
+acro{vMNs}{visceral motor neurons}
 \end_layout
 
 \end_inset

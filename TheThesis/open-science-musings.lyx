@@ -198,6 +198,10 @@ end{acronym}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
 \begin_layout Section
 \begin_inset Argument 1
 status open
@@ -211,17 +215,10 @@ Why care?
 Why Do I Care About Open Science?
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Greyedout
-status collapsed
-
 \begin_layout Plain Layout
-I think the movement, generally, is trying to do the right thing.
- and connects people and researchs
-\end_layout
-
-\begin_layout Plain Layout
-I think technology 
+Generally it's a movement trying to do the right thing, and actively trying
+ to make science more accessible to more people.
+ I think I think technology 
 \emph on
 can
 \emph default
@@ -253,7 +250,7 @@ I think this maybe needs the context of neuroscience.
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 Defining 
 \begin_inset Quotes eld
 \end_inset
@@ -443,15 +440,9 @@ The terminology of and factions within this movement are complex, but, in
 \end_inset
 
  (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{Reagle2012}, 2012
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Reagle2012"
 
 \end_inset
 
@@ -559,6 +550,15 @@ online journal club
 \end_inset
 
 .
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+More examples here: Readcube/Mendeley, collaborative reading sofware
+\end_layout
+
+\end_inset
+
  So open science is frustratingly broad and inconsistent, just like any
  other community.
 \begin_inset Note Note
@@ -571,7 +571,7 @@ ughhhhh i hate definining this so so much
 \end_inset
 
  But there are some commonalities in intent and goals, and from that some
- general open science values can be extrapolated.
+ general open science values can be dissected.
 \end_layout
 
 \begin_layout Section
@@ -598,7 +598,8 @@ ac{FLOSS}
 
 \end_inset
 
- sociological values than the narrower and newer niche of OS.
+ sociological values than the narrower and newer niche of OS, so I draw
+ largely from that.
 \end_layout
 
 \begin_layout Standard
@@ -635,9 +636,10 @@ ac{GPL}
 
 \end_inset
 
- .
+.
  It instead has a narrow focus on access and production of source code -
  the 'practical' benefits of distributed production.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -692,6 +694,21 @@ open
 \emph on
  
 \emph default
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {A lot of the following ideas draw heavily on analyses of the FLOSS
+ movement, because that's where work has been done to some extent.
+ "Open science" isn't nearly as widely talked about or analyzed.}
+\end_layout
+
+\end_inset
+
 The same disavowal (or maybe just lack of acknowledgment) of social values
  seen in open source is apparent in a lot of the open science movement.
  It's not about science helping (or empowering) people, it's about doing
@@ -719,54 +736,24 @@ focused on production.
  to even cheaper laypeople.
 \end_layout
 
-\begin_layout Subsection
-\begin_inset Quotes eld
-\end_inset
-
-Biohackers
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
-\begin_inset ERT
-status open
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-cauthor{Delfanti2013}
+what is the analog to free in science and how can we address that?
 \end_layout
 
 \end_inset
 
-, in 2013, published 
-\begin_inset Quotes eld
-\end_inset
 
-Biohackers: The Politics of Open Science
-\begin_inset Quotes erd
-\end_inset
-
-.
- It lies at the 
-\begin_inset Quotes eld
-\end_inset
-
-the intersection of digital cultures, science communication and science
- and technology studies,
-\begin_inset Quotes erd
-\end_inset
-
- a grouping that bears no little similarity to my own interests.
- Delfanti's book is a delight, and covers in brief detail a number of relevant
- topics.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Section*
+Unsorted [Value/d]Topics
+\end_layout
+
+\begin_layout Subsection
 Lineages of open (science)
 \end_layout
 
@@ -795,12 +782,13 @@ key "Delfanti2013"
 
 \end_inset
 
-, p 5)
+, p.
+ 5)
 \end_layout
 
 \begin_layout Standard
-Open science, in almost all narratives I've seen, does exactly this.
- Drawing on a mystical past where information flowed free (
+Open science rhetoric draws on a mystical past where information flowed
+ free (
 \begin_inset Quotes eld
 \end_inset
 
@@ -808,19 +796,64 @@ In the 17th century, journal publication
 \emph on
 was
 \emph default
- open science!), and in so doing, constructing a seamless narrative where
- open science is part of every major discovery since Newton.
+ open science!
+\begin_inset Quotes erd
+\end_inset
+
+), and in so doing, constructs a seamless narrative where open science is
+ part of every major discovery since Newton.
  Or whoever, pick your scientist.
- The construction of a history lends legitimacy to the moral appeal of the
- movement.
+ The construction of an illustrious history lends legitimacy to the moral
+ appeal of the movement.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Public image management
 \end_layout
 
 \begin_layout Standard
-Delfanti profiles 3 projects in his book:
+Science has an intimate relationship with the media, and both parties use
+ each other as a tool for various goals.
+ The media gets a reputable scientist figure to bolster their claims; the
+ scientist gets a public venue to couch their ideas or goals in objective-but-po
+sitive ways.
+ Open science rhetoric is easy to use for both purposes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Delfanti2013"
+
+\end_inset
+
+, in 2013, published 
+\begin_inset Quotes eld
+\end_inset
+
+Biohackers: The Politics of Open Science
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delfanti2013"
+
+\end_inset
+
+ It lies at the 
+\begin_inset Quotes eld
+\end_inset
+
+the intersection of digital cultures, science communication and science
+ and technology studies,
+\begin_inset Quotes erd
+\end_inset
+
+ a grouping that bears no little similarity to my own interests.
+ His treatment of scientists and their public image management focusses
+ on:
 \end_layout
 
 \begin_layout Enumerate
@@ -870,27 +903,18 @@ Scientific American
 The New York Times
 \emph default
 ) as a way to get the public involved in their work and on their side; public
- pressure, as conveyed by the media, was influential in both their success
- stories.
+ pressure, as created by and/or relayed by the media, was influential in
+ both their success stories.
+ The open science narrative was a tool in both of their toolkits used for
+ different purposes and different effects.
 \end_layout
 
-\begin_layout Standard
-While these are particularly high profile cases, science has an intimate
- relationship with the media, and both parties use each other as a tool
- for various goals.
- The media gets a reputable scientist figure to bolster their claims; the
- scientist gets a public venue to couch their ideas or goals in objective-but-po
-sitive ways.
-\end_layout
-
-\begin_layout Subsubsection
+\begin_layout Subsection
 Corporate uses of open science
 \end_layout
 
 \begin_layout Standard
-Open science, by definition, can be used by anybody for anything.
- That also means corporate entities can borrow methods, tools, and data
- released into the public sphere by government-funded organizations
+Open science, by intent, can be used by anybody for anything.
 \begin_inset ERT
 status collapsed
 
@@ -898,7 +922,25 @@ status collapsed
 
 
 \backslash
-graffito{and other organizations, but...beginning analysis}
+graffito {Interestingly, there's been attempts to implement a copyright
+ license similar to the 
+\backslash
+ac{GPL}, but with a clause of "only ethical consideration"
+\end_layout
+
+\end_inset
+
+ That also means corporate entities can take advantage of the methods, tools,
+ and data released into the public sphere.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Delfanti does not, however, draw on explicit feminist analysis of race and
+ gender in the spheres he discusses.
+ The intricacies of who can or will practice (open) science on a social
+ access are almost entirely absent.
 \end_layout
 
 \end_inset
@@ -907,14 +949,39 @@ graffito{and other organizations, but...beginning analysis}
 \end_layout
 
 \begin_layout Standard
-Delfanti does not, however, draw on explicit feminist analysis of race and
- gender in the spheres he discusses.
- The intricacies of who can or will practice (open) science on a social
- access are almost entirely absent.
+In the free software world, corporate uses aren't bad -- and here, as well,
+ I don't think they're necessarily 
+\emph on
+bad.
+
+\emph default
+ But they do undercut the 
+\begin_inset Quotes eld
+\end_inset
+
+open is good
+\begin_inset Quotes erd
+\end_inset
+
+ in the sense that corporations are notorious for only considering the bottom
+ line.
+ Tnat means any usage of open resources is for the bottom line, and not
+ necessarily for whatever heroic potential purpose open data/science advocates
+ had in mind.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Government uses of open data
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Feminist Open Science(s)
+Creation and Representation
 \end_layout
 
 \begin_layout Subsubsection
@@ -923,15 +990,16 @@ Who gets to create?
 
 \begin_layout Standard
 Generally, white men.
- In the free software world, men outnumber women to a much greater degree
- than in more traditional development structures.
+ In free software communities, men outnumber women to a much greater degree
+ than in more traditional development structures
 \begin_inset CommandInset citation
-LatexCommand citealp
+LatexCommand citep
 key "Nafus2012"
 
 \end_inset
 
- Minorities fare even more poorly.
+; presumably, racial and ethnic minorities fare even more poorly, although
+ there's even less data to supprot that.
 \end_layout
 
 \begin_layout Standard
@@ -977,8 +1045,9 @@ ac{FLOSS}
 
 \end_inset
 
- usually fail to include any ways of dealing with societal differences.
- As a result, misogyny and racism run rampant and often unchecked.
+ usually fail to include any direct safeguards or rules about what kinds
+ of behavior are acceptable.
+ As a result, misogyny and racism run rampant and unchecked.
  
 \begin_inset Note Note
 status collapsed
@@ -1043,7 +1112,7 @@ free
 \end_layout
 
 \begin_layout Standard
-Free software and open science are built on European and U.S.
+Free software and open science are built on European/U.S.
  legal, moral, and social codes.
  Probably and definitely an issue, especially when 
 \begin_inset Quotes eld
@@ -1055,7 +1124,8 @@ open science
 
  is supposed to level the playing field but other communities, sciences,
  etc.
- are actually consulted in how they would like that leveling to be done.
+ aren't actually consulted in how they would like that leveling to be done
+ in the legal sense.
 \end_layout
 
 \begin_layout Standard
@@ -1070,10 +1140,10 @@ key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
 \end_layout
 
 \begin_layout Section
-Globalized and/or indigenous sciences
+Effect on globalized and/or indigenous sciences
 \end_layout
 
-\begin_layout Standard
+\begin_layout Description
 
 \emph on
 If 
@@ -1090,11 +1160,14 @@ scientists
 
 .
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Destroy the idea of a global community of scientists.
- If science is local, there is no homogenous community.
+Again, 
+\emph on
+if
+\emph default
+ science is local, there is no homogenous global community of science/tists.
 \end_layout
 
 \end_inset
@@ -1103,11 +1176,11 @@ Destroy the idea of a global community of scientists.
 \emph on
 if
 \emph default
- we create a system where one of those many sciences is targeted as the
- right one to be spreading, and making access to it the ultimate success
- or bridge to success, local knowledges are crowded out and erased.
+ we create a system where one of those many sciences is designated as the
+ right one to be spreading, and making access to it the ultimate and only
+ bridge to success, local knowledges are crowded out and erased.
  Indigenous sciences lose by virtue of what they are -- non globalized,
- local knowledges -- with no excuse to 
+ local knowledges, with no (monetary, legal) excuse to 
 \emph on
 not
 \emph default
