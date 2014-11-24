@@ -2815,17 +2815,12 @@ defects in neurogenesis generally; early lethality precludes 5-HT specific
 \emph on
 in vitro
 \emph default
- test; KO tissues lack all 5-HT neurons, even in presence of Gata3
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Gata2 affects different 5-HT cluster development differently.
+ test; KO tissues lack all 5-HT neurons, even in presence of Gata3ata2 affects
+ different 5-HT cluster development differently.
  It is necessary and sufficient in R1 neurons, and capable of inducing other
  5-HT specific TFs in r1.
 \end_layout
 
-\begin_deeper
 \begin_layout Enumerate
 capable of inducing other 5-HT specific TFs in r1
 \end_layout
