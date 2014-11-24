@@ -1,0 +1,405 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass tufte-handout
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+New Ecologies
+\end_layout
+
+\begin_layout Author
+Joshua Paul
+\end_layout
+
+\begin_layout Date
+May 2010
+\end_layout
+
+\begin_layout Address
+A Division III with Herb Bernstein
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Knowledge work is being performed continuously.
+ Not of one volume of knowledge, but many unique knowledges, which don't
+ always agree.
+\end_layout
+
+\begin_layout Standard
+Of many worlds, we live and act in a scientized one.
+ 
+\end_layout
+
+\begin_layout Quote
+Even people who fail to agree on the polarized topics of religion, politics,
+ and the like are quick to support the scientific knowledge that provides
+ them with their medicines, transportation, and entertainment.
+\end_layout
+
+\begin_layout Standard
+Consider that our scientific way of knowing is so, so short - but can we
+ even think about our world without science as to explain it?
+\end_layout
+
+\begin_layout Quote
+I am not writing to say that I do not believe in science; I am writing because
+ I know I have no other choice but to believe in it, and this is the feeling
+ that intrigues me\SpecialChar \ldots{}
+ Do I feel this way because science 
+\emph on
+works
+\emph default
+, and I can see its successes all around me?\SpecialChar \ldots{}
+ Just as there are many knowledges
+ and worlds, there may also be many truths, all working in unique ways.
+ A brief reconsideration of the word 
+\emph on
+work
+\emph default
+ might put our scientized beings in a whole new light.
+\end_layout
+
+\begin_layout Standard
+Consider that to work is to work 
+\emph on
+for
+\emph default
+ something or someone; to work for a reason and for a specific tasks.
+ Objects and practices only have value when they accomplish a goal 
+\emph on
+for
+\emph default
+ someone or something.
+ Science is good at creating useful things.
+\end_layout
+
+\begin_layout Standard
+But does it work for everyone?
+\end_layout
+
+\begin_layout Quote
+I do not think I need to argue that high-powered explosives do not work
+ for the people they incinerate, or that the internal combustion engine
+ does not work for the beings experiencing the first effects of climate
+ change.
+ \SpecialChar \ldots{}
+Scientific truths must therefore be considered stakeholder-specific, with
+ regard to the intentions of the user and their definition of 
+\emph on
+work
+\emph default
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+How can pluralities help us better understand current scientized environments?
+ Can science do good?
+\end_layout
+
+\begin_layout Section
+Knowing New Ecologies
+\end_layout
+
+\begin_layout Standard
+We all want to save the world, because we are told the world needs saving.
+ College-educated youth bear that burden; we are sometimes drawn towards
+ the sciences to help save people.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Forgive me if I recount an established tension, a perpetuity, or a “fact
+ of life” that might seem obvious to you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the couorse of performing research, the work becomes harder to justify
+ in local terms.
+ 
+\end_layout
+
+\begin_layout Quote
+I aim to show the ways in which my particular scientific research question
+ becomes only tangentially related to the popularized and somewhat symbolic
+ issues of climate change, invasive species, and the effects of industry
+ and consumption on our environment, but still retains the potential to
+ be legitimized as “good” science.
+ What is the system of values and judgments that allows the scientific enterpris
+e to flourish, but prevents the kind of direct and meaningful application
+ that should be the motivation of knowledge work?
+\end_layout
+
+\begin_layout Subsection
+Performative Questioning
+\end_layout
+
+\begin_layout Standard
+Like a musical performance, research is a knowledge performance.
+ How is the stage set? What separates audience and performer? Who is paying
+ for stage lights and the crew?
+\end_layout
+
+\begin_layout Standard
+In ecology, the question can be far removed from local and people's actual
+ concerns.
+ Tangential relationships to climate change or to human needs are enough
+ to secure scientific acceptance; it doesn't 
+\emph on
+matter
+\emph default
+ if research is socially relevant.
+ Small-scale puzzle-solving activity becomes an ambiguous 
+\emph on
+good.
+ 
+\end_layout
+
+\begin_layout Quote
+Mediated through popular symbols, the destructive actions of industrialized
+ society become concentrated on select issues, naturalized through ecology
+ and its performances, taking on the guise of an ecological or technological
+ puzzle rather than what could easily be construed as a systemic social
+ problem.
+\end_layout
+
+\begin_layout Standard
+In this case, the ecology project conresn the hemlock wooly adelgid, which
+ is currently destroying hemlocks and was transported to North America via
+ international shipping.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+where is the ringing condemnation of the source of the problem? Why do no
+ scientists come outright and say “this invasive species is killing our
+ native trees – we therefore suggest that global corporations start to give
+ a damn when trading internationally?”.
+\end_layout
+
+\begin_layout Standard
+Scientists cannot just abandon their field; a refusal leads to mere fatalist
+ acceptance of the status qu.
+\end_layout
+
+\begin_layout Quote
+Because society does look to the sciences for the answers to our problems,
+ scientists should feel as if they can give answers and make value judgments.
+ I believe that these answers can be simple and straightforward, perhaps
+ even bold and risky.
+\end_layout
+
+\begin_layout Subsection
+Mapping the Performative World
+\end_layout
+
+\begin_layout Standard
+The act of questioning is presented as a linear process.
+ Projects start witha literary review; this initaties one into scientific
+ media and prepares us to decode and then to produce the language and representa
+tions.
+ The text 
+\emph on
+performs
+\emph default
+ knowledge -- performs for each new reader.
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+Obviously this performance we know and freely -- with delight -- acknowledge
+ in fiction and longer literary works; poems sing to us; words have power
+ and in other contexts we acknowledge the role of the physical// text in
+ co-producing with us
+\end_layout
+
+\end_inset
+
+ The reader/audience connects the text/performance to the catalog of shared
+ media, thus 
+\begin_inset Quotes eld
+\end_inset
+
+activating
+\begin_inset Quotes erd
+\end_inset
+
+ the text.
+ If texts are active, and knowledge workers use that to create meaning,
+ a community of trainees should produce the same meanings frm an overlapping
+ set of texts.
+\end_layout
+
+\begin_layout Standard
+The questioning is bounded by previous meanings: boundaries are set by the
+ communities past and ongoing work.
+ Performances are stylized by doing [the method] and meaning [the results].
+ Assumptions about the 
+\begin_inset Quotes eld
+\end_inset
+
+questionable universe
+\begin_inset Quotes erd
+\end_inset
+
+ are 
+\begin_inset Quotes eld
+\end_inset
+
+built in and are indistinguishable from the stage technologies
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+p.
+ 17
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex NewThought
+status open
+
+\begin_layout Plain Layout
+The creative act
+\end_layout
+
+\end_inset
+
+ (science's creative act) must reference a style and a meaning of a social
+ community.
+ Questioning is only valid in the context of a community 
+\begin_inset Marginal
+status collapsed
+
+\begin_layout Plain Layout
+but what about Galileo? Newton? Marie-Curie? Plato? People operating w/o
+ communities.
+ I think they had communities -- e.g.
+ Galileo worked 
+\emph on
+with
+\emph default
+ the church for much of his time.
+ etcetc Marie Curie 
+\emph on
+was
+\emph default
+ recognized.
+ Plato had, I don't know, other philosophers, probably.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Theories as lenses that tell us where to look (Fortun & Bernstein).
+ Theories mediate our 'vision', teling us how and where to look at an altered
+ and constructed nature.
+\end_layout
+
+\begin_layout Standard
+Questins that are allowed are questions that fit.
+ Questions and answers must be produced through the same lens the rest of
+ the community uses.
+\end_layout
+
+\end_body
+\end_document
