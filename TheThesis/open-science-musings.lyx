@@ -916,7 +916,7 @@ Corporate uses of open science
 \begin_layout Standard
 Open science, by intent, can be used by anybody for anything.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -925,7 +925,7 @@ status collapsed
 graffito {Interestingly, there's been attempts to implement a copyright
  license similar to the 
 \backslash
-ac{GPL}, but with a clause of "only ethical consideration"
+ac{GPL}, but with a clause of "only ethical consideration"}
 \end_layout
 
 \end_inset
