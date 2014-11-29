@@ -304,6 +304,16 @@ end{acronym}
 
 \end_inset
 
+
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+OK but aren't there some well defined non-serontergic circuits/functions
+\end_layout
+
+\end_inset
+
 Serotonin is 
 \begin_inset ERT
 status open
@@ -362,7 +372,7 @@ key "Millan2008"
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1082,23 +1092,26 @@ Model systems
 why model systems are great!
 \end_layout
 
-\begin_layout Itemize
-exclusion of external elements
-\begin_inset ERT
-status collapsed
+\begin_layout Standard
+	
+\begin_inset Note Comment
+status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito {Bea thought these were important to discuss, but I'm not convinced
- I *need* to explain why model systems are useful to normal science.
- Normal in the Kuhn sense, obviously}
+Why might model systems be relevant to 
+\emph on
+my
+\emph default
+ science?
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Itemize
+exclusion of external elements
 \end_layout
 
 \begin_layout Itemize
@@ -1181,14 +1194,47 @@ Thus, development of a holistic serotonin model systems -- granted, transgenes
 \end_inset
 
 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+OK but not nearly imaginative or widely enough researched [unreadable stuff]
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The available cell line to me is P19 stem cells, which are known to differentiat
-e into relatively poorly-characterized neuron-like cells with the use of
- retinoic acid.
- The trick is to direct expression towards serotonergic neurons instead
- of 
+e into relatively poorly-characterized neuron-like cells when cultured with
+ a micromolar amount of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RA}
+\end_layout
+
+\end_inset
+
+ in the media.
+ The trick for us, however, is not just the production of neuronal cells,
+ but to direct the line towards serotonergic
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+is serotonergic defined?
+\end_layout
+
+\end_inset
+
+ neurons instead of 
 \emph on
 just 
 \emph default
@@ -1221,7 +1267,17 @@ P19s
 \end_layout
 
 \begin_layout Standard
-P19s are derived from rat embryonal teratocarcinoma cells.
+P19s are derived from rat embryonal teratocarcinoma
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+better def here
+\end_layout
+
+\end_inset
+
+ cells.
  They retain pluripotency under normal cell culture conditions, and upon
  application of 
 \begin_inset ERT
@@ -1297,7 +1353,7 @@ RA has also been implicated in the development of vertebrate nervous system
  RA is involved in the stimulation of axon outgrowth, the migration of neural
  crest cells and the specification of rostrocaudal position in the developing
  central nervous system (Maden and Holder, 1992).
- Studies of RA-induced P19 neural differ- entiation have led to the discovery
+ Studies of RA-induced P19 neural differentiation have led to the discovery
  of a number of genes that are important for neural development in vivo
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1571,6 +1627,16 @@ The 5-HT system
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+fucking christ this section just jesus I'm sorry.
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 

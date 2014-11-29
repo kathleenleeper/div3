@@ -82,9 +82,14 @@ Notes on a critical analysis
 \end_layout
 
 \begin_layout Standard
-@ Gendered innovations, Sandra Harding talks about problems of gender in
- science.
- They come in the form of either not 
+\begin_inset Quotes eld
+\end_inset
+
+Problems
+\begin_inset Quotes erd
+\end_inset
+
+ -- points of analysis -- come in the form of either not 
 \emph on
 enough
 \emph default
@@ -92,7 +97,7 @@ enough
 \emph on
 too much
 \emph default
- attention to gender 
+ attention to gender.
 \end_layout
 
 \begin_layout Section
@@ -683,7 +688,7 @@ Neuroscience
 \end_inset
 
  as a discipline constructs a history tied to Galen and Aristotle and ancient
- Sumerian hieroglyphs, but in it's current state is a product of a reductionist
+ Sumerian hieroglyphs, but in its current state is a product of a reductionist
   
 \begin_inset Quotes eld
 \end_inset
@@ -757,9 +762,9 @@ Where does it come from?
 \end_layout
 
 \begin_layout Standard
-What goals and how does reductionism accomplish for us? What is good and
- not good about applications to neuro? Can and should cell studies be used
- to 
+What goals are there and how does reductionism accomplish them for us? What
+ is good and not good about applications to neuro? Can and should cell studies
+ be used to 
 \begin_inset Quotes eld
 \end_inset
 
@@ -864,6 +869,12 @@ key "Gorelick2014"
 's brief discussion of indigenous sciences as a process, and specifically
  the proposal that science-as-a-process is consistent with a verb-based
  language.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gorelick2014"
+
+\end_inset
+
  
 \begin_inset Quotes eld
 \end_inset
@@ -885,11 +896,11 @@ to be a bay
  To be human or conscious or think is to have a similar dynamic and evolving
  relationship.
  On a very basic level, to be alive is to be in concert with the environment.
- #epigenetics.
+ 
 \end_layout
 
 \begin_layout Standard
-So cellular and molecular neuroscience is missing a great deal of things.
+So cellular and molecular neuroscience is missing a great many things.
 \begin_inset Newline newline
 \end_inset
 
@@ -911,7 +922,7 @@ from soma to society
 \begin_inset Quotes eld
 \end_inset
 
-at rick
+at risk
 \begin_inset Quotes erd
 \end_inset
 
@@ -957,7 +968,7 @@ gene for asthma
 \begin_layout Standard
 Big narratives of simplicity -- simple simple simple, so we can understand.
  Many simple pieces to make a big complex system.
- Hoes this work? Eh, probably not.
+ Does this work? Eh, probably not.
  But what does it do when it doesn't work? How does it go wrong? Or how
  does it go right?
 \end_layout

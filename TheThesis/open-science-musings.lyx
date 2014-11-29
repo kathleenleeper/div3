@@ -860,7 +860,7 @@ the intersection of digital cultures, science communication and science
 The J.
  Craig Venter Institute and J.
  Craig Venter himself, representing venture capitalists and open science
- for monetary and prestige
+ for monetary gain and prestige
 \end_layout
 
 \begin_layout Enumerate
@@ -915,8 +915,31 @@ Corporate uses of open science
 
 \begin_layout Standard
 Open science, by intent, can be used by anybody for anything.
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Following section was commented out -_-.
+ So these are ending Herb coments -- still applicable maybe? Nah.
+ They're just 
+\begin_inset Quotes eld
+\end_inset
+
+are tools actually neutral?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\lang english
+
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
