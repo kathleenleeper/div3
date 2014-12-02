@@ -369,6 +369,33 @@ end{acronym}
 \end_inset
 
 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Joel: I think you should include a 
+\begin_inset Quotes eld
+\end_inset
+
+goal
+\begin_inset Quotes erd
+\end_inset
+
+ of open science - then you can contrast its activity with its aim.
+ If it's 
+\begin_inset Quotes eld
+\end_inset
+
+to help
+\begin_inset Quotes erd
+\end_inset
+
+ (think rice genome) is that actually what it does? how can it do that better?
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -696,7 +723,7 @@ open
 \emph default
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -734,6 +761,19 @@ focused on production.
  Even projects that pitch themselves as a place for citizen scientists can
  be construed as just a way to shift labor from cheap graduate students
  to even cheaper laypeople.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Joel: this!}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -787,6 +827,30 @@ key "Delfanti2013"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Joel: Science became corporate.
+ Open = semi-corporate.
+ Free =/= corporate.
+ Whas was science before corporate? elitics.
+\end_layout
+
+\begin_layout Plain Layout
+The power structure of science has a capitalist value system.
+\end_layout
+
+\begin_layout Plain Layout
+Problem.
+\end_layout
+
+\begin_layout Plain Layout
+There is not money in marginalized underrepped groups.
+\end_layout
+
+\end_inset
+
 Open science rhetoric draws on a mystical past where information flowed
  free (
 \begin_inset Quotes eld
@@ -915,7 +979,6 @@ Corporate uses of open science
 
 \begin_layout Standard
 Open science, by intent, can be used by anybody for anything.
-
 \begin_inset Note Comment
 status collapsed
 
@@ -935,8 +998,6 @@ are tools actually neutral?
 
 \end_inset
 
-
-\lang english
 
 \begin_inset ERT
 status collapsed
