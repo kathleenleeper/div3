@@ -325,13 +325,14 @@
 % subfig nochapters beramono eulermath parts minionpro pdfspacing
 % ********************************************************************
 \usepackage[titles]{tocloft}	% conflicts with \RequirePackage{subfig}
-\usepackage[eulerchapternumbers,beramono,eulermath,subfig,parts]{nm_classicthesis}
+\usepackage[eulerchapternumbers,beramono,eulermath,subfig,parts,drafting]{nm_classicthesis}
 \usepackage{setspace}
 \usepackage{floatpag}
 \usepackage{textcomp}
 \usepackage{prettyref}
 \def\text{} % for tables from matlab matrix2latex function
 % override standard prettyrefs
+\usepackage[symbol,bottom]{footmisc} 
 \newrefformat{ch}{Chapter \ref{#1}}
 \newrefformat{apx}{Appendix \ref{#1}}
 \newrefformat{tab}{Table \ref{#1}}
