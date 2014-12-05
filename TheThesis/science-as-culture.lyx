@@ -99,643 +99,90 @@ Science Studies
 \end_layout
 
 \begin_layout Standard
-
+Both my historical timeline and ideological foundation for science studies
+ starts with Ludwik Fleck's 
 \emph on
-\begin_inset Note Greyedout
-status open
-
-\begin_layout Plain Layout
-Feminst science studies is this and is not this; a definition in halting,
- circumspect manner of Donna Haraway'.
- Sketching tne utlines of what critical science/feminist studies are, 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Kuhn, Fleck, Foucault
-\end_layout
-
-\begin_layout Standard
-Fleck was right, everybody should read his book 
+Genesis and Development of a Scientific Fact
+\emph default
+, originally published in 1935 pre-WWII Germany.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fleck1981"
 
 \end_inset
 
+ Trained as a pathologist and a practicing syphilis researcher, Fleck proposes
+ that scientists are creator of facts,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Summarizing Fleck is going to take some serious work.
+ I'm not sure how specific I should be here, w/r/t page numbers and quotes.}
+\end_layout
+
+\end_inset
+
+ rather than merely passively observing them.
+ He proffers an explanation that certain 
+\emph on
+styles 
+\emph default
+of thinking permeate and circumscribe scientific establishments or groups,
+ and the people within them.
+ Scientific knowledge is only accepted once the evidence been thoroughly
+ vetted and and trimmed and judged acceptable by expemarrts in the field.
+ Facts are then a collaboration between individual, collective, and evidence;
+ they can only exist in a matrix of other beliefs and discoveries about
+ the world.
  
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {More on Fleck to fill in gaps in later drafts}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Minisec
-some notes
-\end_layout
-
-\begin_layout Plain Layout
-this is how you do an acronym! 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-UML
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- then here are some other tricks of the trad
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-these are some marginal notes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-footnotes are normal, more or less
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-enumeration with letters ---
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{aenumerate}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Enumeration with small caps (alpha) 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Second item 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{aenumerate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-then also some other pretty things: 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ie
-\end_layout
-
-\end_inset
-
-, and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-eg
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-UHHHH FILLER HERE
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-myfloatalign
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{tabularx}{
-\backslash
-textwidth}{Xll}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="45col%">
-<column alignment="left" valignment="top" width="20col%">
-<column alignment="left" valignment="top" width="20col%">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-toprule
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-labitur bonorum pri no
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-que vista
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-human
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule
-\end_layout
-
-\end_inset
-
- fastidii ea ius
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-germano
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstratea
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-suscipit instructior
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-titulo
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-personas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule{}
-\end_layout
-
-\end_inset
-
-quaestio philosophia
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-facto
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstrated
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tabularnewline
-\backslash
-bottomrule%
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{tabularx}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Autem timeam deleniti usu id
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:example"
-
-\end_inset
-
-Autem timeam deleniti usu id.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
-Everybody thinks 
+Fleck originally published in German -- the man responsible for translating
+ and publishing the English version is Thomas Kuhn, famed writer of
+\emph on
+ Structures of Scientific Revolution
+\emph default
+.
 \begin_inset CommandInset citation
-LatexCommand citealt
+LatexCommand citep
 key "Kuhn1996"
 
 \end_inset
 
- and 
+
 \emph on
-Structures of Scientific Revolution 
+ 
 \emph default
-is 
+The publication of Kuhn's 
 \emph on
-the
+Structure
 \emph default
- authority on science studies, but my feelings are summarized by one of
- my Div III predecessors:
+ in 1962 is considered a landmark event in philosophy and history of science.
+ He coined the popular usage, and poorly defined, 
+\begin_inset Quotes eld
+\end_inset
+
+paradigm
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Masterman (reference not currently included) cites 21 diff uses of paradigm
+\end_layout
+
+\end_inset
+
+ Kuhn deserves some credit, but my feelings are accurately encapsulated
+ by a previous Div III -
 \end_layout
 
 \begin_layout Quote
@@ -763,8 +210,25 @@ Essays on Biological Epistemology
 , Div III in 2007
 \end_layout
 
+\begin_layout Standard
+Fleck and Kuhn and many of their concurrent or subsequent philosophers,
+ historians, and sociologists of science -- Lorraine Daston and Peter Glison,
+ Feyerabend (
+\begin_inset Quotes eld
+\end_inset
+
+The worst enemy of science
+\begin_inset Quotes erd
+\end_inset
+
+), etc.
+ -- offer compelling arguments that science is not the path to truth, as
+ many of us are taught to believe.
+ Rather, the edifice of scientific knowledge is context- and time-specific.
+\end_layout
+
 \begin_layout Section
-Feminists!
+Feminist Theory
 \end_layout
 
 \begin_layout Standard
@@ -775,7 +239,18 @@ status collapsed
 
 
 \backslash
-graffito {
+graffito {Feminist science studies is this and is not this; a definition
+ in halting, circumspect manner of Donna Haraway'.
+ Sketching the outlines of what critical science/feminist studies are
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
 \backslash
 emph{Section Goal:} Produced knowledge as a point to analyze: a definition
  and brief history maybe? of feminist science studies.
@@ -785,36 +260,40 @@ emph{Section Goal:} Produced knowledge as a point to analyze: a definition
 
 \end_inset
 
-Kuhn and Fleck, and possibly to some extent Foucault, established science
- as a cultural artifact.
-\begin_inset Note Greyedout
+Post-Kuhn, sociological and philosophical explorations of science increased
+ rapidly.
+ The interaction of the new cultural science took root with activists of
+ all shapes and kinds.
+ the 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-(probably, or at least they're the most prominent.
- Info to be minimally filled in later)
+
+
+\backslash
+graffito{Definitely need to read up on histories of feminist/critical science}
 \end_layout
 
 \end_inset
 
- Feminist science studies is partially tied to the 1970s movements.
-\begin_inset Note Greyedout
+.
+ Rather than merely treating science as merely another object of study,
+ efforts began in earnest to examine and define how social biases were part
+ and parcel of knowledge production.
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-(I think?)
+
+
+\backslash
+graffito {Feminist science studies is partially tied to the 1970s movements.
+ Ecofeminism, Silent Spring, regular people mobilizing around scientific
+ and corporate collaborations to fight environmental disaster etc.
+ Second wave feminism}
 \end_layout
 
-\end_inset
-
- Ecofeminism, 
-\emph on
-Silent Spring
-\emph default
-, regular people mobilizing around scientific and corporate collaborations
- to fight environmental disaster etc; generally, looking at ways in which
- science interacted with society.
-\begin_inset Newline newline
 \end_inset
 
 
@@ -839,6 +318,13 @@ graffito {Maybe the science wars were important? Not clear on whether the
  not, of course, always under one name or one set of goals.
  New ways of knowing overlaps with technology and science studies overlaps
  with philosophy of science overlaps with a plethora of other modes of analysis.
+ Activists against white supremacy, patriarchy, heteronormativity found
+ ways to bring those critiques into the powerful imaginative space science
+ has on the public and private imagination.
+\end_layout
+
+\begin_layout Standard
+What I call feminist science studies is the confluence of many things.
 \end_layout
 
 \begin_layout Standard
@@ -1025,8 +511,8 @@ Cat's Cradle
 \end_layout
 
 \begin_layout Standard
-I, of course, use feminist science studies as a shorthand for all of that,
- with the hope that a reader is aware that 
+Feminist science studies as a shorthand for all of that, with the hope that
+ a reader is aware that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1251,31 +737,70 @@ scientific
 truth
 \emph default
  to better manipulate the world.
-\begin_inset ERT
+\begin_inset Foot
 status collapsed
+
+\begin_layout Plain Layout
+Example of a place strong objectivity is easily relevant: At SfN, I saw
+ a poster by a lab that studies
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 
+\backslash
+emph{anorexia}
+\end_layout
+
+\end_inset
+
+ in rats.
+ Their model: female adolescent rats, that are subjected to food deprivation
+ and given access to an exercise wheel; the assumption being that 
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-footnote{Example of a place strong objectivity is easilyrelevant: At SfN,
- I saw a poster by a lab that studies 
+emph{female adolescents}
+\end_layout
+
+\end_inset
+
+ are more susceptible to eating disorders because of some inherent neurobiologic
+al circuit rather than the much more likely fact that young 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
 \backslash
-emph{anorexia} in rats.
- Their model: female adolescent rats, that are subjected to food deprivation
- and given access to an exercise wheel; the assumption being that 
-\backslash
-emph{female adolescents} are more susceptible to eating disorders because
- of some inherent neurobiological circuit rather than the much more likely
- fact that young 
-\backslash
-emph{human} women are subjected to a whole slew of cultural factors.
+emph{human}
+\end_layout
+
+\end_inset
+
+ women are subjected to a whole slew of cultural factors.
  Dumb, bad, scientific models.
  While they may obtain interesting data on what happens when young female
  rats are starved, it's completely irrelevant to anorexia nervosa in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
 \backslash
-emph{humans}.
- }
+emph{humans}
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
