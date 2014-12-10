@@ -29,7 +29,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize 10
-\spacing single
+\spacing onehalf
 \use_hyperref false
 \papersize a4paper
 \use_geometry false
@@ -78,7 +78,7 @@
 status open
 
 \begin_layout Plain Layout
-Introduction: Feminist Science Studies
+IFeminist Science Studies
 \end_layout
 
 \end_inset
@@ -96,7 +96,7 @@ Science Studies, Feminist Theory, Cultural Studies
 
 \begin_layout Standard
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Quotes eld
@@ -113,10 +113,17 @@ hook
 \end_inset
 
 
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:feminist-science-cultural-studies"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-Science Studies 
+Science Studies
 \end_layout
 
 \begin_layout Standard
@@ -763,14 +770,14 @@ Feminist science studies also lets -- and again, demands -- that we ask
  questions on a deeper level, about the nature of the knowledge produced.
  This includes (among many other things),
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
 graffito{This section is fairly weak representationally.
- Mostly women (9/10), but only 3 of the 9 are women of color (African-American,
+ Mostly women (9/11), but only 3 of the 9 are women of color (African-American,
  Asian/American, and Indian).
  }
 \end_layout
@@ -815,18 +822,17 @@ key "Keller1995,Martin1991"
 
 \end_inset
 
-, and the historical complicity between scientific exploration and colonialism,
+ and the historical complicity between scientific exploration and colonialism,
  misogyny, and racism
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Schiebinger1980,Harding2009"
+key "Schiebinger1980,Harding2009,Raskin1987"
 
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 challenging the artifical boundaries between 
 \begin_inset Quotes eld
@@ -848,7 +854,6 @@ key "Subramaniam2009"
 
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 It asks us to look at science as a practice inseparable from culture, and
  what that might mean for knowledge and for scientists as the future producers
@@ -1124,7 +1129,7 @@ gender in scientific knowledge: much more interesting and to me, important
 \end_inset
 
 
-\begin_inset Note Greyedout
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
@@ -1208,8 +1213,203 @@ how
  what did and did not work.
 \end_layout
 
-\begin_layout Subsection
-Chapter Flow
+\begin_layout Section
+What you have to look forward to
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Sketch of regular book introductions with what chapter is going
+ to be about and why.
+ 
+\backslash
+emph{Definitely} needs a lot of work}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:feminist-science-cultural-studies"
+
+\end_inset
+
+ (aka what you just read) describes (in brief) the theoretical logic behind
+ my Div III, explaining why I believe that science is just as much a cultural
+ construct as any other knowledge project, and as a result, why scientists
+ have a serious responsibility to consider their work in the greater context
+ of social issues.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Serotonin,-transcription-factors_mol-neuro"
+
+\end_inset
+
+ is the background to my work -- a 
+\begin_inset Quotes eld
+\end_inset
+
+purely
+\begin_inset Quotes erd
+\end_inset
+
+ scientific description.
+ It describes why I think serotonin systems are important to model and explore,
+ why I care about them, and my attempts to create a way to explore serotonin
+ signalling by manipulation of a stem cell line.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Open-Science"
+
+\end_inset
+
+ explores the growing and heterogenous community of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ advocates, who propose to make science more inclusive, collaborative, and
+ useful, largely via the power of the Internet for sharing.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ is an alluring idea, especially backed with the rhetorical power of 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+; but 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ is not by itself a panacea for the embedded hegemonies within scientific
+ establishments.
+ I am still interested in exploring how some of the potential of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ 
+\emph on
+could
+\emph default
+ be fulfilled given a more deliberate and complex implementation.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Open-Science_casestudy"
+
+\end_inset
+
+ is the follow up to this -- it's a description of my attempts to implement
+ open science proposals into a biological project, and the myriad complications
+ and barriers I've had in doing so.
+ It offers a description of what I think the open science movement is missing
+ in its efforts examines the open science movement with a mind to discover
+ and analyze the values underlying those efforts.
+ Ultimately, I'd propose how a movement hoping to democratize and equalize
+ science desperately needs to consider and account for their values from
+ a (feminist) different standpoint if they'd like to succeed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Representation_Science"
+
+\end_inset
+
+ continues, to some extent, on the same theme, considering
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Not sure where the actual content wrt "representation" should go.
+ continuing reorganization}
+\end_layout
+
+\end_inset
+
+ the representation of the globabl scientific community in open science
+ and science at large.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Critical-Neuroscience"
+
+\end_inset
+
+ is, to some extent, the capstone chapter.
+ It is critical questions about the links between my own areas of interest
+ -- molecular signalling and psychotropic drugs -- and gender, environmental
+ concerns, indigenous rights and colonialism, and race relations.
+ While I don't have answers to any of those questions, asking those questions
+ has (already) helped find d a myriad of ways in which social factors are
+ fundamental parts of my scientific process and questions.
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+Then there will be a conclusion when I finish my div.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
