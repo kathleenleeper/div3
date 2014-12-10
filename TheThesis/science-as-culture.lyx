@@ -121,14 +121,17 @@ Science Studies
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
 graffito {Summarizing Fleck is going to take some serious work.
- I'm not sure how specific I should be here, w/r/t page numbers and quotes.}
+ I'm not sure how specific I should be here, w/r/t page numbers and quotes
+ in 
+\backslash
+emph{Genesis}}
 \end_layout
 
 \end_inset
@@ -142,6 +145,24 @@ Genesis and Development of a Scientific Fact
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fleck1981"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{May include that Fleck was Jewish, working in Ukraine in 1935,
+ and consequently subject to Nazi occupation, as a potential reason his
+ work went hidden for so long.
+ Also because it was 
+\backslash
+emph{radical}.}
+\end_layout
 
 \end_inset
 
@@ -167,24 +188,6 @@ Facts
  made by collaboration between individual, collective, and evidence; they
  only take shape in a matrix of other beliefs and discoveries about the
  world.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{May include that Fleck was Jewish, working in Ukraine in 1935,
- and consequently subject to Nazi occupation, as a potential reason his
- work went hidden for so long.
- Also because it was 
-\backslash
-emph{radical}.}
-\end_layout
-
-\end_inset
-
  
 \end_layout
 
@@ -708,11 +711,11 @@ All that is merely to impress upon a reader that using the word feminism
 Why should literally any biologist care about this?
 \end_layout
 
-\begin_layout Subsection
-Strong Objectivity
-\end_layout
-
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 To the scientists born and raised on a steady diet of objectivity and scientific
  meaning, there's at first glance very little advantage in taking feminist
  or science studies into account.
@@ -727,7 +730,7 @@ do science
 ? In response:
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 While Harding provides a lot of theoretical grandstanding on what strong
  objectivity is, for me it only became clear in the practical context provided
  in Deboleena 
@@ -918,13 +921,9 @@ emph{humans}
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
 
-\emph on
-So, 
-\emph default
-scientists should care about where their work is coming from and where it's
- going.
+
 \begin_inset ERT
 status collapsed
 
@@ -932,15 +931,28 @@ status collapsed
 
 
 \backslash
-graffito{generally missing an analysis and thoughts on thinking about what
- and where your work will 
-\backslash
-emph{go} after you're done with it.}
+graffito {I think finding a framing for a given audience is super important
+ but I don't know how to do it -- the given audience being, of course, a
+ sympathetic-but-unconvinced strict biologist (i.e.
+ John).
+ }
 \end_layout
 
 \end_inset
 
-
+Scientists care about helping people (much of the time, at least), and choose
+ science because it seems like the best way to do so.
+ It can't help people if it's racist, misognystic, and not considerate of
+ how work will be ab/used downstream.
+ Scientists should care about where their work is coming from and where
+ it's goinga, and we 
+\emph on
+need
+\emph default
+ good -- read: concerned and activist -- people everywhere if we want social
+ progress.
+ This div is (hopefully) a road map and detailed exploration into doing
+ (good) value-laden science
 \end_layout
 
 \begin_layout Standard
@@ -1034,8 +1046,13 @@ Point of thesis:
 \end_layout
 
 \begin_layout Standard
-Figure out how to apply all of that stuff to everything else I care about:
- namely, open science, open neuroscience, molecular neuroscience.
+Figure out 
+\emph on
+how
+\emph default
+ to apply all of that stuff to everything else I care about: namely, open
+ science, open neuroscience, molecular neuroscience and then write about
+ what did and did not work.
 \end_layout
 
 \begin_layout Standard
