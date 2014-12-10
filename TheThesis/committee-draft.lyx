@@ -251,18 +251,6 @@ filename "science-as-culture.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "Global-Science.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
 filename "open-science-musings.lyx"
 
 \end_inset
@@ -288,6 +276,18 @@ filename "mol-neuro.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "OS-case-study.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "Global-Science.lyx"
 
 \end_inset
 
