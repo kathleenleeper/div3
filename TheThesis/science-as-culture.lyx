@@ -94,11 +94,45 @@ Science Studies, Feminist Theory, Cultural Studies
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+hook
+\begin_inset Quotes erd
+\end_inset
+
+ here.
+ My div is interesting, I promise
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Science Studies 
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Summarizing Fleck is going to take some serious work.
+ I'm not sure how specific I should be here, w/r/t page numbers and quotes.}
+\end_layout
+
+\end_inset
+
 Both my historical timeline and ideological foundation for science studies
  starts with Ludwik Fleck's 
 \emph on
@@ -111,39 +145,52 @@ key "Fleck1981"
 
 \end_inset
 
- Trained as a pathologist and a practicing syphilis researcher, Fleck proposes
- that scientists are creator of facts,
+ A practicing syphilis researcher and pathologist, Fleck proposes that scientist
+s are the creators of facts, rather than mere passive observers.
+ He proffers an explanation that certain 
+\emph on
+styles 
+\emph default
+of thinking permeate and circumscribe scientific collectives and the people
+ within them.
+ Scientific knowledge is only accepted as true once the evidence been thoroughly
+ vetted, trimmed, mediated, and judged acceptable by experts in the field.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Facts
+\begin_inset Quotes erd
+\end_inset
+
+ are then not so much realities of the world but interpretations of it,
+ made by collaboration between individual, collective, and evidence; they
+ only take shape in a matrix of other beliefs and discoveries about the
+ world.
+ 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito {Summarizing Fleck is going to take some serious work.
- I'm not sure how specific I should be here, w/r/t page numbers and quotes.}
+graffito{May include that Fleck was Jewish, working in Ukraine in 1935,
+ and consequently subject to Nazi occupation, as a potential reason his
+ work went hidden for so long.
+ Also because it was 
+\backslash
+emph{radical}.}
 \end_layout
 
 \end_inset
 
- rather than merely passively observing them.
- He proffers an explanation that certain 
-\emph on
-styles 
-\emph default
-of thinking permeate and circumscribe scientific establishments or groups,
- and the people within them.
- Scientific knowledge is only accepted once the evidence been thoroughly
- vetted and and trimmed and judged acceptable by expemarrts in the field.
- Facts are then a collaboration between individual, collective, and evidence;
- they can only exist in a matrix of other beliefs and discoveries about
- the world.
  
 \end_layout
 
 \begin_layout Standard
-Fleck originally published in German -- the man responsible for translating
- and publishing the English version is Thomas Kuhn, famed writer of
+His ideas re-appear in one of the most well-known historians or sociologists
+ of science, Thomas Kuhn, famed writer of
 \emph on
  Structures of Scientific Revolution
 \emph default
@@ -163,7 +210,19 @@ The publication of Kuhn's
 Structure
 \emph default
  in 1962 is considered a landmark event in philosophy and history of science.
- He coined the popular usage, and poorly defined, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Like with Fleck, not sure how much time Kuhn deserves.}
+\end_layout
+
+\end_inset
+
+ He coined the usage of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -171,7 +230,7 @@ paradigm
 \begin_inset Quotes erd
 \end_inset
 
-.
+ in the incredibly-common, borderline meaningless sense it's used today.
 \begin_inset Foot
 status collapsed
 
@@ -181,8 +240,10 @@ Masterman (reference not currently included) cites 21 diff uses of paradigm
 
 \end_inset
 
- Kuhn deserves some credit, but my feelings are accurately encapsulated
- by a previous Div III -
+ That said, a previous Div III expressed my feelings with regards to at
+ least 
+\emph on
+Structures:
 \end_layout
 
 \begin_layout Quote
@@ -212,19 +273,38 @@ Essays on Biological Epistemology
 
 \begin_layout Standard
 Fleck and Kuhn and many of their concurrent or subsequent philosophers,
- historians, and sociologists of science -- Lorraine Daston and Peter Glison,
- Feyerabend (
-\begin_inset Quotes eld
+ historians, and sociologists of science offer compelling arguments that
+ science is not the path to any kind of truth about the world, as the popular
+ narrative goes.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Don't actually know enough about (non-critical) science studies
+ to make these kinds of judgement, probably, but it's the general impression
+ I get.}
+\end_layout
+
 \end_inset
 
-The worst enemy of science
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+Linking paragraph about how dissatisfying it is to deconstruct science without
+ talking abuot the implications of a value-laden science
+\end_layout
+
 \end_inset
 
-), etc.
- -- offer compelling arguments that science is not the path to truth, as
- many of us are taught to believe.
- Rather, the edifice of scientific knowledge is context- and time-specific.
+ 
 \end_layout
 
 \begin_layout Section
@@ -239,48 +319,45 @@ status collapsed
 
 
 \backslash
-graffito {Feminist science studies is this and is not this; a definition
- in halting, circumspect manner of Donna Haraway'.
- Sketching the outlines of what critical science/feminist studies are
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
-
+graffito {Defining feminist science studies: they are this and not this;
+ a definition in the halting, circumspect manner of Donna Haraway'.
+ Sketching the 
 \backslash
-emph{Section Goal:} Produced knowledge as a point to analyze: a definition
- and brief history maybe? of feminist science studies.
- At the very least a summary of what science studies is or has been and
- what some rough goals}
+emph{outlines} of what critical science/feminist studies are.
+\end_layout
+
+\begin_layout Plain Layout
+
+Also should read up on feminist/critical science studies chronology}
 \end_layout
 
 \end_inset
 
-Post-Kuhn, sociological and philosophical explorations of science increased
- rapidly.
- The interaction of the new cultural science took root with activists of
- all shapes and kinds.
- the 
-\begin_inset ERT
+
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito{Definitely need to read up on histories of feminist/critical science}
+ The interaction of the new cultural science took root with activists of
+ all shapes and kinds.
 \end_layout
 
 \end_inset
 
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 .
  Rather than merely treating science as merely another object of study,
  efforts began in earnest to examine and define how social biases were part
  and parcel of knowledge production.
+\end_layout
+
+\end_inset
+
+
 \begin_inset ERT
 status collapsed
 
@@ -288,66 +365,135 @@ status collapsed
 
 
 \backslash
-graffito {Feminist science studies is partially tied to the 1970s movements.
+graffito {I want to include also that feminist science studies is partially
+ tied to 1970s social movements.
  Ecofeminism, Silent Spring, regular people mobilizing around scientific
  and corporate collaborations to fight environmental disaster etc.
- Second wave feminism}
+ Second wave feminism?}
 \end_layout
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-At some point in the past 30-40 years (mid-1980s?), feminist science happened;
- 
-\begin_inset ERT
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
+from the plato encyclopedia on feminist science studies
+\end_layout
 
+\begin_layout Plain Layout
+Feminist epistemology and philosophy of science studies the ways in which
+ gender does and ought to influence our conceptions of knowledge, the knowing
+ subject, and practices of inquiry and justification.
+ It identifies ways in which dominant conceptions and practices of knowledge
+ attribution, acquisition, and justification systematically disadvantage
+ women and other subordinated groups, and strives to reform these conceptions
+ and practices so that they serve the interests of these groups.
+ Various practitioners of feminist epistemology and philosophy of science
+ argue that dominant knowledge practices disadvantage women by 
+\end_layout
 
-\backslash
-graffito {Maybe the science wars were important? Not clear on whether the
- 90s matter.}
+\begin_layout Enumerate
+(1) excluding them from inquiry, 
+\end_layout
+
+\begin_layout Enumerate
+(2) denying them epistemic authority, 
+\end_layout
+
+\begin_layout Enumerate
+(3) denigrating their “feminine” cognitive styles and modes of knowledge,
+ 
+\end_layout
+
+\begin_layout Enumerate
+(4) producing theories of women that represent them as inferior, deviant,
+ or significant only in the ways they serve male interests, 
+\end_layout
+
+\begin_layout Enumerate
+(5) producing theories of social phenomena that render women's activities
+ and interests, or gendered power relations, invisible, and 
+\end_layout
+
+\begin_layout Enumerate
+(6) producing knowledge (science and technology) that is not useful for
+ people in subordinate positions, or that reinforces gender and other social
+ hierarchies.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Feminist epistemologists trace these failures to flawed conceptions of knowledge
+, knowers, objectivity, and scientific methodology.
+ They offer diverse accounts of how to overcome these failures.
+ They also aim to 
+\end_layout
+
+\begin_layout Enumerate
+(1) explain why the entry of women and feminist scholars into different
+ academic disciplines, especially in biology and the social sciences, has
+ generated new questions, theories, and methods,
+\end_layout
+
+\begin_layout Enumerate
+(2) show how gender and feminist values and perspectives have played a causal
+ role in these transformations, 
+\end_layout
+
+\begin_layout Enumerate
+(3) promote theories that aid egalitarian and liberation movements, and
+ 
+\end_layout
+
+\begin_layout Enumerate
+(4) defend these developments as cognitive, not just social, advances.
+\end_layout
+
+\begin_layout Plain Layout
+The central concept of feminist epistemology is that of a situated knower,
+ and hence of situated knowledge: knowledge that reflects the particular
+ perspectives of the subject.
+ Feminist philosophers are interested in how gender situates knowing subjects.
+ They have articulated three main approaches to this question: feminist
+ standpoint theory, feminist postmodernism, and feminist empiricism.
+ Different conceptions of how gender situates knowers also inform feminist
+ approaches to the central problems of the field: grounding feminist criticisms
+ of science and feminist science, defining the proper roles of social and
+ political values in inquiry, evaluating ideals of objectivity and rationality,
+ and reforming structures of epistemic authority.
+ 
 \end_layout
 
 \end_inset
 
+At some point in the past 30-40 years (mid-1980s?), feminist science happened;
  not, of course, always under one name or one set of goals.
  New ways of knowing overlaps with technology and science studies overlaps
  with philosophy of science overlaps with a plethora of other modes of analysis.
- Activists against white supremacy, patriarchy, heteronormativity found
- ways to bring those critiques into the powerful imaginative space science
- has on the public and private imagination.
+ What I now call feminist science studies emerges out of activists against
+ white supremacy, patriarchy, heteronormativity, and ecological destruction
+ working on ways to both critique science as a social instituion, and ways
+ to build different modes of inquiry.
+ 
 \end_layout
 
 \begin_layout Standard
-What I call feminist science studies is the confluence of many things.
-\end_layout
-
-\begin_layout Standard
-In 1994, the inimitable Donna 
+What I call feminist science studies is then at confluence of many ideas,
+ summed up in Donna Haraway's 1994 
+\emph on
+Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies.
 \begin_inset CommandInset citation
-LatexCommand citealt
+LatexCommand citep
 key "Haraway1994"
 
 \end_inset
 
- published 
-\emph on
-Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies.
  
 \emph default
-She
-\emph on
- 
-\emph default
-defines all three terms, all of which are still applicable for me 20 years
- later and worth reproducing, in part, here, in an effort to define feminist
- science studies.
- 
+Although it is now 20 years old, I draw on the same set of knowledge traditions.
+ As per Haraway, feminist science studies is some combination of: 
 \begin_inset ERT
 status collapsed
 
@@ -511,25 +657,8 @@ Cat's Cradle
 \end_layout
 
 \begin_layout Standard
-Feminist science studies as a shorthand for all of that, with the hope that
- a reader is aware that 
-\begin_inset Quotes eld
-\end_inset
-
-feminist
-\begin_inset Quotes erd
-\end_inset
-
- implies a richer and more complex philosophical tradition than just asking
- 
-\begin_inset Quotes eld
-\end_inset
-
-where are the women?
-\begin_inset Quotes erd
-\end_inset
-
-
+So now that we know what we're dealing with (sort of, although it's a slippery
+ web of concepts), that brings us to: so what? 
 \begin_inset Note Note
 status collapsed
 
@@ -596,25 +725,6 @@ do science
 \end_inset
 
 ? In response:
-\end_layout
-
-\begin_layout Enumerate
-Taking people into account isn't the worst thing in the world.
- 
-\end_layout
-
-\begin_layout Enumerate
-Seen through to the end, doing science with a feminist or value-driven framework
- can turn out better, more robust, traditionally-measured science.
- This is what Sandra Harding calls 
-\begin_inset Quotes eld
-\end_inset
-
-strong objectivity.
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
