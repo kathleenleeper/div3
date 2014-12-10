@@ -96,15 +96,7 @@ graffito{Problems -- points of analysis -- come in the form of either not
 \end_layout
 
 \begin_layout Section
-Historical 
-\begin_inset Quotes eld
-\end_inset
-
-Neuroscience
-\begin_inset Quotes erd
-\end_inset
-
-
+Neuroscience: Turtles All The Way Down
 \end_layout
 
 \begin_layout Standard
@@ -712,7 +704,7 @@ neuroscience
  unrelated subfields.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -746,7 +738,7 @@ sex
 , in the sense that there is a chromosomal makeup, and it matters.
  See 
 \begin_inset CommandInset citation
-LatexCommand citeauthor
+LatexCommand citealt
 key "Ray2008"
 
 \end_inset
@@ -838,12 +830,61 @@ key "Brummett2008"
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+if hallucinogens and signalling differentially affect men and women and
+ different races/ethnicities, then that has to be studied in model systems
+ as to how it might affect plasticity and molecular effects
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+However, the binding of serotonin-2A receptor measured with [ 
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+
+H]ketanserin was significantly higher in females in all regions of the hippocamp
+us.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Zhang1999"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+modulated by testosterone
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Serotonin Model Systems
+\end_layout
+
+\begin_layout Standard
+P19 stem cells are euploid male; if serotonin systems are affected by testostero
+ne (re: Zhang paper), are P19s producing testosterone?
+\end_layout
+
 \begin_layout Section
 Cultural Neuroscience
 \end_layout
 
 \begin_layout Subsection
-Hallucinogens & Cultural Context
+Hallucinogens
 \end_layout
 
 \begin_layout Standard
@@ -865,13 +906,13 @@ reductionism?
  cultural traditions.
  Peyote (active ingredient: mescaline)
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito {A comparison of the plant/spiritual context to the chemical structure
+footnote {A comparison of the plant/spiritual context to the chemical structure
  should go here to demonstrate how we separate them out.
  also re: placebo effect, and the rights of traditional groups to use those
  drugs [re: NA church lawsuits], and also the danger of deforestation and
@@ -888,7 +929,7 @@ emph{traditional} methods of harvesting plants -- making them only available
  successfully fought for in court.
  Ayahuasca (active ingredient: 
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Plain Layout
 dunno this
@@ -897,14 +938,23 @@ dunno this
 \end_inset
 
 ) is a traditional South American 
-\begin_inset ERT
+\begin_inset Note Note
 status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
 graffito {Talk to Otto's friend about his experiences? And access?}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -935,10 +985,72 @@ graffito {Source for ergot and historical significance}
 
 \end_layout
 
-\begin_layout Section
-Neuroscientific 
+\begin_layout Standard
+On a related note -- how presumptuous to take drugs from indigenous cultures
+ and push them into the laboratory.
+ Is plasticity and all of the signalling mechanisms relevant if the experience
+ isn't included? Hallucinogens are notoriously sensitive to situation --
+ or rather, individual interpretations of a situation.
+ The quality (and thus long term effects) of a psychotropic experience is
+ created through the 
 \emph on
-thoughtstyles
+interplay
+\emph default
+ between environment and individual; like facts, it doesn't wholly reside
+ in either, or even at the mere intersection.
+ Trying to pull that out in a lab environment, is, as Fleck describes, not
+ just a translation of information from one knowledge realm to another,
+ but a full fledged transformation such that the ayahuasca in the lab is
+ only nominally related to ayahuasca in practice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+psychotropics are a metaphor for preception -- you can have a good or bad
+ trip not based on thecontext of the orld, but hw you PERCEIVE that context
+ -- local trip -- different people think differently about their world and
+ so they literally perceive the same tevents differently -- heightened by
+ psychotropics
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+re fleck and knowldege 
+\emph on
+changing
+\emph default
+ as it moves up the expert chain -- we say we're studying the 
+\begin_inset Quotes eld
+\end_inset
+
+active ingredient
+\begin_inset Quotes erd
+\end_inset
+
+ as if we've isolated the heart-- really made it clear what's 
+\emph on
+actually
+\emph default
+ 'active' or -- but actually we're studying something 
+\emph on
+completely
+\emph default
+ different
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Neuroscientific thoughtstyles
 \end_layout
 
 \begin_layout Subsection
@@ -995,7 +1107,7 @@ status open
 
 
 \backslash
-graffito {A sensible research strategy (isolationism/reducitonism) becomes
+footnote {A sensible research strategy (isolationism/reducitonism) becomes
  a metaphysical commitment to a system, where the system is reality.
  For us, cell lines are indicative of some reality.
  It's plausible that scientists themselves know their work to be missing
@@ -1016,8 +1128,17 @@ graffito {A sensible research strategy (isolationism/reducitonism) becomes
 Personalized medicine; or personalized neuroscience is still a way of reducing
  the individual to the cellular and genomic information, without accounting
  for personhood.
- Personalized medicine in its current information is the exact opposite
- of feminist medicine.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Personalized medicine
+\begin_inset Quotes erd
+\end_inset
+
+ is not actually personalized; it's genomic.
+ Relying on genetic information to give meaningful information about health
+ care and responses is hardly specific to an individual's needs and abilities.
 \begin_inset Note Comment
 status collapsed
 
@@ -1040,7 +1161,7 @@ not all white men from Europe
 \end_layout
 
 \begin_layout Section
-Baby Critical Thoughts
+interdisciplinary studies
 \end_layout
 
 \begin_layout Standard
@@ -1085,9 +1206,10 @@ ific community imply.
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
+\begin_inset Note Note
+status collapsed
 
+\begin_layout Plain Layout
 I think relevant is 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
@@ -1128,9 +1250,10 @@ to be a bay
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 So cellular and molecular neuroscience is missing a great many things.
-\begin_inset Newline newline
+\end_layout
+
 \end_inset
 
 
@@ -1155,36 +1278,13 @@ at risk
 \begin_inset Quotes erd
 \end_inset
 
- populations, incorporating social culture into scientific dogma.
+ populations, incorporating social culture into scientific dogma as a fixed
+ factor.
  -- 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Kirmayer2006,Pickersgill2009"
 
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-See the 
-\begin_inset Quotes eld
-\end_inset
-
-gene for asthma
-\begin_inset Quotes erd
-\end_inset
-
- for why this is obviously wildly incorrect.
-\begin_inset Newline newline
 \end_inset
 
 
@@ -1203,6 +1303,10 @@ Big narratives of simplicity -- simple simple simple, so we can understand.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 There's some arguments about neoliberalism and reductionism.
  I hear a lot of usage of 
 \begin_inset Quotes eld
@@ -1231,11 +1335,25 @@ free market forces
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
