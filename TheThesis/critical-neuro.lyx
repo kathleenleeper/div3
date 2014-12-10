@@ -77,31 +77,34 @@
 Critical Neuroscience
 \end_layout
 
-\begin_layout Section
-Notes on a critical analysis
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Problems -- points of analysis -- come in the form of either not
+ enough attention to gender (seatbelts, heart attacks, stem cells) or too
+ much attention to gender.}
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Historical 
 \begin_inset Quotes eld
 \end_inset
 
-Problems
+Neuroscience
 \begin_inset Quotes erd
 \end_inset
 
- -- points of analysis -- come in the form of either not 
-\emph on
-enough
-\emph default
- attention to gender (seatbelts, heart attacks, stem cells) or 
-\emph on
-too much
-\emph default
- attention to gender.
-\end_layout
 
-\begin_layout Section
-Historical Neuroscience
 \end_layout
 
 \begin_layout Standard
@@ -688,20 +691,35 @@ Neuroscience
 \end_inset
 
  as a discipline constructs a history tied to Galen and Aristotle and ancient
- Sumerian hieroglyphs, but in its current state is a product of a reductionist
-  
-\begin_inset Quotes eld
-\end_inset
-
-molecular gaze
-\begin_inset Quotes erd
-\end_inset
-
-.
- 
+ Sumerian hieroglyphs,
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Abi-Rached2010b"
+
+\end_inset
+
+.
+ More realistically, 
+\begin_inset Quotes eld
+\end_inset
+
+neuroscience
+\begin_inset Quotes erd
+\end_inset
+
+ isn't a discipline, but rather an enormous oversimplication because, well,
+ the field of neuroscience covers an extremely broad range of borderline
+ unrelated subfields.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Disciplines aren't real, basically.}
+\end_layout
 
 \end_inset
 
@@ -709,7 +727,7 @@ key "Abi-Rached2010b"
 \end_layout
 
 \begin_layout Section
-Questions I want to ask (and answer?)
+Feminist Serotonin Studies
 \end_layout
 
 \begin_layout Subsection
@@ -736,15 +754,203 @@ key "Ray2008"
  and Gendered Innovations.
 \end_layout
 
+\begin_layout Standard
+P19s are karotypically 'male' -- i.e.
+ XY.
+ This has consequences for how they differentiate and how they signal, especiall
+y 
+\end_layout
+
+\begin_layout Subsection
+Serotonin & Gender/Race
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+ 
+\backslash
+graffito{Questioning the use of race as a categorization without defining
+ what is 
+\backslash
+emph{meant} by race, re feminist/womanist analyses of the use of racial
+ categories in medicine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+serotonin receptors are differentially distributed and have different activation
+ levels in male vs.
+ female rats 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Li2000,Carlsson1988,Liechti2001,Zhang1999"
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+especially the 5-HT2
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+a 
+\end_layout
+
+\end_inset
+
+receptor, implicated in hallucinogen signalling
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+pharmacogenetics are differential along racial and gender lines
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Murphy2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+depression (associated with the 5-HT system, among others) shows different
+ responses along racial and gender lines
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brummett2008"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Cultural Neuroscience
+\end_layout
+
+\begin_layout Subsection
+Hallucinogens & Cultural Context
+\end_layout
+
+\begin_layout Standard
+Psychotropic drugs have a rich and important history of spiritual and mental
+ use in nearly every human culture.
+ It seems that any and every culture has sought new insights and views with
+ the help of native pharmacological agents.
+ Although largely reduced now to their chemical structure
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+reductionism?
+\end_layout
+
+\end_inset
+
+ in the labs funded by the NIH, most of the compounds derive from different
+ cultural traditions.
+ Peyote (active ingredient: mescaline)
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {A comparison of the plant/spiritual context to the chemical structure
+ should go here to demonstrate how we separate them out.
+ also re: placebo effect, and the rights of traditional groups to use those
+ drugs [re: NA church lawsuits], and also the danger of deforestation and
+ environmental destruction to 
+\backslash
+emph{traditional} methods of harvesting plants -- making them only available
+ with clinical approval -- and chemical synthesis methods, which probably
+ contribute to pollution and destruction.}
+\end_layout
+
+\end_inset
+
+ has historically been used by the Native American church, a right they
+ successfully fought for in court.
+ Ayahuasca (active ingredient: 
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+dunno this
+\end_layout
+
+\end_inset
+
+) is a traditional South American 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Talk to Otto's friend about his experiences? And access?}
+\end_layout
+
+\end_inset
+
+ drug.
+ LSD is derived from ergot, a fungus -- it's often thought that outbreaks
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+witch craft
+\begin_inset Quotes erd
+\end_inset
+
+ in medieval Europe are actually attributable to ergot contaminations.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Source for ergot and historical significance}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Neuroscientific 
+\emph on
+thoughtstyles
+\end_layout
+
 \begin_layout Subsection
 Molecular and genetic reductionism
 \end_layout
 
-\begin_layout Standard
-generally a trend in the sciences, not limited to biomedical.
+\begin_layout Itemize
+generally a trend in the biological sciences -- maybe due to perception
+ of increased objectivity/hardness (a la physics and chemistry).
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Somewhat inherent to 
 \begin_inset Quotes eld
 \end_inset
@@ -757,11 +963,12 @@ neuroscience
 ells/meaningful small and completely circumscribed/understood units.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Where does it come from?
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Itemize
 What goals are there and how does reductionism accomplish them for us? What
  is good and not good about applications to neuro? Can and should cell studies
  be used to 
@@ -782,11 +989,13 @@ solve
 
  disease in vitro? 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-/graffito {A sensible research strategy (isolationism/reducitonism) becomes
+
+\backslash
+graffito {A sensible research strategy (isolationism/reducitonism) becomes
  a metaphysical commitment to a system, where the system is reality.
  For us, cell lines are indicative of some reality.
  It's plausible that scientists themselves know their work to be missing
@@ -802,14 +1011,15 @@ status collapsed
 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Itemize
 Personalized medicine; or personalized neuroscience is still a way of reducing
  the individual to the cellular and genomic information, without accounting
  for personhood.
  Personalized medicine in its current information is the exact opposite
  of feminist medicine.
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Joel: Feminist medicine - personal, full, not reduceable
@@ -1022,19 +1232,10 @@ free market forces
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
