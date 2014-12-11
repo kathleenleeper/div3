@@ -364,7 +364,7 @@ ac{CNS}
 \end_inset
 
  function, including mood, cognition, sleep, pain, motor function and endocrine
- secretion, is in some part modulated by serotonin signalling.
+ secretion, is in some part modulated by serotonin signaling.
  As such, disruptions in serotonergic transmission is implicated in many
  psychological diseases (eg schizophrenia etc) and their corresponding pharmaceu
 tical treatments.
@@ -393,7 +393,7 @@ graffito{obviously hallucinogens are what I want to write abut but it's
 
 \end_inset
 
-Model systems for serotonergic signalling are fundamental to therapeutic
+Model systems for serotonergic signaling are fundamental to therapeutic
  drug design and development, and in the case of hallucinogenic drugs, present
  a potential method to link molecular and sub-cellular processes to cognition
  and thought.
@@ -463,7 +463,7 @@ graffito{my work, at least, is true for this and was the original motivation
 \end_inset
 
  Serotonin model systems come in a variety of shapes and forms; much of
- the work on hallucinogenic signalling has either been done on primary neurons
+ the work on hallucinogenic signaling has either been done on primary neurons
  (difficult to culture, expensive, and hardly inexhaustible) or in transgenic
  cells expressing the appropriate subtype of receptor.
 \end_layout
@@ -1126,8 +1126,8 @@ The scientific justification for model systems is the essential role they
 \end_layout
 
 \begin_layout Standard
-In theory, this permits the isolation and tracking of internal signalling
- pathways of a single cell, letting scientists construct a stepwise 
+In theory, this permits the isolation and tracking of internal signaling
+ pathways of a single cell, letting scientists construct a step-wise 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1135,7 +1135,7 @@ map
 \begin_inset Quotes erd
 \end_inset
 
- of signalling cascades and interactions between the molecular components
+ of signaling cascades and interactions between the molecular components
  of the cell.
 \end_layout
 
@@ -1144,23 +1144,10 @@ current options
 \end_layout
 
 \begin_layout Standard
-Ideally, of course, one uses primary neuron cultures to study signalling
+Ideally, of course, one uses primary neuron cultures to study signaling
  -- but those are expensive and hard to maintain.
- 
-\end_layout
-
-\begin_layout Standard
---> other options? Haven't researched this yet mostly.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-
-\series bold
-conclusion 
-\series default
-Thus, differentation of fast-growing and easy to maintain cells, that nonetheles
-s express a relatively fully functional GPCR signalling intracellular network
+ Differentiation of fast-growing and easy to maintain cells, that nonetheless
+ express a relatively fully functional GPCR signaling intracellular network
  is an alternate model for us.
 \begin_inset Note Note
 status collapsed
@@ -1192,7 +1179,7 @@ status collapsed
 \begin_layout Plain Layout
 Thus, development of a holistic serotonin model systems -- granted, transgenes
  are still involved, but they should set cell fate early and thus help promote
- more fully functional GPCR signalling.
+ more fully functional GPCR signaling.
 \end_layout
 
 \end_inset
@@ -1213,7 +1200,7 @@ OK but not nearly imaginative or widely enough researched [unreadable stuff]
 \begin_layout Standard
 The available cell line to me is P19 stem cells, which are known to differentiat
 e into relatively poorly-characterized neuron-like cells when cultured with
- a micromolar amount of 
+ a micro-molar amount of 
 \begin_inset ERT
 status open
 
@@ -1302,14 +1289,14 @@ ac{CNS}
 
 \end_inset
 
- cells, including glia, neurons, and fibroblast like cells.
+ cells, including glia, neurons, and fibroblast-like cells.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Babuska2010"
 
 \end_inset
 
- Studies of this differentation pathway have elucidated a number of genes
+ Studies of this differentiation pathway have elucidated a number of genes
  important for neural development,
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1695,7 +1682,7 @@ ac{CNS}
 \end_inset
 
 .
- This large network means serotonin signalling not only transmits information,
+ This large network means serotonin signaling not only transmits information,
  but plays a large role in 
 \emph on
 modulating
@@ -1776,7 +1763,7 @@ in 5-HT progenitor cells
 status open
 
 \begin_layout Plain Layout
-more neuroanatomy! more signalling pathways!
+more neuroanatomy! more signaling pathways!
 \end_layout
 
 \end_inset
@@ -2556,9 +2543,7 @@ unknown
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Summary of the phenotype of knockout mice lacking individual tran- scription
- factor in 5–HT neurons.
- (from 
+Phenotype of transcription factor KO mice (from 
 \begin_inset ERT
 status open
 
@@ -2647,7 +2632,7 @@ ac{Nkx2.2}
 
 \end_inset
 
- is a homeodomain-containing transcription fator that specifies the ventral
+ is a homeodomain-containing transcription factor that specifies the ventral
  cell type in response to
 \begin_inset ERT
 status open
@@ -2661,7 +2646,7 @@ ac{Shh}
 
 \end_inset
 
- signals in the spinal cord and hindbrain.
+ signals in the spinal cord and hind-brain.
  Expression of 
 \emph on
 Nkx2
@@ -2748,7 +2733,7 @@ discovered and explored in
 \begin_layout Standard
 It's a key fate determinant for many neuron types during fetal and adult
  neurogenesis.
- In the embryonic hindbrain, it's the only known pro-neural gene expressed
+ In the embryonic hind-brain, it's the only known pro-neural gene expressed
  in the domain of 5-HT progenitor cells, and is co-expressed with 
 \begin_inset ERT
 status open
@@ -2782,7 +2767,7 @@ ac{vMNs}
 
 , which derive from the same set of cells, are produced normally, but without
  Mash1, none of the normal post-mitotic 5-HT transcription factors express.
- Likely, this is due to the loss of Notch signalling that ordinarily leads
+ Likely, this is due to the loss of Notch signaling that ordinarily leads
  to 5-HT neurogenesis.
 \end_layout
 
@@ -2821,7 +2806,7 @@ Gata2, Gata3
 
 \begin_layout Enumerate
 Members of the GATA family containing zinc-fingers which bind to core (A/T)GATA(
-A/G)
+A/G) sequences
 \end_layout
 
 \begin_layout Enumerate
@@ -2845,7 +2830,10 @@ Gata2 KO:
 
 \begin_deeper
 \begin_layout Enumerate
-severe anemia; death between E10 and E11
+Leads to severe anemia and death between E10 and E11; this early lethality
+ obviously precludes a more specific examiniation, but defects seem to appear
+ in neurogenesis more generally.
+ KO tissues
 \end_layout
 
 \begin_layout Enumerate
@@ -2858,22 +2846,13 @@ defects in neurogenesis generally; early lethality precludes 5-HT specific
 \emph on
 in vitro
 \emph default
- test; KO tissues lack all 5-HT neurons, even in presence of Gata3ata2 affects
- different 5-HT cluster development differently.
+ KO tissues lack all 5-HT neurons, even in presence of Gata3
+\end_layout
+
+\begin_layout Enumerate
+Gata2 affects different 5-HT cluster development differently.
  It is necessary and sufficient in R1 neurons, and capable of inducing other
- 5-HT specific TFs in r1.
-\end_layout
-
-\begin_layout Enumerate
-capable of inducing other 5-HT specific TFs in r1
-\end_layout
-
-\begin_layout Enumerate
-necessary and sufficient in r1 
-\end_layout
-
-\begin_layout Enumerate
-necessary but not sufficient
+ 5-HT specific TFs in r1
 \end_layout
 
 \end_deeper

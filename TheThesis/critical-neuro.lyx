@@ -126,14 +126,10 @@ key "Ray2008"
 
 \end_inset
 
- and Gendered Innovations.
-\end_layout
-
-\begin_layout Standard
-P19s are karotypically 'male' -- i.e.
+ and Gendered Innovations.P19s are karotypically 'male' -- i.e.
  XY.
- This has consequences for how they differentiate and how they signal, especiall
-y 
+ This has consequences for how they differentiate and how their signaling
+ pathways work downstream of differentiation.
 \end_layout
 
 \begin_layout Subsection
@@ -184,7 +180,7 @@ a
 
 \end_inset
 
-receptor, implicated in hallucinogen signalling
+receptor, implicated in hallucinogen signaling
 \end_layout
 
 \end_deeper
@@ -214,8 +210,8 @@ key "Brummett2008"
 
 \end_deeper
 \begin_layout Itemize
-if hallucinogens and signalling differentially affect men and women and
- different races/ethnicities,
+if hallucinogens and signaling differentially affect men and women and different
+ races/ethnicities,
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Liechti2001"
@@ -273,8 +269,15 @@ Serotonin Model Systems
 \end_layout
 
 \begin_layout Standard
-P19 stem cells are euploid male; if serotonin systems are affected by testostero
-ne (re: Zhang paper), are P19s producing testosterone?
+If serotonin systems are affected by testosterone (re: 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Zhang1999"
+
+\end_inset
+
+), how would incorporating androgens and estrogens into the cell culture
+ dish affect the effectiveness of P19s as a model system?
 \end_layout
 
 \begin_layout Section
@@ -393,7 +396,7 @@ graffito {Source for ergot and historical significance}
 \begin_layout Standard
 On a related note -- how presumptuous to take drugs from indigenous cultures
  and push them into the laboratory.
- Is plasticity and all of the signalling mechanisms relevant if the experience
+ Is plasticity and all of the signaling mechanisms relevant if the experience
  isn't included? Hallucinogens are notoriously sensitive to situation --
  or rather, individual interpretations of a situation.
  The quality (and thus long term effects) of a psychotropic experience is
@@ -411,7 +414,7 @@ interplay
 status collapsed
 
 \begin_layout Plain Layout
-psychotropics are a metaphor for preception -- you can have a good or bad
+psychotropics are a metaphor for perception -- you can have a good or bad
  trip not based on thecontext of the orld, but hw you PERCEIVE that context
  -- local trip -- different people think differently about their world and
  so they literally perceive the same tevents differently -- heightened by
@@ -480,581 +483,6 @@ Turtles All The Way Down
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Minisec
-some notes
-\end_layout
-
-\begin_layout Plain Layout
-this is how you do an acronym! 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-UML
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- then here are some other tricks of the trad
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-these are some marginal notes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-footnotes are normal, more or less
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-enumeration with letters ---
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{aenumerate}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Enumeration with small caps (alpha) 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Second item 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{aenumerate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-then also some other pretty things: 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ie
-\end_layout
-
-\end_inset
-
-, and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-eg
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-UHHHH FILLER HERE
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-myfloatalign
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{tabularx}{
-\backslash
-textwidth}{Xll}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="45col%">
-<column alignment="left" valignment="top" width="20col%">
-<column alignment="left" valignment="top" width="20col%">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-toprule
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-labitur bonorum pri no
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-que vista
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-human
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule
-\end_layout
-
-\end_inset
-
- fastidii ea ius
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-germano
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstratea
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-suscipit instructior
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-titulo
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-personas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule{}
-\end_layout
-
-\end_inset
-
-quaestio philosophia
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-facto
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstrated
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tabularnewline
-\backslash
-bottomrule%
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{tabularx}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Autem timeam deleniti usu id
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:example-1"
-
-\end_inset
-
-Autem timeam deleniti usu id.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset Quotes eld
 \end_inset
 
@@ -1079,7 +507,7 @@ neuroscience
 \begin_inset Quotes erd
 \end_inset
 
- isn't a discipline, but rather a heterogenous mush of an extremely broad
+ isn't a discipline, but rather a heterogeneous mush of an extremely broad
  range of nearly unrelated subfields.
  
 \begin_inset ERT
@@ -1237,8 +665,8 @@ soma to society
 \end_inset
 
 .
- But incorporating social factors as a serious and genomic part of human
- function also creates new 
+ But incorporating social factors as a genomic part of humans also creates
+ new 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1246,8 +674,8 @@ at risk
 \begin_inset Quotes erd
 \end_inset
 
- populations, by incorporating the epigenetic traces on historically marginalize
-d groups into fundamental parts of those groups that need fixing.
+ populations, making the epigenetic traces of historical marginalization
+ into fundamental parts of those groups that need fixing.
  
 \begin_inset CommandInset citation
 LatexCommand citep

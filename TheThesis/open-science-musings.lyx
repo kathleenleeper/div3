@@ -466,7 +466,20 @@ The terminology of and factions within this movement are complex, but, in
  short, “free software” tends to be associated with the ideology of freedom,
  “open source” with the openness of the development process, and “libre”
  with those concerned about confusion from the previous two.
- FOSS/FLOSS are used as monikers to refer to all of these meanings.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ are used as monikers to refer to all of these meanings.
 \begin_inset Quotes erd
 \end_inset
 
@@ -765,19 +778,6 @@ focused on production.
  Even projects that pitch themselves as a place for citizen scientists can
  be construed as just a way to shift labor from cheap graduate students
  to even cheaper laypeople.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {Joel: this!}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -920,8 +920,7 @@ the intersection of digital cultures, science communication and science
 \end_inset
 
  a grouping that bears no little similarity to my own interests.
- His treatment of scientists and their public image management focusses
- on:
+ His treatment of scientists and their public image management focuses on:
 \end_layout
 
 \begin_layout Enumerate
@@ -1053,7 +1052,7 @@ open is good
 
  in the sense that corporations are notorious for only considering the bottom
  line.
- Tnat means any usage of open resources is for the bottom line, and not
+ That means any usage of open resources is for the bottom line, and not
  necessarily for whatever heroic potential purpose open data/science advocates
  had in mind.
 \begin_inset Note Note
@@ -1087,7 +1086,7 @@ key "Nafus2012"
 \end_inset
 
 ; presumably, racial and ethnic minorities fare even more poorly, although
- there's even less data to supprot that.
+ there's even less data to support that.
 \end_layout
 
 \begin_layout Standard
@@ -1255,7 +1254,7 @@ Again,
 \emph on
 if
 \emph default
- science is local, there is no homogenous global community of science/tists.
+ science is local, there is no homogeneous global community of science/tists.
 \end_layout
 
 \end_inset

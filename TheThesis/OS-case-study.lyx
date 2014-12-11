@@ -78,581 +78,6 @@ Open Science & Serotonin: Case Study
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Minisec
-some notes
-\end_layout
-
-\begin_layout Plain Layout
-this is how you do an acronym! 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-UML
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- then here are some other tricks of the trad
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-these are some marginal notes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-footnotes are normal, more or less
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-enumeration with letters ---
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{aenumerate}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Enumeration with small caps (alpha) 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Second item 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{aenumerate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-then also some other pretty things: 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ie
-\end_layout
-
-\end_inset
-
-, and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-eg
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-UHHHH FILLER HERE
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-myfloatalign
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{tabularx}{
-\backslash
-textwidth}{Xll}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="45col%">
-<column alignment="left" valignment="top" width="20col%">
-<column alignment="left" valignment="top" width="20col%">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-toprule
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-labitur bonorum pri no
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-que vista
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-human
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule
-\end_layout
-
-\end_inset
-
- fastidii ea ius
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-germano
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstratea
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-suscipit instructior
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-titulo
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-personas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule{}
-\end_layout
-
-\end_inset
-
-quaestio philosophia
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-facto
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstrated
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tabularnewline
-\backslash
-bottomrule%
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{tabularx}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Autem timeam deleniti usu id
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:example"
-
-\end_inset
-
-Autem timeam deleniti usu id.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Open-Science_casestudy"
@@ -680,16 +105,16 @@ revolution
 
 \begin_layout Standard
 It's also (I think) the easiest for an undergraduate biologist to implement.
- I don't publish, yet, so I can't publish any papers open access.s I don't
- generate a lot of data or have datasets, so publishing a data note for
- others to analyze is out of the question, and of course, since I'm not
- publishing I can't publish supplemental data.
+ I don't publish, yet, so I can't publish any papers open access.
+ I don't generate a lot of data or have data sets, so publishing a data
+ note for others to analyze is out of the question, and of course, since
+ I'm not publishing I can't publish supplemental data.
 \end_layout
 
 \begin_layout Standard
-So, starting from scratch, making all of my labwork openly accessible is
+So, starting from scratch, making all of my lab work openly accessible is
  the first and easiest way to implement open science.
- My efforts were inspired and guided by other proponents and practicers
+ My efforts were inspired and guided by other proponents and practitioners
  of an Open Notebook methods.
 \end_layout
 
@@ -768,8 +193,8 @@ key "Gewin2013,Mascarelli2014,VanNoorden2013"
 
 \begin_layout Standard
 With that, I've been keeping my online notebook more or less in sync with
- my physical labwork since the first entry on July 15, 2014.
- All the entries are timestamped and track revisions, and are written in
+ my physical lab work since the first entry on July 15, 2014.
+ All the entries are time stamped and track revisions, and are written in
  human-readable HTML Markdown.
  
 \end_layout
@@ -799,10 +224,7 @@ https://github.com/kathleenleeper/workhorse
 
 \end_inset
 
-) 
-and detailed there.
-
-\lang english
+) and detailed there.
  
 \end_layout
 
@@ -881,8 +303,8 @@ Trouble shooting procedures is incredibly tedious; having to write up and
 
 \end_deeper
 \begin_layout Enumerate
-While there are tablet and smartphone options, a basic laptop is simply
- not as versatile for notetaking as a paper notebook.
+While there are tablet and smart phone options, a basic laptop is simply
+ not as versatile for note taking as a paper notebook.
  Computers can't get wet; you can't prop them against a beaker on a crowded
  lab bench.
 \end_layout
@@ -923,14 +345,14 @@ graffito{Can cite this if people feel strongly}
 \end_layout
 
 \begin_layout Enumerate
-Some advocates claim that knowing your workflow could be examined at any
+Some advocates claim that knowing your work flow could be examined at any
  time -- an ever-present Potential Big Brother
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 good to consider other people reading it, but i find it doesn't really change
- my choices in labwork -- not my top focus
+ my choices in lab work -- not my top focus
 \end_layout
 
 \begin_layout Enumerate
@@ -967,8 +389,8 @@ Full text searching of entries, by date, content, and tag.
 
 \begin_layout Enumerate
 It's very easy to share and talk about my project -- because the repository
- and site are accessible from my smartphone, I can pull out data and explain
- the state of my labwork almost anywhere, quickly, efficiently, and with
+ and site are accessible from my smart phone, I can pull out data and explain
+ the state of my lab work almost anywhere, quickly, efficiently, and with
  a minimum of fuss.
 \begin_inset Foot
 status open
@@ -1039,7 +461,7 @@ protocols
 \end_deeper
 \begin_layout Enumerate
 Metrics on my lab entries.
- It's very easy to generate maps and timelines of processes; 
+ It's very easy to generate maps and time lines of processes; 
 \begin_inset ERT
 status collapsed
 
