@@ -196,9 +196,13 @@ end{acronym}
 \end_inset
 
 
-\end_layout
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Open-Science"
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -369,6 +373,33 @@ end{acronym}
 \end_inset
 
 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Joel: I think you should include a 
+\begin_inset Quotes eld
+\end_inset
+
+goal
+\begin_inset Quotes erd
+\end_inset
+
+ of open science - then you can contrast its activity with its aim.
+ If it's 
+\begin_inset Quotes eld
+\end_inset
+
+to help
+\begin_inset Quotes erd
+\end_inset
+
+ (think rice genome) is that actually what it does? how can it do that better?
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -435,7 +466,20 @@ The terminology of and factions within this movement are complex, but, in
  short, “free software” tends to be associated with the ideology of freedom,
  “open source” with the openness of the development process, and “libre”
  with those concerned about confusion from the previous two.
- FOSS/FLOSS are used as monikers to refer to all of these meanings.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ are used as monikers to refer to all of these meanings.
 \begin_inset Quotes erd
 \end_inset
 
@@ -696,7 +740,7 @@ open
 \emph default
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -787,6 +831,30 @@ key "Delfanti2013"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Joel: Science became corporate.
+ Open = semi-corporate.
+ Free =/= corporate.
+ Whas was science before corporate? elitics.
+\end_layout
+
+\begin_layout Plain Layout
+The power structure of science has a capitalist value system.
+\end_layout
+
+\begin_layout Plain Layout
+Problem.
+\end_layout
+
+\begin_layout Plain Layout
+There is not money in marginalized underrepped groups.
+\end_layout
+
+\end_inset
+
 Open science rhetoric draws on a mystical past where information flowed
  free (
 \begin_inset Quotes eld
@@ -852,15 +920,14 @@ the intersection of digital cultures, science communication and science
 \end_inset
 
  a grouping that bears no little similarity to my own interests.
- His treatment of scientists and their public image management focusses
- on:
+ His treatment of scientists and their public image management focuses on:
 \end_layout
 
 \begin_layout Enumerate
 The J.
  Craig Venter Institute and J.
  Craig Venter himself, representing venture capitalists and open science
- for monetary and prestige
+ for monetary gain and prestige
 \end_layout
 
 \begin_layout Enumerate
@@ -915,6 +982,26 @@ Corporate uses of open science
 
 \begin_layout Standard
 Open science, by intent, can be used by anybody for anything.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Following section was commented out -_-.
+ So these are ending Herb coments -- still applicable maybe? Nah.
+ They're just 
+\begin_inset Quotes eld
+\end_inset
+
+are tools actually neutral?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset ERT
 status collapsed
 
@@ -925,7 +1012,7 @@ status collapsed
 graffito {Interestingly, there's been attempts to implement a copyright
  license similar to the 
 \backslash
-ac{GPL}, but with a clause of "only ethical consideration"
+ac{GPL}, but with a clause of "only ethical consideration"}
 \end_layout
 
 \end_inset
@@ -965,7 +1052,7 @@ open is good
 
  in the sense that corporations are notorious for only considering the bottom
  line.
- Tnat means any usage of open resources is for the bottom line, and not
+ That means any usage of open resources is for the bottom line, and not
  necessarily for whatever heroic potential purpose open data/science advocates
  had in mind.
 \begin_inset Note Note
@@ -999,7 +1086,7 @@ key "Nafus2012"
 \end_inset
 
 ; presumably, racial and ethnic minorities fare even more poorly, although
- there's even less data to supprot that.
+ there's even less data to support that.
 \end_layout
 
 \begin_layout Standard
@@ -1167,7 +1254,7 @@ Again,
 \emph on
 if
 \emph default
- science is local, there is no homogenous global community of science/tists.
+ science is local, there is no homogeneous global community of science/tists.
 \end_layout
 
 \end_inset

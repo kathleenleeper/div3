@@ -109,7 +109,7 @@ frenchspacing
 
 \lang american
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -174,19 +174,6 @@ status open
 
 \begin_layout Plain Layout
 
-
-\backslash
-pagenumbering{arabic}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
 % use 
 \backslash
 cleardoublepage here to avoid problems with pdfbookmark
@@ -212,23 +199,6 @@ status open
 
 \backslash
 pagenumbering{arabic}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-% use 
-\backslash
-cleardoublepage here to avoid problems with pdfbookmark
-\end_layout
-
-\begin_layout Plain Layout
-
 \end_layout
 
 \end_inset
@@ -240,30 +210,6 @@ cleardoublepage here to avoid problems with pdfbookmark
 \begin_inset CommandInset include
 LatexCommand include
 filename "science-as-culture.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "Global-Science.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "open-science-musings.lyx"
 
 \end_inset
 
@@ -287,6 +233,18 @@ filename "mol-neuro.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
+filename "open-science-musings.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
 filename "OS-case-study.lyx"
 
 \end_inset
@@ -297,6 +255,13 @@ filename "OS-case-study.lyx"
 \begin_layout Standard
 
 \lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "Global-Science.lyx"
+
+\end_inset
+
+
 \begin_inset CommandInset include
 LatexCommand include
 filename "critical-neuro.lyx"

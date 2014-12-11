@@ -78,115 +78,332 @@ Open Science & Serotonin: Case Study
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
-status open
-
-\begin_layout Plain Layout
-I keep an open lab notebook.
- So what?
-\end_layout
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Open-Science_casestudy"
 
 \end_inset
 
+Open notebook science has been described as the 
+\begin_inset Quotes eld
+\end_inset
 
+epitome of open
+\begin_inset Quotes erd
+\end_inset
+
+ and a 
+\begin_inset Quotes eld
+\end_inset
+
+revolution
+\begin_inset Quotes erd
+\end_inset
+
+ in scientific opportunities.
+\end_layout
+
+\begin_layout Standard
+It's also (I think) the easiest for an undergraduate biologist to implement.
+ I don't publish, yet, so I can't publish any papers open access.
+ I don't generate a lot of data or have data sets, so publishing a data
+ note for others to analyze is out of the question, and of course, since
+ I'm not publishing I can't publish supplemental data.
+\end_layout
+
+\begin_layout Standard
+So, starting from scratch, making all of my lab work openly accessible is
+ the first and easiest way to implement open science.
+ My efforts were inspired and guided by other proponents and practitioners
+ of an Open Notebook methods.
+\end_layout
+
+\begin_layout Section
+Open Notebooks in the Wild
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
-\begin_layout Minisec
-some notes
-\end_layout
-
 \begin_layout Plain Layout
-this is how you do an acronym! 
-\begin_inset ERT
-status open
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Plain Layout
+Open notebook science is the practice of making the entire primary record
+ of a research project publicly available online as it is recorded.
+ This involves placing the personal, or laboratory, notebook of the researcher
+ online along with all raw and processed data, and any associated material,
+ as this material is generated.
+\begin_inset Quotes erd
+\end_inset
 
 
-\backslash
-ac
 \end_layout
 
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
+The first open notebook, and the originator of the term, was Jean Claude-Bradley
+, a chemist, in a blog post in 2006:
 \end_layout
 
+\begin_layout Quote
+\begin_inset Quotes eld
 \end_inset
 
-UML
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
- then here are some other tricks of the trad
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-these are some marginal notes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
+\SpecialChar \ldots{}
+By this [Open Notebook Science] I mean that there is a URL to a laboratory
+ notebook (like this) that is freely available and indexed on common search
+ engines.
+ It does not necessarily have to look like a paper notebook but it is essential
+ that all of the information available to the researchers to make their
+ conclusions is equally available to the rest of the world.
  
 \end_layout
 
-\begin_layout Plain Layout
-\noindent
+\begin_layout Quote
+\align right
+-Jean Claude-Bradley
+\end_layout
+
+\begin_layout Standard
+He maintained, and the group has continued the effort, a project exploring
+ synthesis and testing of anti-malarial compounds in the effort to hasten
+ the search for an effective cure.
+ The group has also added a similar project on HIV.
+\end_layout
+
+\begin_layout Standard
+A second and more technically minded scientist is Carl Boettinger, a mathematica
+l ecologist who's maintained an open lab notebook hosted on Github since
+ 2010.
+ His work and has been mentioned at least three times in Nature (once in
+ 2013, twice in 2014).
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Sumathipala2004"
+key "Gewin2013,Mascarelli2014,VanNoorden2013"
 
 \end_inset
 
-
+ His technical model for sharing his scientific progress is one that I emulated
+ -- the technicalities are detailed elsewhere, but it relies on minimal
+ HTML, CSS, and coding knowledge to produce a reasonably clean and logical
+ website, with lab notebook entries and any other relevant pages.
 \end_layout
 
+\begin_layout Standard
+With that, I've been keeping my online notebook more or less in sync with
+ my physical lab work since the first entry on July 15, 2014.
+ All the entries are time stamped and track revisions, and are written in
+ human-readable HTML Markdown.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
 \begin_layout Plain Layout
+
+
+\backslash
+graffito{Although the current systems may be undergoing some fairly large
+ revisions in the next month}
+\end_layout
+
+\end_inset
+
+ The bulk of this project is currently located at a Github repository (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/kathleenleeper/workhorse
+\end_layout
+
+\end_inset
+
+) and detailed there.
+ 
+\end_layout
+
+\begin_layout Section
+Technical Discoveries
+\end_layout
+
+\begin_layout Standard
+A large part of my goal with documenting my scientific process was to access
+ its feasibility on a large scale, and for those who weren't already deeply
+ invested in open science.
+ What would be required for open notebooks to become common place? What
+ would happen if they were? What do we lose when we go digital, and what
+ do we gain?
+\end_layout
+
+\begin_layout Subsection
+Frustrations
+\end_layout
+
+\begin_layout Enumerate
+The pure technical set up takes too much time.
+ To mimic Carl Boettinger's Github-hosted and tracked site, it took a not-insign
+ificant technical investment of time into exploring options and figuring
+ out how to use the tools.
+ There's no good guide to getting your standard wet lab 
+\begin_inset Quotes eld
+\end_inset
+
+pure
+\begin_inset Quotes erd
+\end_inset
+
+ biologist set up with Jekyll and Github to build a site from scratch like
+ I did.
+\end_layout
+
+\begin_layout Enumerate
+It's clear from my efforts to keep the digital version up with the paper
+ version that any digital notebooks 
+\emph on
+need
+\emph default
+ automatic integration; they're otherwise unsustainable and always a little
+ behind the times.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Because paper notes don't translate perfectly to typed text (see 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:This-also-relates"
+
+\end_inset
+
+), it's frustrating and tiring to have to re-type and revisit a protocol
+ run just earlier, and translate from paper to digital.
+\end_layout
+
+\begin_layout Enumerate
+Writing up negative results is 
+\emph on
+annoying
+\emph default
+ and feels 
+\emph on
+useless\SpecialChar \@.
+ 
+\emph default
+Trouble shooting procedures is incredibly tedious; having to write up and
+ explain your attempt and subsequent failure time and again is far from
+ encouraging, and I would venture to say increases the feeling of failure
+ upon revisiting the entry.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+While there are tablet and smart phone options, a basic laptop is simply
+ not as versatile for note taking as a paper notebook.
+ Computers can't get wet; you can't prop them against a beaker on a crowded
+ lab bench.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:This-also-relates"
+
+\end_inset
+
+This also relates to the sketching and informal drawing that happens in
+ lab notebooks -- quick calculations, arrows between protocols, annotations
+ of protocols on the fly as you mis-time, forget, or mix up steps.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Studies
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Can cite this if people feel strongly}
+\end_layout
+
+\end_inset
+
+ have shown time again that physically writing notes helps students retain
+ knowledge better than typing them.
+ Similarly, I do more careful checking of protocols and the steps I have
+ to follow when I'm writing them, rather than just reading and following
+ a protocol from a typed page.
+\end_layout
+
+\begin_layout Enumerate
+Some advocates claim that knowing your work flow could be examined at any
+ time -- an ever-present Potential Big Brother
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+good to consider other people reading it, but i find it doesn't really change
+ my choices in lab work -- not my top focus
+\end_layout
+
+\begin_layout Enumerate
+dissemination is not a high priority
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Celebrations
+\end_layout
+
+\begin_layout Standard
+There are, of course, many benefits, although I'm not sure I'm taking full
+ advantage of them yet.
+ Some that have already proved immensely useful, and in fact often saved
+ serious time for me.
+\end_layout
+
+\begin_layout Enumerate
+Full text searching of entries, by date, content, and tag.
+ This reduces the time spent flipping back and forth between physical pages,
+ trying to figure out when exactly a sample was taken and the conditions
+ it was processed with (Did you elute that DNA sample in TE, H
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+
+0, or elution buffer?) 
+\end_layout
+
+\begin_layout Enumerate
+It's very easy to share and talk about my project -- because the repository
+ and site are accessible from my smart phone, I can pull out data and explain
+ the state of my lab work almost anywhere, quickly, efficiently, and with
+ a minimum of fuss.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-footnotes are normal, more or less
+This is mostly useful when John is upstairs on the 3rd floor and I forget
+ to bring my notebook up when I ask him questions, but it's also been used
+ when I'm traveling and unexpectedly meet someone who's interested.
+ And then I have something to show 
+\emph on
+right then
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -194,27 +411,57 @@ footnotes are normal, more or less
 
 \end_layout
 
-\begin_layout Plain Layout
-enumeration with letters ---
+\begin_layout Enumerate
+Because I've already documented everything (mostly), I never have to 
+\emph on
+remember
+\emph default
+ small details that take up mental space.
+ I'm never at a loss of which bands in a gel correspond to which samples
+ -- because I annotate my gels as soon as I get them, so that I can update
+ the protocol with the results immediately.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Enumerate
+Version control of files.
+ It's easy to ask a computer to compare many different runs of the same
+ protocol and show you differences in the protocols (assuming you've entered
+ all the relevant information), which helps in comparing why an experiment
+ may not have replicated properly.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-begin{aenumerate}
+graffito{I'm not saying they're 
+\backslash
+emph{not} idiosyncratic, but at least now there's some accountability for
+ why changes were made and when.}
 \end_layout
 
 \end_inset
 
+Version control of 
+\emph on
+protocols
+\emph default
+, where if you modify a protocol, it's easy to add a note saying why.
+ This would be very helpful for a collaborator of mine, who might wonder
+ why a given protocol deviated from the lab standard in seemingly idiosyncratic
+ ways.
  
 \end_layout
 
-\begin_layout Plain Layout
+\end_deeper
+\begin_layout Enumerate
+Metrics on my lab entries.
+ It's very easy to generate maps and time lines of processes; 
 \begin_inset ERT
 status collapsed
 
@@ -222,443 +469,23 @@ status collapsed
 
 
 \backslash
-item 
+graffito{Or at least prove to my committee how much work I am or am not
+ doing}
 \end_layout
 
 \end_inset
 
-Enumeration with small caps (alpha) 
+to see how many times and when my work has been done.
+ I can run self-improvement metrics on myself
 \end_layout
 
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-item 
-\end_layout
-
-\end_inset
-
-Second item 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{aenumerate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-then also some other pretty things: 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ie
-\end_layout
-
-\end_inset
-
-, and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-eg
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-UHHHH FILLER HERE
-\end_layout
-
-\begin_layout Plain Layout
-\noindent
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-myfloatalign
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{tabularx}{
-\backslash
-textwidth}{Xll}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Tabular
-<lyxtabular version="3" rows="4" columns="3">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="45col%">
-<column alignment="left" valignment="top" width="20col%">
-<column alignment="left" valignment="top" width="20col%">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-toprule
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-labitur bonorum pri no
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-que vista
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-human
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule
-\end_layout
-
-\end_inset
-
- fastidii ea ius
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-germano
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstratea
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-suscipit instructior
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-titulo
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-personas
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-midrule{}
-\end_layout
-
-\end_inset
-
-quaestio philosophia
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-facto
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-demonstrated
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-tabularnewline
-\backslash
-bottomrule%
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{tabularx}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
+\begin_layout Section
+Suggestions for Surmounting Notebook Challenges
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
-Autem timeam deleniti usu id
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:example"
-
-\end_inset
-
-Autem timeam deleniti usu id.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
+Surmounting Notebook Challenges
 \end_layout
 
 \end_inset
@@ -667,6 +494,19 @@ Autem timeam deleniti usu id.
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{These might belong in the earlier section? Or the earlier sections
+ analyzing OS belongs here}
+\end_layout
+
+\end_inset
+
 Some thoughts: Since being open is 
 \emph on
 not
@@ -704,7 +544,7 @@ complete
 .
  No one would ever look at my paper notebook and be able to coherently trace
  protocols as they evolved; at least, not without my help.
- 
+ A direct transfer of notebook pages to web pages doesn't help the situation.
 \end_layout
 
 \begin_layout Standard
@@ -713,7 +553,10 @@ I think a more ideal situation is
 not
 \emph default
  a transfer of paper to electronic.
- Rather, multiple layers of publication - namely, including methods.
+\end_layout
+
+\begin_layout Standard
+Rather, multiple layers of publication - namely, including methods.
  Real protocols, but protocols as you might write them out for someone in
  your lab running an experiment for you, instead of bite-sized uber-simplified
  
@@ -724,24 +567,8 @@ Procedures were performed as described previously.
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-That would be paired with a record of why changes were made in protocols,
- in the form of annotations linking back to lab notebook entries on various
- steps.
- e.g.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Annealing temperature is 59° based on the [date] gradient PCR and subsequent
- cloning attempts of [date_1], [date_2]
-\begin_inset Quotes erd
-\end_inset
-
-
+ Following an open lab notebook with nothing else is hard; using it as a
+ reference to supplement a larger work sounds like an incredible resource.
 \end_layout
 
 \begin_layout Standard
