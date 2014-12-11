@@ -1096,13 +1096,13 @@ Model systems
 \end_layout
 
 \begin_layout Subsection
-why model systems are great!
+What do model systems do?
 \end_layout
 
 \begin_layout Standard
 	
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Why might model systems be relevant to 
@@ -1114,32 +1114,29 @@ my
 
 \end_inset
 
-
+The scientific justification for model systems is the essential role they
+ play in reducing a complex biological into simple working units.
+ Model neuronal systems in a dish provide a carefully controlled environment,
+ to the exclusion of external elements (rogue hormone fluctuations, mental
+ activities of rodents/humans); the cell type can be isolated and studied
+ as a single cell acting individually (more accurately, a single cell surrounded
+ by thousands of identical single cells), allowing for specific genetic
+ and environmental manipulations.
+ 
 \end_layout
 
-\begin_layout Itemize
-exclusion of external elements
-\end_layout
+\begin_layout Standard
+In theory, this permits the isolation and tracking of internal signalling
+ pathways of a single cell, letting scientists construct a stepwise 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Itemize
-isolated cell type
-\end_layout
+map
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Itemize
-controlled enviro
-\end_layout
-
-\begin_layout Itemize
-genetic manip
-\end_layout
-
-\begin_layout Itemize
-specific cell.
- manipulations
-\end_layout
-
-\begin_layout Itemize
-support cells (microglia, astrocytes, etc)
+ of signalling cascades and interactions between the molecular components
+ of the cell.
 \end_layout
 
 \begin_layout Subsection
