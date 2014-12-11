@@ -78,8 +78,26 @@ Critical Neuroscience
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Critical-Neuroscience"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Feminist Serotonin Studies
+\end_layout
+
+\begin_layout Subsection
+Stem Cells and Gender
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -92,11 +110,373 @@ graffito{Problems -- points of analysis -- come in the form of either not
 
 \end_inset
 
+Stem cells: They have a 
+\begin_inset Quotes eld
+\end_inset
+
+sex
+\begin_inset Quotes erd
+\end_inset
+
+, in the sense that there is a chromosomal makeup, and it matters.
+ See 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Ray2008"
+
+\end_inset
+
+ and Gendered Innovations.
+\end_layout
+
+\begin_layout Standard
+P19s are karotypically 'male' -- i.e.
+ XY.
+ This has consequences for how they differentiate and how they signal, especiall
+y 
+\end_layout
+
+\begin_layout Subsection
+Serotonin & Gender/Race
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+ 
+\backslash
+graffito{Questioning the use of race as a categorization without defining
+ what is 
+\backslash
+emph{meant} by race, re feminist/womanist analyses of the use of racial
+ categories in medicine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+serotonin receptors are differentially distributed and have different activation
+ levels in male vs.
+ female rats 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Li2000,Carlsson1988,Zhang1999"
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+especially the 5-HT2
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+a 
+\end_layout
+
+\end_inset
+
+receptor, implicated in hallucinogen signalling
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+pharmacogenetics are differential along racial and gender lines
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Murphy2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+depression (associated with the 5-HT system, among others) shows different
+ responses along racial and gender lines
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brummett2008"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+if hallucinogens and signalling differentially affect men and women and
+ different races/ethnicities,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Liechti2001"
+
+\end_inset
+
+ then that has to be studied in model systems as to how it might affect
+ plasticity and molecular effects
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+
+\size footnotesize
+\begin_inset Quotes eld
+\end_inset
+
+However, the binding of serotonin-2A receptor measured with [
+\size default
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+H]ketanserin was significantly higher in females in all regions of the hippocamp
+us.
+\size default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Zhang1999"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+modulated by testosterone
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Serotonin Model Systems
+\end_layout
+
+\begin_layout Standard
+P19 stem cells are euploid male; if serotonin systems are affected by testostero
+ne (re: Zhang paper), are P19s producing testosterone?
+\end_layout
+
+\begin_layout Section
+Cultural Neuroscience
+\end_layout
+
+\begin_layout Subsection
+Hallucinogens
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {I'm a little conflicted about the relevance of this section, but
+ I also am 
+\backslash
+emph{really} excited about it, and the possibilities for re-envisioning
+ how I could do cultural molecular neuroscience.}
+\end_layout
+
+\end_inset
+
+Psychotropic drugs have a rich and important history of spiritual and mental
+ use in nearly every human culture.
+ It seems that any and every culture has sought new insights and views with
+ the help of native pharmacological agents.
+ Although largely reduced now to their chemical structure
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+site of reductionism?
+\end_layout
+
+\end_inset
+
+ in the labs funded by the NIH, most of the compounds derive from different
+ cultural traditions.
+ Peyote (active ingredient: mescaline)
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+footnote {A comparison of the plant/spiritual context to the chemical structure
+ should go here to demonstrate how we separate them out.
+ With an analysis of the rights of traditional groups to use those drugs
+ [re: NA church lawsuits], and also the danger of deforestation and environmenta
+l destruction to 
+\backslash
+emph{traditional} methods of harvesting plants -- making them only available
+ with clinical approval -- and chemical synthesis methods, which probably
+ contribute to pollution and destruction.}
+\end_layout
+
+\end_inset
+
+ has historically been used by the Native American church, a right they
+ successfully fought for in court.
+ Ayahuasca (active ingredient: DMT combined with monooxygenase amine inhibitor)
+ is a traditional South American 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Talk to Otto's friend about his experiences? And access?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ drug.
+ LSD is derived from ergot, a fungus -- it's often thought that outbreaks
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+witch craft
+\begin_inset Quotes erd
+\end_inset
+
+ in medieval Europe are actually attributable to ergot contaminations.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Source for ergot and historical significance}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+On a related note -- how presumptuous to take drugs from indigenous cultures
+ and push them into the laboratory.
+ Is plasticity and all of the signalling mechanisms relevant if the experience
+ isn't included? Hallucinogens are notoriously sensitive to situation --
+ or rather, individual interpretations of a situation.
+ The quality (and thus long term effects) of a psychotropic experience is
+ created through the 
+\emph on
+interplay
+\emph default
+ between environment and individual; like facts, it doesn't wholly reside
+ in either, or even at the mere intersection.
+ Trying to pull that out in a lab environment, is, as Fleck describes, not
+ just a translation of information from one knowledge realm to another,
+ but a full fledged transformation such that the ayahuasca in the lab is
+ only nominally related to ayahuasca in practice.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+psychotropics are a metaphor for preception -- you can have a good or bad
+ trip not based on thecontext of the orld, but hw you PERCEIVE that context
+ -- local trip -- different people think differently about their world and
+ so they literally perceive the same tevents differently -- heightened by
+ psychotropics
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+re fleck and knowldege 
+\emph on
+changing
+\emph default
+ as it moves up the expert chain -- we say we're studying the 
+\begin_inset Quotes eld
+\end_inset
+
+active ingredient
+\begin_inset Quotes erd
+\end_inset
+
+ as if we've isolated the heart-- really made it clear what's 
+\emph on
+actually
+\emph default
+ 'active' or -- but actually we're studying something 
+\emph on
+completely
+\emph default
+ different
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Anne Fausto-Sterling, and many others, talk about knowledge outside the
+ academy -- communal, social, and indigenous knowledges.
+ Hallucinogens have amazingly well-documented and supportive communities.
+ Taking psychotropics is, for many, a spiritual and deeply-prepared for
+ experience.
+ Users are often hyperaware of the chemical effects, interactions with medical
+ conditions or other drugs, how to set scenes, how to guide their mental
+ state in meaningful ways -- in short, expert and specific knowledge more
+ typically associated with discerning scientists than hippies in the woods.
+ But hippies in the woods may know a lot more about how to 
+\emph on
+use
+\emph default
+ those drugs than scientists who have never experienced them and treat them
+ solely as tools in a molecular toolkit.
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Section
-Neuroscience: Turtles All The Way Down
+Turtles All The Way Down
 \end_layout
 
 \begin_layout Standard
@@ -655,7 +1035,7 @@ Autem timeam deleniti usu id
 
 \begin_inset CommandInset label
 LatexCommand label
-name "tab:example"
+name "tab:example-1"
 
 \end_inset
 
@@ -699,12 +1079,11 @@ neuroscience
 \begin_inset Quotes erd
 \end_inset
 
- isn't a discipline, but rather an enormous oversimplication because, well,
- the field of neuroscience covers an extremely broad range of borderline
- unrelated subfields.
+ isn't a discipline, but rather a heterogenous mush of an extremely broad
+ range of nearly unrelated subfields.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -715,150 +1094,112 @@ graffito{Disciplines aren't real, basically.}
 
 \end_inset
 
+ That said, neuroscience, the field, was deliberately named, funded, and
+ institutionalized to lie at the intersection of complementary disciplines
+ -- interdiscplinary from the start.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Abi-Rached2010b"
 
-\end_layout
+\end_inset
 
-\begin_layout Section
-Feminist Serotonin Studies
+
 \end_layout
 
 \begin_layout Subsection
-Stem Cells and Gender
+Interdisciplinary studies
 \end_layout
 
-\begin_layout Standard
-Stem cells: They have a 
+\begin_layout Itemize
+In 
+\emph on
+Critical Neuroscience,
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citealt*
+key "Choudhury2011"
+
+\end_inset
+
+
+\emph on
+ 
+\emph default
+propose 
 \begin_inset Quotes eld
 \end_inset
 
-sex
+interdisciplinary
 \begin_inset Quotes erd
 \end_inset
 
-, in the sense that there is a chromosomal makeup, and it matters.
- See 
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Ray2008"
+ as a code word for scientism
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Need to define scientism/find description from Crit Neuro.
+\end_layout
+
+\begin_layout Plain Layout
+
+Also page numbers.}
+\end_layout
 
 \end_inset
 
- and Gendered Innovations.
-\end_layout
-
-\begin_layout Standard
-P19s are karotypically 'male' -- i.e.
- XY.
- This has consequences for how they differentiate and how they signal, especiall
-y 
-\end_layout
-
-\begin_layout Subsection
-Serotonin & Gender/Race
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
+ (which I recall as being a bad thing) 
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
+I think relevant is 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Gorelick2014"
+
+\end_inset
+
+'s brief discussion of indigenous sciences as a process, and specifically
+ the proposal that science-as-a-process is consistent with a verb-based
+ language.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gorelick2014"
+
+\end_inset
 
  
-\backslash
-graffito{Questioning the use of race as a categorization without defining
- what is 
-\backslash
-emph{meant} by race, re feminist/womanist analyses of the use of racial
- categories in medicine}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-serotonin receptors are differentially distributed and have different activation
- levels in male vs.
- female rats 
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "Li2000,Carlsson1988,Liechti2001,Zhang1999"
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-especially the 5-HT2
-\begin_inset script subscript
-
-\begin_layout Plain Layout
-a 
-\end_layout
-
-\end_inset
-
-receptor, implicated in hallucinogen signalling
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-pharmacogenetics are differential along racial and gender lines
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Murphy2013"
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-depression (associated with the 5-HT system, among others) shows different
- responses along racial and gender lines
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Brummett2008"
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-if hallucinogens and signalling differentially affect men and women and
- different races/ethnicities, then that has to be studied in model systems
- as to how it might affect plasticity and molecular effects
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
 \begin_inset Quotes eld
 \end_inset
 
-However, the binding of serotonin-2A receptor measured with [ 
-\begin_inset script subscript
-
-\begin_layout Plain Layout
-3
-\end_layout
-
-\end_inset
-
-H]ketanserin was significantly higher in females in all regions of the hippocamp
-us.
+A bay
 \begin_inset Quotes erd
 \end_inset
 
+ is English; the verb-based version is 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Zhang1999"
+to be a bay
+\begin_inset Quotes erd
+\end_inset
+
+, which is not inanimate but moves in dynamic relationships with the wind
+ and shoreline and other parts of the world.
+ To be human or conscious or think is to have a similar dynamic and evolving
+ relationship.
+ On a very basic level, to be alive is to be in concert with the environment.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+So cellular and molecular neuroscience is missing a great many things.
+\end_layout
 
 \end_inset
 
@@ -866,195 +1207,183 @@ key "Zhang1999"
 \end_layout
 
 \begin_layout Itemize
-modulated by testosterone
+Situating the brain/cognition within a culture is an expanding trend (which
+ I should be happy about).
+ The large problem is that when 
+\begin_inset Quotes eld
+\end_inset
+
+culture
+\begin_inset Quotes erd
+\end_inset
+
+ and its importance are talked about in scientific settings, culture is
+ a fixed quantity with Right responses.
+ Hispanic medical patients require an interpreter; cases of Vietnamese epilepsy
+ require a cultural translation between spiritual/traditional Vietnamese
+ and doctors with curative drugs.
+ 
 \end_layout
 
-\end_deeper
-\begin_layout Subsection
-Serotonin Model Systems
-\end_layout
+\begin_layout Itemize
+Epigenetics -- the metaphorical and physical incorporation of social effects
+ into the genome, is a way of explaining what culture does for human development
+, creating a narrative of 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Standard
-P19 stem cells are euploid male; if serotonin systems are affected by testostero
-ne (re: Zhang paper), are P19s producing testosterone?
-\end_layout
+soma to society
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Section
-Cultural Neuroscience
-\end_layout
+.
+ But incorporating social factors as a serious and genomic part of human
+ function also creates new 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Subsection
-Hallucinogens
-\end_layout
+at risk
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Standard
-Psychotropic drugs have a rich and important history of spiritual and mental
- use in nearly every human culture.
- It seems that any and every culture has sought new insights and views with
- the help of native pharmacological agents.
- Although largely reduced now to their chemical structure
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-reductionism?
-\end_layout
+ populations, by incorporating the epigenetic traces on historically marginalize
+d groups into fundamental parts of those groups that need fixing.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kirmayer2006,Pickersgill2009"
 
 \end_inset
 
- in the labs funded by the NIH, most of the compounds derive from different
- cultural traditions.
- Peyote (active ingredient: mescaline)
-\begin_inset ERT
-status collapsed
 
-\begin_layout Plain Layout
-
-
-\backslash
-footnote {A comparison of the plant/spiritual context to the chemical structure
- should go here to demonstrate how we separate them out.
- also re: placebo effect, and the rights of traditional groups to use those
- drugs [re: NA church lawsuits], and also the danger of deforestation and
- environmental destruction to 
-\backslash
-emph{traditional} methods of harvesting plants -- making them only available
- with clinical approval -- and chemical synthesis methods, which probably
- contribute to pollution and destruction.}
-\end_layout
-
-\end_inset
-
- has historically been used by the Native American church, a right they
- successfully fought for in court.
- Ayahuasca (active ingredient: 
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-dunno this
-\end_layout
-
-\end_inset
-
-) is a traditional South American 
 \begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito {Talk to Otto's friend about his experiences? And access?}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- drug.
- LSD is derived from ergot, a fungus -- it's often thought that outbreaks
- of 
+There's some arguments about neoliberalism and reductionism.
+ I hear a lot of usage of 
 \begin_inset Quotes eld
 \end_inset
 
-witch craft
+nature
 \begin_inset Quotes erd
 \end_inset
 
- in medieval Europe are actually attributable to ergot contaminations.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {Source for ergot and historical significance}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-On a related note -- how presumptuous to take drugs from indigenous cultures
- and push them into the laboratory.
- Is plasticity and all of the signalling mechanisms relevant if the experience
- isn't included? Hallucinogens are notoriously sensitive to situation --
- or rather, individual interpretations of a situation.
- The quality (and thus long term effects) of a psychotropic experience is
- created through the 
-\emph on
-interplay
-\emph default
- between environment and individual; like facts, it doesn't wholly reside
- in either, or even at the mere intersection.
- Trying to pull that out in a lab environment, is, as Fleck describes, not
- just a translation of information from one knowledge realm to another,
- but a full fledged transformation such that the ayahuasca in the lab is
- only nominally related to ayahuasca in practice.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-psychotropics are a metaphor for preception -- you can have a good or bad
- trip not based on thecontext of the orld, but hw you PERCEIVE that context
- -- local trip -- different people think differently about their world and
- so they literally perceive the same tevents differently -- heightened by
- psychotropics
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-re fleck and knowldege 
-\emph on
-changing
-\emph default
- as it moves up the expert chain -- we say we're studying the 
+ and 
 \begin_inset Quotes eld
 \end_inset
 
-active ingredient
+science
 \begin_inset Quotes erd
 \end_inset
 
- as if we've isolated the heart-- really made it clear what's 
-\emph on
-actually
-\emph default
- 'active' or -- but actually we're studying something 
-\emph on
-completely
-\emph default
- different
-\end_layout
+ to support some sort of status quo, of 
+\begin_inset Quotes eld
+\end_inset
 
+free market forces
+\begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Section
-Neuroscientific thoughtstyles
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
 Molecular and genetic reductionism
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Reductionism
+\begin_inset Quotes erd
+\end_inset
+
+ is a bit of a catch all.
+ To a large extent, the Western scientific traditions is entirely focused
+ on reducing systems to their smallest working unit,, with the intention
+ of finding out one 
+\begin_inset Quotes eld
+\end_inset
+
+answer
+\begin_inset Quotes erd
+\end_inset
+
+ and threading it into many other answers to form a kind of tapestry of
+ knowledge.
+ The reduction and simplification of systems roughly correlates with the
+ notion of 
+\begin_inset Quotes eld
+\end_inset
+
+pure
+\begin_inset Quotes erd
+\end_inset
+
+ sciences, pure being perceived as better, 
+\begin_inset Quotes eld
+\end_inset
+
+harder
+\begin_inset Quotes erd
+\end_inset
+
+, and (incidentally, of course) more masculine.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/xkcd_purity.png
+	width 115col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Purity
+\begin_inset Quotes erd
+\end_inset
+
+, Randall Munroe, https://xkcd.com/435/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ In the biological sciences, and in the neurosciences, reductionism is generally
 \end_layout
 
 \begin_layout Itemize
@@ -1138,7 +1467,8 @@ Personalized medicine
 
  is not actually personalized; it's genomic.
  Relying on genetic information to give meaningful information about health
- care and responses is hardly specific to an individual's needs and abilities.
+ care and responses is hardly specific to an individual's needs and abilities,
+ as we'd like a feminist science t be.
 \begin_inset Note Comment
 status collapsed
 
@@ -1153,186 +1483,6 @@ not all white men from Europe
 \begin_layout Plain Layout
 [[I think this is a request for clarificaiton of what feminist medicine
  would be, but not in the Sandra Harding sense]]
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-interdisciplinary studies
-\end_layout
-
-\begin_layout Standard
-Neuroscience is essentially, and intentionally, interdisciplinary.
- 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Choudhury2011"
-
-\end_inset
-
-, in the introduction to 
-\emph on
-Critical Neuroscience 
-\emph default
-propose 
-\begin_inset Quotes eld
-\end_inset
-
-interdisciplinary
-\begin_inset Quotes erd
-\end_inset
-
- as a code word for scientism; and neuroscience, the field, was deliberately
- named, funded, and institutionalized to lie at the intersection of complementar
-y disciplines.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Abi-Rached2010b"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Neuroscience is a scientific approach to a centuries old question of consciousne
-ss and/or what makes us human promising, at long last, success.
- At the very least, that's what the most high-profile members of the neuroscient
-ific community imply.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-I think relevant is 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Gorelick2014"
-
-\end_inset
-
-'s brief discussion of indigenous sciences as a process, and specifically
- the proposal that science-as-a-process is consistent with a verb-based
- language.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Gorelick2014"
-
-\end_inset
-
- 
-\begin_inset Quotes eld
-\end_inset
-
-A bay
-\begin_inset Quotes erd
-\end_inset
-
- is English; the verb-based version is 
-\begin_inset Quotes eld
-\end_inset
-
-to be a bay
-\begin_inset Quotes erd
-\end_inset
-
-, which is not inanimate but moves in dynamic relationships with the wind
- and shoreline and other parts of the world.
- To be human or conscious or think is to have a similar dynamic and evolving
- relationship.
- On a very basic level, to be alive is to be in concert with the environment.
- 
-\end_layout
-
-\begin_layout Plain Layout
-So cellular and molecular neuroscience is missing a great many things.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Situating the brain/cognition w/in a culture is a trend - epigenetics as
- 
-\begin_inset Quotes eld
-\end_inset
-
-from soma to society
-\begin_inset Quotes erd
-\end_inset
-
-.
- But this also creates new 
-\begin_inset Quotes eld
-\end_inset
-
-at risk
-\begin_inset Quotes erd
-\end_inset
-
- populations, incorporating social culture into scientific dogma as a fixed
- factor.
- -- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kirmayer2006,Pickersgill2009"
-
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Big narratives of simplicity -- simple simple simple, so we can understand.
- Many simple pieces to make a big complex system.
- Does this work? Eh, probably not.
- But what does it do when it doesn't work? How does it go wrong? Or how
- does it go right?
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-There's some arguments about neoliberalism and reductionism.
- I hear a lot of usage of 
-\begin_inset Quotes eld
-\end_inset
-
-nature
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-science
-\begin_inset Quotes erd
-\end_inset
-
- to support some sort of status quo, of 
-\begin_inset Quotes eld
-\end_inset
-
-free market forces
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \end_inset
