@@ -196,9 +196,13 @@ end{acronym}
 \end_inset
 
 
-\end_layout
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Open-Science"
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
