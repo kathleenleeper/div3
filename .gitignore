@@ -3,6 +3,7 @@
 *.tex
 /resources/
 /classes
+/non-thesis/
 *.bib
 #*.lyx#
 *~
