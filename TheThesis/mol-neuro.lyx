@@ -56,8 +56,8 @@
 \shortcut idx
 \color #008000
 \end_index
-\secnumdepth 3
-\tocdepth 3
+\secnumdepth 2
+\tocdepth 2
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -74,17 +74,7 @@
 \begin_body
 
 \begin_layout Chapter
-Serotonin, transcription factors, and differentiation
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-real science
-\end_layout
-
-\end_inset
-
-
+Science?
 \end_layout
 
 \begin_layout Standard
@@ -107,16 +97,6 @@ inherently individual
 \end_layout
 
 \begin_layout Standard
-But now for some 
-\begin_inset Quotes eld
-\end_inset
-
-real
-\begin_inset Quotes erd
-\end_inset
-
- science.
- 
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Serotonin,-transcription-factors_mol-neuro"
@@ -126,11 +106,289 @@ name "chap:Serotonin,-transcription-factors_mol-neuro"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Wow why?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Acronyms
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPCRs}{G-protein coupled receptors}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{RA}{retinoic acid}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{5-HT}{5-hydroxytryptamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CNS}{central nervous system}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Culturally significant and an identity at my (soon to be) alma mater, hallucino
+gens -- psychotropics -- are small molecules with a big impact.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{I 
+\backslash
+emph{hate} myself}
+\end_layout
+
+\end_inset
+
+ They entered the modern scientific frame with full force with Heffters
+ isolation of LSD from ergot, and have since been implicated (within the
+ US) ins CIA coverups and in counter-culture radical movements, used as
+ unorthodox dorm-room herapy and as a field of battle for Native American
+ rights.
+ The plants and complexes they come from -- ayahuasca in the the past and
+ present Amazon river basin, ergot-containing drinks for ancient Greek philosoph
+ers.
+ etc.
+\end_layout
+
+\begin_layout Standard
+these drugs have been around a hella long time, and it's only just now that
+ Western science/culture is beginning to treat them as a potentially meaningful
+ therapeutic substance.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+In my own experience and those around, they're either positively life-changing;
+ or not.
+ Some functionally similar signalling mechanism interacts with environment
+ and person to crate this completely unique experience.
+ Part of what's incredible about really any drug experiences is the alterning
+ of how you think -- it's a paradigm shift in the most literal sense of
+ the word
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+signalling pathways only make sense if you think you can figure out plasticity
+ from knowing them............so but I still think the molecules are cool bc 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Consciousness-raising molecules
+\end_layout
+
+\begin_layout Standard
+Presumably, one piece of the psychedelic puzzle is understanding what happens
+ on a molecular level to induce both short term and long term perceptual
+ changes.
+ The most interesting aspect of (really all drugs) but specificaly hallucinogens
+, is their binding mechanisms Classical psychedelics are selective, to varying
+ degrees, for a specific receptor subtype of the serotonin system, the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ receptor.
+ They bind to the same physical receptor as serotonin, but downstream effects
+ within the cell (second messenger signalling molecules, transcription factor
+ activation, and receptor sensitization/internalization) differ radically
+ between drug and substrate, as does psychological effects.
+ Intriguingly, there appear to be certain molecular 
+\begin_inset Quotes eld
+\end_inset
+
+fingerprints
+\begin_inset Quotes erd
+\end_inset
+
+ characterizing known hallucinogenic drugs
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{little sticky to draw lines between hallucinogenic and non--- how
+ specific is that?}
+\end_layout
+
+\end_inset
+
+ (based on both formally obtained and...less formal knowledge) in opposition
+ to their non-consciousness altering counterparts.
+\end_layout
+
+\begin_layout Standard
+The areas of interest for me here are the elucidation of the signalling
+ pathways created by the stereoelectronic perturbation and conformational
+ movement of specific amino acid residues at the binding site of drugs.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+**physical processing of events
+\end_layout
+
+\begin_layout Plain Layout
+**division b/t visual changes and mental changes but actually not divisible
+ because it's caused by action at ~the same locations -- 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
 \begin_layout Section
 Why serotonin?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -313,7 +571,7 @@ end{acronym}
 
 
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 OK but aren't there some well defined non-serontergic circuits/functions
@@ -377,7 +635,7 @@ key "Millan2008"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -397,80 +655,11 @@ Model systems for serotonergic signaling are fundamental to therapeutic
  drug design and development, and in the case of hallucinogenic drugs, present
  a potential method to link molecular and sub-cellular processes to cognition
  and thought.
+\end_layout
+
+\end_inset
+
  
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Evidence from a multiplicity of different 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCRs}
-\end_layout
-
-\end_inset
-
-, as well as specifically the serotonin subtypes, implies that these secondary
- messengers are differentially activated by ligand binding; signal transduction
- mileage may vary.
- The degree of activation of any specific pathway depends on receptor-ligand
- interactions, typically those of the aromatic residues at the active site.
-\end_layout
-
-\begin_layout Plain Layout
-The key to 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{GPCRs}
-\end_layout
-
-\end_inset
-
- is, of course, how those second messenger system are modulated.
- With hallucinogens, two primary research routes have comprised most of
- the research.
- Much of the recent and high profile research has occurred in primary mouse
- neurons, which are difficult to culture, expensive, and extremely delicate
- to work with.
- The other option, beloved by molecular biologists since the disciplines
- infancy, is the transgenic expression of the receptor of interest in a
- cell line.
- Work has been done in CHO cells
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{my work, at least, is true for this and was the original motivation
- so}
-\end_layout
-
-\end_inset
-
- Serotonin model systems come in a variety of shapes and forms; much of
- the work on hallucinogenic signaling has either been done on primary neurons
- (difficult to culture, expensive, and hardly inexhaustible) or in transgenic
- cells expressing the appropriate subtype of receptor.
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -1092,15 +1281,156 @@ ic neurons only.
 \end_layout
 
 \begin_layout Section
-Model systems
-\end_layout
-
-\begin_layout Subsection
-What do model systems do?
+Model Serotonin systems
 \end_layout
 
 \begin_layout Standard
-	
+Those signalling pathways have been investigated in a variety of systems.
+ This is by no means a comprehensive overview, but studies on hallucinogens
+ have occurred in a number of different systems since the 1950s (mostly
+ in the 50s and 60s, with a resurgence since the mid-2000s).
+ They include: 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:Humans,-with-psilocybin,"
+
+\end_inset
+
+Humans, with psilocybin, LSD, and MDMA
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+fMRI, EEGs, interviews of subjective experience
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:Rats,-LSD-+"
+
+\end_inset
+
+Rats, LSD + many other drugs
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+global RNA extraction to look @ gene transcription
+\end_layout
+
+\begin_layout Enumerate
+staining to see receptor expression
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:primary-neurons"
+
+\end_inset
+
+primary neurons? (pretty sure)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:Oocytes-with-mGlu"
+
+\end_inset
+
+Oocytes with mGlu & 2a receptors
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+to study signalling & colocalization
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:CHO-(others?)-cells"
+
+\end_inset
+
+CHO (others?) cells expressing a fluorescent 5-HT2a receptor (my thing!)
+\end_layout
+
+\begin_layout Standard
+Obviously, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:Humans,-with-psilocybin,"
+
+\end_inset
+
+ is the most full bodied (pun 
+\emph on
+totally
+\emph default
+ intended) 
+\begin_inset Quotes eld
+\end_inset
+
+system
+\begin_inset Quotes erd
+\end_inset
+
+, but we can't look at short term neuronal changes, and imaging studies
+ have, you know, all the flaws of imaging studies.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:Rats,-LSD-+"
+
+\end_inset
+
+ has problems.
+ Largely cost, and scale, and I can't use them at Hampshire, and it's harder
+ to study specific receptors in specific cells on a tiny temporal basis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:primary-neurons"
+
+\end_inset
+
+ are expensive and hard to maintain and dumb.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:Oocytes-with-mGlu"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:CHO-(others?)-cells"
+
+\end_inset
+
+ both suffer from what seems to me fatal flaws -- cells express different
+ internal proteins and matrices.
+ Undifferentiated cell lines won't have the same signalling pathways set
+ up to receive signals from a receptor; what's the point in studying signalling
+ pathways, receptor dynamics, or gene transcription in a set of cells that
+ likely is incapable of accurately reproducing the full breadth of signalling
+ pathways
 \begin_inset Note Comment
 status collapsed
 
@@ -1114,6 +1444,22 @@ my
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+What do model systems do?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
 The scientific justification for model systems is the essential role they
  play in reducing a complex biological into simple working units.
  Model neuronal systems in a dish provide a carefully controlled environment,
@@ -1125,7 +1471,7 @@ The scientific justification for model systems is the essential role they
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 In theory, this permits the isolation and tracking of internal signaling
  pathways of a single cell, letting scientists construct a step-wise 
 \begin_inset Quotes eld
@@ -1139,16 +1485,27 @@ map
  of the cell.
 \end_layout
 
-\begin_layout Subsection
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 current options
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Ideally, of course, one uses primary neuron cultures to study signaling
  -- but those are expensive and hard to maintain.
  Differentiation of fast-growing and easy to maintain cells, that nonetheless
  express a relatively fully functional GPCR signaling intracellular network
- is an alternate model for us.
+ is an alternate model for us
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -1186,7 +1543,7 @@ Thus, development of a holistic serotonin model systems -- granted, transgenes
 
 
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 OK but not nearly imaginative or widely enough researched [unreadable stuff]
@@ -1195,6 +1552,25 @@ OK but not nearly imaginative or widely enough researched [unreadable stuff]
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Because I wanted to write a div about more than 
+\begin_inset Quotes eld
+\end_inset
+
+just
+\begin_inset Quotes erd
+\end_inset
+
+ science, I opted to work at Hampshire.
+ Our money and our model systems are limited; I also won't be getting DEA
+ approval (not that I tried, but I have other things I'd rather wrestle
+ with the government about).
+\end_layout
+
+\begin_layout Section
+Background
 \end_layout
 
 \begin_layout Standard
@@ -1215,28 +1591,17 @@ ac{RA}
 
  in the media.
  The trick for us, however, is not just the production of neuronal cells,
- but to direct the line towards serotonergic
-\begin_inset Note Note
-status collapsed
+ but neurons expressing the 5-HT
+\begin_inset script subscript
 
 \begin_layout Plain Layout
-is serotonergic defined?
+2a
 \end_layout
 
 \end_inset
 
- neurons instead of 
-\emph on
-just 
-\emph default
-neurons.
-
-\emph on
+receptors, with GPCR machineary full intact and functional.
  
-\emph default
-So how can we manipulate the P19 stem cells earlier in the process? We can
- (hopefully) set cell fate early on via expression of important transcription
- factors in serotonergic differentiation, and then allow
 \begin_inset ERT
 status collapsed
 
@@ -1250,7 +1615,7 @@ graffito {as far as cancerous, genetically manipulated, and traumatized
 
 \end_inset
 
- cells to develop serotonin-receptor GPCR machinery relatively normally.
+ 
 \end_layout
 
 \begin_layout Section
@@ -1591,84 +1956,7 @@ The 5-HT system
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-fucking christ this section just jesus I'm sorry.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename gfx/classification-5-HT-neurons_nuclei-rhombomeres
-	lyxscale 40
-	width 100col%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-classification of 5-HT neurons (from 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{Chen2005}
-\end_layout
-
-\end_inset
-
-)
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
 The 5-HT system is one of the most complex projection networks in the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{CNS}
-\end_layout
-
-\end_inset
-
-.
- It has three descending efferents to the spinal cord, while the B5-B9 neurons
- project via 5 different routes to almost every region of the 
 \begin_inset ERT
 status open
 
@@ -1688,9 +1976,48 @@ ac{CNS}
 modulating
 \emph default
  the rest of brain function.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+DNa/TF as master molecule -- clearly TFs aren't only thing, bc otherwise
+ expression would lad to 100% diff -- als where would RA? has to be supplied
+ by external supplies
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+Hallucinogens affect the excitability of neurons in areas like the locus
+ coerelus, which are responsible for 
+\begin_inset Quotes eld
+\end_inset
+
+filtering
+\begin_inset Quotes erd
+\end_inset
+
+ stimuli -- that is, more stimuli than normal makes it to the 
+\begin_inset Quotes eld
+\end_inset
+
+processing
+\begin_inset Quotes erd
+\end_inset
+
+ centers of the brain.
+ The attempt to make all of that extra stimuli into a cohesive image is
+ presumably what creates visual patterns for the drug user.
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1709,13 +2036,6 @@ actual
 \end_inset
 
 
-\end_layout
-
-\begin_layout Subsection
-embryonic development
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1726,1154 +2046,9 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-During embryonic development, the different networks of 5-HT neurons are
- much less distinct.
- In mice, they're some of the earliest generated neurons, appearing between
- E10.5 and E12.5, starting in the rostral regions along the brainstem axis.
- By E12.5, almost all of the 5-HT neuron classes are present.
- Induction and specification of diverse neurons, and specifically 5-HT neurons,
- requires a set of signaling molecules, converted into a combinatorial transcrip
-tional code.
-\end_layout
-
-\begin_layout Section
-Transcription factors in 5-HT differentiation 
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-5-HT differentiation
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-in 5-HT progenitor cells
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Greyedout
-status open
-
-\begin_layout Plain Layout
-more neuroanatomy! more signaling pathways!
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="5">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Genes
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Expression
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
- 5–HT defects
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-KO lethality
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
- 5–HT-specific TF
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Nkx2.2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-ventricular zone 
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-100% except in r1 P0
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-P0
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-lost except in r1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Mash1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-ventricular zone
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Almost 100%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-P0
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-all lost
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Gata2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-VZ, postmitotic
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-100%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-E10-12.5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-all lost
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Lmx1b
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Postmitotic
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-100%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-P0
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-all lost
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Pet1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Postmitotic
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-70%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-mostly viable
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-unknown
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Gata3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-Postmitotic
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-mostly in caudal
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-E11.5-13.5
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-unknown
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Phenotype of transcription factor KO mice (from 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cauthor{Chen2005}
-\end_layout
-
-\end_inset
-
-)
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-The classical proneural gene Mash1 is expressed in Nkx positive precursors,
- although in r2–r3 and r5–r7 its pro- neural activity is suppressed by Phox2b
- [6].
- Early expression of the forkhead transcription factor Foxa2 in r1 prevents
- expression of Phox2b and motor neuron differentiation, while delayed expression
- of Foxa2 in r2–r3 and r5–r7 down regu- lates Phox2b expression and allows
- the switch from motor neuron to 5-HT neuron differentiation [7]
-\end_layout
-
-\begin_layout Plain Layout
-Postmitotically, the differentiation of all 5-HT neurons is marked by the
- expres- sion of zinc finger (Gata2 and Gata3), homeodomain (Lmx1b), and
- Ets domain (Pet1) transcription factors [6].
-\end_layout
-
-\begin_layout Plain Layout
-Enhancing 5-HT neuron differentiation from ESCs has been most notably achieved
- by treatment with growth factors [10, 12], in the pres- ence of serum [10],
- or in coculture with stromal cell lines [13].
- However, the variability of animal serum batches and undefined stromal
- cell-derived inducing activity make serum free methods, with defined media,
- the most attractive approach to investigate the basic mechanisms of ESC
- differentiation.
- In this study, we investigate whether the over-expression of transcription
- factors essential for the differentiation of 5-HT neuron in vivo increases
- the yield of 5-HT neurons from ESCs.
- Monolayer culture, pro- ducing only a few 5-HT positive cells in the absence
- of genetic modifications, was employed as a model for neuronal cell differ-
- entiation under chemically defined conditions [14].
- After initial experiments with lentiviral constructs constitutively expressing
- a gene of interest, the use of transient tissue-specific promoters was
- explored for transgene expression at a particular stage of the differentiation
- process (directed expression).
- Using this approach, we show that expression of Gata2 significantly enhanced
- 5-HT neuron differentiation.
- In addition, the combined directed expression of Gata2, Mash1, and Foxa2
- produced a fur- ther 10-fold increase in 5-HT neuron differentiation.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Nkx2.2
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Nkx2.2}
-\end_layout
-
-\end_inset
-
- is a homeodomain-containing transcription factor that specifies the ventral
- cell type in response to
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Shh}
-\end_layout
-
-\end_inset
-
- signals in the spinal cord and hind-brain.
- Expression of 
-\emph on
-Nkx2
-\emph default
-.2 ceases as soon as 5-HT cells become post-mitotic.
- Upstream of 
-\emph on
-Phox2b
-\emph default
-,
-\emph on
- Nkx2.2 
-\emph default
-plays a role in 
-\end_layout
-
-\begin_layout Enumerate
-earliest transcription factor required for 5-HT specifications
-\end_layout
-
-\begin_layout Enumerate
-dispensable in r1 5-HT; Nkx2.2 KO neurons derived from r1 are unaffected
-\end_layout
-
-\begin_layout Enumerate
-in the absence of Phox2b, adopts a default pathway to promote 5-HT fate
-\end_layout
-
-\begin_layout Subsubsection
-Ascl1/Mash1 *
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Greyedout
-status open
-
-\begin_layout Plain Layout
-expression patterns & time course
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Mash1 is the mouse, human, and rat 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{bHLH}
-\end_layout
-
-\end_inset
-
- homologue of 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Ascl1}
-\end_layout
-
-\end_inset
-
-, first
-\emph on
  
-\emph default
-discovered and explored in
-\emph on
- Drosophila
-\emph default
- as a pro-neural gene.
 \end_layout
 
-\begin_layout Standard
-It's a key fate determinant for many neuron types during fetal and adult
- neurogenesis.
- In the embryonic hind-brain, it's the only known pro-neural gene expressed
- in the domain of 5-HT progenitor cells, and is co-expressed with 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{Nkx2.2}
-\end_layout
-
-\end_inset
-
- during vMN and 5-HT production.
-\end_layout
-
-\begin_layout Standard
-Mash1 KO mice do not effectively product 5-HT neurons.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{vMNs}
-\end_layout
-
-\end_inset
-
-, which derive from the same set of cells, are produced normally, but without
- Mash1, none of the normal post-mitotic 5-HT transcription factors express.
- Likely, this is due to the loss of Notch signaling that ordinarily leads
- to 5-HT neurogenesis.
-\end_layout
-
-\begin_layout Standard
-Mash1 possesses specific 5-HT characteristics; cannot be replaced by other
- pro-neural 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{bHLH}
-\end_layout
-
-\end_inset
-
- factors.
- At the same time, it is not 
-\emph on
-sufficient
-\emph default
- to induce 5-HT differentiation; it requires cofactors, like 
-\emph on
-Nkx2.2.
-\end_layout
-
-\begin_layout Subsection
-in the ventricular zone & post-mitotic 5-HT neurons
-\end_layout
-
-\begin_layout Subsubsection
-Gata2, Gata3
-\end_layout
-
-\begin_layout Enumerate
-Members of the GATA family containing zinc-fingers which bind to core (A/T)GATA(
-A/G) sequences
-\end_layout
-
-\begin_layout Enumerate
-Gata2 precedes -3; 
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-E9.0 in r4 and transiently in r2
-\end_layout
-
-\begin_layout Enumerate
-E10.5 expanded to all rhombomeres and detected in VZ progenitor cells and
- in post-mitotic cells
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Gata2 KO:
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Leads to severe anemia and death between E10 and E11; this early lethality
- obviously precludes a more specific examiniation, but defects seem to appear
- in neurogenesis more generally.
- KO tissues
-\end_layout
-
-\begin_layout Enumerate
-defects in neurogenesis generally; early lethality precludes 5-HT specific
- examination
-\end_layout
-
-\begin_layout Enumerate
-
-\emph on
-in vitro
-\emph default
- KO tissues lack all 5-HT neurons, even in presence of Gata3
-\end_layout
-
-\begin_layout Enumerate
-Gata2 affects different 5-HT cluster development differently.
- It is necessary and sufficient in R1 neurons, and capable of inducing other
- 5-HT specific TFs in r1
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Gata3 - relevant in caudal development of raphe nuclei
-\end_layout
-
-\begin_layout Enumerate
-conflicting reports of Gata2 + Gata3 interactions
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gata3 operates either independently or downstream of Gata2 and Lmx1b
-\end_layout
-
-\begin_layout Enumerate
-poorly understand epistatic relationships
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset Note Note
 status open
