@@ -56,8 +56,8 @@
 \shortcut idx
 \color #008000
 \end_index
-\secnumdepth 3
-\tocdepth 3
+\secnumdepth 2
+\tocdepth 2
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -252,21 +252,6 @@ I think this maybe needs the context of neuroscience.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Subsection*
-Defining 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -648,21 +633,37 @@ online journal club
 \end_inset
 
 ; altmetrics to re-allocate scientific credit away from impact factors towards
- diverse forms of communication
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-More examples here: Readcube/Mendeley, collaborative reading sofware
+ diverse forms of knowledge transmission.
 \end_layout
 
-\end_inset
+\begin_layout Quote
+All of these are rough shorthand for four fundamental goals: (per Gezelter,
+ 2009)
+\end_layout
 
+\begin_layout Enumerate
+Transparency in experimental methodology, observation, and collection of
+ data.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Public availability and reusability of scientific data.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Public accessibility and transparency of scientific communication.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Using web-based tools to facilitate scientific collaboration.
  
 \end_layout
 
 \begin_layout Standard
-Thus, like any other community, 
+Despite the complexities and contradictions of any movement, 
 \begin_inset ERT
 status open
 
@@ -675,7 +676,7 @@ ac{OS}
 
 \end_inset
 
- is frustratingly broad and inconsistent,.
+ included,
 \begin_inset Note Note
 status collapsed
 
@@ -685,12 +686,87 @@ ughhhhh i hate definining this so so much
 
 \end_inset
 
- But there are some commonalities in both intent and execution, allowing
- us to pull apart some of the values.
+ There are sufficient commonalities in both intent and execution to examine
+ the value systems composing both problem and solution.
+ 
 \end_layout
 
 \begin_layout Section
 Value(s)
+\end_layout
+
+\begin_layout Subsection
+Problems We're Tryna Solve
+\end_layout
+
+\begin_layout Subsubsection
+Access & Pay Walls
+\end_layout
+
+\begin_layout Standard
+presumes internet access; presumes journals are highest repository of info;
+ presumes major barrier is $$, not quality of research
+\end_layout
+
+\begin_layout Standard
+**public access to knowledge; public empowerment via access to best and
+ brightest
+\end_layout
+
+\begin_layout Subsubsection
+Reproducibility and Retraction
+\end_layout
+
+\begin_layout Itemize
+Researcher error: automate stuff so we don't make dumb mistakes (BioBright,
+ Zappy)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+reusing protocols
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Retraction Watch
+\end_layout
+
+\begin_layout Subsubsection
+Getting More For Less: Metanalyses and Code/Data Reuse
+\end_layout
+
+\begin_layout Subsubsection
+Peer Review & Impact Factors
+\end_layout
+
+\begin_layout Subsubsection
+Statistical Failures: Underpowered and Badly Analyzed Data Sets
+\end_layout
+
+\begin_layout Subsubsection
+Relative Slowness of Medicinal Practice
+\end_layout
+
+\begin_layout Standard
+open source malaria practice\SpecialChar \@.
+
+\end_layout
+
+\begin_layout Subsubsection
+Boundaries Between Disciplines; Lack of Collaboration; 
+\begin_inset Quotes eld
+\end_inset
+
+Interdisciplinary
+\begin_inset Quotes erd
+\end_inset
+
+ Collabs
+\end_layout
+
+\begin_layout Subsection
+Solutions?
 \end_layout
 
 \begin_layout Quote
@@ -1026,13 +1102,14 @@ was
  Or whoever, pick your scientist.
  The construction of an illustrious history lends legitimacy to the moral
  appeal of the movement.
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subsection
 Public image management
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Science has an intimate relationship with the media, and both parties use
  each other as a tool for various goals.
  The media gets a reputable scientist figure to bolster their claims; the
@@ -1041,7 +1118,7 @@ sitive ways.
  Open science rhetoric is easy to use for both purposes.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Delfanti2013"
@@ -1100,7 +1177,7 @@ DIYBio
 , a loose network of homegrown biologists.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Both Venter and Capua used publications in both prestigious journals 
 \begin_inset ERT
 status collapsed
@@ -1127,6 +1204,11 @@ The New York Times
  both their success stories.
  The open science narrative was a tool in both of their toolkits used for
  different purposes and different effects.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
