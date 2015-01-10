@@ -221,7 +221,7 @@ filename "science-as-culture.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "mol-neuro.lyx"
+filename "open-science-musings.lyx"
 
 \end_inset
 
@@ -233,7 +233,7 @@ filename "mol-neuro.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "open-science-musings.lyx"
+filename "Global-Science.lyx"
 
 \end_inset
 
@@ -257,7 +257,7 @@ filename "OS-case-study.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "Global-Science.lyx"
+filename "mol-neuro.lyx"
 
 \end_inset
 

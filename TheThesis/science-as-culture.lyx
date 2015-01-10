@@ -1322,52 +1322,14 @@ open
 \end_inset
 
  is not by itself a panacea for the hegemony of scientific establishments.
- I am still interested in exploring how some of the potential of 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
  
-\emph on
-could
-\emph default
- be fulfilled given a more deliberate and complex implementation.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Open-Science_casestudy"
-
-\end_inset
-
- is the follow up to this -- it's a description of my attempts to implement
- open science proposals into a biological project, and the myriad complications
- and barriers I've had in doing so.
- It offers a description of what I think the open science movement is missing
- in its efforts examines the open science movement with a mind to discover
- and analyze the values underlying those efforts.
- Ultimately, I'd propose how a movement hoping to democratize and equalize
- science desperately needs to consider and account for their values from
- a (feminist) different standpoint if they'd like to succeed.
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "chap:Representation_Science"
 
 \end_inset
 
- continues, to some extent, on the same theme, considering
+ continues on this same theme, considering
 \begin_inset ERT
 status collapsed
 
@@ -1381,8 +1343,31 @@ graffito{Not sure where the actual content wrt "representation" should go.
 
 \end_inset
 
- the representation of the global scientific community in open science and
+ the representation of the global scientific community in open science vs.
  science at large.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Open-Science_casestudy"
+
+\end_inset
+
+ is the follow up to this -- it's a description of my attempts to implement
+ open science proposals into a biological project, and the myriad complications
+ and barriers I've surmounted -- or not -- in doing so.
+ It offers a description of what I think the open science movement is missing
+ on a practical implementation level, and examines the open science movement
+ with a mind to discover and analyze the values underlying those efforts.
+ Ultimately, I'd propose how a movement hoping to democratize and equalize
+ science desperately needs to consider and account for their values from
+ a (feminist) different standpoint.
+ I also review some 
+\emph on
+awesome
+\emph default
+ projects already happening.
 \end_layout
 
 \begin_layout Standard
@@ -1392,7 +1377,7 @@ reference "chap:Critical-Neuroscience"
 
 \end_inset
 
- is, to some extent, the capstone chapter.
+ is the capstone chapter of sorts.
  It is critical questions about the links between my own areas of interest
  -- molecular signaling and psychotropic drugs -- and gender, environmental
  concerns, indigenous rights and colonialism, and race relations.
