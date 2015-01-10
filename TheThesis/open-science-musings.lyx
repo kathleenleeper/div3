@@ -73,6 +73,145 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Acronyms
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FLOSS}{free/libre open source software}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPL}{GNU General Public License}, the founding document of the Free
+ Software Movement
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLoS}{Public Library of Science}, a leader in open access publishing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OKF}{Open Knowledge Foundation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 Open Science
 \end_layout
@@ -384,7 +523,7 @@ to help
 
 \end_inset
 
-The broad initiatives standing under the 
+The broad initiatives huddling under the 
 \begin_inset ERT
 status open
 
@@ -397,160 +536,12 @@ ac{OS}
 
 \end_inset
 
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GNU}{GNUs Not Unix}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OKF}{Open Knowledge Foundation}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- umbrella generally begin from the point of view where the scientific ecosystem
- is suffering from serious flaws; they propose transparency, greater access,
- and technological innovation can 'fix' or alleviate those flaws.
- Naturally, different groups see and emphazise different problems and propose
+ umbrella begin from the point of view in which the scientific ecosystem
+ -- that network of funding and publishing that undergirds the production
+ of konwledge -- is suffering from serious flaws; they propose transparency,
+ greater access, and technological innovation can 'fix' or alleviate those
+ flaws.
+ Naturally, different groups see and emphazise different problems, proposing
  specific solutions accordingly.
  The overarching attempts to 
 \begin_inset Quotes eld
@@ -572,9 +563,43 @@ opening
 \begin_inset Quotes erd
 \end_inset
 
- up 3-6 areas, and creating a scientific culture where transparacency is
- the norm.
- Ideally, all of these proposals co-exist:
+ up 3-6 areas, and creating a scientific culture where transparency is the
+ norm.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+fundamental goals
+\begin_inset Quotes erd
+\end_inset
+
+ of open science include, per Gezelter, 2009:
+\end_layout
+
+\begin_layout Enumerate
+Transparency in experimental methodology, observation, and collection of
+ data.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Public availability and reusability of scientific data.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Public accessibility and transparency of scientific communication.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Using web-based tools to facilitate scientific collaboration.
+ 
+\end_layout
+
+\begin_layout Standard
+It's accomplished by opening up areas of that scientific ecosystem, and
+ implementing structures that allow for and incentivize:
 \end_layout
 
 \begin_layout Enumerate
@@ -603,8 +628,8 @@ lab notebooks - tracing the entire research process with all dead ends and
 
 \end_deeper
 \begin_layout Standard
-There's also a hundred other subcategories that fall under the umbrella;
- new systems of distributed, ongoing, or otherwise 
+There's also a hundred other subcategories on the fringes of those overarching
+ categories new systems of distributed, ongoing, or otherwise 
 \begin_inset Quotes eld
 \end_inset
 
@@ -663,32 +688,6 @@ online journal club
 
 ; altmetrics to re-allocate scientific credit away from impact factors towards
  diverse forms of knowledge transmission.
-\end_layout
-
-\begin_layout Quote
-All of these are rough shorthand for four fundamental goals: (per Gezelter,
- 2009)
-\end_layout
-
-\begin_layout Enumerate
-Transparency in experimental methodology, observation, and collection of
- data.
- 
-\end_layout
-
-\begin_layout Enumerate
-Public availability and reusability of scientific data.
- 
-\end_layout
-
-\begin_layout Enumerate
-Public accessibility and transparency of scientific communication.
- 
-\end_layout
-
-\begin_layout Enumerate
-Using web-based tools to facilitate scientific collaboration.
- 
 \end_layout
 
 \begin_layout Standard
@@ -1581,10 +1580,19 @@ I can't actually do an anthology of open science in the developing world.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
