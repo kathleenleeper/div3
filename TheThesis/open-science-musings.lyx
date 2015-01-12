@@ -645,7 +645,7 @@ But let's talk about problems first, yeah?
 \end_layout
 
 \begin_layout Subsection
-Access & Pay Walls
+Access & Pay Walls and ther stuff
 \end_layout
 
 \begin_layout Quote
@@ -814,7 +814,8 @@ Unpaid labor & 'community' service
 \end_layout
 
 \begin_layout Standard
-Scientific journal publishers play the role of publishers They don't 
+Scientific journal publishers play the role of publishers.
+ They don't 
 \emph on
 produce
 \emph default
@@ -850,15 +851,18 @@ status collapsed
  and physical distribution.
  With that barrier out of the way, it's hard to see exactly how worthwhile
  whatever-it-is that publishers provide is.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
 **public access to knowledge; public empowerment via access to best and
  brightest
+\end_layout
+
+\begin_layout Plain Layout
+concern/feeling that w/o monetary barriers, science would de 
+\emph on
+faster
 \end_layout
 
 \end_inset
@@ -868,6 +872,80 @@ status open
 
 \begin_layout Subsection
 Reproducibility and Retraction
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Retracted Science and the Retraction Index
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2011"
+key "Fang2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Why Most Published Research Findings Are False
+\emph default
+,
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2005"
+key "Ioannidis2005"
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+It turns out, in fact, that the statistics in both this and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fn:voodoo-correlations"
+
+\end_inset
+
+ are suspect, and certainly hotly debated.
+ But it's sufficient that they were even 
+\emph on
+published
+\emph default
+, and in high-impact journals, that this is a concern that seems valid.q
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Puzzlingly High Correlations in fMRI Studies of Emotion, Personality, and
+\emph default
+ 
+\emph on
+Social Cognition
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2009"
+key "Vul2009"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -885,8 +963,79 @@ reusing protocols
 Retraction Watch
 \end_layout
 
-\begin_layout Subsection
-Getting More For Less: Metanalyses and Code/Data Reuse
+\begin_layout Subsubsection
+Statistical Failures: Underpowered and Badly Analyzed Data Sets***
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Power failure: why small sample size undermines the reliability of neuroscience
+\emph default
+ -
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Button2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Puzzlingly High Correlations in fMRI Studies of Emotion, Personality, and
+ Social Cognition 
+\emph default
+(originally 
+\emph on
+Voodoo Correlations in Social Neuroscience
+\emph default
+) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vul2009"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fn:voodoo-correlations"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Willingness to Share Research Data Is Related to the Strength of the Evidence
+ and the Quality of Reporting of Statistical Result
+\emph default
+s
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wicherts2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+File Drawer Problems & Negative Results
 \end_layout
 
 \begin_layout Subsection
@@ -897,8 +1046,62 @@ Peer Review & Impact Factors
 glam science
 \end_layout
 
+\begin_layout Quote
+[Deep impact: unintended consequences of journal rank] 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brembs2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+So what can we do to return to how things once were? The rewards of science
+ rise out of publications, but simply publishing does not guarantee success.
+ We are increasingly judged according to where we publish rather than what
+ we publish.
+ Remarkably, we are ranked in proportion to the number of citations garnered
+ by the other papers in the journals that contain our papers (the impact
+ factor).
+ Some organizations decide promotions and grant applications on the basis
+ of the impact factors of the journals that publish a scientist’s papers.
+ So, rewards come from being published in the journals with the highest
+ impact factors.
+ As a result, the perception of the need for this kind of reward runs strong
+ and deep.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{from Lisberger 2013}: I realize it would be a big change of culture,
+ but data fraud would be reduced—and the quality of the entire scientific
+ literature improved—if we established requirements for publishing not just
+ your paper, but also your data.
+ }
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lisberger2013"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
-Statistical Failures: Underpowered and Badly Analyzed Data Sets***
+Getting More For Less: Metanalyses and Code/Data Reuse
 \end_layout
 
 \begin_layout Subsection
