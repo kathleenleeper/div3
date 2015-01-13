@@ -345,7 +345,7 @@ fingerprints
 
  characterizing known hallucinogenic drugs
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1285,6 +1285,21 @@ Model Serotonin systems
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+JC - model systems-->generate model system for 5HT signaling--> see if hallucino
+gens do something different--> only hallucinogens can help us see scientific
+ reality unfettered by societal bias.
+\end_layout
+
+\begin_layout Plain Layout
+on a now obsolete section -- questioning how hallucinogens were worked int
+\end_layout
+
+\end_inset
+
 Those signalling pathways have been investigated in a variety of systems.
  This is by no means a comprehensive overview, but studies on hallucinogens
  have occurred in a number of different systems since the 1950s (mostly
@@ -1574,9 +1589,18 @@ Background
 \end_layout
 
 \begin_layout Standard
-The available cell line to me is P19 stem cells, which are known to differentiat
-e into relatively poorly-characterized neuron-like cells when cultured with
- a micro-molar amount of 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+fix wording on this
+\end_layout
+
+\end_inset
+
+The available cell line P19 stem cells, which are known to differentiate
+ into relatively poorly-characterized neuron-like cells when cultured with
+ a micro-molar concentrations of 
 \begin_inset ERT
 status open
 

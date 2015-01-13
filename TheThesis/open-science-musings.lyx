@@ -1523,7 +1523,20 @@ was
 \begin_inset Quotes erd
 \end_inset
 
-), and in so doing, constructs a seamless narrative where open science is
+)
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+JC - In the 17th century, most publications were books, which were way too
+ expensive for most people to afford...
+ if they could read at all.
+ hardly open!
+\end_layout
+
+\end_inset
+
+, and in so doing, constructs a seamless narrative where open science is
  part of every major discovery since Newton.
  Or whoever, pick your scientist.
  The construction of an illustrious history lends legitimacy to the moral
@@ -1746,7 +1759,17 @@ key "Nafus2012"
 
 \end_inset
 
-; presumably, racial and ethnic minorities fare even more poorly, although
+;
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+JC -so free software is bad?
+\end_layout
+
+\end_inset
+
+ presumably, racial and ethnic minorities fare even more poorly, although
  there's even less data to support that.
 \end_layout
 

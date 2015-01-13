@@ -146,6 +146,20 @@ end{acronym}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+summarizing JC here -- use numbers, explain papers more, generally more
+ detail about the excplciit findings
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Representation_Science"
@@ -437,9 +451,19 @@ There are, of course, major limitations, the biggest one being obvious --
 \begin_layout Standard
 Basically, this is quantitative numbers to back up what women have been
  saying for years -- there are tall, tall hurdles to jump.
- In 17% of countries, active scientists are equally represented: but fewer
- than 6% Web of Science countries come even close to gender parity in #
- papers published.
+ In 17% of countries,
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+JC maybe a footnote listing these would be nice.
+ I find it very interesting.
+\end_layout
+
+\end_inset
+
+ active scientists are equally represented: but fewer than 6% Web of Science
+ countries come even close to gender parity in # papers published.
 \begin_inset VSpace medskip
 \end_inset
 
@@ -447,6 +471,16 @@ Basically, this is quantitative numbers to back up what women have been
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+go into findings on this
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "West2013"
@@ -527,7 +561,7 @@ Unseen Science: Scholarly Publication in the BRICs but not in the Web of
 \emph default
 , examined representation in citation indices and found only 4% of developing
  countries journals were counted.
- Luckily, this isn't country specific -- only 4% of journals in 
+ Luckily, this isn't country-specific -- only 4% of journals in 
 \emph on
 any
 \emph default
@@ -572,6 +606,19 @@ key "Evans2009"
 
 \begin_layout Standard
 Good/bad/always more complicated
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+JC - What's the gender ratio for PLOS?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
