@@ -1,0 +1,4 @@
+* gene expression primers for : 5-HT2a, alpha, beta & gamma subunits (look up the ones we SHOULD see)
+* design for human, mouse, and rat -- find overlaps
+
+* look for other TFs that promote 5-ht2a diff (GEO database) - GATA4 + what else?
