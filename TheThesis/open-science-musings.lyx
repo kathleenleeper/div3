@@ -640,12 +640,59 @@ ac{OS}
  movement takes these as a given, and move straight to proposing the solution.
 \end_layout
 
-\begin_layout Standard
-But let's talk about problems first, yeah?
+\begin_layout Subsection
+Access & Pay Walls
 \end_layout
 
-\begin_layout Subsection
-Access & Pay Walls and ther stuff
+\begin_layout Minisec
+\begin_inset Quotes eld
+\end_inset
+
+The objective of open access is 
+\emph on
+not
+\emph default
+ to quarrel with or replace journals (at all).
+ 
+\emph on
+Not 
+\emph default
+to resolve the budgetary problems of libraries, not to provide access to
+ teachers - students- the general public, 
+\emph on
+not
+\emph default
+ to provide access the the Developing World.
+ The objective of open access is: to maximise research 
+\emph on
+impact
+\emph default
+ by maximizing research 
+\emph on
+access.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph default
+Stevan Harnad 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{LOL WHO THE FUCK ARE YOU}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Well then.
 \end_layout
 
 \begin_layout Quote
@@ -678,42 +725,10 @@ Under the prevailing subscription-based system, commercial publishers own
  They charge authors for the publication of their works, then charge the
  readers subscription, advertising, and online access fees; in addition
  they retain the copyright of the articles they publish.
- Consequently, though the vast majority of the scientific research is publicly
- financed by taxpayers' dollars, access to research is not freely and publicly
- available: it is restricted to customers who can afford to pay for subscription
-s.
  
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Shelton"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-The science base in the developing world cannot be strengthened without
- access to the global library of research information.
- Currently, this is nearly impossible due to the high costs of journal subscript
-ions, with the result that even the most prestigious institutes in poorer
- countries cannot afford to buy the journals they need.
- Many initiatives have been started to resolve the access problem, but progress
- has been slow and, since they are generally dependent on grants or subsidies,
- are unlikely to be long-term solutions.
- With the advent of the Open Access (OA) initiative, the outlook for building
- science capacity in developing countries has improved significantly.
- In particular, the establishment of interoperable open access archives
- that is now underway by a rapidly growing number of institutes opens opportunit
-ies for true global knowledge exchange.
- OA archives are described and progress in both developed and developing
- regions is recorded, concluding with recommendations of what remains to
- be done to achieve the goal of free access to all publicly funded research
- publications .
-\begin_inset CommandInset citation
-LatexCommand citealt
-after "2005"
-key "Chan2005"
 
 \end_inset
 
@@ -786,6 +801,21 @@ There's also a justifiable sense of outrage at these monetary barriers to
 Publicly Funded Research
 \end_layout
 
+\begin_layout Quote
+Consequently, though the vast majority of the scientific research is publicly
+ financed by taxpayers' dollars, access to research is not freely and publicly
+ available: it is restricted to customers who can afford to pay for subscription
+s.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Shelton"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 Most studies in the U.S.
  and U.K (the strongholds of scientific research generally) are publically
@@ -851,6 +881,37 @@ status collapsed
  and physical distribution.
  With that barrier out of the way, it's hard to see exactly how worthwhile
  whatever-it-is that publishers provide is.
+\end_layout
+
+\begin_layout Subsection
+Knowledge Gaps: Developed/ing Worlds
+\end_layout
+
+\begin_layout Quote
+The science base in the developing world cannot be strengthened without
+ access to the global library of research information.
+ Currently, this is nearly impossible due to the high costs of journal subscript
+ions, with the result that even the most prestigious institutes in poorer
+ countries cannot afford to buy the journals they need.
+ Many initiatives have been started to resolve the access problem, but progress
+ has been slow and, since they are generally dependent on grants or subsidies,
+ are unlikely to be long-term solutions.
+ With the advent of the Open Access (OA) initiative, the outlook for building
+ science capacity in developing countries has improved significantly.
+ In particular, the establishment of interoperable open access archives
+ that is now underway by a rapidly growing number of institutes opens opportunit
+ies for true global knowledge exchange.
+\begin_inset CommandInset citation
+LatexCommand citealt
+after "2005"
+key "Chan2005"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status open
 
@@ -895,7 +956,7 @@ key "Fang2011"
 \emph on
 Why Most Published Research Findings Are False
 \emph default
-,
+, 
 \begin_inset CommandInset citation
 LatexCommand citealt
 before "2005"
@@ -937,7 +998,7 @@ Puzzlingly High Correlations in fMRI Studies of Emotion, Personality, and
 \emph on
 Social Cognition
 \emph default
-
+ 
 \begin_inset CommandInset citation
 LatexCommand citealt
 before "2009"
@@ -948,17 +1009,25 @@ key "Vul2009"
 
 \end_layout
 
-\begin_layout Itemize
-Researcher error: automate stuff so we don't make dumb mistakes (BioBright,
- Zappy)
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Bring On the Transparency Index
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealt*
+before "2012"
+key "Marcus2012"
+
+\end_inset
+
+
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-reusing protocols
-\end_layout
-
-\end_deeper
 \begin_layout Itemize
 Retraction Watch
 \end_layout
@@ -1042,12 +1111,68 @@ File Drawer Problems & Negative Results
 Peer Review & Impact Factors
 \end_layout
 
-\begin_layout Standard
-glam science
+\begin_layout Minisec
+\begin_inset Quotes eld
+\end_inset
+
+Does the pressure to publish in prestigious, high-ranking journals contribute
+ to the unreliability of science?
+\begin_inset Quotes erd
+\end_inset
+
+ - Brembs, Button, and Munafò
 \end_layout
 
-\begin_layout Quote
-[Deep impact: unintended consequences of journal rank] 
+\begin_layout Standard
+***following paraphrased from Brembs et al ***
+\end_layout
+
+\begin_layout Standard
+The hierarchy of scholarly journals 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{goddamn I want data on this}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Most researchers acknowledge an intrinsic hierarchy in the scholarly journals
+ (“journal rank”) that they submit their work to, adjusting not only their
+ submission but their reading strategies accordingly.
+ On the other hand, much has been written about the negative effects of
+ institutionalizing journal rank as an impact measure.
+ So far, contributions to the debate concerning the limitations of journal
+ rank as a scientific impact assessment tool have either lacked data, or
+ relied on only a few studies.
+ The most recent and pertinent data on the consequences of our current scholarly
+ communication system with respect to various measures of scientific quality
+ (such as utility/citations, methodological soundness, expert ratings or
+ retractions) corroborate previous hypotheses: using journal rank as an
+ assessment tool is bad scientific practice.
+ 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Moreover, the data lead us to argue that any journal rank (not only the
+ currently-favored Impact Factor) would have this negative impact.
+\end_layout
+
+\end_inset
+
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Brembs2013"
@@ -1065,15 +1190,23 @@ So what can we do to return to how things once were? The rewards of science
  Remarkably, we are ranked in proportion to the number of citations garnered
  by the other papers in the journals that contain our papers (the impact
  factor).
- Some organizations decide promotions and grant applications on the basis
+ 
+\series bold
+Some organizations decide promotions and grant applications on the basis
  of the impact factors of the journals that publish a scientist’s papers.
- So, rewards come from being published in the journals with the highest
- impact factors.
+
+\series default
+ So, 
+\series bold
+rewards come from being published in the journals with the highest impact
+ factors.
+
+\series default
  As a result, the perception of the need for this kind of reward runs strong
  and deep.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1082,9 +1215,9 @@ status collapsed
 graffito{
 \backslash
 emph{from Lisberger 2013}: I realize it would be a big change of culture,
- but data fraud would be reduced—and the quality of the entire scientific
- literature improved—if we established requirements for publishing not just
- your paper, but also your data.
+ but data fraud would be reduced - and the quality of the entire scientific
+ literature improved - if we established requirements for publishing not
+ just your paper, but also your data.
  }
 \end_layout
 
@@ -1764,7 +1897,7 @@ key "Nafus2012"
 status open
 
 \begin_layout Plain Layout
-JC -so free software is bad?
+JC - so free software is bad?
 \end_layout
 
 \end_inset
@@ -1968,7 +2101,8 @@ I can't actually do an anthology of open science in the developing world.
  I can't catalog all of the grassroots citizen science projects.
  I can only speak about my concerns and highlight specific projects that
  are doing well or poorly.
- It is not, by ANY means, definitive, which I resent.
+ It is not, by ANY means, definitive, which I resent and feel is a flaw
+ in myself.
 \end_layout
 
 \begin_layout Standard
