@@ -204,12 +204,68 @@ status open
 
 
 \backslash
-acro{MIT}{Massachusetts Institute for Technology}
+acro{GMH}{growing misconduct hypothesis}
 \end_layout
 
 \end_inset
 
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
 
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SSH}{'stronger system' hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPV}{positive predictive value}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2005"
+key "Ioannidis2005"
+
+\end_inset
+
+)
 \end_layout
 
 \begin_layout Standard
@@ -644,53 +700,6 @@ ac{OS}
 Access & Pay Walls
 \end_layout
 
-\begin_layout Minisec
-\begin_inset Quotes eld
-\end_inset
-
-The objective of open access is 
-\emph on
-not
-\emph default
- to quarrel with or replace journals (at all).
- 
-\emph on
-Not 
-\emph default
-to resolve the budgetary problems of libraries, not to provide access to
- teachers - students- the general public, 
-\emph on
-not
-\emph default
- to provide access the the Developing World.
- The objective of open access is: to maximise research 
-\emph on
-impact
-\emph default
- by maximizing research 
-\emph on
-access.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph default
-Stevan Harnad 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{LOL WHO THE FUCK ARE YOU}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Well then.
 \end_layout
@@ -913,7 +922,7 @@ key "Chan2005"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 **public access to knowledge; public empowerment via access to best and
@@ -932,62 +941,17 @@ faster
 \end_layout
 
 \begin_layout Subsection
-Reproducibility and Retraction
+Reproducibility and Retraction: Crisis!
 \end_layout
 
-\begin_layout Quote
-
-\emph on
-Retracted Science and the Retraction Index
-\emph default
-
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2011"
-key "Fang2011"
-
-\end_inset
-
-
+\begin_layout Standard
+Assessing the unreliability of the medical literature: a response to "why
+ most published research findings are false"
 \end_layout
 
-\begin_layout Quote
-
-\emph on
-Why Most Published Research Findings Are False
-\emph default
-, 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2005"
-key "Ioannidis2005"
-
-\end_inset
-
-
-\begin_inset Foot
+\begin_layout Standard
+\begin_inset Note Note
 status collapsed
-
-\begin_layout Plain Layout
-It turns out, in fact, that the statistics in both this and 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fn:voodoo-correlations"
-
-\end_inset
-
- are suspect, and certainly hotly debated.
- But it's sufficient that they were even 
-\emph on
-published
-\emph default
-, and in high-impact journals, that this is a concern that seems valid.q
-\end_layout
-
-\end_inset
-
-
-\end_layout
 
 \begin_layout Quote
 
@@ -1025,11 +989,669 @@ key "Marcus2012"
 
 \end_inset
 
+ (and retraction watch)
+\end_layout
+
+\end_inset
+
+The principle of the elusive scientific method is replication and reproducibilit
+y.
+ Researchers document their methods and results to such an extent that any
+ other researcher is able to reproduce their data independently, or, more
+ often, build more experiments atop their conclusions.
+\end_layout
+
+\begin_layout Standard
+Unfortunately, that optimistic theory of reproducibility is in question.
+ The so-called reproducibility crisis had many harbingers, but the flashiest
+ remains a 2005 article titled 
+\emph on
+Why Most Published Research Findings Are False
+\emph default
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2005"
+
+\end_inset
+
+ John P.
+ A.
+ Ioannidis' calculations led him to estimate that more than 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{aka research deemed 'significant' aka the research that's get published
+}
+\end_layout
+
+\end_inset
+
+50% of published biomedical research findings with a p value of < 0.05
+\begin_inset Quotes eld
+\end_inset
+
+ are likely to be false positives.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "zotero-null-1789"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+High-flung rhetoric aside, Ioannidis' claims and 
+\begin_inset Quotes eld
+\end_inset
+
+claim[s] research findings may often be simply accurate measures of the
+ prevailing bias
+\begin_inset Quotes erd
+\end_inset
+
+ has a genomics bent, but...
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
-\begin_layout Itemize
-Retraction Watch
+\begin_layout Standard
+While the 
+\emph on
+extremely
+\emph default
+ inflammatory title ruffled the feathers of statistications round the world,
+ leading to a fierce statistical 
+\begin_inset Quotes eld
+\end_inset
+
+battle of the titans
+\begin_inset Quotes erd
+\end_inset
+
+, Ioannidis' statement hallowed scientific halls.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Goodman2007,Jager2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The evidence for the practical ramificatins of replicability (or lack thereof)
+ comes on a larger scale from a set of biotech companies translating academic
+ preclinical research into clinical drug trials.
+ Amgen had an 11% success rate with respect to 50 very high-profile cancer
+ studies
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Begley2012"
+
+\end_inset
+
+; drug targets identified by academics rarely pan out in the clinic.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Arrowsmith2011,Prinz2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There's a plethora of explanations with regards to that -- principically,
+ that biological research is at such a level of complexity that even minor
+ changes from lab to lab in the microenvironment can break an experiment.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{It's not really fucking reproducible than, is it?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can explain away the lack or replication.
+ Where the literature really gets into trouble is retraction --that is,
+ journals and authors withdrawing published articles that have theoretically
+ already undergone peer review.
+ This represents an enormous cost to both journal and author; retraction
+ often leads to firing (or mandatory stepping down) of the editor, and more
+ insidiously, a distinct downward trend in the citation rate of the author's
+ former papers.
+ Retraction is 
+\emph on
+serious 
+\emph default
+business, which makes the relatively increasing incidence all the more concernin
+g.
+\end_layout
+
+\begin_layout Standard
+In 2008, 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Cokol2008"
+
+\end_inset
+
+ had concluded that
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Publishing in 
+\emph on
+EMBO
+\emph default
+, a European journal, plausibly explaining why U.S.
+ metric fiends hadn't caught on to it.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+...even limiting our analysis to the period between 1990 and 2006, we found
+ a significant increase (r = 0.55, p = 0.02)...From these observations, we conclude
+ that retraction rates are still on the rise.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cokol2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This, of course, begs the question: why? Some propose the pressure to publish,
+ increasingly important to funding and hiring decisions, hits researchers
+ in a vulnerable spots.
+ To some extent this is borne out, as 
+\begin_inset Quotes eld
+\end_inset
+
+papers were more likely to support a tested hypothesis if their corresponding
+ authors were working in states that, according to NSF data, produced more
+ academic papers per capita\SpecialChar \ldots{}
+competitive academic environments increase not
+ only scientists' productivity but also their bias.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+[Two viable interpretations] The first interpretation implies that increasing
+ competition in science and the pressure to publish is pushing scientists
+ to produce flawed manuscripts at a higher rate, which means that scientific
+ integrity is indeed in decline.
+ The second interpretation is more positive: it suggests that flawed manuscripts
+ are identified more successfully, which means that the self-correction
+ of science is improving.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cokol2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Intriguingly, and tellingly, not only are the rate of retractions increasing,
+ but they're increasing in the journals we respect the most.
+ In a 2011 PloS publication, 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Fang2011"
+
+\end_inset
+
+ found a 
+\begin_inset Quotes eld
+\end_inset
+
+strikingly robust
+\begin_inset Quotes erd
+\end_inset
+
+ correlation between a journal's 
+\begin_inset Quotes eld
+\end_inset
+
+retraction index
+\begin_inset Quotes erd
+\end_inset
+
+ and its impact factor (
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Correlation-impact-factor-retractions"
+
+\end_inset
+
+).
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename gfx/f1_impactfactor-vs-retractions_fang-casadevell_2011.jpg
+	lyxscale 15
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Correlation-impact-factor-retractions"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Correlation between impact factor and retraction index.
+ The 2010 journal impact factor...is plotted against the retraction index as
+ a measure of the frequency of retracted articles from 2001 to 2010.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fang2011"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fang2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But if we look past the doom and gloom, Daniele Fanelli is here to save
+ us again.
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Fanelli2013"
+
+\end_inset
+
+ proposes four lines of evidence to support that the relative increase in
+ retraction rates is due to an increased awareness and responsiveness to
+ misconduct (the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SSH}
+\end_layout
+
+\end_inset
+
+), rather than increased misconduct itself (the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GMH}
+\end_layout
+
+\end_inset
+
+).
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2013"
+
+\end_inset
+
+ The summary points are:
+\end_layout
+
+\begin_layout Enumerate
+Corrections to scientific papers have been published for much longer than
+ retractions, and show little sign of a recent increase.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The number of journals issuing retractions has grown dramatically in recent
+ years, but the number of retractions per retracting journal has not increased.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The number of queries and allegations made to the US Office of Research
+ Integrity has grown, but the frequency of its findings of misconduct has
+ not increased.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Therefore, the rising number of retractions is most likely to be caused
+ by a growing propensity to retract flawed and fraudulent papers, and there
+ is little evidence of an increase in the prevalence of misconduct.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Statistics on retractions and findings of misconduct are best used to make
+ inferences about weaknesses in the system of scientific self-correction.
+\end_layout
+
+\begin_layout Standard
+This is nice talk, but it's not supported -- particularly, by data.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Moonesinghe2007"
+
+\end_inset
+
+ extend Ioaniddis' result, finding that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PPV}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+It turns out, in fact, that the statistics in both this and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fn:voodoo-correlations"
+
+\end_inset
+
+ are suspect, and certainly hotly debated.
+ But it's sufficient that they were even 
+\emph on
+published
+\emph default
+, and in high-impact journals, that this is a concern that seems valid.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+A source of major concern is, of course, when a paper is retracted -- how
+ will anyone know? The Pubmed and journal sites for the article are updated
+ immediately, and a retraction notice issued in the journal, which is enough
+ for any newcomers to the scene.
+ But for older articles that have already made their PDF appearance on a
+ researcher's computer, the lack of a centralized repository to check citations
+ against for commentary, retractions, or corrections, means its entirely
+ possible for papers identified as containing misconduct to remain the cited
+ literature for years.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Also, the thing where if papers are retracted, they still get cited
+ and thus boost the impact factor of the journal}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There 
+\emph on
+is 
+\emph default
+reassuring data from 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Grieneisen2012"
+
+\end_inset
+
+, who did not just count numbers of retractions, but examined 
+\emph on
+why
+\emph default
+ articles were being retracted.
+ Of the 4,449 retracted articles found in 42 of the largest bibliographic
+ databases from 1928-2011, retractions were due to
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+47% 
+\series default
+alleged publishing misconduct
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Peer review and citation RINGS.
+ People making up email addresses.
+ What a fuckin' world.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+20% 
+\series default
+alleged research misconduct
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+42%
+\series default
+ the usage of questionable data or interpretations 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {
+\backslash
+% stack to >100
+\backslash
+% because more than one reason is often cited}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Of the alleged research misconduct, fifteen individuals accounted for >50%
+ of the retractions.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{goshhh}
+\end_layout
+
+\end_inset
+
+ While
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Grieneisen2012"
+
+\end_inset
+
+ admit the growth in retractions by a factor of 11.36 (excluding repeat offenders
+, adjusting for literature growth), they assert that neither data
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+LOL SORRY BUT 42% is still significatnnnnn11
+\end_layout
+
+\end_inset
+
+ nor research misconduct underlie most retractions.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Grieneisen2012"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Articles and editorials discussing retractions\SpecialChar \ldots{}
+should always consider individual
+ cases in these broad contexts\SpecialChar \ldots{}
+better mechanisms are still needed for raising
+ researchers’ awareness of the retracted literature in their field.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Grieneisen2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -1310,6 +1932,57 @@ any purpose
 \series default
 .
 \begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Open Access
+\end_layout
+
+\begin_layout Minisec
+\begin_inset Quotes eld
+\end_inset
+
+The objective of open access is 
+\emph on
+not
+\emph default
+ to quarrel with or replace journals (at all).
+ 
+\emph on
+Not 
+\emph default
+to resolve the budgetary problems of libraries, not to provide access to
+ teachers - students- the general public, 
+\emph on
+not
+\emph default
+ to provide access the the Developing World.
+ The objective of open access is: to maximise research 
+\emph on
+impact
+\emph default
+ by maximizing research 
+\emph on
+access.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph default
+Stevan Harnad 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{LOL WHO THE FUCK ARE YOU}
+\end_layout
+
 \end_inset
 
 
@@ -2089,7 +2762,7 @@ if
 not
 \emph default
  use globalized standardized bits of (scientific) knowledge.
- i
+ 
 \end_layout
 
 \begin_layout Section
@@ -2108,7 +2781,7 @@ I can't actually do an anthology of open science in the developing world.
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "CriticalOpenNeuro"
+bibfiles "open-science,CriticalOpenNeuro"
 options "plainnat"
 
 \end_inset
