@@ -95,24 +95,6 @@ Science Studies, Feminist Theory, Cultural Studies
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-hook
-\begin_inset Quotes erd
-\end_inset
-
- here.
- My div is interesting, I promise
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:feminist-science-cultural-studies"
@@ -138,22 +120,17 @@ graffito {Summarizing Fleck is going to take some serious work.
  I'm not sure how specific I should be here, w/r/t page numbers and quotes
  in 
 \backslash
-emph{Genesis}}
+emph{Genesis}
 \end_layout
 
-\end_inset
-
-
-\begin_inset Note Comment
-status open
-
 \begin_layout Plain Layout
+
 JC - I really like the idea of expanding this section.
  Having some prospective about people that did analysis/critiques on how
  science was performed on the past would help you generate a foundation
  about how you feel science should be critiqued now (which seems to be one
  of the overarching goals of your div).
- 
+ }
 \end_layout
 
 \end_inset
@@ -172,7 +149,7 @@ key "Fleck1981"
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1105,28 +1082,21 @@ status open
 \backslash
 graffito {I want to find a frame that really efficiently explains why this
  matters for a given audience.
- The given audience being, of course, a sympathetic-but-unconvinced strict
- biologist (i.e.
- John).
- }
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+JC while I agree, I think you need some kind of a reference here to support
+ this assertion.
+ Thinking about just hampshire, how many people do you think got into science
+ just to show other people how smart they are?}
 \end_layout
 
 \end_inset
 
 Scientists (in theory) care about helping people , and choose science because
  it seems like the best way to do so.
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-JC while I agree, I think you need some kind of a reference here to support
- this assertion.
- Thinking about just hampshire, how many people do you think got into science
- just to show other people how smart they are?
-\end_layout
-
-\end_inset
-
  It can't help people if it's racist, misogynistic, and not considerate
 \begin_inset Note Comment
 status collapsed
@@ -1138,30 +1108,306 @@ LC - or mislead themselves!
 \end_inset
 
  of how work will be ab/used downstream
-\begin_inset Note Comment
-status open
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
-JC I think this might be another area to expand on.
+
+
+\backslash
+graffito{JC I think this might be another area to expand on.
  Examples from the 40s-50s of civil rights abuse by scientists.
- Even to modern day with potential exploitation by the 1000 genomes project.
+ Even to modern day with potential exploitation by the 1000 genomes project.}
 \end_layout
 
 \end_inset
 
 .
- Scientists should care about where their work is coming from and where
- it's going, and we 
-\emph on
-need
-\emph default
- good -- read: concerned and activist -- people everywhere if we want social
- progress.
- This div is (hopefully) a road map and detailed exploration into doing
- (good) value-laden science
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+I am become death
+\begin_inset Quotes erd
+\end_inset
+
+: Biopolitics and scientific responsibility
 \end_layout
 
 \begin_layout Standard
+Science is both handmaid to progress and the worst ever.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Science
+\begin_inset Quotes erd
+\end_inset
+
+ -- 
+\begin_inset Quotes eld
+\end_inset
+
+modern
+\begin_inset Quotes erd
+\end_inset
+
+ science -- evolved in an era of Western expansionism and wholehearted imperiali
+sm.
+ The Scientific and Industrial Revolutions enabled and fed on the expansion
+ of European powers into new territory.
+ Discovery of the 'cure' for malaria (by indigenous tribes in the Amazon,
+ transferred to the Jesuit, and eventually the expanding European empires)
+ allowed European nations to make inroads into tropical areas, as their
+ soldiers were no longer dying at the prodigious rates.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Headrick1981"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{western expansionism has not stopped, merely transmuted.}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+re bioprospecting and new forms of scientific/medical colonialism
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Scientific ethics and responsibility is often looked at in the frame of
+ experiments specifically.
+ This is, indisputably, desperately important.
+ The Tuskegee Syphilis Experiments represent a clear failure on the part
+ of the scientists involved, their funding body, and whatever oversight
+ the university claimed to consider basic human rights
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Obviously, in the U.S.
+ racial frame black bodies are unhuman, and the experimenters were more
+ or less within their rights} 
+\end_layout
+
+\end_inset
+
+; undoubtedly, the study leaders were deeply and irrevocably shaped by the
+ anti-black racism in the post- Civil War.
+ The following experiments on prisoners in the U.S.
+ and around the world remains in the same vein.
+\end_layout
+
+\begin_layout Standard
+More insidiously, and more difficult to make sweeping moral judgements on,
+ is the way science has not just been done poorly, but even when nominally
+ ethical, used to justify and 
+\emph on
+create 
+\emph default
+new systems of exclusion, as well as enabling [[war]].
+ Racism -- the peculiar brand of American racism, derived from slave-owners
+ desperate to justify their brutality of human bondage -- was created through
+ the collusion of science and society, specifically a science that carefully
+ cataloged and characterized the way Africans and African-Americans differed,
+ and were therefore lesser, than White slaveholders.
+ Lest we dismiss scientific racism as a legacy of the United States past,
+ the eugenics (
+\begin_inset Quotes eld
+\end_inset
+
+well-born
+\begin_inset Quotes erd
+\end_inset
+
+, in Greek) movement came to us from Charles' Darwin, via Francis Galton.
+ Eugenics, of course, gained notoriety in Nazi Germany, but its legacy in
+ the United States is deeply rooted.
+ 
+\end_layout
+
+\begin_layout Standard
+That was the 40's and 50's -- today, we have genetic surveillance.
+\end_layout
+
+\begin_layout Standard
+We have the science of homosexuality -- every time we discover a new gay,
+ someone uses that 'fact' to cure queers.
+\end_layout
+
+\begin_layout Standard
+The scientific heritage, the accumulated knowledge upon which we build our
+ futures, is not exempt.
+ At the same time, the undeniable power of science and technology to do
+ 
+\begin_inset Quotes eld
+\end_inset
+
+good
+\begin_inset Quotes erd
+\end_inset
+
+ -- hormones for trans people, Internet communities for otherwise isolated
+ activists, the reclamation of environmental sciences by Native communities,
+ technologies that enable disabled bodies, pharmaceuticals that prolong
+ lifespans and raise quality of life, technologies that allow people to
+ take control of their bodie's reproduction in every dimension
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Given access and governments that don't insist on fucking bullshit lookin'
+ @ you, everybody.
+\end_layout
+
+\end_inset
+
+ -- means we need it.
+ Not to mention the insatiable curiousty to understand and the delightful
+ appeal of 
+\begin_inset Quotes eld
+\end_inset
+
+basic
+\begin_inset Quotes erd
+\end_inset
+
+ research, of discovering something new.
+ 
+\end_layout
+
+\begin_layout Standard
+Science is not going away; but to ignore our scientific inheritance, the
+ complicity between science and power, and the role individual scientists
+ play in perpetuating and creating power dynamics is to be neutral in the
+ face of injustice.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+If you are neutral in situations of injustice, you have chosen the side
+ of the oppressor.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+Desmond Tutu
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Itemize
+Tuskegee experiments & usage of , prisoners as experimental subjects
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+paying for clinical trials and being an experimental drug taker as a career
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+science & slavery -- creation of races was helped by scientific 
+\begin_inset Quotes eld
+\end_inset
+
+truth
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+eugenics & racialization
+\end_layout
+
+\begin_layout Itemize
+institutionalizing sexism re: brain difference
+\end_layout
+
+\begin_layout Itemize
+curing the gays
+\end_layout
+
+\begin_layout Itemize
+climate change/environmental disaster
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ooo also re: native americans
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+science as aid to colonialism (re: malaria?)
+\end_layout
+
+\begin_layout Itemize
+reproductive techs
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+(1) foucault of biopolitics
+\end_layout
+
+\begin_layout Plain Layout
+(2) better - dorothy roberst
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -1252,7 +1498,15 @@ The point of the thesis
 \end_layout
 
 \begin_layout Standard
-Figure out 
+Scientists should care about where their work is coming from and where it's
+ going, and we 
+\emph on
+need
+\emph default
+ good -- read: concerned and activist -- people everywhere if we want social
+ progress.
+ This div is (hopefully) a road map and detailed exploration into doing
+ (good) value-laden scienceFigure out 
 \emph on
 how
 \emph default
@@ -1295,27 +1549,6 @@ reference "chap:feminist-science-cultural-studies"
  have a serious responsibility to consider their work in the greater context
  of social issues.
  
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Serotonin,-transcription-factors_mol-neuro"
-
-\end_inset
-
- is the background to my work -- a 
-\begin_inset Quotes eld
-\end_inset
-
-purely
-\begin_inset Quotes erd
-\end_inset
-
- scientific description.
- It describes why I think serotonin systems are important to model and explore,
- why I care about them, and my attempts to create a way to explore serotonin
- signaling by manipulation of a stem cell line.
 \end_layout
 
 \begin_layout Standard
@@ -1416,6 +1649,27 @@ reference "chap:Open-Science_casestudy"
 awesome
 \emph default
  projects already happening.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Serotonin,-transcription-factors_mol-neuro"
+
+\end_inset
+
+ is the background to my work -- a 
+\begin_inset Quotes eld
+\end_inset
+
+purely
+\begin_inset Quotes erd
+\end_inset
+
+ scientific description.
+ It describes why I think serotonin systems are important to model and explore,
+ why I care about them, and my attempts to create a way to explore serotonin
+ signaling by manipulation of a stem cell line.
 \end_layout
 
 \begin_layout Standard
