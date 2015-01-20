@@ -1,0 +1,1289 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrreprt
+\begin_preamble
+\usepackage{preamble}
+\end_preamble
+\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type numerical
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+What Happens When We 
+\begin_inset Quotes eld
+\end_inset
+
+Fix
+\begin_inset Quotes erd
+\end_inset
+
+ Publishing?
+\end_layout
+
+\begin_layout Section*
+Acronyms
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+so much of this is a focus on 
+\begin_inset Quotes eld
+\end_inset
+
+the U.S.
+ is underfunding research, and our post-doc positions are increasingly filled
+ by foreigners
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FLOSS}{free/libre open source software}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPL}{GNU General Public License}, the founding document of the Free
+ Software Movement
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLoS}{Public Library of Science}, a leader in open access publishing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OKF}{Open Knowledge Foundation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GMH}{growing misconduct hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SSH}{'stronger system' hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPV}{positive predictive value}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2005"
+key "Ioannidis2005"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IF}{Journal Impact Factor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CNS}{
+\backslash
+emph{Cell}, 
+\backslash
+emph{Nature}, and 
+\backslash
+emph{Science}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FLOSS}{free/libre open source software}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPL}{GNU General Public License}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GNU}{GNUs Not Unix}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLoS}{Public Library of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:values-fixing-publishing"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Where do we start?
+\end_layout
+
+\begin_layout Standard
+The open science movement is closely affiliated with the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ movement, and so it's taken as almost a default that the 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+ is free as in freedom, not as in beer.
+ For clarification:
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The terminology of and factions within this movement are complex, but, in
+ short, “free software” tends to be associated with the ideology of freedom,
+ “open source” with the openness of the development process, and “libre”
+ with those concerned about confusion from the previous two.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ are used as monikers to refer to all of these meanings.
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Reagle2012"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+Part of what draws many to 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ are its ties to the free and open source software movement, specifically
+ in the realm of community-driven creation.
+ The similarities are many and significant; since the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ movement grows out 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ community, it makes sense to start there.
+\end_layout
+
+\begin_layout Standard
+For the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ movement, there's a sharp ideological divide between the free/libre and
+ the open licenses.
+ Advocates of the libre licensing model use many rhetorical tools, but their
+ focus is on libre software as social imperative.
+ User freedom, as laid out in the founding document of the Free Software
+ movement (the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPL}
+\end_layout
+
+\end_inset
+
+) is paramount.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Open source
+\begin_inset Quotes erd
+\end_inset
+
+, as a term and associated licensing models, comes from an explicit attempt
+ to side-step the social values and ideological connotations of the term
+ "free software".
+ It instead has a narrow focus on access and production of source code -
+ i.e.
+ the 'practical' benefits of distributed production.
+ 
+\end_layout
+
+\begin_layout Standard
+Bearing that distinction in mind, as trivial as it may seem, I think the
+ usage of 
+\emph on
+open
+\emph default
+ in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ is a valuable point of entry into the ambivalent moral aspects of open
+ science.
+ Lots of proponents of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ either come from and/or explicitly draw from the F/LOSS movement, but the
+ chosen movement nomenclature is 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\emph on
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+.
+
+\emph on
+ 
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {A lot of the following ideas draw heavily on analyses of the FLOSS
+ movement, because that's where work has been done to some extent.
+ "Open science" isn't nearly as widely talked about or analyzed.}
+\end_layout
+
+\end_inset
+
+The same disavowal (or maybe just lack of acknowledgment) of social values
+ seen in open source is apparent in a lot of the open science movement.
+ It's not about science helping (or empowering) people, it's about doing
+ 
+\begin_inset Quotes eld
+\end_inset
+
+better
+\begin_inset Quotes erd
+\end_inset
+
+ science -- more reproducible, more reliable, more powerful (disruptive,
+ even!).
+ Open science is defined almost entirely by the 
+\emph on
+mechanisms
+\emph default
+, in the same way open source is 
+\emph on
+just 
+\emph default
+focused on production.
+ Even projects that pitch themselves as a place for citizen scientists can
+ be construed as just a way to shift labor from cheap graduate students
+ to even cheaper laypeople.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+what is the analog to free in science and how can we address that?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+[Value/d]Topics
+\end_layout
+
+\begin_layout Subsection
+Lineages of open (science)
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+The most common narrative about open science tells us that, once upon a
+ time, science was an ethical enterprise: sharing, equality, disinterest
+ and the common good drove the everyday work of scientists.
+ Then evil corporations entered science and changed the rules of the game,
+ patenting life, enclosing the commons, and eventually destroying the willingnes
+s to share data, information, and knowledge.
+ But today, so the story goes, we have new tools that together with the
+ old open science spirit an be used to rebel against evil, defeat it and
+ allow scientific knowledge to flow freely again.
+ These tools are open source and open access science, and they can be used
+ to tear down the barriers to the access of scientific knowledge.
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Delfanti2013"
+
+\end_inset
+
+, p.
+ 5)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Joel: Science became corporate.
+ Open = semi-corporate.
+ Free =/= corporate.
+ Whas was science before corporate? elitics.
+\end_layout
+
+\begin_layout Plain Layout
+The power structure of science has a capitalist value system.
+\end_layout
+
+\begin_layout Plain Layout
+Problem.
+\end_layout
+
+\begin_layout Plain Layout
+There is not money in marginalized underrepped groups.
+\end_layout
+
+\end_inset
+
+Open science rhetoric draws on a mystical past where information flowed
+ free (
+\begin_inset Quotes eld
+\end_inset
+
+In the 17th century, journal publication 
+\emph on
+was
+\emph default
+ open science!
+\begin_inset Quotes erd
+\end_inset
+
+)
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+JC - In the 17th century, most publications were books, which were way too
+ expensive for most people to afford...
+ if they could read at all.
+ hardly open!
+\end_layout
+
+\end_inset
+
+, and in so doing, constructs a seamless narrative where open science is
+ part of every major discovery since Newton.
+ Or whoever, pick your scientist.
+ The construction of an illustrious history lends legitimacy to the moral
+ appeal of the movement.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Public image management
+\end_layout
+
+\begin_layout Plain Layout
+Science has an intimate relationship with the media, and both parties use
+ each other as a tool for various goals.
+ The media gets a reputable scientist figure to bolster their claims; the
+ scientist gets a public venue to couch their ideas or goals in objective-but-po
+sitive ways.
+ Open science rhetoric is easy to use for both purposes.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Delfanti2013"
+
+\end_inset
+
+, in 2013, published 
+\begin_inset Quotes eld
+\end_inset
+
+Biohackers: The Politics of Open Science
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Delfanti2013"
+
+\end_inset
+
+ It lies at the 
+\begin_inset Quotes eld
+\end_inset
+
+the intersection of digital cultures, science communication and science
+ and technology studies,
+\begin_inset Quotes erd
+\end_inset
+
+ a grouping that bears no little similarity to my own interests.
+ His treatment of scientists and their public image management focuses on:
+\end_layout
+
+\begin_layout Enumerate
+The J.
+ Craig Venter Institute and J.
+ Craig Venter himself, representing venture capitalists and open science
+ for monetary gain and prestige
+\end_layout
+
+\begin_layout Enumerate
+Ilaria Capua, a vetinarian virologist in Italy, who during the 2006 global
+ avian influenza crisis, pushed the WHO through public shaming into changing
+ their data policies to an open access model to better combat the disease
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+DIYBio
+\begin_inset Quotes erd
+\end_inset
+
+, a loose network of homegrown biologists.
+\end_layout
+
+\begin_layout Plain Layout
+Both Venter and Capua used publications in both prestigious journals 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{citations here for when I  find them}
+\end_layout
+
+\end_inset
+
+ and in more public forums (
+\emph on
+Scientific American
+\emph default
+, 
+\emph on
+The New York Times
+\emph default
+) as a way to get the public involved in their work and on their side; public
+ pressure, as created by and/or relayed by the media, was influential in
+ both their success stories.
+ The open science narrative was a tool in both of their toolkits used for
+ different purposes and different effects.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Corporate uses of open science
+\end_layout
+
+\begin_layout Standard
+Open science, by intent, can be used by anybody for anything.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Following section was commented out -_-.
+ So these are ending Herb coments -- still applicable maybe? Nah.
+ They're just 
+\begin_inset Quotes eld
+\end_inset
+
+are tools actually neutral?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Interestingly, there's been attempts to implement a copyright
+ license similar to the 
+\backslash
+ac{GPL}, but with a clause of "only ethical consideration"}
+\end_layout
+
+\end_inset
+
+ That also means corporate entities can take advantage of the methods, tools,
+ and data released into the public sphere.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Delfanti does not, however, draw on explicit feminist analysis of race and
+ gender in the spheres he discusses.
+ The intricacies of who can or will practice (open) science on a social
+ access are almost entirely absent.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the free software world, corporate uses aren't bad -- and here, as well,
+ I don't think they're necessarily 
+\emph on
+bad.
+
+\emph default
+ But they do undercut the 
+\begin_inset Quotes eld
+\end_inset
+
+open is good
+\begin_inset Quotes erd
+\end_inset
+
+ in the sense that corporations are notorious for only considering the bottom
+ line.
+ That means any usage of open resources is for the bottom line, and not
+ necessarily for whatever heroic potential purpose open data/science advocates
+ had in mind.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Government uses of open data
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Creation and Representation
+\end_layout
+
+\begin_layout Subsubsection
+Who gets to create?
+\end_layout
+
+\begin_layout Standard
+Generally, white men.
+ In free software communities, men outnumber women to a much greater degree
+ than in more traditional development structures
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nafus2012"
+
+\end_inset
+
+;
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+JC - so free software is bad?
+\end_layout
+
+\end_inset
+
+ presumably, racial and ethnic minorities fare even more poorly, although
+ there's even less data to support that.
+\end_layout
+
+\begin_layout Standard
+The dismal representation in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ derives in part from a flawed perception that social stratifications and
+ classifications 
+\begin_inset Quotes eld
+\end_inset
+
+don't matter
+\begin_inset Quotes erd
+\end_inset
+
+ on the internet.
+ Code is race- and gender-agnostic (except that, for somewhat obvious reasons,
+ it's 
+\emph on
+not
+\emph default
+).
+ Thus, collaborative, decentralized community structures like those in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ usually fail to include any direct safeguards or rules about what kinds
+ of behavior are acceptable.
+ As a result, misogyny and racism run rampant and unchecked.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+There's really interesting side projects targeted at exactly this issue
+ -- Empowermentors, founded by a Hampshire student, for PoC & queer people
+ in the free software movement; the Ada Initiative, designed to support
+ women in 
+\begin_inset Quotes eld
+\end_inset
+
+open technology and open culture
+\begin_inset Quotes erd
+\end_inset
+
+; 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Whether representation is 
+\emph on
+worse
+\emph default
+ in open science than science at large is something I don't know yet, but
+ it's probably fair to say that open science carries professional risks,
+ and women and minorities in the sciences tend to disproportionately suffer
+ for taking risks.
+\end_layout
+
+\begin_layout Subsubsection
+Who is it designed for?
+\end_layout
+
+\begin_layout Standard
+I don't know yet! But probably I won't like it.
+\end_layout
+
+\begin_layout Subsection
+Global Definitions of 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Free software and open science are built on European/U.S.
+ legal, moral, and social codes.
+ Probably and definitely an issue, especially when 
+\begin_inset Quotes eld
+\end_inset
+
+open science
+\begin_inset Quotes erd
+\end_inset
+
+ is supposed to level the playing field but other communities, sciences,
+ etc.
+ aren't actually consulted in how they would like that leveling to be done
+ in the legal sense.
+\end_layout
+
+\begin_layout Standard
+Relevant citations: 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Effect on globalized and/or indigenous sciences
+\end_layout
+
+\begin_layout Description
+
+\emph on
+If 
+\emph default
+indigenous sciences are local sciences, specific to the time and place and
+ users involved, then they may not be generalizable to a mythic global community
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+scientists
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Again, 
+\emph on
+if
+\emph default
+ science is local, there is no homogeneous global community of science/tists.
+ There isn't one anyway tho.
+\end_layout
+
+\end_inset
+
+ And 
+\emph on
+if
+\emph default
+ we create a system where one of those many sciences is designated as the
+ right one to be spreading, and making access to it the ultimate and only
+ bridge to success, local knowledges are crowded out and erased.
+ Indigenous sciences lose by virtue of what they are -- non globalized,
+ local knowledges, with no (monetary, legal) excuse to 
+\emph on
+not
+\emph default
+ use globalized standardized bits of (scientific) knowledge.
+ 
+\end_layout
+
+\begin_layout Section
+Issues I'm running up against
+\end_layout
+
+\begin_layout Standard
+I can't actually do an anthology of open science in the developing world.
+ I can't catalog all of the grassroots citizen science projects.
+ I can only speak about my concerns and highlight specific projects that
+ are doing well or poorly.
+ It is not, by ANY means, definitive, which I resent and feel is a flaw
+ in myself.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "open-science,CriticalOpenNeuro"
+options "plainnat"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
