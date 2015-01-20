@@ -233,7 +233,7 @@ filename "open-science-musings.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "analysis-publishing.lyx"
+filename "Global-Science.lyx"
 
 \end_inset
 
@@ -245,7 +245,19 @@ filename "analysis-publishing.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "Global-Science.lyx"
+filename "solution-open-science.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "analysis-publishing.lyx"
 
 \end_inset
 

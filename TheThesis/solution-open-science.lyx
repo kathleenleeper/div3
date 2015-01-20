@@ -1,0 +1,536 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrreprt
+\begin_preamble
+\usepackage{preamble}
+\end_preamble
+\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type numerical
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Solutions: Crack it Open? 
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Solution Open Science!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Acronyms
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+so much of this is a focus on 
+\begin_inset Quotes eld
+\end_inset
+
+the U.S.
+ is underfunding research, and our post-doc positions are increasingly filled
+ by foreigners
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FLOSS}{free/libre open source software}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPL}{GNU General Public License}, the founding document of the Free
+ Software Movement
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLoS}{Public Library of Science}, a leader in open access publishing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OKF}{Open Knowledge Foundation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GMH}{growing misconduct hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SSH}{'stronger system' hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPV}{positive predictive value}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2005"
+key "Ioannidis2005"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IF}{Journal Impact Factor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CNS}{
+\backslash
+emph{Cell}, 
+\backslash
+emph{Nature}, and 
+\backslash
+emph{Science}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Relative Slowness of Medicinal Practice
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+By far the most common argument made for open- access by scientists and
+ science funders is one that springs from a widely-held belief that the
+ sharing of data will lead to more rapid scientific progress and a reduc-
+ tion in unnecessary duplication of scientific effort.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Parker2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Pooling together results, it is argued, maximises the chances of spotting
+ significant patterns in the data that are collected, and thus of transforming
+ data into knowledge (OECD 2009, Royal Society 2012).
+ This in turn may improve the quality, accessibility and transparency of
+ research and speed up the rate of scientific discovery.
+ Some scientists even refer to this shift as a new, ‘data-driven’ paradigm
+ of research (Hey et al 2009).
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p3"
+key "Leonelli2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+open source malaria practice\SpecialChar \@.
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+2 Many Boundaries Between Disciplines; Lack of Collaboration; 
+\begin_inset Quotes eld
+\end_inset
+
+Interdisciplinary
+\begin_inset Quotes erd
+\end_inset
+
+ Collabs
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Incentivising Science: Funding and Prestige
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\size large
+“Open means 
+\series bold
+anyone
+\series default
+ can 
+\series bold
+freely access, use, modify, and share 
+\series default
+[content] for 
+\series bold
+any purpose
+\series default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Open Access
+\end_layout
+
+\begin_layout Minisec
+\begin_inset Quotes eld
+\end_inset
+
+The objective of open access is 
+\emph on
+not
+\emph default
+ to quarrel with or replace journals (at all).
+ 
+\emph on
+Not 
+\emph default
+to resolve the budgetary problems of libraries, not to provide access to
+ teachers - students- the general public, 
+\emph on
+not
+\emph default
+ to provide access the the Developing World.
+ The objective of open access is: to maximise research 
+\emph on
+impact
+\emph default
+ by maximizing research 
+\emph on
+access.
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\emph default
+Stevan Harnad 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{LOL WHO THE FUCK ARE YOU}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+open code
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "open-science,CriticalOpenNeuro"
+options "plainnat"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

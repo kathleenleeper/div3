@@ -83,7 +83,7 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Chapter
-How The Scientific Ecosystem is Failing: Structures and Incentives 
+non people oriented publishing failures 
 \begin_inset Argument 1
 status open
 
@@ -485,7 +485,7 @@ name "chap:Open-Science"
 \begin_inset Note Note
 status collapsed
 
-\begin_layout Section
+\begin_layout Plain Layout
 \begin_inset Argument 1
 status open
 
@@ -2763,7 +2763,7 @@ while you're getting submitted, you might get scooped
 scientists spend time on this
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -3219,10 +3219,6 @@ key "Lisberger2013"
 
 \end_layout
 
-\begin_layout Quote
-I
-\end_layout
-
 \begin_layout Subsection
 Getting More For Less: Metanalyses and Code/Data Reuse
 \end_layout
@@ -3239,7 +3235,7 @@ serious
 errors in data processing like someone else using the code will
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -3314,7 +3310,7 @@ Interdisciplinary
 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
