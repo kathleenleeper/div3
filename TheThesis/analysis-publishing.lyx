@@ -1457,6 +1457,31 @@ not
 \end_layout
 
 \begin_layout Section
+Digital Divides and Open Access
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Does open access actually increase access?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Snijder2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Issues I'm running up against
 \end_layout
 
