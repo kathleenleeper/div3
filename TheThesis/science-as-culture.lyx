@@ -180,11 +180,8 @@ key "Headrick1981"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -209,8 +206,8 @@ re bioprospecting and new forms of scientific/medical colonialism
 \end_layout
 
 \begin_layout Standard
-Scientific ethics and responsibility is often looked at in the frame of
- experiments specifically.
+Scientific ethics and responsibility is often looked at only within the
+ frame of experimental design and execution.
  This is, indisputably, desperately important.
  The Tuskegee Syphilis Experiments represent a clear failure on the part
  of the scientists involved, their funding body, and whatever oversight
@@ -224,7 +221,7 @@ status collapsed
 \backslash
 graffito{Obviously, in the U.S.
  racial frame black bodies are unhuman, and the experimenters were more
- or less within their rights} 
+ or less within their rights, so...} 
 \end_layout
 
 \end_inset
@@ -236,13 +233,21 @@ graffito{Obviously, in the U.S.
 \end_layout
 
 \begin_layout Standard
-More insidiously, and more difficult to make sweeping moral judgements on,
- is the way science has not just been done poorly, but even when nominally
- ethical, used to justify and 
+More insidious and more difficult to make sweeping moral judgements on is
+ the way science has not just been done 
+\begin_inset Quotes eld
+\end_inset
+
+poorly
+\begin_inset Quotes erd
+\end_inset
+
+, but used to justify and 
 \emph on
 create 
 \emph default
-new systems of exclusion, as well as enabling [[war]].
+new systems of exclusion, as well as enabling [[war!]], all while staying
+ within the ethical bounds of the time.
  Racism -- the peculiar brand of American racism, derived from slave-owners
  desperate to justify their brutality of human bondage -- was created through
  the collusion of science and society, specifically a science that carefully
@@ -265,11 +270,34 @@ well-born
 
 \begin_layout Standard
 That was the 40's and 50's -- today, we have genetic surveillance.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Roberts2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 We have the science of homosexuality -- every time we discover a new gay,
  someone uses that 'fact' to cure queers.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Trans bodies have entered the neuroscientific sphere -- brain images
+ used to confirm that the brains of transmen are more like cis men than
+ they are cis women.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -708,6 +736,22 @@ implications
 Feminist Theory
 \end_layout
 
+\begin_layout Quote
+\align right
+
+\series bold
+\size large
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+Questioning representation with a vengeance.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -1096,7 +1140,7 @@ All that is merely to impress upon a reader that using the word feminism
 \end_layout
 
 \begin_layout Section
-Meaning in Practice: What does this do in a practical sense?
+What does this do in a practical sense?
 \begin_inset Argument 1
 status open
 
@@ -1168,7 +1212,7 @@ status collapsed
 \backslash
 graffito{This section is fairly weak representationally.
  Mostly women (9/11), but only 3 of the 9 are women of color (African-American,
- Asian/American, and Indian).
+ Asian-American, and Indian).
  }
 \end_layout
 
@@ -1250,8 +1294,201 @@ It asks us to look at science as a practice inseparable from culture, and
  of that knowledge.
 \end_layout
 
+\begin_layout Section
+Indigenous knowledges and local biologies
+\end_layout
+
 \begin_layout Subsection
-For Scientists
+Local biologies
+\end_layout
+
+\begin_layout Standard
+Local biologies are implied by feminist science theory, and indeed general
+ science studies.
+ That biological realities differ between geographical and cultural locations
+ should not, realistically, surprise anybody who's made the commitment to
+ trek through this div.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{May not be the right place, but have to establish that talking
+ about gendered health issues is not some specialized "women's issue" but
+ is something that the medical community as a whole should be implicated.
+ what about gynecologists and medical communities that 
+\backslash
+emph{specialize} in women? Women do give birth.}
+\end_layout
+
+\end_inset
+
+Local biologies were most famously used by Margaret Lock, in comparing the
+ uniquely North American symptoms of 
+\begin_inset Quotes eld
+\end_inset
+
+menopause
+\begin_inset Quotes erd
+\end_inset
+
+, a recognized disorder often treated with pharmaceutical interventions,
+ to the experience of Japanese women after cessation of menstruation.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+There's a whole fucking book dedicated to explaining this, I'll see what
+ I can do in a paragraph.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+This concept does not refer to the idea that the categories of the bio-
+ logical sciences are historically and culturally constructed (although
+ this is indeed the case) nor to measurable biological difference across
+ human populations
+\end_layout
+
+\begin_layout Plain Layout
+Rather, local biologies refers to the way in which the embodied experience
+ of physical sensations, including those of well-being, health, illness,
+ and so on, is in part informed by the material body, itself contingent
+ on evolutionary, environ- mental, and individual variables.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lock2001a"
+
+\end_inset
+
+ per Lock 1993
+\end_layout
+
+\begin_layout Plain Layout
+and local knowledge, including scientific knowledge to the extent that it
+ is avail- able, must inevitably be implicated.
+ This means in practice that, inevitably, knowl- edge about biology is informed
+ by the social, and the social is in turn informed by the reality of the
+ material.
+ In other words, the biological and the social are copro- duced and dialecticall
+y reproduced, and the primary site where this engagement takes place is
+ the subjectively experienced, socialized body.
+ The material body cannot stand, as has so often been the case, as an entity
+ that is black-boxed and as- sumed to be universal, with so much sociocultural
+ flotsam layered over it.
+ The ma- terial and the social are both contingent—both local.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Moreover, while local is often geographical, location is only one of many
+ axes.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Local
+\begin_inset Quotes erd
+\end_inset
+
+ biologies more accurately speaks to our specific socioeconomic, racialized,
+ gendered, sexual, 
+\emph on
+and 
+\emph default
+geographic identities and locations.
+ 
+\end_layout
+
+\begin_layout Standard
+In practice, that means young boys in the United States who act out are
+ diagnosed with autism, while young girls are ignored\SpecialChar \@.
+ Dialysis patients
+ in Egypt might refuse a kidney donation from their Egyptian relatives,
+ recognizing that the unique stresses placed on Egyptian bodies might require
+ two functioning kidneys, differing from the global biomedical truth that
+ one kidney is sufficient.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+that awesome Medical anthropolopy article
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
+Indigenous knowledges and sciences
+\end_layout
+
+\begin_layout Standard
+Specific knowledges! Eradicated by colonialism!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+on medicalizatino, from 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lock2001a"
+
+\end_inset
+
+ - These studies have shown repeatedly how, with medicalization, attention
+ is deflected away from the social arrangements and political forces that
+ contribute to the incidence of distress and disease and to the experience
+ of life cycle transitions.
+ Subjectivity and symptom reporting are subsumed into medical pathologies
+ and standard deviations from medical norms, and the focus of attention
+ is on the bodies of individuals, who are essen- tially made responsible
+ for their own condition.
+\end_layout
+
+\begin_layout Plain Layout
+....
+\end_layout
+
+\begin_layout Plain Layout
+On the other hand, the Inuit strongly resist medicalization when they give
+ birth, in large part be- cause this has usually involved routine "evacuation"
+ from the Arctic to urban terti- ary care hospitals in the Canadian south
+ (O'Neil and Kaufert 1995).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Why should scientists care?
 \end_layout
 
 \begin_layout Standard
@@ -1471,7 +1708,7 @@ emph{humans}
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1522,7 +1759,7 @@ graffito{JC I think this might be another area to expand on.
 .
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 The point of the thesis
 \end_layout
 
@@ -1545,7 +1782,7 @@ how
 \end_layout
 
 \begin_layout Section
-What you have to look forward to
+What you have to look forward to!
 \end_layout
 
 \begin_layout Standard
