@@ -85,7 +85,7 @@ LatexCommand tableofcontents
 \begin_layout Chapter
 non people oriented publishing failures 
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Scientific Structures and Incentives
@@ -575,7 +575,7 @@ ac{OS}
  of konwledge -- is suffering from serious flaws.
  This includes concern about 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 summary of problems??
@@ -3213,6 +3213,19 @@ emph{from Lisberger 2013}: I realize it would be a big change of culture,
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Lisberger2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+so in this sections...should it include who gets included???
+\end_layout
 
 \end_inset
 

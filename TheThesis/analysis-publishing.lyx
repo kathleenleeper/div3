@@ -1457,6 +1457,55 @@ not
 \end_layout
 
 \begin_layout Section
+effect of open access publishing 
+\emph on
+on
+\emph default
+ access
+\end_layout
+
+\begin_layout Standard
+What is the influence of publishing OA on relativ3
+\end_layout
+
+\begin_layout Standard
+e research impact? It's at least equal -- impact factors and citation count
+ remain the same.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bjork2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There's also the proposal, backed by limited data, that OA makes it's greatest
+ impact in increasing access and scientific participation globally, and
+ specifically in the developing world.
+\end_layout
+
+\begin_layout Quote
+Across sub-fields, the impact of commercial online availability was positive,
+ statistically significant, and on average 40% larger than the OA effect,
+ suggesting that most researchers rely on institutional subscriptions.
+\end_layout
+
+\begin_layout Quote
+The influence of OA was more than twice as strong in the developing world
+ but was less apparent in the very poorest countries where electronic access
+ is limited 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Evans2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Digital Divides and Open Access
 \end_layout
 
@@ -1475,6 +1524,28 @@ Does open access actually increase access?
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Snijder2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Internets
+\end_layout
+
+\begin_layout Standard
+If OA is internet enabled (largely it is!), then...broadband matters, and broadband
+ is not equally distributed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+JC - What's the gender ratio for PLOS?
+\end_layout
 
 \end_inset
 
