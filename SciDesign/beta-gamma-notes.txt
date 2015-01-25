@@ -1,0 +1,4 @@
+t is conceivable that the outcome of G protein activation depends on the particular receptor, G protein heterotrimer, effectors, and regulatory molecules contained in an individual signaling complex. These latter components might include arrestins, protein kinases, and phosphatases that could regulate the duration and intensity of signal transduction, and change the type of signal or the subcellular localization where different signals might be delivered. In this review, we discuss the roles associated with Gβγ subunits in cellular signaling per se, but we also address the broader role they may serve in organizing the assembly and trafficking of GPCR signaling complexes." -dupre, review of gby subunits
+
+
+f cases, we do not know which G protein αβγ subunit combinations actually exist in vivo, nor do we understand the factors controlling their selective assembly.
