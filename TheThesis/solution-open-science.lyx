@@ -73,15 +73,6 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Chapter
 Solutions: Crack it Open? 
 \begin_inset Argument 1
@@ -522,10 +513,19 @@ open code
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "open-science,CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

@@ -73,15 +73,6 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Chapter
 What Happens When We 
 \begin_inset Quotes eld
@@ -1566,10 +1557,19 @@ I can't actually do an anthology of open science in the developing world.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "open-science,CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
