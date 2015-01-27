@@ -108,7 +108,8 @@ status open
 
 
 \backslash
-acro{OEAC}{Other Euro-American Countries, including Australia, NZ, and Canada}
+acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
+ Canada
 \end_layout
 
 \end_inset
@@ -124,7 +125,40 @@ status open
 
 
 \backslash
-acro{RoW}{"Rest of World"}
+acro{RoW}{"Rest of World"}, for what that's worth
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OECD}{Organisation for Economic Co-operation and Development}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
+ and scientific powerhouse countries
 \end_layout
 
 \end_inset
@@ -208,7 +242,7 @@ es, and actively shunts women and minority groups away from positions of
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 I've broken this into three sections -- geography/localities, gender, and
@@ -224,6 +258,48 @@ I've broken this into three sections -- geography/localities, gender, and
 
 \begin_layout Standard
 Who gets to make science, and who gets credit?
+\end_layout
+
+\begin_layout Subsection
+Some more notes
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+science
+\begin_inset Quotes erd
+\end_inset
+
+ is gonna be pretty generalized; clinical research is generally more studied
+ and more prioritized in the literature, plausibly as a result of a pervading
+ belief in the relative hardness of sciences.
+ Clinical research is more easy to critique and more visible.
+\end_layout
+
+\begin_layout Quote
+Also, there 
+\emph on
+is 
+\emph default
+some representation.
+ It seems plausible that the 
+\begin_inset Quotes eld
+\end_inset
+
+harder
+\begin_inset Quotes erd
+\end_inset
+
+ fields simply don't have the capacity to create and be a part of data productio
+n at the LHC.
+ 
+\end_layout
+
+\begin_layout Quote
+IF you don't have internet access, you can't even do bioinformatics.
+ Entire scientific fields are built purely on the internet.
 \end_layout
 
 \begin_layout Section
@@ -391,8 +467,59 @@ c, objective means to critically evaluate the world’s leading journals,”
 
 \end_layout
 
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Of the material in SCIE, more than 50 percent of journals are attributed
+ to just three countries: the United States (34 percent); England (19 percent)
+ and the Netherlands (8 percent) reflecting an English-language bias that
+ has been documented
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wagner2011"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Who contributes to knowledge?
+\end_layout
+
+\begin_layout Quote
+Authors from countries with poor publication records who submit a paper
+ to the Journal will be positively discriminated towards, in that the editors
+ will comment on the quality of papers and return these comments to the
+ authors prior to refereeing.
+ The authors will also request the name of a local referee.
+ When the editors return the paper, it will go through the usual process
+ of refereeing, together with comments from the local referee.
+ The standard of final acceptance of papers will not be varied, but it is
+ hoped that the extra input will allow some papers that were marginal to
+ be pub- lished.
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Vetter2003"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Editor, 
+\emph on
+Journal of Public Health Medicine
 \end_layout
 
 \begin_layout Standard
@@ -573,11 +700,314 @@ graffito{re: independence -- should look into the developing culture of
 \end_inset
 
 
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Subsection
+notes on production from the SCAP report
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
 \end_inset
 
 
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UB FoH}{University of Botswana, Faculties of Humanities}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UoM FoS}{University of Mauritius, Faculties of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UCT Comm}{University of Cape Town, Commerce}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+from the last summary chapter of 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Henry2014"
+
+\end_inset
+
+, 
+\end_layout
+
+\begin_layout Quote
+Before we begin, however, it is worth foregrounding a foundational assumption
+ concern- ing regional scholarly visbility that we have confirmed through
+ our research.
+ 
+\end_layout
+
+\begin_layout Description
+Finding 1.
+ Southern African research is comparatively marginal and invisible in the
+ global context of academic research production.
+\end_layout
+
+\begin_layout Quote
+This general condition of marginality and invisibility is due to both external
+ and internal factors.
+ Externally, the wealth and productivity of Northern institutions (and increasin
+gly other Southern ones in China) simply dwarf the research potential of
+ the smaller Southern African countries, a fact that will not change soon.
+ However, it is also influenced by internal factors which, if altered, could
+ increase its reach, prestige and relevance.
+\end_layout
+
+\begin_layout Description
+Finding 2.
+ Southern African scholars are motivated to produce and disseminate research
+ for both intrinsic and extrinsic reasons, including: the institutional
+ mandate (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UB FoH}
+\end_layout
+
+\end_inset
+
+), peer expectation (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UCT Comm}
+\end_layout
+
+\end_inset
+
+), personal desire (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UoM FoS}
+\end_layout
+
+\end_inset
+
+) and to generate new knowledge and enhance teaching (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UNAM FHSS}
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Description
+Finding 3.
+ Not all Southern African scholars want their research to be visible.
+\end_layout
+
+\begin_layout Itemize
+anxieties about quality, peer judgment and community exposure (especially
+ if they doubt the value of their research contributions) 
+\end_layout
+
+\begin_layout Itemize
+a culturally informed sense of modesty (where it is considered improper
+ to engage in self-promotion, such as calling attention to one’s own work)
+ 
+\end_layout
+
+\begin_layout Itemize
+a minimalist communications strategy (where dissemination is achieved through
+ reading a paper at a conference, or perhaps allowing a journal to publish
+ it, but nothing further) 
+\end_layout
+
+\begin_layout Itemize
+fear that others may steal their ideas/data (especially if still in gestational
+ form)
+\end_layout
+
+\begin_layout Itemize
+a teaching- rather than research-oriented approach to scholarship (which
+ speaks to one’s sense of academic identity, as a teacher rather than a
+ researcher)
+\end_layout
+
+\begin_layout Description
+Finding 4.
+ Heavy teaching and administrative loads hinder research production in Southern
+ African universities.
+\end_layout
+
+\begin_layout Description
+Finding 5 The majority of Southern African research projects are either
+ unfunded or funded by their universities.
+\end_layout
+
+\begin_layout Quote
+Considering that the four universities that we profiled were some of the
+ more prolific in the region (each was the top producing university in their
+ respective countries) and belonged to countries that had moderate financial
+ resources (especially as compared to their neighbours), the challenges
+ of research funding are likely much greater across the rest of Southern
+ Africa.
+\end_layout
+
+\begin_layout Description
+Finding 6.
+ Many Southern African research projects are small, local projects, confined
+ to an immediate geographical area.
+\end_layout
+
+\begin_layout Subsection
+Which Bodies/Diseases?
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Background 
+\series default
+More than two-thirds of the world’s population live in low-income countries,
+ where health priorities are different from those of people living in more
+ affluent parts of the world.
+ We evaluated the relation between the global burden of dis- ease and conditions
+ or diseases studied in randomized controlled trials (RCTs).
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Results: 
+\series default
+Among the 286 RCTs in our sample, 124 (43.4%) ad- dressed 1 of the 35 leading
+ causes of the global burden of disease.
+ Of these, ischemic heart disease, HIV/AIDS and cere- brovascular disease
+ were the most commonly studied condi- tions.
+ Ninety articles (31.5%) studied 1 of the top 10 causes of the global burden
+ of disease.
+ The mean rating (and standard deviation) for international health relevance
+ assigned by experts was 2.6 (1.5) out of 5.
+ Only 14 (16%) of the 90 trials re- ceived a rating of 4 or greater, indicating
+ high relevance to in- ternational health.
+ Almost half of the 40 leading causes of the global burden of disease were
+ not studied by any trial.
+ 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Interpretation: 
+\series default
+Many conditions or diseases common internationally are underrepresented
+ in RCTs published in leading gen- eral medical journals.
+ Trials published in these journals that studied one of these high-priority
+ conditions were generally rated as being of little relevance to international
+ health.
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rochon2004"
+
 \end_inset
 
 
@@ -821,14 +1251,39 @@ Digital Divides
 \begin_inset Float figure
 wide false
 sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-n
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
 \begin_inset Graphics
 	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
 	lyxscale 10
 	width 80page%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
 
 \end_inset
 
@@ -839,15 +1294,23 @@ n
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Description
+Description - This map illustrates the total number of Internet users in
+ a country as well as the percentage of the population that has Internet
+ access.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Plain Layout
-This map illustrates the total number of Internet users in a country as
- well as the percentage of the population that has Internet access.
+
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -941,35 +1404,44 @@ It is therefore important to remember that despite the massive impacts that
 \end_inset
 
 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
 
 \series bold
+
 \begin_inset Graphics
 	filename gfx/Broadband_Affordability.png
 	lyxscale 5
 	width 80page%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
 
 \end_inset
 
@@ -982,12 +1454,24 @@ status collapsed
 
 \series bold
 Description
+\series default
+ -This map presents an overview of broadband affordability, as the relationship
+ between average yearly income per capita and the cost of a broadband subscripti
+on.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Plain Layout
-This map presents an overview of broadband affordability, as the relationship
- between average yearly income per capita and the cost of a broadband subscripti
-on.
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -1101,20 +1585,6 @@ The data mapped here are some of the world’s most important indicators.
  Without the ability and means to connect, the opportunities, the information,
  and the communication mediated and afforded by the Internet all remain
  impossible.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
 \end_layout
 
 \end_inset
