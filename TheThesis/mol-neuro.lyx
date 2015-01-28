@@ -167,7 +167,23 @@ status open
 
 
 \backslash
-acro{GPCRs}{G-protein coupled receptors}
+acro{G-protein}{guanine nucleotide-binding proteins}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPCR}{G-protein coupled receptors}
 \end_layout
 
 \end_inset
@@ -216,6 +232,24 @@ status open
 
 \backslash
 acro{CNS}{central nervous system}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+acro{5-HT
+\backslash
+textsubscript{2a}R}{5-HT receptor, subtype 2a}
 \end_layout
 
 \end_inset
@@ -345,7 +379,7 @@ fingerprints
 
  characterizing known hallucinogenic drugs
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1427,7 +1461,7 @@ reference "enu:primary-neurons"
 
 \begin_layout Standard
 \begin_inset CommandInset ref
-LatexCommand ref
+LatexCommand eqref
 reference "enu:Oocytes-with-mGlu"
 
 \end_inset
@@ -1569,6 +1603,873 @@ OK but not nearly imaginative or widely enough researched [unreadable stuff]
 
 \end_layout
 
+\begin_layout Section
+The 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a 
+\end_layout
+
+\end_inset
+
+receptor
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GDP}{guanosine diphosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GTP}{guanosine triphosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+G-proteins and coupled receptors
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+WHEN A LIGAND such as a hormone, neurotransmitter, or glycoprotein interacts
+ with a heptahelical receptor on the surface of the cell, the ligand either
+ stabilizes or induces a conformation in the receptor that activates a heterotri
+meric G protein (composed of α-, β-, and γ-subunits) on the inner membrane
+ surface of the cell (1).
+ In the inactive heterotrimeric state, GDP is bound to the Gα-subunit.
+ Upon activation, GDP is released, GTP binds to Gα, and subsequently Gα-GTP
+ dissociates from Gβγ and from the receptor (Fig.
+ 1).
+ Both Gα-GTP and Gβγ are then free to activate downstream effectors.
+ The duration of the signal is determined by the intrinsic GTP hydrolysis
+ rate of the Gα-subunit and the subsequent reassociation of Gα-GDP with
+ Gβγ (1, 2).
+ This article will review current knowledge and recent progress in defining
+ the molecular mechanisms that regulate the activity and specificity of
+ G protein signaling cascades.
+ In addition, we will briefly discuss the use of dynamic experimental approaches
+ that are likely to provide new insights into G protein regulation in the
+ future..
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cabrera-Vera2003"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+The 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}
+\end_layout
+
+\end_inset
+
+ family is a extremely diverse class of heptahelical transmembrane signalling
+ proteins.
+ They comprise approximately 30-40% of current drug targets, which covers
+ 
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+some astronomically small # of potentials
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Graphics
+	filename gfx/wikipedia_GPCR-cycle.jpg
+	lyxscale 5
+	width 60page%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\series default
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Adapted from Wikipedia, the active-inactive cycle of a
+ 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}
+\end_layout
+
+\end_inset
+
+s couple to 
+heterotrimeric 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{G-protein}s
+\end_layout
+
+\end_inset
+
+ on the intracellular side, consisting of a modular configuration of an
+ intracellular α-, β-, and γ-subunit.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wettschureck2005"
+
+\end_inset
+
+ The γ-subunit is extremely unstable alone, and is thus almost exclusively
+ found in and exerts effects as part of a dimeric βγ-complex; with one exception
+, the proteins function as a single entity.
+\end_layout
+
+\begin_layout Standard
+In the inactive receptor, all three subunits associate; the α-subunit maintains
+ a bound
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GDP}
+\end_layout
+
+\end_inset
+
+.
+ Ligand binding induces, in the receptor and consequently the bound 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{G-protein}
+\end_layout
+
+\end_inset
+
+ complex, a conformational shift.
+ In the classic model of signalling, this leads to the exchange of the α-bound
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GDP}
+\end_layout
+
+\end_inset
+
+ for 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GTP}
+\end_layout
+
+\end_inset
+
+, and then to α-subunit and βγ-complex dissociation from each other, while
+ remaining anchored to the membrane.
+ They are free to diffuse laterally and initiate signalling cascades, until
+ termination of signalling by the innate 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GTP}ase
+\end_layout
+
+\end_inset
+
+ activity of the α-subunit.
+ The resulting 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GDP}
+\end_layout
+
+\end_inset
+
+-bound α-subunit reassociates with a βγ-complex to reform the G-protein
+ complex.
+\end_layout
+
+\begin_layout Standard
+The classical model is complicated by evidence that suggests activation
+ can trigger a conformational change without subunit dissociation; nonetheless,
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+ it's complicated and waahh it matters whatever.
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}s
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Modular Units
+\end_layout
+
+\begin_layout Standard
+There are sixteen α-, five β-, and twelve γ-subunit coding genes.
+ 
+\end_layout
+
+\begin_layout Paragraph
+α-subunit
+\end_layout
+
+\begin_layout Standard
+For much of the time spent researching 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}s
+\end_layout
+
+\end_inset
+
+, the -subunits were considered the 'active' protein.
+\end_layout
+
+\begin_layout Quote
+The α-subunits that define the basic properties of a heterotrimeric G protein
+ can be divided into four families, Gαs, Gαi/Gαo, Gαq/Gα11, and Gα12/Gα13.
+\end_layout
+
+\begin_layout Paragraph
+βγ-complex 
+\end_layout
+
+\begin_layout Standard
+The βγ-complex of mammalian G proteins is assembled from the repertoire
+ of 5 G protein β-subunits and 12 γ-subunits.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{and yet-undiscovered units}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cabrera-Vera2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Gβγ subunits, once thought only to be negative regulators of Gα-dependent
+ signaling have come into their own as mediators of receptor signaling.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dupre2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+While β1- to β4-subunits form a tight complex with γ-subunits which can
+ only be separated under denaturing conditions, the β5-subunit interaction
+ with γ-subunits is comparably weak (347, 543).
+ The β5-subunit is an exception in that it can also be found in a complex
+ with a subgroup of RGS proteins (689).
+ The βγ-complex was initially regarded as a more passive partner of the
+ G protein α-subunit.
+ However, it has become clear that βγ-complexes freed from the G protein
+ α-subunit can regulate various effectors.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+According to current knowledge, 16 genes encode for Gα-subunits, five genes
+ encode for Gβ-, and 12 genes encode for Gγ-subunits (10).
+ Classically, G proteins are divided into four families based on similarity
+ of their α-subunits: Gαi/o, Gαs, Gαq/11, and Gα12/13 (Table 1).
+ Gα-subunits contain two domains: a GTPase domain that is involved in the
+ binding and hydrolysis of GTP and a helical domain that buries the GTP
+ within the core of the protein (Fig.
+ 2A).
+ The helical domain is the most divergent domain among Gα families and may
+ play a role in directing specificity of receptor- and effector-G protein
+ coupling.
+ Comparison of Gαt-GDP and Gαt-GTPγS crystal structures has revealed the
+ presence of three flexible regions, designated switches I, II, and III,
+ which become more rigid and well ordered in the GTP-bound active conformation
+ (3, 4).
+ Little is known about the structure of the extreme amino (N-) and carboxy
+ (C-) terminal domains of Gα-subunits because in the isolated G protein
+ crystal structures solved thus far, the N and C termini of Gα were either
+ removed from the protein or disordered (3, 4, 5, 6).
+ However, in two separate crystal structures of heterotrimeric complex,
+ the N-terminal helix is ordered by its interaction with the β-propeller
+ domain of Gβ (Refs.
+ 7 and 8 and Fig.
+ 2A).
+ Biochemical studies suggest that these terminal regions play a key role
+ in the activation process and in directing specific protein-protein interaction
+s, as is discussed in the following section.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cabrera-Vera2003"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+The heterotrimeric G protein consists of an α-subunit that binds and hydrolyzes
+ GTP as well as of a β- and a γ-subunit that form an undissociable complex
+ (233, 255, 475).
+ Several subtypes of α-, β-, and γ-subunits have been described (Table 2).
+ To dynamically couple activated receptors to effectors, the heterotrimeric
+ G protein undergoes an activation-inactivation cycle (Fig.
+ 1).
+ In the basal state, the βγ-complex and the GDP-bound α-subunit are associated,
+ and the heterotrimer can be recognized by an appropriate activated receptor.
+ Coupling of the activated receptor to the heterotrimer promotes the exchange
+ of GDP for GTP on the G protein α-subunit.
+ The GTP-bound α-subunit dissociates from the activated receptor as well
+ as from the βγ-complex, and both the α-subunit and the βγ-complex are now
+ free to modulate the activity of a variety of effectors like ion channels
+ or enzymes.
+ Signaling is terminated by the hydrolysis of GTP by the GTPase activity,
+ which is inherent to the G protein α-subunit.
+ The resulting GDP-bound α-subunit reassociates with the βγ-complex to enter
+ a new cycle if activated receptors are present.
+\end_layout
+
+\begin_layout Quote
+A G protein alpha subunit binds either GTP or GDP depending on whether the
+ protein is active (GTP) or inactive (GDP).
+ In the absence of a signal, GDP attaches to the alpha subunit, and the
+ entire G protein-GDP complex binds to a nearby GPCR.
+ This arrangement persists until a signaling molecule joins with the GPCR.
+ At this point, a change in the conformation of the GPCR activates the G
+ protein, and GTP physically replaces the GDP bound to the alpha subunit.
+ As a result, the G protein subunits dissociate into two parts: the GTP-bound
+ alpha subunit and a beta-gamma dimer.
+ Both parts remain anchored to the plasma membrane, but they are no longer
+ bound to the GPCR, so they can now diffuse laterally to interact with other
+ membrane proteins.
+ 
+\end_layout
+
+\begin_layout Quote
+Whenever a G protein is active, both its GTP-bound alpha subunit and its
+ beta-gamma dimer can relay messages in the cell by interacting with other
+ membrane proteins involved in signal transduction.
+ Specific targets for activated G proteins include various enzymes that
+ produce second messengers, as well as certain ion channels that allow ions
+ to act as second messengers.
+ Some G proteins stimulate the activity of these targets, whereas others
+ are inhibitory.
+ Vertebrate genomes contain multiple genes that encode the alpha, beta,
+ and gamma subunits of G proteins.
+ The many different subunits encoded by these genes combine in multiple
+ ways to produce a diverse family of G proteins (Figure 2).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+In the inactive state, the GDP-bound Gα subunit is associated with the obligate
+ Gβγ dimer, which slows the rate of spontaneous GDP release by Gα acting
+ as a guanine-nucleotide dissociation inhibitor
+\end_layout
+
+\begin_layout Subsection
+Functional Selectivity & Biased signalling
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+ is a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}
+\end_layout
+
+\end_inset
+
+, coupled to a Gα
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textsubscript{q/11}
+\end_layout
+
+\end_inset
+
+ subunit and an unknown βγ-complex.
+\end_layout
+
+\begin_layout Standard
+For much of early pharmacology, receptor modeling focused on a model of
+ direct, measurable, and intrinsic receptor efficacy -- that is, receptors
+ functioned as single-channel, multi-volume switches, allowing for variations
+ in signal quantity, but not quality.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Urban2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Intrinsic Efficacy
+\end_layout
+
+\begin_layout Quote
+...effects are governed by two important properties: 
+\end_layout
+
+\begin_layout Quote
+1) affinity, the property of attraction between a ligand and its receptor,
+ and 2) efficacy, the property that allows ligands, once bound, to produce
+ a response (Kenakin, 1997).
+ 
+\end_layout
+
+\begin_layout Quote
+This concept has led to the classification of receptor ligands as full agonists,
+ partial agonists, neutral antagonists, or inverse agonists.
+ Perhaps the key idea that governs this classification is the notion of
+ “intrinsic efficacy”, originally proposed by Furchgott (1966) as a measure
+ of the stimulus per receptor molecule produced by a ligand.
+ According to this notion, full agonists possess sufficiently high intrinsic
+ effi- cacy, such that they maximally stimulate all cellular re- sponses
+ linked to a given receptor.
+ Partial agonists possess lower degrees of intrinsic efficacy (leading to
+ submaximal responses), whereas inverse agonists reduce constitutive (li-
+ gand-independent, basal) receptor signaling.
+ Neutral antag- onists possess no intrinsic efficacy but occupy the receptor
+ to block the effects of full, partial, or inverse agonists.
+ 
+\end_layout
+
+\begin_layout Quote
+This idea has also led to the assumption, dearly held in pharmacology, that
+ the ability of the ligand to impart (or reduce) stimulus once that ligand
+ is bound to the receptor is an inherent property of the ligand-receptor
+ complex.
+ Intrinsic efficacy is thus differentiated from the more operational term
+ “intrinsic activity” (Ariens, 1954) that simply refers to the maximal effect
+ (E
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+textsubscript{max}
+\end_layout
+
+\end_inset
+
+ ) of a ligand relative to a reference agonist in a given experimental system.
+ Therefore, in classical pharmacological terms, intrinsic ef- ficacy has
+ been viewed as a system-independent parameter that is constant for each
+ ligand at a given receptor, irrespec- tive of where that receptor is expressed\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{consequence of this theory --> idea of a therapeutic "magic bullet".}
+\end_layout
+
+\end_inset
+
+In other words, the classification of compounds on the basis of intrinsic
+ efficacy only allowed for variations in the quantity of the stimulus that
+ was imparted to the cell, but not the quality\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+In fact, the notion that intrinsic efficacy is system-independent forms
+ a major underlying premise in drug discovery today—that the pharmacological
+ characteristics of a drug tested in an experimental model system can be
+ extrapolated to all systems.
+ As discussed below, this premise is frequently incorrect.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Urban2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+But unsurprisingly....
+\end_layout
+
+\begin_layout Standard
+This is not the case for most 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}s
+\end_layout
+
+\end_inset
+
+, and certainly not for the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+.
+ Signalling biases play an undoubtedly important role in determining the
+ effects of hallucinogens, with both immediate and longer term effects.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{If you accept that cells --> people?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Binding at the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ does not, inherently, cause 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{cellular signalling is only imp.
+ if it's not being modulated by other cells; hallucinogenic action is an
+ emergent property of both activation of 
+\backslash
+emph{those} receptors and the non activation of 
+\backslash
+emph{other} receptors.}
+\end_layout
+
+\end_inset
+
+ hallucinations.
+ They are created through a binding event by some drugs at specific receptors,
+ likely modulated by the 
+\emph on
+lack
+\emph default
+ of binding at other receptors that would normally modulate 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ activation.
+ Internally, however, hallucinogens and non-hallucinogens have very different
+ downstream effects, which is often pointed to as the cause of psychedelic
+ effects.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Nothin' is real and I hate it}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Internal
+\end_layout
+
+\begin_layout Section
+Background
+\end_layout
+
+\begin_layout Subsection
+Why am I doing this @ Hampshire?
+\end_layout
+
 \begin_layout Standard
 Because I wanted to write a div about more than 
 \begin_inset Quotes eld
@@ -1584,8 +2485,8 @@ just
  with the government about).
 \end_layout
 
-\begin_layout Section
-Background
+\begin_layout Subsection
+Resources
 \end_layout
 
 \begin_layout Standard
@@ -2074,19 +2975,10 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
