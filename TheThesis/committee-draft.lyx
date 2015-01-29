@@ -207,6 +207,24 @@ pagenumbering{arabic}
 \end_layout
 
 \begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+myPart{Troubling Scientific Ecosystems}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "science-as-culture.lyx"
@@ -269,7 +287,7 @@ filename "analysis-publishing.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "OS-case-study.lyx"
+filename "good-people.lyx"
 
 \end_inset
 
@@ -279,9 +297,15 @@ filename "OS-case-study.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "good-people.lyx"
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+myPart{Serotonin Science}
+\end_layout
 
 \end_inset
 
@@ -298,6 +322,41 @@ filename "mol-neuro.lyx"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "OS-case-study.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+myPart{Reconstructive Neuroscience}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "critical-neuro.lyx"
