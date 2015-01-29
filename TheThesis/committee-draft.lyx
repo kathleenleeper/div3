@@ -109,7 +109,7 @@ frenchspacing
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -145,7 +145,7 @@ pagestyle{plain}
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -170,7 +170,7 @@ filename "Contents.lyx"
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -192,7 +192,7 @@ cleardoublepage here to avoid problems with pdfbookmark
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 

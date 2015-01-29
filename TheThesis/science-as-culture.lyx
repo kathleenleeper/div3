@@ -1145,7 +1145,7 @@ What does this do in a practical sense?
 status open
 
 \begin_layout Plain Layout
-Meaning in Practice
+In Practice
 \end_layout
 
 \end_inset
@@ -1772,7 +1772,8 @@ need
  good -- read: concerned and activist -- people everywhere if we want social
  progress.
  This div is (hopefully) a road map and detailed exploration into doing
- (good) value-laden scienceFigure out 
+ (good) value-laden science.
+ Figure out 
 \emph on
 how
 \emph default
@@ -1817,10 +1818,50 @@ reference "chap:feminist-science-cultural-studies"
  
 \end_layout
 
+\begin_layout Subsubsection
+Troubling Scientific Systems
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
-reference "chap:Open-Science"
+reference "chap:ScienticEcosystem"
+
+\end_inset
+
+ starts where most criticisms of science stem from: the scientific ecosystem,
+ and the ways in which the current system of reward, funding, and prestige
+ distorts the pursuit of truth and knowledge in science.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Representation_Science"
+
+\end_inset
+
+ continues on a similar theme considering
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Not sure where the actual content wrt "representation" should go.
+ continuing reorganization}
+\end_layout
+
+\end_inset
+
+ the question of representation within the global scientific community.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:solution-OS"
 
 \end_inset
 
@@ -1870,51 +1911,55 @@ open
 
  is not by itself a panacea for the hegemony of scientific establishments.
  
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Representation_Science"
-
-\end_inset
-
- continues on this same theme, considering
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Not sure where the actual content wrt "representation" should go.
- continuing reorganization}
 \end_layout
 
+\begin_layout Standard
+In
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:values-fixing-publishing"
+
 \end_inset
 
- the representation of the global scientific community in open science vs.
- science at large.
+, we explore the possible implications of 
+\begin_inset Quotes eld
+\end_inset
+
+fixing
+\begin_inset Quotes erd
+\end_inset
+
+ science through greater sharing and disseminatin of information.
+ This hegemony is not merely theoretical.
+ The proposed 'solutions' to the scientific systems's failures have serious
+ implications, from a science studies and a feminist point of view, on the
+ production and kind of knowledge production.
+ It examines the open science movement with a mind to discover and analyze
+ the values underlying those efforts.
+ Ultimately, I'd propose how a movement hoping to democratize and equalize
+ science desperately needs to consider and account for their values from
+ a (feminist) different standpoint.
+ 
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
-reference "chap:Open-Science_casestudy"
+reference "chap:Good-People"
 
 \end_inset
 
- is the follow up to this -- it's a description of my attempts to implement
- open science proposals into a biological project, and the myriad complications
- and barriers I've surmounted -- or not -- in doing so.
- It offers a description of what I think the open science movement is missing
- on a practical implementation level, and examines the open science movement
- with a mind to discover and analyze the values underlying those efforts.
- Ultimately, I'd propose how a movement hoping to democratize and equalize
- science desperately needs to consider and account for their values from
- a (feminist) different standpoint.
- I also review some 
+ is things I 
 \emph on
-awesome
+like, 
 \emph default
- projects already happening.
+that I want to emulate, and projects that have attempted to wrestle with
+ all or some of my issues.
+ They're good people doing important things.
+\end_layout
+
+\begin_layout Subsubsection
+Doing Science Like a Scientist
 \end_layout
 
 \begin_layout Standard
@@ -1934,8 +1979,26 @@ purely
 
  scientific description.
  It describes why I think serotonin systems are important to model and explore,
- why I care about them, and my attempts to create a way to explore serotonin
- signaling by manipulation of a stem cell line.
+ why I care about them, and my attempts to create a way to explore hallucinogeni
+c pharmacology by manipulation of a stem cell line.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Open-Science_casestudy"
+
+\end_inset
+
+ is the follow up to this -- it's a description of my attempts to implement
+ open science proposals into a biological project, and the myriad complications
+ and barriers I've surmounted -- or not -- in doing so.
+ It offers a description of what I think the open science movement is missing
+ on a practical implementation level.
+\end_layout
+
+\begin_layout Subsubsection
+Reconstructive Neuroscience
 \end_layout
 
 \begin_layout Standard
