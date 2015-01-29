@@ -172,7 +172,7 @@ status open
 
 
 \backslash
-acro{GPCR}{G-protein coupled receptors}
+acro{GPCRs}{G-protein coupled receptors}
 \end_layout
 
 \end_inset
@@ -246,7 +246,7 @@ acro{GDP}{guanosine diphosphate}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -346,7 +346,7 @@ acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -362,7 +362,7 @@ acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -542,7 +542,7 @@ Consciousness-raising molecules?
 \end_layout
 
 \begin_layout Standard
-One (very small) piece of the psychedelic puzzle is understanding what happens
+One small piece of the psychedelic puzzle is understanding what happens
  on a molecular level to induce both short and long term perceptual changes.
  While the molecular and single-cell level changes are only one level of
  the alteration in experiences, and only make meaning in the context of
@@ -575,15 +575,8 @@ The most interesting aspect of (really all drugs) but specificaly hallucinogens,
 
 \end_layout
 
-\begin_layout Subsection
-\begin_inset Quotes eld
-\end_inset
-
-Classical psychedelics
-\begin_inset Quotes erd
-\end_inset
-
-
+\begin_layout Section
+The classical psychedelics
 \end_layout
 
 \begin_layout Standard
@@ -701,7 +694,7 @@ ac{STP}
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -709,9 +702,41 @@ status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename gfx/structures/DMT_wikipedia.png
-	scale 50
+	width 50col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+N
+\emph default
+, 
+\emph on
+N-
+\emph default
+dimethyltryptamine
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -740,11 +765,11 @@ figure with structures here yay
 effects
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 woooo pretty colors and stuff! non lethal, non addictive
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 a qualititively different experience that the user is typically aware isn't
  
 \begin_inset Quotes eld
@@ -758,14 +783,26 @@ real
 \end_layout
 
 \begin_layout Subsubsection
-receptors
+Receptors
 \end_layout
 
 \begin_layout Standard
-When we talk about molecule-cell interactions, biology starts with receptors.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{ignores transport of the drug to the brain, ingested, diluted and
+ digested}
+\end_layout
+
+\end_inset
+
+Biology's point of entry into molecule-body interactions starts with receptors.
  Cell-surface receptors either bind the molecule and transmit a signal,
- or act as a channel to allow the molecule direct access to the intracellular
- milieu.
+ or act as a channel to allow direct access to the intracellular milieu.
  
 \begin_inset ERT
 status collapsed
@@ -774,13 +811,17 @@ status collapsed
 
 
 \backslash
-graffito{This leaves out transport of the drug to the brain, ingestion,
- how it's diluted and digested}
+graffito{Well.
+ Cap'n Obvious.}
 \end_layout
 
 \end_inset
 
- All of the classical psychedelics share a binding affinity for the 
+Measures of receptor-molecule interaction then lie at the heart of pharmacology.
+\end_layout
+
+\begin_layout Standard
+All of the classical psychedelics share a binding affinity for the 
 \begin_inset ERT
 status collapsed
 
@@ -793,7 +834,21 @@ textsubscript{2a}
 
 \end_inset
 
- receptor; 
+ receptor, normally targeted by 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+.
+ 
 \begin_inset ERT
 status collapsed
 
@@ -809,7 +864,7 @@ ac{LSD}
  and ergoline analogues also bind to some dopamine receptor subtypes and
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -873,16 +928,74 @@ textsubscript{2c}
 \end_inset
 
  receptor subtypes.
-\end_layout
-
-\begin_layout Standard
-This shared affinity for a single receptor is seen as the essential component
+ This shared affinity for a single receptor is seen as the essential component
  of psychedelic signaling.
 \end_layout
 
 \begin_layout Standard
-The user-reported differences between drug trips can then be at least with
- a model that relies on 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+ also has an affinity for the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+
+,
+\lang english
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Again, obvious.}
+\end_layout
+
+\end_inset
+
+ but 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+ hardly results in an alteration of the conscious state.
+ 
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+Woo drugs have different effects than the ones they mimic yah! The user-reported
+ differences between drug trips can then be at least with a model that relies
+ on 
 \begin_inset ERT
 status collapsed
 
@@ -912,12 +1025,28 @@ textsubscript{2c}
  
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-Differential drug effects can also be attributed to their effect on intracellula
-r signaling.
- The psychedelics bind to the same physical receptor as the endogenous serotonin
-, but according to classical concepts of pharmacology, different ligands
- should only modulate the 
+Differential drug effects can also be attributed to intracellular signaling.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{consequence of this theory --> idea of a therapeutic "magic bullet"}
+\end_layout
+
+\end_inset
+
+According to classical concepts of pharmacology, different ligands should
+ only modulate the 
 \emph on
 quantity
 \emph default
@@ -932,10 +1061,9 @@ key "Urban2007"
 
 \end_inset
 
- This seems improbable in the face of long-mounting evidence for ligand-specific
- intracellular effects on second messengers, transcription factor activation,
- receptor sensitization and/or internalization, and other effects on the
- 
+ This seems improbable in the face of evidence for ligand-specific intracellular
+ effects on second messengers, transcription factor activation, receptor
+ sensitization and/or internalization, and other effects on the 
 \begin_inset ERT
 status collapsed
 
@@ -993,9 +1121,10 @@ textsubscript{2a}
 \end_layout
 
 \begin_layout Standard
-Because biology focuses on the receptor as the site of action, this is where
- we pick up.
- Our area of interest is then very narrow: the elucidation of the intracellular
+Because biology focuses on the receptor-ligand interactions as the site
+ of action, and downstream effects as the consequence, this is where we
+ pick up.
+ Our area of interest becomes very narrow: the elucidation of the intracellular
  signaling pathways activated by the stereoelectronic perturbation and conformat
 ional movement of specific amino acid residues at the shared binding site
  of psychedelic hallucinogens, ideally while maintaining the most 
@@ -1371,12 +1500,12 @@ receptor
 Distribution
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Whee text about distribution in the PFC and GABAergic neurons and layer
  V pyramidal neurons and interneurons
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 and brain anatomy! yay! see Figure
 \begin_inset CommandInset ref
 LatexCommand vref
@@ -1388,7 +1517,7 @@ reference "fig:distribution-of-2aRs"
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -1489,8 +1618,25 @@ status collapsed
 
 \end_layout
 
+\begin_layout Itemize
+more #info
+\end_layout
+
 \begin_layout Subsection
-Structure: G-proteins and coupled receptors
+G-protein coupled receptors
+\end_layout
+
+\begin_layout Paragraph
+The 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a 
+\end_layout
+
+\end_inset
+
+receptor is a GPCR
 \end_layout
 
 \begin_layout Standard
@@ -1536,7 +1682,7 @@ status open
 
 
 \backslash
-ac{GPCR}
+ac{GPCRs}
 \end_layout
 
 \end_inset
@@ -1545,19 +1691,29 @@ ac{GPCR}
  They comprise approximately 30-40% of current drug targets, which covers
  
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Plain Layout
-some astronomically small # of potentials
+some astronomically small # of potential targets
+\end_layout
+
+\end_inset
+
+, and are highly conserved across species
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{source?}
 \end_layout
 
 \end_inset
 
 .
- 
-\end_layout
-
-\begin_layout Standard
+ Ligand binding to a the extracellular terminal of 
 \begin_inset ERT
 status open
 
@@ -1565,14 +1721,32 @@ status open
 
 
 \backslash
-ac{GPCR}
+ac{GPCRs}
 \end_layout
 
 \end_inset
 
-s couple to heterotrimeric 
+ initiates a conformational change in the protein that transmutes through
+ the membrane to interact with a heterotrimeric 
 \begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{G-protein}
+\end_layout
+
+\end_inset
+
+ complex on the oher side.
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1583,17 +1757,15 @@ ac{G-protein}s
 
 \end_inset
 
- on the intracellular side, consisting of a modular configuration of an
- intracellular α-, β-, and γ-subunit.
+ on the intracellular side consist of a modular configuration of an intracellula
+r α-, β-, and γ-subunit.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Wettschureck2005"
 
 \end_inset
 
- The γ-subunit is extremely unstable alone, and is thus almost exclusively
- found in and exerts effects as part of a dimeric βγ-complex; with one exception
-, the proteins function as a single entity.
+ 
 \begin_inset Float figure
 wide false
 sideways false
@@ -1641,7 +1813,13 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Adapted from Wikipedia, the active-inactive cycle of a 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:GPCR-cycle"
+
+\end_inset
+
+Adapted from Wikipedia, the general active-inactive cycle of 
 \begin_inset ERT
 status open
 
@@ -1649,7 +1827,7 @@ status open
 
 
 \backslash
-ac{GPCR}
+ac{GPCRs}
 \end_layout
 
 \end_inset
@@ -1664,14 +1842,10 @@ ac{GPCR}
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-In the inactive receptor, all three subunits associate; the α-subunit maintains
+ In the inactive receptor, all three subunits associate; the α-subunit maintains
  a bound
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1724,8 +1898,19 @@ ac{GTP}
 
 \end_inset
 
-, and then to α-subunit and βγ-complex dissociation from each other, while
- remaining anchored to the membrane.
+, and then to α-subunit and βγ-complex
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The γ-subunit is extremely unstable alone, and is thus almost exclusively
+ found in and exerts effects as part of a dimeric βγ-complex; with one exception
+, the dimer functions as a single entity.
+\end_layout
+
+\end_inset
+
+ dissociation from each other, while remaining anchored to the membrane.
  They are free to diffuse laterally and initiate signaling cascades, until
  termination of signaling by the innate 
 \begin_inset ERT
@@ -1756,6 +1941,14 @@ ac{GDP}
 
 -bound α-subunit re-associates with a βγ-complex to reform the G-protein
  complex.
+ (See Fig.
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:GPCR-cycle"
+
+\end_inset
+
+)
 \end_layout
 
 \begin_layout Standard
@@ -1770,37 +1963,11 @@ status collapsed
 
 \end_inset
 
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCR}s
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Modular Units
+ .
 \end_layout
 
 \begin_layout Standard
-There are sixteen α-, five β-, and twelve γ-subunit coding genes.
- 
-\end_layout
-
-\begin_layout Paragraph
-α-subunit
-\end_layout
-
-\begin_layout Standard
-For much of the time spent researching 
+The modular structure of the 
 \begin_inset ERT
 status open
 
@@ -1808,17 +1975,104 @@ status open
 
 
 \backslash
-ac{GPCR}s
+ac{G-protein}
 \end_layout
 
 \end_inset
 
-, the α-subunits were considered the 'active' protein.
+ complex lends it a complex profile adaptable to many different cells, species,
+ and functions; subunit variations are crucial to tuning, modulating, and
+ transmitting receptor-ligand interactions.
+\end_layout
+
+\begin_layout Paragraph
+α-subunit
+\end_layout
+
+\begin_layout Standard
+There are sixteen α-subunit genes, and for much of the time spent researching
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCRs}
+\end_layout
+
+\end_inset
+
+, the α-subunits were considered the 'active' protein, and defining feature
 \end_layout
 
 \begin_layout Quote
 The α-subunits that define the basic properties of a heterotrimeric G protein
- can be divided into four families, Gαs, Gαi/Gαo, Gαq/Gα11, and Gα12/Gα13.
+ can be divided into four families, G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+αs
+\end_layout
+
+\end_inset
+
+, G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+αi
+\end_layout
+
+\end_inset
+
+/G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+αo
+\end_layout
+
+\end_inset
+
+, G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+αq
+\end_layout
+
+\end_inset
+
+/G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+11
+\end_layout
+
+\end_inset
+
+, and G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+12
+\end_layout
+
+\end_inset
+
+/G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+α13
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Paragraph
@@ -1826,8 +2080,8 @@ The α-subunits that define the basic properties of a heterotrimeric G protein
 \end_layout
 
 \begin_layout Standard
-The βγ-complex of mammalian G proteins is assembled from the repertoire
- of 5 G protein β-subunits and 12 γ-subunits.
+The βγ-complex of mammalian G proteins is assembled from a repertoire of
+ 5 G protein β-subunits and 12 γ-subunits.
 \begin_inset ERT
 status collapsed
 
@@ -1863,13 +2117,25 @@ key "Dupre2009"
 \end_layout
 
 \begin_layout Quote
-While β1- to β4-subunits form a tight complex with γ-subunits which can
- only be separated under denaturing conditions, the β5-subunit interaction
- with γ-subunits is comparably weak (347, 543).
+The β1- to β4-subunits form a tight complex with γ-subunits which can only
+ be separated under denaturing conditions.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+ the β5-subunit interaction with γ-subunits is comparably weak (347, 543).
  The β5-subunit is an exception in that it can also be found in a complex
  with a subgroup of RGS proteins (689).
- The βγ-complex was initially regarded as a more passive partner of the
- G protein α-subunit.
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+The βγ-complex was initially regarded as a more passive partner of the G
+ protein α-subunit.
  However, it has become clear that βγ-complexes freed from the G protein
  α-subunit can regulate various effectors.
 \begin_inset Note Note
@@ -1983,7 +2249,16 @@ In the inactive state, the GDP-bound Gα subunit is associated with the obligate
 \end_layout
 
 \begin_layout Subsection
-Functional Selectivity & Biased signaling
+The α subunit: G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+αq/11
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1993,27 +2268,14 @@ status open
 
 \begin_layout Plain Layout
 
-
+5-HT
 \backslash
-ac{5-HT}
+textsubscript{2a}R
 \end_layout
 
 \end_inset
 
- is a 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCR}
-\end_layout
-
-\end_inset
-
-, coupled to a Gα
+ couples to Gα
 \begin_inset ERT
 status open
 
@@ -2026,10 +2288,11 @@ textsubscript{q/11}
 
 \end_inset
 
- subunit and an unknown βγ-complex.
-\end_layout
+ and an unknown βγ-complex, or some configuration thereof.
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Standard
+\begin_layout Plain Layout
 For much of early pharmacology, receptor modeling focused on a model of
  direct, measurable, and intrinsic receptor efficacy -- that is, receptors
  functioned as single-channel, multi-volume switches, allowing for variations
@@ -2104,18 +2367,6 @@ textsubscript{max}
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{consequence of this theory --> idea of a therapeutic "magic bullet".}
-\end_layout
-
-\end_inset
-
 In other words, the classification of compounds on the basis of intrinsic
  efficacy only allowed for variations in the quantity of the stimulus that
  was imparted to the cell, but not the quality\SpecialChar \ldots{}
@@ -2137,42 +2388,29 @@ key "Urban2007"
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection
-But unsurprisingly....
+Canonical Signalling pathway
+\end_layout
+
+\begin_layout Subsubsection
+Other pathways?
+\end_layout
+
+\begin_layout Subsection
+Biased Signalling/Functional selectivity
 \end_layout
 
 \begin_layout Standard
-This is not the case for most 
+While the specifics are unclear, signalling biases play an undoubtedly important
+ role in determining the effects of hallucinogens, with both immediate and
+ longer term effects.
 \begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCR}s
-\end_layout
-
-\end_inset
-
-, and certainly not for the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-5-HT
-\backslash
-textsubscript{2a}R
-\end_layout
-
-\end_inset
-
-.
- Signalling biases play an undoubtedly important role in determining the
- effects of hallucinogens, with both immediate and longer term effects.
-\begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2183,13 +2421,30 @@ graffito{If you accept that cells --> people?}
 
 \end_inset
 
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Gonzalez-Maeso2007"
 
-\end_layout
+\end_inset
 
-\begin_layout Standard
-Binding at the 
+, at Mt.
+ Sinai, attribute the main action of hallucinogens
 \begin_inset ERT
 status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{probs review the evidence a lil}
+\end_layout
+
+\end_inset
+
+ to the binding event at the 
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 
@@ -2200,26 +2455,25 @@ textsubscript{2a}R
 
 \end_inset
 
- does not, inherently, cause 
+ and subsequent differential activation of second-messenger intracellular
+ pathways.
+\end_layout
+
+\begin_layout Standard
+Binding at the 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+5-HT
 \backslash
-graffito{cellular signaling is only imp.
- if it's not being modulated by other cells; hallucinogenic action is an
- emergent property of both activation of 
-\backslash
-emph{those} receptors and the non activation of 
-\backslash
-emph{other} receptors.}
+textsubscript{2a}R
 \end_layout
 
 \end_inset
 
- hallucinations.
+ does not, inherently, cause hallucinations.
  They are created through a binding event by some drugs at specific receptors,
  likely modulated by the 
 \emph on
@@ -2239,6 +2493,26 @@ textsubscript{2a}R
 \end_inset
 
  activation.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+~thoughts~ cellular signaling is only imp.
+ if it's not being modulated by other cells; hallucinogenic action is an
+ emergent property of both activation of 
+\emph on
+those
+\emph default
+ receptors and the non activation of 
+\emph on
+other
+\emph default
+ receptors.
+ DUMB}
+\end_layout
+
+\end_inset
+
  Internally, however, hallucinogens and non-hallucinogens have very different
  downstream effects, which is often pointed to as the cause of psychedelic
  effects.
@@ -2255,10 +2529,6 @@ graffito{Nothin' is real and I hate it}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Paragraph
-Internal
 \end_layout
 
 \begin_layout Section
@@ -2295,12 +2565,16 @@ name "enu:Humans,-with-psilocybin,"
 
 \end_inset
 
-Humans, with psilocybin, LSD, and MDMA
+Humans: with psilocybin, LSD, and MDMA, and veerything eles
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-fMRI, EEGs, interviews of subjective experience
+fMRI, EEGs, 
+\end_layout
+
+\begin_layout Enumerate
+interviews of subjective experience
 \end_layout
 
 \end_deeper
@@ -2311,7 +2585,7 @@ name "enu:Rats,-LSD-+"
 
 \end_inset
 
-Rats, LSD + many other drugs
+Rats: LSD + many other drugs
 \end_layout
 
 \begin_deeper
@@ -2341,7 +2615,7 @@ name "enu:Oocytes-with-mGlu"
 
 \end_inset
 
-Oocytes with mGlu & 2a receptors
+Oocytes with mGlu & 2a receptors: LSD, lisuride, psilocin
 \end_layout
 
 \begin_deeper
@@ -2579,7 +2853,7 @@ Resources
 
 \begin_layout Standard
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 fix wording on this
@@ -2587,9 +2861,9 @@ fix wording on this
 
 \end_inset
 
-The available cell line P19 stem cells, which are known to differentiate
- into relatively poorly-characterized neuron-like cells when cultured with
- a micro-molar concentrations of 
+P19 stem cells, which are known to differentiate into relatively poorly-characte
+rized neuron-like cells when cultured with a micro-molar concentrations
+ of 
 \begin_inset ERT
 status open
 
@@ -2602,8 +2876,16 @@ ac{RA}
 
 \end_inset
 
- in the media.
- The trick for us, however, is not just the production of neuronal cells,
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Primers! Rat cDNA.
+\end_layout
+
+\begin_layout Standard
+The trick for us, however, is not just the production of neuronal cells,
  but neurons expressing the 5-HT
 \begin_inset script subscript
 
@@ -2613,7 +2895,20 @@ ac{RA}
 
 \end_inset
 
-receptors, with GPCR machineary full intact and functional.
+receptors, with the machinery of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCRs}
+\end_layout
+
+\end_inset
+
+ fully intact and functional.
  
 \begin_inset ERT
 status collapsed
@@ -2636,11 +2931,11 @@ P19s
 \end_layout
 
 \begin_layout Standard
-P19s are derived from rat embryonal teratocarcinoma cells, from behind the
- testes of XY rats.
+P19s are derived from embryonal teratocarcinoma cells, from behind the testes
+ of XY-karyotype mice.
  They are immortal and easy to maintain, retaining pluripotency under normal
  cell culture conditions.
- Upon application of 
+ Upon 
 \begin_inset ERT
 status open
 
@@ -2653,8 +2948,8 @@ ac{RA}
 
 \end_inset
 
- and a slight modification of culture conditions, P19 differentiate into
- 
+ application and a slight modification of culture conditions, P19s differentiate
+ into 
 \begin_inset ERT
 status open
 
