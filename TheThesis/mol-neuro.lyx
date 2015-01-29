@@ -320,6 +320,22 @@ status open
 
 
 \backslash
+acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 acro{STP}{Serenity, Tranquility, Peace}
 \end_layout
 
@@ -746,7 +762,7 @@ ac{DOI}
 
 \end_inset
 
- binds 
+ binds
 \begin_inset ERT
 status collapsed
 
@@ -790,8 +806,25 @@ textsubscript{2c}
 
 \begin_layout Standard
 This shared affinity for a single receptor is seen as the essential component
- of psychedelic signalling, with modulatory effects created by activation
- of dopamine and 
+ of psychedelic signalling.
+\end_layout
+
+\begin_layout Standard
+The user-reported differences between drug trips can then be at least with
+ a model that relies on 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ activation, tempered by modulatory effects of dopamine and 
 \begin_inset ERT
 status collapsed
 
@@ -804,13 +837,16 @@ textsubscript{2c}
 
 \end_inset
 
- receptors.
+ receptor activation.
+ 
 \end_layout
 
 \begin_layout Standard
-The psychedelics bind to the same physical receptor as the endogenous serotonin.
- According to classical concepts of pharmacology, different ligands should
- only modulate the 
+Differential drug effects can also be attributed to their effect on intracellula
+r signalling.
+ The psychedelics bind to the same physical receptor as the endogenous serotonin
+, but according to classical concepts of pharmacology, different ligands
+ should only modulate the 
 \emph on
 quantity
 \emph default
@@ -818,14 +854,14 @@ quantity
 \emph on
 quality
 \emph default
-
+.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Urban2007"
 
 \end_inset
 
-; this seems unlikely in the face of mounting evidence for ligand-specific
+ This seems improbable in the face of long-mounting evidence for ligand-specific
  intracellular effects on second messengers, transcription factor activation,
  receptor sensitization and/or internalization, and other effects on the
  
@@ -842,8 +878,11 @@ graffito{IDK about this}
 \end_inset
 
 internal life of the cell.
- For our purposes, psychedelics are characerized by specific downstream
- effects in the form of transcriptomic 
+ In the case of psychedelics, there are distinct 
+\emph on
+hallucinogenic
+\emph default
+ downstream effects in the form of transcriptomic 
 \begin_inset Quotes eld
 \end_inset
 
@@ -865,19 +904,45 @@ key "Gonzalez-Maeso2007,Kurrasch-Orbaugh2003"
 
 \end_inset
 
-.
+; these differ between non- and psychotropic 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ ligands.
+ 
 \end_layout
 
 \begin_layout Standard
 Because biology focuses on the receptor as the site of action, this is where
  we pick up.
+ Our area of interest is then very narrow: the elucidation of the intracellular
+ signalling pathways activated by the stereoelectronic perturbation and
+ conformational movement of specific amino acid residues at the shared binding
+ site of psychedelic hallucinogens, ideally while maintaining the most 
+\emph on
+in vivo
+\emph default
+-like intracellular environment possible.
+ The grand goal remaining, of course, is to explain how a small molecule
+ can qualitatively and irrevocably shake loose for examination 
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+our deep-seated notions of who we are.
 \end_layout
 
-\begin_layout Standard
-The areas of interest for me here are the elucidation of the intracellular
- signalling pathways created by the stereoelectronic perturbation and conformati
-onal movement of specific amino acid residues at the shared binding site
- of psychedelic hallucinogens.
+\end_inset
+
  
 \begin_inset Note Note
 status collapsed
@@ -1875,16 +1940,106 @@ Distribution
 \end_layout
 
 \begin_layout Standard
+Whee text about distribution in the PFC and GABAergic neurons and layer
+ V pyramidal neurons and interneurons
+\end_layout
+
+\begin_layout Standard
+and brain anatomy! yay! see Figure
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:distribution-of-2aRs"
+
+\end_inset
+
+
 \begin_inset Float figure
 wide false
 sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename gfx/Weber-Andrade_2010_5-5_5-ht2adistribution.jpg
+	lyxscale 10
+	width 100col%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-distribution of 5-ht2a neurons in the prefrontal cortex
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:distribution-of-2aRs"
+
+\end_inset
+
+distribution of 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ neurons in the prefrontal cortex, from 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Andrade2010"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+5-HT2A receptor distribution in mouse cerebral cortex.
+ (A1-A2) Distribution of 5-HT2A receptor immunoreactivity in coronal sections
+ through the mouse brain.
+ (B1-B2) Distribution of 5-HT2A receptor immunoreactivity in a horizontal
+ section through the mouse brain.
+ The images in (A1-A2) and (B1-B2) were obtained using the ImmunoStar antibody.
+ (A2) and (B2) depict pseudocolor renditions of the images illustrated in
+ (A1) and (B1) respectively.
+ Calibration bar: 1 mm.
+ Aud, auditory cortex; Ent, Entorhinal cortex; Hipp, hippocampus; Ins, insular
+ cortex; M1, primary motor cortex; Orb, orbital cortex; PL, prelimbic cortex;
+ Rh, rhinal cortex; S1, primary somatosensory cortex; Str, striatum.
+ - frm 
 \end_layout
 
 \end_inset
@@ -1892,7 +2047,8 @@ distribution of 5-ht2a neurons in the prefrontal cortex
 
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
+
 
 \end_layout
 
@@ -1940,7 +2096,7 @@ key "Cabrera-Vera2003"
 
 \end_inset
 
-The 
+
 \begin_inset ERT
 status open
 
@@ -1953,7 +2109,7 @@ ac{GPCR}
 
 \end_inset
 
- family is a extremely diverse class of heptahelical transmembrane signalling
+ are a extremely diverse class of heptahelical transmembrane signalling
  proteins.
  They comprise approximately 30-40% of current drug targets, which covers
  
@@ -1971,6 +2127,42 @@ some astronomically small # of potentials
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPCR}
+\end_layout
+
+\end_inset
+
+s couple to heterotrimeric 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{G-protein}s
+\end_layout
+
+\end_inset
+
+ on the intracellular side, consisting of a modular configuration of an
+ intracellular α-, β-, and γ-subunit.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wettschureck2005"
+
+\end_inset
+
+ The γ-subunit is extremely unstable alone, and is thus almost exclusively
+ found in and exerts effects as part of a dimeric βγ-complex; with one exception
+, the proteins function as a single entity.
 \begin_inset Float figure
 wide false
 sideways false
@@ -2042,49 +2234,13 @@ ac{GPCR}
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPCR}
-\end_layout
-
-\end_inset
-
-s couple to heterotrimeric 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{G-protein}s
-\end_layout
-
-\end_inset
-
- on the intracellular side, consisting of a modular configuration of an
- intracellular α-, β-, and γ-subunit.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Wettschureck2005"
-
-\end_inset
-
- The γ-subunit is extremely unstable alone, and is thus almost exclusively
- found in and exerts effects as part of a dimeric βγ-complex; with one exception
-, the proteins function as a single entity.
 \end_layout
 
 \begin_layout Standard
 In the inactive receptor, all three subunits associate; the α-subunit maintains
  a bound
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
