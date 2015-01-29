@@ -74,7 +74,7 @@
 \begin_body
 
 \begin_layout Chapter
-Science?
+Background
 \end_layout
 
 \begin_layout Standard
@@ -94,9 +94,9 @@ inherently individual
 \end_inset
 
 
-\end_layout
+\series default
+\size default
 
-\begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Serotonin,-transcription-factors_mol-neuro"
@@ -104,11 +104,8 @@ name "chap:Serotonin,-transcription-factors_mol-neuro"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -131,19 +128,11 @@ textsubscript{2a}
 
 \end_layout
 
-\begin_layout Section
-Wow why?
-\end_layout
-
-\begin_layout Standard
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
+\begin_layout Subsection*
 Acronyms
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -159,7 +148,7 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -175,7 +164,7 @@ acro{G-protein}{guanine nucleotide-binding proteins}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -191,7 +180,7 @@ acro{GPCR}{G-protein coupled receptors}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -207,7 +196,7 @@ acro{RA}{retinoic acid}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -223,7 +212,7 @@ acro{5-HT}{5-hydroxytryptamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -239,17 +228,15 @@ acro{CNS}{central nervous system}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
-acro{5-HT
-\backslash
-textsubscript{2a}R}{5-HT receptor, subtype 2a}
+acro{LSD}{lysergic acid diethylamide, colloquially acid}
 \end_layout
 
 \end_inset
@@ -257,7 +244,91 @@ textsubscript{2a}R}{5-HT receptor, subtype 2a}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
 \begin_layout Plain Layout
+
+
+\backslash
+acro{mescaline}{3,4,5-trimethoxyphenethylamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OCD}{obsessive-compulsive disorder}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DMT}{
+\backslash
+emph{N},
+\backslash
+emph{N}-Dimethyltryptamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{STP}{Serenity, Tranquility, Peace}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -270,13 +341,17 @@ end{acronym}
 
 \end_inset
 
-
+ 
 \end_layout
 
-\end_inset
+\begin_layout Section
+Psychotropics & Pharmacology: Big Introductory Overview!
+\end_layout
 
- Culturally significant and an identity at my (soon to be) alma mater, hallucino
-gens -- psychotropics -- are small molecules with a big impact.
+\begin_layout Standard
+Culturally significant and an identity at my (soon to be) alma mater, hallucinog
+ens -- psychedelic hallucinogens, drugs that induce a profound qualitave
+ perceptual change -- are small molecules.
 \begin_inset ERT
 status collapsed
 
@@ -291,12 +366,55 @@ emph{hate} myself}
 
 \end_inset
 
- They entered the modern scientific frame with full force with Heffter's
- isolation of LSD from ergot, and have since been implicated (within the
- US) ins CIA coverups and in counter-culture radical movements, used as
- unorthodox dorm-room herapy and as a field of battle for Native American
- rights.
- The plants and complexes they come from -- ayahuasca in the the past and
+ They entered the modern scientific frame with with Albert Hoffman's 1938
+ synthesis of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ from ergotamine, a isolated compound from the rye fungus ergot.
+ In the intervening years, the broad class of drugs exemplified by 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ have been, variously: implicated in CIA coverups and brainwashing; a foundation
+al symbol of counter-culture movements; effective treatment for alcoholism
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OCD}
+\end_layout
+
+\end_inset
+
+, the inspiration for a number of scientific breakthroughs; as a field of
+ battle for the rights of indigenous rights .
+\end_layout
+
+\begin_layout Standard
+The plants and complexes they come from -- ayahuasca in the the past and
  present Amazon river basin, ergot-containing drinks for ancient Greek philosoph
 ers.
  etc.
@@ -306,6 +424,7 @@ ers.
 these drugs have been around a hella long time, and it's only just now that
  Western science/culture is beginning to treat them as a potentially meaningful
  therapeutic substance.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -328,6 +447,35 @@ In my own experience and those around, they're either positively life-changing;
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+How the fuck do we make that happen? They can shape our mindset in 
+\emph on
+deeply
+\emph default
+ meaningful and important ways; if we can harness that....Obviously there are
+ problems with 
+\begin_inset Quotes eld
+\end_inset
+
+harnessing
+\begin_inset Quotes erd
+\end_inset
+
+ something that can be used for brainwashing, but at the same time, moderate
+ LSD trips are such a highly-conscious process that it's individual and
+ 
+\emph on
+can't
+\emph default
+ work without an apparatus of theraphy/situations around it.
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -342,18 +490,212 @@ signalling pathways only make sense if you think you can figure out plasticity
 \end_layout
 
 \begin_layout Subsection
-Consciousness-raising molecules
+Consciousness-raising molecules?
 \end_layout
 
 \begin_layout Standard
-Presumably, one piece of the psychedelic puzzle is understanding what happens
- on a molecular level to induce both short term and long term perceptual
- changes.
- The most interesting aspect of (really all drugs) but specificaly hallucinogens
-, is their binding mechanisms Classical psychedelics are selective, to varying
- degrees, for a specific receptor subtype of the serotonin system, the 
+One (very small) piece of the psychedelic puzzle is understanding what happens
+ on a molecular level to induce both short and long term perceptual changes.
+ While the molecular and single-cell level changes are only one level of
+ the alteration in experiences, and only make meaning in the context of
+ networks of neurons, brain regions, the body, and the environment, and
+ are hardly 
+\emph on
+the
+\emph default
+ defining feature they're on,
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+ they're still fucking interesting.
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The most interesting aspect of (really all drugs) but specificaly hallucinogens,
+ is their binding mechanisms.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Classical psychedelics
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Psychedelic hallucinogents are classed 
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{at this point in time, ofc}
+\end_layout
+
+\end_inset
+
+ according to their chemical structure, receptor binding affinity, psychedelic
+ effects, addictive potential, lethality (or lack thereof) 
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+and the ineffable desire of humans to classify fucking everything.
+\end_layout
+
+\end_inset
+
+.
+ The classical psychedelics, the best known of which is synthetic 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+, has natural analogues in psilocybin, produced by a genus of mushrooms;
+ mescaline, produced in several species of New-World
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{New World?}
+\end_layout
+
+\end_inset
+
+ cacti; and 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DMT}
+\end_layout
+
+\end_inset
+
+, widespread throughout the plant kingdom, as well as plethora of other
+ plants.
+ Synthetically, the analogues are numerous and endlessly permeable -- 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DOI}
+\end_layout
+
+\end_inset
+
+ is a common molecule in laboratory studies, while 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DOM}
+\end_layout
+
+\end_inset
+
+, street name 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{STP}
+\end_layout
+
+\end_inset
+
+, has enjoyed usage in both recreational and academic settings.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+effects
+\end_layout
+
+\begin_layout Standard
+woooo pretty colors and stuff! non lethal, non addictive
+\end_layout
+
+\begin_layout Standard
+a qualititively different experience that the user is typically aware isn't
+ 
+\begin_inset Quotes eld
+\end_inset
+
+real
+\begin_inset Quotes erd
+\end_inset
+
+;;;;;
+\end_layout
+
+\begin_layout Subsubsection
+receptors
+\end_layout
+
+\begin_layout Standard
+When we talk about molecule-cell interactions, biology starts with receptors.
+ Cell-surface receptors either bind the molecule and transmit a signal,
+ or act as a channel to allow the molecule direct access to the intracellular
+ milieu.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{This leaves out transport of the drug to the brain, ingestion,
+ how it's diluted and digested}
+\end_layout
+
+\end_inset
+
+ All of the classical psychedelics share a binding affinity for the 
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -364,20 +706,7 @@ textsubscript{2a}
 
 \end_inset
 
- receptor.
- They bind to the same physical receptor as serotonin, but downstream effects
- within the cell (second messenger signalling molecules, transcription factor
- activation, and receptor sensitization/internalization) differ radically
- between drug and substrate, as does psychological effects.
- Intriguingly, there appear to be certain molecular 
-\begin_inset Quotes eld
-\end_inset
-
-fingerprints
-\begin_inset Quotes erd
-\end_inset
-
- characterizing known hallucinogenic drugs
+ receptor; 
 \begin_inset ERT
 status collapsed
 
@@ -385,20 +714,170 @@ status collapsed
 
 
 \backslash
-graffito{little sticky to draw lines between hallucinogenic and non--- how
- specific is that?}
+ac{LSD}
 \end_layout
 
 \end_inset
 
- (based on both formally obtained and...less formal knowledge) in opposition
- to their non-consciousness altering counterparts.
+ and ergoline analogues also bind to some dopamine receptor subtypes and
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{1}
+\end_layout
+
+\end_inset
+
+ receptors, while 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DOI}
+\end_layout
+
+\end_inset
+
+ binds 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{we assume...}
+\end_layout
+
+\end_inset
+
+, evidently exclusively, to the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2c}
+\end_layout
+
+\end_inset
+
+ receptor subtypes.
 \end_layout
 
 \begin_layout Standard
-The areas of interest for me here are the elucidation of the signalling
- pathways created by the stereoelectronic perturbation and conformational
- movement of specific amino acid residues at the binding site of drugs.
+This shared affinity for a single receptor is seen as the essential component
+ of psychedelic signalling, with modulatory effects created by activation
+ of dopamine and 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2c}
+\end_layout
+
+\end_inset
+
+ receptors.
+\end_layout
+
+\begin_layout Standard
+The psychedelics bind to the same physical receptor as the endogenous serotonin.
+ According to classical concepts of pharmacology, different ligands should
+ only modulate the 
+\emph on
+quantity
+\emph default
+ of a signal, but not the 
+\emph on
+quality
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Urban2007"
+
+\end_inset
+
+; this seems unlikely in the face of mounting evidence for ligand-specific
+ intracellular effects on second messengers, transcription factor activation,
+ receptor sensitization and/or internalization, and other effects on the
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{IDK about this}
+\end_layout
+
+\end_inset
+
+internal life of the cell.
+ For our purposes, psychedelics are characerized by specific downstream
+ effects in the form of transcriptomic 
+\begin_inset Quotes eld
+\end_inset
+
+fingerprints
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gonzalez-Maeso2003"
+
+\end_inset
+
+, and specific and preferential activation of second messengers
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gonzalez-Maeso2007,Kurrasch-Orbaugh2003"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Because biology focuses on the receptor as the site of action, this is where
+ we pick up.
+\end_layout
+
+\begin_layout Standard
+The areas of interest for me here are the elucidation of the intracellular
+ signalling pathways created by the stereoelectronic perturbation and conformati
+onal movement of specific amino acid residues at the shared binding site
+ of psychedelic hallucinogens.
  
 \begin_inset Note Note
 status collapsed
@@ -418,7 +897,7 @@ status collapsed
 \begin_inset Note Note
 status collapsed
 
-\begin_layout Section
+\begin_layout Plain Layout
 Why serotonin?
 \end_layout
 
@@ -1315,295 +1794,6 @@ ic neurons only.
 \end_layout
 
 \begin_layout Section
-Model Serotonin systems
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-JC - model systems-->generate model system for 5HT signaling--> see if hallucino
-gens do something different--> only hallucinogens can help us see scientific
- reality unfettered by societal bias.
-\end_layout
-
-\begin_layout Plain Layout
-on a now obsolete section -- questioning how hallucinogens were worked int
-\end_layout
-
-\end_inset
-
-Those signalling pathways have been investigated in a variety of systems.
- This is by no means a comprehensive overview, but studies on hallucinogens
- have occurred in a number of different systems since the 1950s (mostly
- in the 50s and 60s, with a resurgence since the mid-2000s).
- They include: 
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:Humans,-with-psilocybin,"
-
-\end_inset
-
-Humans, with psilocybin, LSD, and MDMA
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-fMRI, EEGs, interviews of subjective experience
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:Rats,-LSD-+"
-
-\end_inset
-
-Rats, LSD + many other drugs
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-global RNA extraction to look @ gene transcription
-\end_layout
-
-\begin_layout Enumerate
-staining to see receptor expression
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:primary-neurons"
-
-\end_inset
-
-primary neurons? (pretty sure)
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:Oocytes-with-mGlu"
-
-\end_inset
-
-Oocytes with mGlu & 2a receptors
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-to study signalling & colocalization
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:CHO-(others?)-cells"
-
-\end_inset
-
-CHO (others?) cells expressing a fluorescent 5-HT2a receptor (my thing!)
-\end_layout
-
-\begin_layout Standard
-Obviously, 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "enu:Humans,-with-psilocybin,"
-
-\end_inset
-
- is the most full bodied (pun 
-\emph on
-totally
-\emph default
- intended) 
-\begin_inset Quotes eld
-\end_inset
-
-system
-\begin_inset Quotes erd
-\end_inset
-
-, but we can't look at short term neuronal changes, and imaging studies
- have, you know, all the flaws of imaging studies.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "enu:Rats,-LSD-+"
-
-\end_inset
-
- has problems.
- Largely cost, and scale, and I can't use them at Hampshire, and it's harder
- to study specific receptors in specific cells on a tiny temporal basis.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "enu:primary-neurons"
-
-\end_inset
-
- are expensive and hard to maintain and dumb.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand eqref
-reference "enu:Oocytes-with-mGlu"
-
-\end_inset
-
- and 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "enu:CHO-(others?)-cells"
-
-\end_inset
-
- both suffer from what seems to me fatal flaws -- cells express different
- internal proteins and matrices.
- Undifferentiated cell lines won't have the same signalling pathways set
- up to receive signals from a receptor; what's the point in studying signalling
- pathways, receptor dynamics, or gene transcription in a set of cells that
- likely is incapable of accurately reproducing the full breadth of signalling
- pathways
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-Why might model systems be relevant to 
-\emph on
-my
-\emph default
- science?
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-What do model systems do?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-The scientific justification for model systems is the essential role they
- play in reducing a complex biological into simple working units.
- Model neuronal systems in a dish provide a carefully controlled environment,
- to the exclusion of external elements (rogue hormone fluctuations, mental
- activities of rodents/humans); the cell type can be isolated and studied
- as a single cell acting individually (more accurately, a single cell surrounded
- by thousands of identical single cells), allowing for specific genetic
- and environmental manipulations.
- 
-\end_layout
-
-\begin_layout Plain Layout
-In theory, this permits the isolation and tracking of internal signaling
- pathways of a single cell, letting scientists construct a step-wise 
-\begin_inset Quotes eld
-\end_inset
-
-map
-\begin_inset Quotes erd
-\end_inset
-
- of signaling cascades and interactions between the molecular components
- of the cell.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-current options
-\end_layout
-
-\begin_layout Plain Layout
-Ideally, of course, one uses primary neuron cultures to study signaling
- -- but those are expensive and hard to maintain.
- Differentiation of fast-growing and easy to maintain cells, that nonetheless
- express a relatively fully functional GPCR signaling intracellular network
- is an alternate model for us
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Current model system options for serotonin 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {and my own experience with CHO cells and flaws in studying receptor
- internalization}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Thus, development of a holistic serotonin model systems -- granted, transgenes
- are still involved, but they should set cell fate early and thus help promote
- more fully functional GPCR signaling.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-OK but not nearly imaginative or widely enough researched [unreadable stuff]
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 The 5-HT
 \begin_inset script subscript
 
@@ -1681,7 +1871,38 @@ end{acronym}
 \end_layout
 
 \begin_layout Subsection
-G-proteins and coupled receptors
+Distribution
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+distribution of 5-ht2a neurons in the prefrontal cortex
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Structure: G-proteins and coupled receptors
 \end_layout
 
 \begin_layout Standard
@@ -1719,10 +1940,7 @@ key "Cabrera-Vera2003"
 
 \end_inset
 
-
 The 
-\lang english
-
 \begin_inset ERT
 status open
 
@@ -1800,10 +2018,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Adapted from Wikipedia, the active-inactive cycle of a
- 
-\lang english
-
+Adapted from Wikipedia, the active-inactive cycle of a 
 \begin_inset ERT
 status open
 
@@ -1839,10 +2054,7 @@ ac{GPCR}
 
 \end_inset
 
-s couple to 
-heterotrimeric 
-\lang english
-
+s couple to heterotrimeric 
 \begin_inset ERT
 status open
 
@@ -1872,7 +2084,7 @@ key "Wettschureck2005"
 In the inactive receptor, all three subunits associate; the α-subunit maintains
  a bound
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2463,6 +2675,295 @@ Internal
 \end_layout
 
 \begin_layout Section
+Model Serotonin systems
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+JC - model systems-->generate model system for 5HT signaling--> see if hallucino
+gens do something different--> only hallucinogens can help us see scientific
+ reality unfettered by societal bias.
+\end_layout
+
+\begin_layout Plain Layout
+on a now obsolete section -- questioning how hallucinogens were worked int
+\end_layout
+
+\end_inset
+
+Those signalling pathways have been investigated in a variety of systems.
+ This is by no means a comprehensive overview, but studies on hallucinogens
+ have occurred in a number of different systems since the 1950s (mostly
+ in the 50s and 60s, with a resurgence since the mid-2000s).
+ They include: 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:Humans,-with-psilocybin,"
+
+\end_inset
+
+Humans, with psilocybin, LSD, and MDMA
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+fMRI, EEGs, interviews of subjective experience
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:Rats,-LSD-+"
+
+\end_inset
+
+Rats, LSD + many other drugs
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+global RNA extraction to look @ gene transcription
+\end_layout
+
+\begin_layout Enumerate
+staining to see receptor expression
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:primary-neurons"
+
+\end_inset
+
+primary neurons? (pretty sure)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:Oocytes-with-mGlu"
+
+\end_inset
+
+Oocytes with mGlu & 2a receptors
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+to study signalling & colocalization
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\begin_inset CommandInset label
+LatexCommand label
+name "enu:CHO-(others?)-cells"
+
+\end_inset
+
+CHO (others?) cells expressing a fluorescent 5-HT2a receptor (my thing!)
+\end_layout
+
+\begin_layout Standard
+Obviously, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:Humans,-with-psilocybin,"
+
+\end_inset
+
+ is the most full bodied (pun 
+\emph on
+totally
+\emph default
+ intended) 
+\begin_inset Quotes eld
+\end_inset
+
+system
+\begin_inset Quotes erd
+\end_inset
+
+, but we can't look at short term neuronal changes, and imaging studies
+ have, you know, all the flaws of imaging studies.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:Rats,-LSD-+"
+
+\end_inset
+
+ has problems.
+ Largely cost, and scale, and I can't use them at Hampshire, and it's harder
+ to study specific receptors in specific cells on a tiny temporal basis.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:primary-neurons"
+
+\end_inset
+
+ are expensive and hard to maintain and dumb.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "enu:Oocytes-with-mGlu"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "enu:CHO-(others?)-cells"
+
+\end_inset
+
+ both suffer from what seems to me fatal flaws -- cells express different
+ internal proteins and matrices.
+ Undifferentiated cell lines won't have the same signalling pathways set
+ up to receive signals from a receptor; what's the point in studying signalling
+ pathways, receptor dynamics, or gene transcription in a set of cells that
+ likely is incapable of accurately reproducing the full breadth of signalling
+ pathways
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Why might model systems be relevant to 
+\emph on
+my
+\emph default
+ science?
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+What do model systems do?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+The scientific justification for model systems is the essential role they
+ play in reducing a complex biological into simple working units.
+ Model neuronal systems in a dish provide a carefully controlled environment,
+ to the exclusion of external elements (rogue hormone fluctuations, mental
+ activities of rodents/humans); the cell type can be isolated and studied
+ as a single cell acting individually (more accurately, a single cell surrounded
+ by thousands of identical single cells), allowing for specific genetic
+ and environmental manipulations.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+In theory, this permits the isolation and tracking of internal signaling
+ pathways of a single cell, letting scientists construct a step-wise 
+\begin_inset Quotes eld
+\end_inset
+
+map
+\begin_inset Quotes erd
+\end_inset
+
+ of signaling cascades and interactions between the molecular components
+ of the cell.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+current options
+\end_layout
+
+\begin_layout Plain Layout
+Ideally, of course, one uses primary neuron cultures to study signaling
+ -- but those are expensive and hard to maintain.
+ Differentiation of fast-growing and easy to maintain cells, that nonetheless
+ express a relatively fully functional GPCR signaling intracellular network
+ is an alternate model for us
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Current model system options for serotonin 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {and my own experience with CHO cells and flaws in studying receptor
+ internalization}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Thus, development of a holistic serotonin model systems -- granted, transgenes
+ are still involved, but they should set cell fate early and thus help promote
+ more fully functional GPCR signaling.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+OK but not nearly imaginative or widely enough researched [unreadable stuff]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Background
 \end_layout
 
@@ -2629,7 +3130,7 @@ key "Wei2002"
 \begin_inset Note Note
 status collapsed
 
-\begin_layout Section
+\begin_layout Plain Layout
 P19s & Cell lines
 \end_layout
 
@@ -2650,7 +3151,7 @@ graffito{the rest taken from Bea's Div III, loosely inspired, quoted where
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 model systems
 \end_layout
 
@@ -2679,7 +3180,7 @@ graffito{holy shit, humanizing models via gene expression? christ is that
  - introducing human genes to express phenotypes
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Plain Layout
 in vivo - animal models
 \end_layout
 
@@ -2716,7 +3217,7 @@ complex!!
 i
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Cell types
 \end_layout
 
@@ -2747,7 +3248,7 @@ personalized stem cells to test therapies
 \end_layout
 
 \end_deeper
-\begin_layout Subsection
+\begin_layout Plain Layout
 P19s
 \end_layout
 
@@ -2813,7 +3314,7 @@ graffito{no.
 \end_layout
 
 \end_deeper
-\begin_layout Subsubsection
+\begin_layout Plain Layout
 P19 derived neurons
 \end_layout
 
@@ -2845,11 +3346,11 @@ A
 receptors specifcally; starting as excitatory, mature into inhibitory
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Sgnalling pathways? Bea thinks these are important.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Retinoic acid diff.
 \end_layout
 
