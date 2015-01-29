@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<gcp:chemistry xmlns:gcp="http://www.nongnu.org/gchempaint" creation="05/14/2014" revision="05/14/2014">
+  <generator>GChemPaint 0.12.12</generator>
+  <author name="kathleen"/>
+  <theme name="GChemPaint" bond-length="140" bond-angle="120" bond-dist="5" bond-width="1" arrow-length="200" arrow-head-a="6" arrow-head-b="8" arrow-head-c="4" arrow-dist="5" arrow-width="1" arrow-padding="16" hash-width="1" hash-dist="2" stereo-bond-width="5" zoom-factor="4" padding="2" stoichiometry-padding="1" object-padding="16" sign-padding="8" charge-sign-size="9" font-family="Bitstream Vera Sans" font-style="normal" font-weight="normal" font-variant="normal" font-stretch="normal" font-size="12288" text-font-family="Apple Garamond" text-font-style="normal" text-font-weight="normal" text-font-variant="normal" text-font-stretch="normal" text-font-size="12288"/>
+  <molecule id="m1">
+    <atom id="a1" element="C">
+      <position x="271" y="599.183"/>
+    </atom>
+    <atom id="a10" element="N">
+      <position x="762.487" y="461.183"/>
+    </atom>
+    <atom id="a11" element="C">
+      <position x="762.487" y="601.183"/>
+    </atom>
+    <atom id="a12" element="N">
+      <position x="641.244" y="671.183"/>
+    </atom>
+    <atom id="a13" element="C">
+      <position x="1004.97" y="461.183"/>
+    </atom>
+    <atom id="a14" element="N">
+      <position x="1126.21" y="391.185"/>
+    </atom>
+    <atom id="a15" element="O">
+      <position x="883.731" y="671.182"/>
+    </atom>
+    <atom id="a16" element="C">
+      <position x="1124" y="253.183"/>
+    </atom>
+    <atom id="a17" element="C">
+      <position x="1245.24" y="183.183"/>
+    </atom>
+    <atom id="a18" element="C">
+      <position x="1366.49" y="253.183"/>
+    </atom>
+    <atom id="a19" element="C">
+      <position x="1366.49" y="393.183"/>
+    </atom>
+    <atom id="a2" element="C">
+      <position x="271" y="459.183"/>
+    </atom>
+    <atom id="a20" element="C">
+      <position x="1245.24" y="463.183"/>
+    </atom>
+    <atom id="a21" element="C">
+      <position x="1487.73" y="183.183"/>
+    </atom>
+    <atom id="a22" element="O">
+      <position x="1486.56" y="43.1875"/>
+    </atom>
+    <atom id="a23" element="C">
+      <position x="1603" y="387.183"/>
+    </atom>
+    <atom id="a24" element="C">
+      <position x="1603" y="247.183"/>
+    </atom>
+    <atom id="a25" element="C">
+      <position x="1724" y="177.183"/>
+    </atom>
+    <atom id="a26" element="C">
+      <position x="1845" y="247.183"/>
+    </atom>
+    <atom id="a27" element="C">
+      <position x="1845" y="387.183"/>
+    </atom>
+    <atom id="a28" element="C">
+      <position x="1724" y="457.183"/>
+    </atom>
+    <atom id="a29" element="O">
+      <position x="643.768" y="251.205"/>
+    </atom>
+    <atom id="a3" element="C">
+      <position x="392" y="389.183"/>
+    </atom>
+    <atom id="a30" element="F">
+      <position x="1966.27" y="457.13"/>
+    </atom>
+    <atom id="a4" element="C">
+      <position x="513" y="459.183"/>
+    </atom>
+    <atom id="a5" element="C">
+      <position x="513" y="599.183"/>
+    </atom>
+    <atom id="a6" element="C">
+      <position x="392" y="669.183"/>
+    </atom>
+    <atom id="a7" element="C">
+      <position x="520" y="601.183"/>
+    </atom>
+    <atom id="a8" element="C">
+      <position x="883.731" y="391.183"/>
+    </atom>
+    <atom id="a9" element="C">
+      <position x="641.244" y="391.183"/>
+    </atom>
+    <bond id="b1" order="1" begin="a1" end="a2"/>
+    <bond id="b10" order="1" begin="a10" end="a11"/>
+    <bond id="b11" order="1" begin="a11" end="a12"/>
+    <bond id="b12" order="1" begin="a12" end="a7"/>
+    <bond id="b13" order="1" begin="a10" end="a8"/>
+    <bond id="b14" order="1" begin="a8" end="a13"/>
+    <bond id="b15" order="1" begin="a13" end="a14"/>
+    <bond id="b16" order="1" begin="a14" end="a16"/>
+    <bond id="b17" order="1" begin="a16" end="a17"/>
+    <bond id="b18" order="1" begin="a17" end="a18"/>
+    <bond id="b19" order="1" begin="a18" end="a19"/>
+    <bond id="b2" order="2" begin="a2" end="a3"/>
+    <bond id="b20" order="1" begin="a19" end="a20"/>
+    <bond id="b21" order="1" begin="a14" end="a20"/>
+    <bond id="b22" order="1" begin="a18" end="a21"/>
+    <bond id="b23" order="1" begin="a24" end="a21"/>
+    <bond id="b24" order="1" begin="a23" end="a24"/>
+    <bond id="b25" order="2" begin="a24" end="a25"/>
+    <bond id="b26" order="1" begin="a25" end="a26"/>
+    <bond id="b27" order="2" begin="a26" end="a27"/>
+    <bond id="b28" order="1" begin="a27" end="a28"/>
+    <bond id="b29" order="2" begin="a28" end="a23"/>
+    <bond id="b3" order="1" begin="a3" end="a4"/>
+    <bond id="b30" order="2" begin="a11" end="a15"/>
+    <bond id="b31" order="2" begin="a21" end="a22"/>
+    <bond id="b32" order="2" begin="a9" end="a29"/>
+    <bond id="b33" order="1" begin="a27" end="a30"/>
+    <bond id="b4" order="1" begin="a9" end="a4"/>
+    <bond id="b5" order="1" begin="a5" end="a6"/>
+    <bond id="b6" order="2" begin="a6" end="a1"/>
+    <bond id="b7" order="1" begin="a5" end="a12"/>
+    <bond id="b8" order="2" begin="a4" end="a5"/>
+    <bond id="b9" order="1" begin="a9" end="a10"/>
+  </molecule>
+</gcp:chemistry>
