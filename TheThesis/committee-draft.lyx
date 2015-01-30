@@ -5,6 +5,8 @@
 \textclass scrreprt
 \begin_preamble
 \usepackage{preamble}
+
+\usepackage{todonotes}
 \end_preamble
 \options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
 \use_default_options false
@@ -160,6 +162,24 @@ pagestyle{scrheadings}
 \begin_inset CommandInset include
 LatexCommand include
 filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
 
 \end_inset
 
