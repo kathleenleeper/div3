@@ -958,10 +958,7 @@ textsubscript{2a}
 
 \end_inset
 
-
 ,
-\lang english
-
 \begin_inset ERT
 status collapsed
 
@@ -2865,7 +2862,7 @@ P19 stem cells, which are known to differentiate into relatively poorly-characte
 rized neuron-like cells when cultured with a micro-molar concentrations
  of 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2897,7 +2894,7 @@ The trick for us, however, is not just the production of neuronal cells,
 
 receptors, with the machinery of 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3358,10 +3355,19 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

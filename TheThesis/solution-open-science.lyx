@@ -87,6 +87,16 @@ Solution Open Science!
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:solution-OS"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
 Acronyms
 \end_layout
@@ -457,42 +467,61 @@ any purpose
 
 \end_layout
 
-\begin_layout Section
-Open Access
-\end_layout
-
-\begin_layout Minisec
+\begin_layout Standard
+When applied to the different 
 \begin_inset Quotes eld
 \end_inset
 
-The objective of open access is 
-\emph on
-not
-\emph default
- to quarrel with or replace journals (at all).
- 
-\emph on
-Not 
-\emph default
-to resolve the budgetary problems of libraries, not to provide access to
- teachers - students- the general public, 
-\emph on
-not
-\emph default
- to provide access the the Developing World.
- The objective of open access is: to maximise research 
-\emph on
-impact
-\emph default
- by maximizing research 
-\emph on
-access.
+problem
 \begin_inset Quotes erd
 \end_inset
 
- - 
-\emph default
-Stevan Harnad 
+ areas of 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "chap:ScienticEcosystem"
+
+\end_inset
+
+, open results in a number of related goals that are ideally put into practice
+ together.
+\end_layout
+
+\begin_layout Standard
+The open science movements, as we'll discuss later, draws heavily on the
+ software world.
+ Thus, 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ is typically more akin to 
+\begin_inset Quotes eld
+\end_inset
+
+libre
+\begin_inset Quotes erd
+\end_inset
+
+ than to
+\begin_inset Quotes eld
+\end_inset
+
+open source.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The terminology of and factions within this movement are complex, but, in
+ short, “free software” tends to be associated with the ideology of freedom,
+ “open source” with the openness of the development process, and “libre”
+ with those concerned about confusion from the previous two.
+ 
 \begin_inset ERT
 status open
 
@@ -500,12 +529,57 @@ status open
 
 
 \backslash
-graffito{LOL WHO THE FUCK ARE YOU}
+ac{FLOSS}
 \end_layout
 
 \end_inset
 
+ are used as monikers to refer to all of these meanings.
+\begin_inset Quotes erd
+\end_inset
 
+ (
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Reagle2012"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Section
+Open Access
+\end_layout
+
+\begin_layout Standard
+Open access is an exclusively digital invention.
+ Paying publishers for access used to mean you(r library) received a hard
+ copy delivered to your doorstep.
+ One assumed subscription costs were largely a function of the work involved
+ in collation and the physical manufacture and distribution costs; publishers
+ also This was, without a doubt, a useful service.
+\end_layout
+
+\begin_layout Standard
+However.
+\end_layout
+
+\begin_layout Standard
+Any reputable journal (and many non!)
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{omg can I say this will people know it's a joke?}
+\end_layout
+
+\end_inset
+
+ is now expected to 
 \end_layout
 
 \begin_layout Section
