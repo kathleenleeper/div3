@@ -114,19 +114,17 @@ Science
 
  is part of a long heritage of bold exploration, innovation, and human ingenuity.
  
-\begin_inset Note Greyedout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-define 
-\begin_inset Quotes eld
-\end_inset
 
-science
-\begin_inset Quotes erd
-\end_inset
 
- here and also WITH GREAT POWER COMES GREAT RESPONSIBILITY
+\backslash
+todo[size=
+\backslash
+small]{define science here.
+ Generally, great power -> great responsibility}
 \end_layout
 
 \end_inset
@@ -181,7 +179,7 @@ key "Headrick1981"
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -192,12 +190,17 @@ graffito{western expansionism has not stopped, merely transmuted.}
 
 \end_inset
 
- 
-\begin_inset Note Comment
-status collapsed
+
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
-re bioprospecting and new forms of scientific/medical colonialism
+
+
+\backslash
+todo[size=
+\backslash
+small]{re bioprospecting and new forms of scientific/medical colonialism}
 \end_layout
 
 \end_inset
@@ -210,8 +213,23 @@ Scientific ethics and responsibility is often looked at only within the
  frame of experimental design and execution.
  This is, indisputably, desperately important.
  The Tuskegee Syphilis Experiments represent a clear failure on the part
- of the scientists involved, their funding body, and whatever oversight
- the university claimed to consider basic human rights
+ of the scientists involved, their funding body
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[size=
+\backslash
+small]{more on Tuskegee}
+\end_layout
+
+\end_inset
+
+, and whatever oversight the university claimed to consider basic human
+ rights
 \begin_inset ERT
 status collapsed
 
@@ -229,7 +247,7 @@ graffito{Obviously, in the U.S.
 ; undoubtedly, the study leaders were deeply and irrevocably shaped by the
  anti-black racism in the post- Civil War.
  The following experiments on prisoners in the U.S.
- and around the world remains in the same vein.
+ and around the world remains in the same vein
 \end_layout
 
 \begin_layout Standard
@@ -246,8 +264,22 @@ poorly
 \emph on
 create 
 \emph default
-new systems of exclusion, as well as enabling [[war!]], all while staying
- within the ethical bounds of the time.
+new systems of exclusion, as well as enabling [[war!]]
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[size=
+\backslash
+small]{fix me}
+\end_layout
+
+\end_inset
+
+, all while staying within the ethical bounds of the time.
  Racism -- the peculiar brand of American racism, derived from slave-owners
  desperate to justify their brutality of human bondage -- was created through
  the collusion of science and society, specifically a science that carefully
@@ -273,6 +305,22 @@ That was the 40's and 50's -- today, we have genetic surveillance.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Roberts2011"
+
+\end_inset
+
+.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[size=
+\backslash
+small]{Re 1000 genomes project and current abses?}
+\end_layout
 
 \end_inset
 
@@ -318,7 +366,7 @@ good
  lifespans and raise quality of life, technologies that allow people to
  take control of their bodie's reproduction in every dimension
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Given access and governments that don't insist on fucking bullshit lookin'
@@ -463,37 +511,6 @@ gender in scientific knowledge: much more interesting and to me, important
 \begin_inset Note Note
 status collapsed
 
-\begin_layout Plain Layout
-Notable people and works to maybe ref.
- here? Donna Haraway, Sandra Harding, Uma Narayan, Deboleena Roy, Banu Subramani
-am, everybody from 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Alcoff1992"
-
-\end_inset
-
-
-\emph on
- Feminist Epistemologies.
- 
-\emph default
-Also, probably both 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Fortun1998,Raskin1987"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
 \begin_layout Section
 Beyond Gender
 \end_layout
@@ -528,6 +545,52 @@ nal questions about queer, colored, trans, feminism/femme/women, poor etc;
 \end_inset
 
 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[size=
+\backslash
+small,inline]{some refs to include
+\end_layout
+
+\end_inset
+
+ -- Donna Haraway, Sandra Harding, Uma Narayan, Deboleena Roy, Banu Subramaniam,
+ everybody from 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Alcoff1992"
+
+\end_inset
+
+
+\emph on
+ Feminist Epistemologies.
+ 
+\emph default
+Also, probably both 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Fortun1998,Raskin1987"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -542,21 +605,23 @@ status open
 
 
 \backslash
-graffito {Summarizing Fleck is going to take some serious work.
- I'm not sure how specific I should be here, w/r/t page numbers and quotes
- in 
-\backslash
-emph{Genesis}
+todo{Expand historical section of science studies to generate a foundation
+ for current critiques.
+ Probably means a more explicit Fleck summary w/page numbers, quotes}
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
 
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
 JC - I really like the idea of expanding this section.
  Having some prospective about people that did analysis/critiques on how
  science was performed on the past would help you generate a foundation
  about how you feel science should be critiqued now (which seems to be one
  of the overarching goals of your div).
- }
 \end_layout
 
 \end_inset
@@ -574,25 +639,24 @@ key "Fleck1981"
 \end_inset
 
 
-\begin_inset ERT
+\begin_inset Note Comment
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito{May include that Fleck was Jewish, working in Ukraine in 1935,
- and consequently subject to Nazi occupation, as a potential reason his
- work went hidden for so long.
+May include that Fleck was Jewish, working in Ukraine in 1935, and consequently
+ subject to Nazi occupation, as a potential reason his work went hidden
+ for so long.
  Also because it was 
-\backslash
-emph{radical}.}
+\emph on
+radical
+\emph default
+ at the time
 \end_layout
 
 \end_inset
 
- A practicing syphilis researcher and pathologist, Fleck proposes that scientist
-s are the creators of facts, rather than mere passive observers.
+} A practicing syphilis researcher and pathologist, Fleck proposes that
+ scientists are the creators of facts, rather than mere passive observers.
  He proffers an explanation that certain 
 \emph on
 styles 
@@ -639,13 +703,13 @@ Structure
 \emph default
  in 1962 is considered a landmark event in philosophy and history of science.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{Like with Fleck, not sure how much time Kuhn deserves.}
+todo{Debating Kuhn's usefulness}
 \end_layout
 
 \end_inset
@@ -718,8 +782,8 @@ status open
 
 
 \backslash
-graffito {Don't actually know enough about science studies to make these
- kinds of judgement, probably, but it's my general impression}
+todo{Don't actually know enough about science studies to make these kinds
+ of judgement, probably, but it's my general impression}
 \end_layout
 
 \end_inset
@@ -760,7 +824,10 @@ status open
 
 
 \backslash
-graffito {should read up on feminist/critical science studies chronology}
+todo[size=
+\backslash
+small]{Find feminist science studies chronology; and also maybe ways it
+ is or is not western?}
 \end_layout
 
 \end_inset
@@ -913,7 +980,7 @@ status open
 
 
 \backslash
-graffito {feminist science studies more specifically tied to 1970s women's
+graffito{feminist science studies more specifically tied to 1970s women's
  
 \backslash
 & environmental social movements: also in a specifically Western/US context}
@@ -1182,13 +1249,13 @@ Who
 
  This extends
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
- 
+
 \backslash
-graffito{Or it 
+graffito{Or 
 \backslash
 emph{should} extend...}
 \end_layout
@@ -1204,13 +1271,13 @@ Feminist science studies also lets -- and again, demands -- that we ask
  questions on a deeper level, about the nature of the knowledge produced.
  This includes (among many other things),
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{This section is fairly weak representationally.
+todo{weak representationally.
  Mostly women (9/11), but only 3 of the 9 are women of color (African-American,
  Asian-American, and Indian).
  }
@@ -1303,6 +1370,25 @@ Local biologies
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[size=
+\backslash
+tiny]{have to establish that talking about gendered health issues is not
+ some specialized "women's issue" but is something that the medical community
+ as a whole should be implicated.
+ what about gynecologists and medical communities that 
+\backslash
+emph{specialize} in women? Women do give birth.}
+\end_layout
+
+\end_inset
+
 Local biologies are implied by feminist science theory, and indeed general
  science studies.
  That biological realities differ between geographical and cultural locations
@@ -1311,23 +1397,6 @@ Local biologies are implied by feminist science theory, and indeed general
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{May not be the right place, but have to establish that talking
- about gendered health issues is not some specialized "women's issue" but
- is something that the medical community as a whole should be implicated.
- what about gynecologists and medical communities that 
-\backslash
-emph{specialize} in women? Women do give birth.}
-\end_layout
-
-\end_inset
-
 Local biologies were most famously used by Margaret Lock, in comparing the
  uniquely North American symptoms of 
 \begin_inset Quotes eld
@@ -1429,16 +1498,13 @@ In practice, that means young boys in the United States who act out are
  recognizing that the unique stresses placed on Egyptian bodies might require
  two functioning kidneys, differing from the global biomedical truth that
  one kidney is sufficient.
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-that awesome Medical anthropolopy article
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hamdy2013"
 
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Subsection
@@ -1447,6 +1513,20 @@ Indigenous knowledges and sciences
 
 \begin_layout Standard
 Specific knowledges! Eradicated by colonialism!
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{Indigenous Knowlededges.
+ The Section.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1708,19 +1788,24 @@ emph{humans}
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito {I want to find a frame that really efficiently explains why this
- matters for a given audience.
- 
+todo{find a frame that really efficiently explains why this matters for
+ a given audience.
+ }
 \end_layout
 
-\begin_layout Plain Layout
+\end_inset
 
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
 JC while I agree, I think you need some kind of a reference here to support
  this assertion.
  Thinking about just hampshire, how many people do you think got into science
@@ -1733,30 +1818,15 @@ Scientists (in theory) care about helping people , and choose science because
  it seems like the best way to do so.
  It can't help people if it's racist, misogynistic, and not considerate
 \begin_inset Note Comment
-status collapsed
+status open
 
 \begin_layout Plain Layout
-LC - or mislead themselves!
+JC - or mislead themselves!
 \end_layout
 
 \end_inset
 
- of how work will be ab/used downstream
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{JC I think this might be another area to expand on.
- Examples from the 40s-50s of civil rights abuse by scientists.
- Even to modern day with potential exploitation by the 1000 genomes project.}
-\end_layout
-
-\end_inset
-
-.
+ of how work will be ab/used downstream.
 \end_layout
 
 \begin_layout Subsection
@@ -1788,7 +1858,7 @@ What you have to look forward to!
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1796,9 +1866,7 @@ status collapsed
 \backslash
 graffito{Sketch of regular book introductions with what chapter is going
  to be about and why.
- 
-\backslash
-emph{Definitely} needs a lot of work}
+ Not always updated.}
 \end_layout
 
 \end_inset
@@ -1841,21 +1909,8 @@ reference "chap:Representation_Science"
 
 \end_inset
 
- continues on a similar theme considering
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Not sure where the actual content wrt "representation" should go.
- continuing reorganization}
-\end_layout
-
-\end_inset
-
- the question of representation within the global scientific community.
+ continues on a similar theme considering the question of representation
+ within the global scientific community.
 \end_layout
 
 \begin_layout Standard
@@ -2016,10 +2071,10 @@ reference "chap:Critical-Neuroscience"
  has (already) helped find d a myriad of ways in which social factors are
  fundamental parts of my scientific process and questions.
 \begin_inset Note Greyedout
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Then there will be a conclusion when I finish my div.
+Then there will be a conclusion when I finish my div!
 \end_layout
 
 \end_inset
@@ -2028,19 +2083,10 @@ Then there will be a conclusion when I finish my div.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 

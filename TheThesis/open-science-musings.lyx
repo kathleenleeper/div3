@@ -477,16 +477,7 @@ name "chap:ScienticEcosystem"
 status collapsed
 
 \begin_layout Plain Layout
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Why care? 
-\end_layout
-
-\end_inset
-
-Why Do I Care About Open Science?
+Why care? Why Do I Care About Open Science?
 \end_layout
 
 \begin_layout Plain Layout
@@ -565,11 +556,14 @@ ac{OS}
  -- that network of funding and publishing that undergirds the production
  of konwledge -- is suffering from serious flaws.
  This includes concern about 
-\begin_inset Note Greyedout
-status open
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
-summary of problems?? probably some stuff.
+
+
+\backslash
+todo[inline]{summary of problems?? probably some stuff.}
 \end_layout
 
 \end_inset
@@ -759,6 +753,119 @@ ac{OS}
 THE PUBLISHING PIPELINE
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Question this re:subramaniam}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+missingfigure{The"publishing pipeline".
+\end_layout
+
+\begin_layout Plain Layout
+
+Maybe the keystone pipeline can be a stand in.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+The 
+\begin_inset Quotes eld
+\end_inset
+
+classic
+\begin_inset Quotes erd
+\end_inset
+
+ current publishing pipeline
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Unpaid labor & 'community' service
+\end_layout
+
+\begin_layout Standard
+Scientific journal publishers play the role of publishers.
+ They don't 
+\emph on
+produce
+\emph default
+ the content, make the figures, or draw the conclusions in scientific papers.
+ Publishers act, although the boundaries are shifting in the digital age,
+ as a clearinghouse and managerial stage.
+ Labs submit a manuscript (gratis); publishers coordinate the peer review
+ of said manuscript by shipping it out to 2-3 other academics.
+ Those academics review the paper, give feedback, and send it back -- also
+ gratis.
+ The original writer makes revisions; sometimes the process is repeated.
+ Eventually, the submitting lab pays a per-figure per-page fee, signs away
+ their copyright, and the journal takes the final work as its own.
+ Then, those submitting and reviewing scientists pay to access the product
+ of their intellectual labors, having given up the legal right to share
+ that knowledge on their own accord.
+\end_layout
+
+\begin_layout Standard
+In return, journals provide, to varying degrees: a measure of typesetting
+ and formatting, a measure of editorial work,
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+? maybe
+\end_layout
+
+\end_inset
+
+ and a distribution system.
+ Pre-Internet, the cost of the journal was tied to the costs of printing
+ and physical distribution.
+ With that barrier out of the way, it's hard to see exactly how worthwhile
+ whatever-it-is that publishers provide is.
+\end_layout
+
 \begin_layout Subsection
 Access & Pay Walls
 \end_layout
@@ -834,6 +941,24 @@ I've been working from primary scientific literature since my first semester
  at Hampshire, but it was only a few minutes after my first Google Scholar
  searches that I immediately slammed up against pay walls to the papers
  I wanted.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{Nature} is paywalled back to 
+\backslash
+underline{
+\backslash
+emph{1867}}.} 
+\end_layout
+
+\end_inset
+
  So did everyone else I knew.
  I've spent the past four years of my education begging for paper access
  from UMass friends, various professors, my mother (who works in pharma),
@@ -916,98 +1041,6 @@ again
 \emph default
  for accessto th eproduced knowledge, when they paid to fund it, seems (justifia
 bly) a little ridiculous.
-\end_layout
-
-\begin_layout Subsubsection
-Unpaid labor & 'community' service
-\end_layout
-
-\begin_layout Standard
-Scientific journal publishers play the role of publishers.
- They don't 
-\emph on
-produce
-\emph default
- the content, make the figures, or draw the conclusions in scientific papers.
- Publishers act, although the boundaries are shifting in the digital age,
- as a clearinghouse and managerial stage.
- Labs submit a manuscript (gratis); publishers coordinate the peer review
- of said manuscript by shipping it out to 2-3 other academics.
- Those academics review the paper, give feedback, and send it back -- also
- gratis.
- The original writer makes revisions; sometimes the process is repeated.
- Eventually, the submitting lab pays a per-figure per-page fee, signs away
- their copyright, and the journal takes the final work as its own.
- Then, those submitting and reviewing scientists pay to access the product
- of their intellectual labors, having given up the legal right to share
- that knowledge on their own accord.
-\end_layout
-
-\begin_layout Standard
-In return, journals provide, to varying degrees: a measure of typesetting
- and formatting, a measure of editorial work,
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-? maybe
-\end_layout
-
-\end_inset
-
- and a distribution system.
- Pre-Internet, the cost of the journal was tied to the costs of printing
- and physical distribution.
- With that barrier out of the way, it's hard to see exactly how worthwhile
- whatever-it-is that publishers provide is.
-\end_layout
-
-\begin_layout Subsection
-Knowledge Gaps: Developed/ing Worlds
-\end_layout
-
-\begin_layout Quote
-The science base in the developing world cannot be strengthened without
- access to the global library of research information.
- Currently, this is nearly impossible due to the high costs of journal subscript
-ions, with the result that even the most prestigious institutes in poorer
- countries cannot afford to buy the journals they need.
- Many initiatives have been started to resolve the access problem, but progress
- has been slow and, since they are generally dependent on grants or subsidies,
- are unlikely to be long-term solutions.
- With the advent of the Open Access (OA) initiative, the outlook for building
- science capacity in developing countries has improved significantly.
- In particular, the establishment of interoperable open access archives
- that is now underway by a rapidly growing number of institutes opens opportunit
-ies for true global knowledge exchange.
-\begin_inset CommandInset citation
-LatexCommand citealt
-after "2005"
-key "Chan2005"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-**public access to knowledge; public empowerment via access to best and
- brightest
-\end_layout
-
-\begin_layout Plain Layout
-concern/feeling that w/o monetary barriers, science would de 
-\emph on
-faster
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
@@ -3168,6 +3201,24 @@ key "Brembs2013"
 \end_layout
 
 \begin_layout Quote
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{from Lisberger 2013}: I realize it would be a big change of culture,
+ but data fraud would be reduced - and the quality of the entire scientific
+ literature improved - if we established requirements for publishing not
+ just your paper, but also your data.
+ }
+\end_layout
+
+\end_inset
+
 So what can we do to return to how things once were? The rewards of science
  rise out of publications, but simply publishing does not guarantee success.
  We are increasingly judged according to where we publish rather than what
@@ -3190,25 +3241,6 @@ rewards come from being published in the journals with the highest impact
  As a result, the perception of the need for this kind of reward runs strong
  and deep.
  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{
-\backslash
-emph{from Lisberger 2013}: I realize it would be a big change of culture,
- but data fraud would be reduced - and the quality of the entire scientific
- literature improved - if we established requirements for publishing not
- just your paper, but also your data.
- }
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Lisberger2013"
@@ -3232,7 +3264,80 @@ so in this sections...should it include who gets included???
 \end_layout
 
 \begin_layout Subsection
+Knowledge Gaps: Developed/ing Worlds
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{Move this section}
+\end_layout
+
+\end_inset
+
+The science base in the developing world cannot be strengthened without
+ access to the global library of research information.
+ Currently, this is nearly impossible due to the high costs of journal subscript
+ions, with the result that even the most prestigious institutes in poorer
+ countries cannot afford to buy the journals they need.
+ Many initiatives have been started to resolve the access problem, but progress
+ has been slow and, since they are generally dependent on grants or subsidies,
+ are unlikely to be long-term solutions.
+ With the advent of the Open Access (OA) initiative, the outlook for building
+ science capacity in developing countries has improved significantly.
+ In particular, the establishment of interoperable open access archives
+ that is now underway by a rapidly growing number of institutes opens opportunit
+ies for true global knowledge exchange.
+\begin_inset CommandInset citation
+LatexCommand citealt
+after "2005"
+key "Chan2005"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+**public access to knowledge; public empowerment via access to best and
+ brightest
+\end_layout
+
+\begin_layout Plain Layout
+concern/feeling that w/o monetary barriers, science would de 
+\emph on
+faster
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
 Getting More For Less: Metanalyses and Code/Data Reuse
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{Write this section.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
