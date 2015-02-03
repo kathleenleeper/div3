@@ -404,4 +404,6 @@
 % Speciality ish
 % ****************************
 %to-do-notes package loaded last
-\usepackage[textsize=smaller,backgroundcolor=white,linecolor=green]{todonotes}
+\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=white,linecolor=green]{todonotes}
+\newcommand{\findref}[1]{\todo[color=green!40]{citation needed {#1}}}
+\newcommand{\rewrite}[1]{\todo[color=red!40]{#1}}
