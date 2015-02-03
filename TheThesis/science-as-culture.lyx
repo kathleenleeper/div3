@@ -165,6 +165,18 @@ modern
 
  science -- evolved in an era of Western expansionism and wholehearted imperiali
 sm.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{scientific imperialism}
+\end_layout
+
+\end_inset
+
  The Scientific and Industrial Revolutions enabled and fed on the expansion
  of European powers into new territory.
  Discovery of the 'cure' for malaria (by indigenous tribes in the Amazon,
@@ -198,9 +210,7 @@ status open
 
 
 \backslash
-todo[size=
-\backslash
-small]{re bioprospecting and new forms of scientific/medical colonialism}
+todo{re bioprospecting and new forms of scientific/medical colonialism}
 \end_layout
 
 \end_inset
@@ -221,9 +231,7 @@ status open
 
 
 \backslash
-todo[size=
-\backslash
-small]{more on Tuskegee}
+todo{more on Tuskegee}
 \end_layout
 
 \end_inset
@@ -272,9 +280,7 @@ status open
 
 
 \backslash
-todo[size=
-\backslash
-small]{fix me}
+todo{fix me}
 \end_layout
 
 \end_inset
@@ -317,9 +323,7 @@ status open
 
 
 \backslash
-todo[size=
-\backslash
-small]{Re 1000 genomes project and current abses?}
+rewrite{Add detail, re 1000 genomes project and current abuse?}
 \end_layout
 
 \end_inset
@@ -350,7 +354,8 @@ graffito{Trans bodies have entered the neuroscientific sphere -- brain images
 
 \begin_layout Standard
 The scientific heritage, the accumulated knowledge upon which we build our
- futures, is not exempt.
+ futures, is not exempt from criticism more commonly leveled at explicitly
+ political institutions.
  At the same time, the undeniable power of science and technology to do
  
 \begin_inset Quotes eld
@@ -362,7 +367,7 @@ good
 
  -- hormones for trans people, Internet communities for otherwise isolated
  activists, the reclamation of environmental sciences by Native communities,
- technologies that enable disabled bodies, pharmaceuticals that prolong
+ technologies that re-enable disabled bodies, pharmaceuticals that prolong
  lifespans and raise quality of life, technologies that allow people to
  take control of their bodie's reproduction in every dimension
 \begin_inset Foot
@@ -385,8 +390,7 @@ basic
 \begin_inset Quotes erd
 \end_inset
 
- research, of discovering something new.
- 
+ research, of discovering something new, that drives much of research.
 \end_layout
 
 \begin_layout Standard
@@ -396,12 +400,13 @@ Science is not going away, and nor should it; but to ignore our scientific
  be neutral in the face of injustice.
 \end_layout
 
-\begin_layout Standard
-\begin_inset VSpace defskip
-\end_inset
-
-
+\begin_layout Section
+Science Studies
 \end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Quote
 \begin_inset Quotes eld
@@ -420,7 +425,9 @@ If you are neutral in situations of injustice, you have chosen the side
 Desmond Tutu
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -552,9 +559,7 @@ status open
 
 
 \backslash
-todo[size=
-\backslash
-small,inline]{some refs to include
+findref{on science studies:
 \end_layout
 
 \end_inset
@@ -591,15 +596,8 @@ status open
 \end_inset
 
 
-\end_layout
-
-\begin_layout Section
-Science Studies
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1365,6 +1363,62 @@ It asks us to look at science as a practice inseparable from culture, and
 Indigenous knowledges and local biologies
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+edit/smooth out these paragraphs
+\end_layout
+
+\end_inset
+
+We often conflate oppressions.
+ Sexism was created by second wave feminists to draw a parallel to the preexisti
+ng racism.
+ This is, at its best, a solidarity tool -- using our intimate understandings
+ of our oppressions to help form coalitions with others against the interlocking
+ systems of imperialist white supremacist capitalist patriarchy.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"
+\backslash
+ldots because I wanted to have some language that would actually remind
+ us continually of the interlocking systems of domination that define our
+ reality" -bell hooks }
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+At worst, this conflation and confusion leads to movements that claim 
+\begin_inset Quotes eld
+\end_inset
+
+gay is the new black
+\begin_inset Quotes erd
+\end_inset
+
+, dismissing one oppression in lieu of another.
+ So although they pair nicely, indigenous sciences are not the same as local
+ biologies.
+\end_layout
+
+\begin_layout Standard
+To try and parse out an indigenous science is to frame it against a Eurocentric
+ background, placing it in square opposition.
+ This is the only framework within which I am capable of understanding an
+ indigenous science or a local biology.
+\end_layout
+
 \begin_layout Subsection
 Local biologies
 \end_layout
@@ -1377,14 +1431,11 @@ status open
 
 
 \backslash
-todo[size=
+todo{Establish that talking about gendered health issues is not a specialized
+ "women's issue" but is something for the medical community as a whole.
+ But then what about gynecologists and medical communities that 
 \backslash
-tiny]{have to establish that talking about gendered health issues is not
- some specialized "women's issue" but is something that the medical community
- as a whole should be implicated.
- what about gynecologists and medical communities that 
-\backslash
-emph{specialize} in women? Women do give birth.}
+emph{do} in women?}
 \end_layout
 
 \end_inset
@@ -1397,8 +1448,8 @@ Local biologies are implied by feminist science theory, and indeed general
 \end_layout
 
 \begin_layout Standard
-Local biologies were most famously used by Margaret Lock, in comparing the
- uniquely North American symptoms of 
+Local biologies were initiated by Margaret Lock, in comparing the uniquely
+ North American symptoms of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1412,9 +1463,31 @@ menopause
 status collapsed
 
 \begin_layout Plain Layout
-There's a whole fucking book dedicated to explaining this, I'll see what
- I can do in a paragraph.
+There's a whole book dedicated to explaining this, I'll see what I can do
+ in a paragraph.
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Rather, local biologies refers to the way in which the embodied experience
+ of physical sensations, including those of well-being, health, illness,
+ and so on, is in part informed by the material body, itself contingent
+ on evolutionary, environmental, and individual variables.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Lock2001"
 
 \end_inset
 
@@ -1436,7 +1509,7 @@ This concept does not refer to the idea that the categories of the bio-
 Rather, local biologies refers to the way in which the embodied experience
  of physical sensations, including those of well-being, health, illness,
  and so on, is in part informed by the material body, itself contingent
- on evolutionary, environ- mental, and individual variables.
+ on evolutionary, environmental, and individual variables.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1492,15 +1565,40 @@ geographic identities and locations.
 
 \begin_layout Standard
 In practice, that means young boys in the United States who act out are
- diagnosed with autism, while young girls are ignored\SpecialChar \@.
- Dialysis patients
- in Egypt might refuse a kidney donation from their Egyptian relatives,
- recognizing that the unique stresses placed on Egyptian bodies might require
- two functioning kidneys, differing from the global biomedical truth that
- one kidney is sufficient.
+ diagnosed with autism, while young girls are ignored
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{}
+\end_layout
+
+\end_inset
+
+\SpecialChar \@.
+ Dialysis patients in Egypt might refuse a kidney donation from their Egyptian
+ relatives, recognizing that the unique stresses placed on Egyptian bodies
+ might require two functioning kidneys, differing from the global biomedical
+ truth that one kidney is sufficient.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Hamdy2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+More examples/elaboration here
+\end_layout
 
 \end_inset
 
@@ -1512,17 +1610,66 @@ Indigenous knowledges and sciences
 \end_layout
 
 \begin_layout Standard
-Specific knowledges! Eradicated by colonialism!
-\begin_inset ERT
-status open
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-todo{Indigenous Knowlededges.
- The Section.}
+I feel weird about calling local knowledges sciences.
+ Science is such a clean cold scalpel like word.
+ If we use sciences, we have to re-extricated knowledges out the other side.
+ So we'll stick with knowledges maybe?
 \end_layout
+
+\end_inset
+
+Indigenous sciences are hard to define without explicit reference to our
+ dominating framework of Eurocentric experiment-based knowledge production,
+ which holds objectivity as king.
+ Maintaining a myth of Indigenous inferiority in scientific development
+ allows European-based systems to devalue and demean indigenous knowledge,
+ erasing and destroying locally created systems of knowledge.
+ The long history of 
+\begin_inset Quotes eld
+\end_inset
+
+reschooling
+\begin_inset Quotes erd
+\end_inset
+
+ of Aboriginal children in all areas colonized by European expansionism
+ (notably Canada and the U.S., as well as Australia).
+ The systematic cutting down of non-European knowledges has tentacles in
+ all eras: 
+\end_layout
+
+\begin_layout Enumerate
+the blind reliance on and citation of Greco- Roman references despite the
+ fact that the Greek alphabet is largely of Syrian/Lebanese origin
+\end_layout
+
+\begin_layout Enumerate
+the manipulation of dates and demotion in importance of non-European knowledge
+ such as Mayan, Hindu, and Arabic numerals, the concept of zero and algebraic
+ notations, the use of decimals, and the solution of complex equations
+\end_layout
+
+\begin_layout Enumerate
+the Europeanization of the names of outstanding scientists and their devices,
+ scientific documents, and processes to undermine equal and fair assessment
+ of the global history of knowledges (for instance, a comet identified by
+ the Chinese as early as 2,500 years ago is attributed to Haley)
+\end_layout
+
+\begin_layout Enumerate
+and the classification and trivialization of non-European science and technologi
+cal innovations and invention as “art”
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Battiste2005"
 
 \end_inset
 
@@ -1530,6 +1677,31 @@ todo{Indigenous Knowlededges.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+Define specific cultural/inherited knowledges, intentionally threatened/attacked
+ by colonialism, knowledges
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{Indigenous Knowlededgs.
+ The Section.}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Comment
 status collapsed
 
@@ -1788,14 +1960,13 @@ emph{humans}
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{find a frame that really efficiently explains why this matters for
- a given audience.
+todo{find a frame to efficiently explain why this matters for a given audience.
  }
 \end_layout
 
@@ -1814,11 +1985,23 @@ JC while I agree, I think you need some kind of a reference here to support
 
 \end_inset
 
-Scientists (in theory) care about helping people , and choose science because
- it seems like the best way to do so.
+ Scientists (in theory) care about helping people
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{do they?}
+\end_layout
+
+\end_inset
+
+, and choose science because it seems like the best way to do so.
  It can't help people if it's racist, misogynistic, and not considerate
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 JC - or mislead themselves!
@@ -1969,7 +2152,7 @@ open
 \end_layout
 
 \begin_layout Standard
-In
+In 
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "chap:values-fixing-publishing"
@@ -2009,8 +2192,7 @@ reference "chap:Good-People"
 like, 
 \emph default
 that I want to emulate, and projects that have attempted to wrestle with
- all or some of my issues.
- They're good people doing important things.
+ all or some of my issues and succeeded in some measure.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2083,10 +2265,19 @@ Then there will be a conclusion when I finish my div!
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

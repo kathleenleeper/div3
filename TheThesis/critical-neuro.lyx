@@ -171,7 +171,7 @@ key "Li2000,Carlsson1988,Zhang1999"
 
 \begin_deeper
 \begin_layout Itemize
-especially the 5-HT2
+specifically the 5-HT2
 \begin_inset script subscript
 
 \begin_layout Plain Layout
@@ -180,7 +180,7 @@ a
 
 \end_inset
 
-receptor, implicated in hallucinogen signaling
+receptor
 \end_layout
 
 \end_deeper
@@ -195,7 +195,6 @@ key "Murphy2013"
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 depression (associated with the 5-HT system, among others) shows different
  responses along racial and gender lines
@@ -208,9 +207,8 @@ key "Brummett2008"
 
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
-if hallucinogens and signaling differentially affect men and women and different
+if hallucinogens and signaling differentially affect men/women and different
  races/ethnicities,
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -307,14 +305,29 @@ emph{really} excited about it, and the possibilities for re-envisioning
 
 Psychotropic drugs have a rich and important history of spiritual and mental
  use in nearly every human culture.
- It seems that any and every culture has sought new insights and views with
- the help of native pharmacological agents.
- Although largely reduced now to their chemical structure
-\begin_inset Foot
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-site of reductionism?
+
+
+\backslash
+findref{hallucinogen history}
+\end_layout
+
+\end_inset
+
+ It seems that any and every culture has sought new insights and views with
+ the help of native pharmacological agents.
+ Although largely reduced now to their chemical structure
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{site of reductionism?}
 \end_layout
 
 \end_inset
@@ -385,7 +398,7 @@ status open
 
 
 \backslash
-graffito {Source for ergot and historical significance}
+todo{Source for ergot and historical significance}
 \end_layout
 
 \end_inset
@@ -411,7 +424,7 @@ interplay
  but a full fledged transformation such that the ayahuasca in the lab is
  only nominally related to ayahuasca in practice.
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 psychotropics are a metaphor for perception -- you can have a good or bad
@@ -453,24 +466,11 @@ completely
 
 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Anne Fausto-Sterling, and many others, talk about knowledge outside the
  academy -- communal, social, and indigenous knowledges.
- Hallucinogens have amazingly well-documented and supportive communities.
- Taking psychotropics is, for many, a spiritual and deeply-prepared for
- experience.
- Users are often hyperaware of the chemical effects, interactions with medical
- conditions or other drugs, how to set scenes, how to guide their mental
- state in meaningful ways -- in short, expert and specific knowledge more
- typically associated with discerning scientists than hippies in the woods.
- But hippies in the woods may know a lot more about how to 
-\emph on
-use
-\emph default
- those drugs than scientists who have never experienced them and treat them
- solely as tools in a molecular toolkit.
 \end_layout
 
 \end_inset
@@ -479,7 +479,7 @@ use
 \end_layout
 
 \begin_layout Section
-Turtles All The Way Down
+Turtles All The Way Down: History's Neuroscience
 \end_layout
 
 \begin_layout Standard
@@ -494,7 +494,7 @@ Neuroscience
  Sumerian hieroglyphs,
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Abi-Rached2010b"
+key "Abi-Rached2010"
 
 \end_inset
 
@@ -524,10 +524,18 @@ graffito{Disciplines aren't real, basically.}
 
  That said, neuroscience, the field, was deliberately named, funded, and
  institutionalized to lie at the intersection of complementary disciplines
- -- interdiscplinary from the start.
+ -- 
+\begin_inset Quotes eld
+\end_inset
+
+interdisciplinary
+\begin_inset Quotes erd
+\end_inset
+
+ from the start.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Abi-Rached2010b"
+key "Abi-Rached2010"
 
 \end_inset
 
@@ -564,13 +572,13 @@ interdisciplinary
 
  as a code word for scientism
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{Need to define scientism/find description from Crit Neuro.
+todo{Need to define scientism/find description from Crit Neuro.
 \end_layout
 
 \begin_layout Plain Layout
@@ -864,9 +872,9 @@ status open
 
 
 \backslash
-footnote {A sensible research strategy (isolationism/reducitonism) becomes
- a metaphysical commitment to a system, where the system is reality.
- For us, cell lines are indicative of some reality.
+footnote {"A sensible research strategy (isolationism/reductionism) becomes
+ a metaphysical commitment to a system, where the system is reality." For
+ us, cell lines are indicative of some reality.
  It's plausible that scientists themselves know their work to be missing
  enormous sweeps of holistic knowledge, but any written work rarely acknowledges
  it.
@@ -916,6 +924,52 @@ not all white men from Europe
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Colonialism and Western Knowledge
+\end_layout
+
+\begin_layout Itemize
+psychedelic use in Mexico was pushed out by the Spanish conquerors
+\end_layout
+
+\begin_layout Itemize
+ayahuasca experiences can be bought and sold in South America -- which turns
+ out to be okay, from an appropriative standpoint, because those services
+ were always part of the indigenous economy as well
+\end_layout
+
+\begin_layout Section
+Informal and formal knowledges
+\end_layout
+
+\begin_layout Standard
+The re-introduction of psychedelics into the clinic is also paired with
+ a systematic devaluing of recreational users, and a low-key but distinct
+ disdain for traditional usages.
+ 
+\end_layout
+
+\begin_layout Standard
+In reality, however, hallucinogens have amazingly well-documented and supportive
+ informal communities.
+ Taking psychotropics is, for many, a spiritual and deeply-prepared for
+ experience.
+ Users are often hyperaware of the chemical effects, interactions with medical
+ conditions or other drugs, how to set scenes, how to guide their mental
+ state in meaningful ways -- in short, expert and specific knowledge more
+ typically associated with discerning scientists than hippies in the woods.
+ 
+\end_layout
+
+\begin_layout Standard
+But hippies in the woods may know a lot more about how to 
+\emph on
+use
+\emph default
+ those drugs than scientists who have never experienced them and treat them
+ solely as tools in a molecular toolkit.
 \end_layout
 
 \begin_layout Standard

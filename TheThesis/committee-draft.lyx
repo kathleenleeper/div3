@@ -30,6 +30,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement h
 \paperfontsize 10
 \spacing single
 \use_hyperref false
@@ -176,7 +177,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 listoftodos
 \end_layout
@@ -234,7 +235,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 myPart{Troubling Scientific Ecosystems}
 \end_layout
@@ -322,7 +323,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 myPart{Serotonin Science}
 \end_layout
@@ -364,7 +365,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 myPart{Reconstructive Neuroscience}
 \end_layout

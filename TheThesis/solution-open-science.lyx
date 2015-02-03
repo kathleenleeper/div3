@@ -75,16 +75,6 @@
 
 \begin_layout Chapter
 Solutions: Crack it Open? 
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-Solution Open Science!
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -95,13 +85,6 @@ name "chap:solution-OS"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Section*
-Acronyms
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Comment
 status collapsed
 
@@ -122,8 +105,12 @@ the U.S.
 \end_inset
 
 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -150,7 +137,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -167,7 +154,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -183,7 +170,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -199,7 +186,7 @@ acro{OS}{open science}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -215,7 +202,7 @@ acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -231,7 +218,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -255,7 +242,7 @@ key "Fanelli2013"
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -279,7 +266,7 @@ key "Fanelli2013"
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -303,7 +290,7 @@ key "Ioannidis2005"
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -319,7 +306,7 @@ acro{IF}{Journal Impact Factor}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -341,7 +328,7 @@ emph{Science}}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -357,7 +344,9 @@ end{acronym}
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -430,9 +419,6 @@ Interdisciplinary
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -483,69 +469,7 @@ reference "chap:ScienticEcosystem"
 
 \end_inset
 
-, open results in a number of related goals that are ideally put into practice
- together.
-\end_layout
-
-\begin_layout Standard
-The open science movements, as we'll discuss later, draws heavily on the
- software world.
- Thus, 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\begin_inset Quotes erd
-\end_inset
-
- is typically more akin to 
-\begin_inset Quotes eld
-\end_inset
-
-libre
-\begin_inset Quotes erd
-\end_inset
-
- than to
-\begin_inset Quotes eld
-\end_inset
-
-open source.
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-The terminology of and factions within this movement are complex, but, in
- short, “free software” tends to be associated with the ideology of freedom,
- “open source” with the openness of the development process, and “libre”
- with those concerned about confusion from the previous two.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- are used as monikers to refer to all of these meanings.
-\begin_inset Quotes erd
-\end_inset
-
- (
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Reagle2012"
-
-\end_inset
-
-)
+, open results in a number of related goals, ideally put into practice together.
 \end_layout
 
 \begin_layout Section
@@ -555,10 +479,10 @@ Open Access
 \begin_layout Standard
 Open access is an exclusively digital invention.
  Paying publishers for access used to mean you(r library) received a hard
- copy delivered to your doorstep.
+ copy, delivered to the doorstep.
  One assumed subscription costs were largely a function of the work involved
  in collation and the physical manufacture and distribution costs; publishers
- also This was, without a doubt, a useful service.
+ also dealt with corralling peer reviewers
 \end_layout
 
 \begin_layout Standard
@@ -572,14 +496,15 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{omg can I say this will people know it's a joke?}
 \end_layout
 
 \end_inset
 
- is now expected to 
+ is now expected to provide digital access to their publication, rendering
+ the paper version far behind.
 \end_layout
 
 \begin_layout Section

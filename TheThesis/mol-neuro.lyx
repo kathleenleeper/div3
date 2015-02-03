@@ -128,11 +128,15 @@ textsubscript{2a}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
 \begin_layout Subsection*
 Acronyms
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -148,7 +152,7 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -164,7 +168,7 @@ acro{G-protein}{guanine nucleotide-binding proteins}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -180,7 +184,7 @@ acro{GPCRs}{G-protein coupled receptors}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -196,7 +200,7 @@ acro{RA}{retinoic acid}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -212,7 +216,7 @@ acro{5-HT}{5-hydroxytryptamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -228,7 +232,7 @@ acro{CNS}{central nervous system}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -244,7 +248,7 @@ acro{GDP}{guanosine diphosphate}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -260,7 +264,7 @@ acro{GTP}{guanosine triphosphate}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -276,7 +280,7 @@ acro{LSD}{lysergic acid diethylamide, colloquially acid}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -292,7 +296,7 @@ acro{mescaline}{3,4,5-trimethoxyphenethylamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -308,7 +312,7 @@ acro{OCD}{obsessive-compulsive disorder}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -328,7 +332,7 @@ emph{N}-Dimethyltryptamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -344,7 +348,7 @@ acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -360,7 +364,7 @@ acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -376,7 +380,7 @@ acro{STP}{Serenity, Tranquility, Peace}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -390,6 +394,11 @@ end{acronym}
 \end_inset
 
  
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -469,10 +478,19 @@ ers.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
 these drugs have been around a hella long time, and it's only just now that
  Western science/culture is beginning to treat them as a potentially meaningful
  therapeutic substance.
  
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -495,7 +513,7 @@ In my own experience and those around, they're either positively life-changing;
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
@@ -518,7 +536,7 @@ harnessing
 \emph on
 can't
 \emph default
- work without an apparatus of theraphy/situations around it.
+ work without an apparatus of theraphy/situations around it
 \end_layout
 
 \end_inset
@@ -535,6 +553,18 @@ signaling pathways only make sense if you think you can figure out plasticity
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection
+A brief history of psychedelic research
+\end_layout
+
+\begin_layout Standard
+Discovered in Switzerland, underwent furious experimentation until they
+ became a Schedule I drug (i.e.
+ no medical usage and dangerous), and have recently started to re-emerge
+ in the scientific literature at specific labs.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -762,24 +792,28 @@ figure with structures here yay
 \end_layout
 
 \begin_layout Subsubsection
-effects
+Psychological Effects
 \end_layout
 
 \begin_layout Itemize
-woooo pretty colors and stuff! non lethal, non addictive
+woooo pretty colors and stuff!
 \end_layout
 
 \begin_layout Itemize
-a qualititively different experience that the user is typically aware isn't
- 
+non lethal, non addictive
+\end_layout
+
+\begin_layout Itemize
+a qualititively different experience than day-to-day life; a 
 \begin_inset Quotes eld
 \end_inset
 
-real
+noetic
 \begin_inset Quotes erd
 \end_inset
 
-;;;;;
+ perception that the user knows isn't real to the external world, but accepted
+ as 'real' to their internal life
 \end_layout
 
 \begin_layout Subsubsection
@@ -1498,12 +1532,25 @@ Distribution
 \end_layout
 
 \begin_layout Itemize
-Whee text about distribution in the PFC and GABAergic neurons and layer
- V pyramidal neurons and interneurons
+Text about distribution in the PFC and GABAergic neurons and layer V pyramidal
+ neurons and interneurons
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{5-ht2a distribution}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-and brain anatomy! yay! see Figure
+Brain anatomy:
 \begin_inset CommandInset ref
 LatexCommand vref
 reference "fig:distribution-of-2aRs"
@@ -1616,7 +1663,7 @@ status collapsed
 \end_layout
 
 \begin_layout Itemize
-more #info
+more info
 \end_layout
 
 \begin_layout Subsection
@@ -2470,7 +2517,8 @@ textsubscript{2a}R
 
 \end_inset
 
- does not, inherently, cause hallucinations.
+ does not, inherently, cause hallucinations -- otherwise, our normal course
+ of perception would involve a lot more colors and a lot less filtering.
  They are created through a binding event by some drugs at specific receptors,
  likely modulated by the 
 \emph on
@@ -2510,9 +2558,9 @@ other
 
 \end_inset
 
- Internally, however, hallucinogens and non-hallucinogens have very different
- downstream effects, which is often pointed to as the cause of psychedelic
- effects.
+ Internally to the cell, however, hallucinogens and non-hallucinogens have
+ very different downstream effects, which is given credit as the cause of
+ psychedelic effects.
 \begin_inset ERT
 status collapsed
 
@@ -2521,6 +2569,19 @@ status collapsed
 
 \backslash
 graffito{Nothin' is real and I hate it}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+More about this here and specifics (transcription, lcal events, etc)
 \end_layout
 
 \end_inset
@@ -2550,9 +2611,7 @@ on a now obsolete section -- questioning how hallucinogens were worked int
 
 Those signaling pathways have been investigated in a variety of systems.
  This is by no means a comprehensive overview, but studies on hallucinogens
- have occurred in a number of different systems since the 1950s (mostly
- in the 50s and 60s, with a resurgence since the mid-2000s).
- They include: 
+ have occurred in a number of different systems.
 \end_layout
 
 \begin_layout Enumerate
@@ -2562,7 +2621,7 @@ name "enu:Humans,-with-psilocybin,"
 
 \end_inset
 
-Humans: with psilocybin, LSD, and MDMA, and veerything eles
+Humans: with psilocybin, LSD, and MDMA
 \end_layout
 
 \begin_deeper
@@ -2628,7 +2687,7 @@ name "enu:CHO-(others?)-cells"
 
 \end_inset
 
-CHO (others?) cells expressing a fluorescent 5-HT2a receptor (my thing!)
+CHO cells expressing a fluorescent 5-HT2a receptor and variants
 \end_layout
 
 \begin_layout Standard
@@ -2652,7 +2711,20 @@ system
 \end_inset
 
 , but we can't look at short term neuronal changes, and imaging studies
- have, you know, all the flaws of imaging studies.
+ have all the flaws of imaging studies.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{neuroimaging sucks}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2821,8 +2893,33 @@ OK but not nearly imaginative or widely enough researched [unreadable stuff]
 
 \end_layout
 
+\begin_layout Subsection
+Frustrations with model systems
+\end_layout
+
 \begin_layout Section
 Background
+\end_layout
+
+\begin_layout Subsection
+Project outline
+\end_layout
+
+\begin_layout Enumerate
+Clone the receptor from rat cDNA into a plasmid that is also expressing
+ a large fluorescent protein (GFP), an antibiotic resistance gene, and promoter
+ region to force expression of the DNA.
+\end_layout
+
+\begin_layout Enumerate
+Transfect HEKs to test expression of the construct, and then into P19 mouse
+ stem cells
+\end_layout
+
+\begin_layout Enumerate
+Induce neuronal-like differentiation into the transfected P19s, and see
+ if the cell is capable of reconstructing a dendrite with localized serotonin
+ receptors
 \end_layout
 
 \begin_layout Subsection
@@ -2840,8 +2937,7 @@ just
 
  science, I opted to work at Hampshire.
  Our money and our model systems are limited; I also won't be getting DEA
- approval (not that I tried, but I have other things I'd rather wrestle
- with the government about).
+ approval, so I can't work directly with psychedelic drugs.
 \end_layout
 
 \begin_layout Subsection
@@ -2875,10 +2971,6 @@ ac{RA}
 
 .
  
-\end_layout
-
-\begin_layout Standard
-Primers! Rat cDNA.
 \end_layout
 
 \begin_layout Standard
@@ -3256,11 +3348,15 @@ binds heterodimer of nuclear retinoic acid receptors and modifies transcription
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
 \begin_layout Section
 The 5-HT system
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The 5-HT system is one of the most complex projection networks in the 
 \begin_inset ERT
 status open
@@ -3276,11 +3372,7 @@ ac{CNS}
 
 .
  This large network means serotonin signaling not only transmits information,
- but plays a large role in 
-\emph on
-modulating
-\emph default
- the rest of brain function.
+ but plays a large role in modulating the rest of brain function.
  
 \begin_inset Note Note
 status collapsed
@@ -3327,24 +3419,6 @@ processing
 status collapsed
 
 \begin_layout Plain Layout
-Brain anatomy.
-\end_layout
-
-\begin_layout Plain Layout
-5-HT 
-\emph on
-actual
-\emph default
- distribution
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
 Stem cells = embryonic cells; hence, knowing and examining the embryonic
  precursors to 5-HT neurons and then mimicking them => 5-HT neurons in culture
 \end_layout
@@ -3354,7 +3428,9 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
  
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status open
 

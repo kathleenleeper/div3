@@ -385,9 +385,9 @@
     breaklinks=true, pdfpagemode=UseNone, pageanchor=true, pdfpagemode=UseOutlines,%
     plainpages=false, bookmarksnumbered, bookmarksopen=true, bookmarksopenlevel=1,%
     hypertexnames=true, pdfhighlight=/O,hyperfootnotes=true,%nesting=true,%frenchlinks,%
-    urlcolor=webbrown, linkcolor=RoyalBlue, citecolor=webgreen, pagecolor=RoyalBlue,%
+    %urlcolor=webbrown, linkcolor=RoyalBlue, citecolor=webgreen, pagecolor=RoyalBlue,%
     % uncomment the following line if you want to have black links (e.g., for printing)
-    %urlcolor=Black, linkcolor=Black, citecolor=Black, pagecolor=Black,%
+    urlcolor=Black, linkcolor=Black, citecolor=Black, pagecolor=Black,%
     pdftitle={\myTitle},%
     pdfauthor={\textcopyright\ \myName, \myUni, \myFaculty},%
     pdfsubject={},%
@@ -404,6 +404,10 @@
 % Speciality ish
 % ****************************
 %to-do-notes package loaded last
-\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=white,linecolor=green]{todonotes}
-\newcommand{\findref}[1]{\todo[color=green!40]{citation needed {#1}}}
-\newcommand{\rewrite}[1]{\todo[color=red!40]{#1}}
+%for printing 
+\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=white,linecolor=white]{todonotes}
+%for digital development
+%\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=white,linecolor=green]{todonotes}
+
+\newcommand{\findref}[1]{\todo{find ref: {#1}}}
+\newcommand{\rewrite}[1]{\todo{rewrite: {#1}}}

@@ -89,6 +89,10 @@ name "chap:Good-People"
 \end_inset
 
 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -117,7 +121,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -134,7 +138,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -150,7 +154,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -166,7 +170,7 @@ acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -182,7 +186,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -191,6 +195,11 @@ status open
 
 \backslash
 end{acronym}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -225,7 +234,7 @@ run[s] a wide range of educational activities, and support the establishment
  by leveraging large scale, low cost approaches to innovation and research.
  For this, [they] make use of latest technologies and developments, ranging
  from open source software and hardware approaches such as 3D printing,
- online teaching tools, and the use of the cost-effetive yet powerful model
+ online teaching tools, and the use of the cost-effective yet powerful model
  organism, the fruit fly Drosophila.
 \begin_inset Quotes erd
 \end_inset
@@ -252,17 +261,8 @@ scientific education is pivotal to the ability of societies to innovate,
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{SO FUCKING COOL PRINT ME A FUCKING PIPETTE}
-\end_layout
-
+\begin_layout Quote
+\begin_inset Quotes eld
 \end_inset
 
 On December 8th of 2014, two of 
@@ -287,16 +287,19 @@ workshop module as part of the currently ongoing IBRO school on Behavioural
  For the first time we are proud to report that the entire module was successful
 ly run using exclusively free and open source materials – from 3D printed
  pipettes
-\begin_inset Foot
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-Availability of 3d printers; also accuracy, and tips? 
+
+
+\backslash
+todo{ find out re: availability of 3d printers; also accuracy, and tips?}
 \end_layout
 
 \end_inset
 
- and behavioural assays using simple off-the-shelf tools to custom built
+  and behavioural assays using simple off-the-shelf tools to custom built
  behavioural arenas based on Raspberry Pis and simple electronic control
  circuits that allow targeted activation of light- and temperature-sensitive
  proteins expressed in different lines of transgenic fruit flies.
@@ -306,13 +309,14 @@ Availability of 3d printers; also accuracy, and tips?
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Section
 Asia-Pacific Conference Calls
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The 
 \begin_inset ERT
 status open
@@ -346,7 +350,7 @@ I'm very keen to participate, but (as with every single conference call...)
  (Scott @ Gigascience, OKF Mailing List)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 On December 21st, 2014, Ranjith Raj Vasam, bioinformatics scholar and 
 \begin_inset ERT
 status open
@@ -383,20 +387,43 @@ graffito{The phrase "lakhs of engineers" is used}
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
-communities using open access
+Communities using open access
 \end_layout
 
 \begin_layout Standard
-PUBLIC LAB!!
-\end_layout
+The Public Lab project builds and publicizes cheap, easy tools to test environme
+ntal pollutants.
+ The goals is to encourage and enable people to take control of their environmen
+t away from corporations and governments, and to provide data to oversight
+ committees that yes, there 
+\emph on
+is
+\emph default
+ an issues.
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Also this cool project mapping radiation -- http://www.cesarharada.com/sampling-se
 a-and-riverbeds-around-fukushima-nuclear-power-plant/
 \end_layout
 
-\begin_layout Section
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -425,21 +452,32 @@ Moreover, Evans and Reimar using Web of Science data, report that open access
  20% for countries originated from developing countries (ibidem: 3).
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Interesting and I wonder if it correlates with the gender (approximate)
  parity?
 \end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Section
 PubChase/Altmetrics/Retraction Watch/PubPeer
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 wooah networked systems for coping with literature!
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 this isn't really my div? but retraction watch is....:D
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section

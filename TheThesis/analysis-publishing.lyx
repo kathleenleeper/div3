@@ -85,31 +85,11 @@ Fix
  Publishing?
 \end_layout
 
-\begin_layout Section*
-Acronyms
-\end_layout
-
 \begin_layout Standard
-\begin_inset Note Comment
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-so much of this is a focus on 
-\begin_inset Quotes eld
-\end_inset
-
-the U.S.
- is underfunding research, and our post-doc positions are increasingly filled
- by foreigners
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset ERT
 status collapsed
 
@@ -127,7 +107,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -144,7 +124,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -160,7 +140,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -176,7 +156,7 @@ acro{OS}{open science}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -192,7 +172,7 @@ acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -208,7 +188,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -232,7 +212,7 @@ key "Fanelli2013"
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -256,7 +236,7 @@ key "Fanelli2013"
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -280,7 +260,7 @@ key "Ioannidis2005"
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -296,7 +276,7 @@ acro{IF}{Journal Impact Factor}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -318,7 +298,7 @@ emph{Science}}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -334,7 +314,9 @@ end{acronym}
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -463,7 +445,7 @@ name "chap:values-fixing-publishing"
 \end_layout
 
 \begin_layout Section
-Where do we start?
+Fixing Science
 \end_layout
 
 \begin_layout Standard
@@ -476,7 +458,6 @@ fix
 \end_inset
 
  of sorts, a return to a scientific world marked by honesty and loyalty.
- 
 \end_layout
 
 \begin_layout Quote
@@ -508,11 +489,6 @@ key "Lisberger2013"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Lisberger proposes, among other things, what we've already seen: increased
- data sharing, 
 \end_layout
 
 \begin_layout Subsubsection
@@ -556,7 +532,7 @@ status collapsed
 Joel: Science became corporate.
  Open = semi-corporate.
  Free =/= corporate.
- Whas was science before corporate? elitics.
+ What was was science before corporate? elitics.
 \end_layout
 
 \begin_layout Plain Layout
@@ -1091,7 +1067,7 @@ key "Nafus2012"
 
 ;
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 JC - so free software is bad?
@@ -1101,6 +1077,19 @@ JC - so free software is bad?
 
  presumably, racial and ethnic minorities fare even more poorly, although
  there's even less data to support that.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{find data on representation}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1188,8 +1177,16 @@ worse
 Who is it designed for?
 \end_layout
 
-\begin_layout Standard
-I don't know yet! But probably I won't like it.
+\begin_layout Itemize
+People with internet access
+\end_layout
+
+\begin_layout Itemize
+technogical knowledge
+\end_layout
+
+\begin_layout Itemize
+hardware access, time to build and fiddle with things
 \end_layout
 
 \begin_layout Section
@@ -1230,10 +1227,35 @@ open science
 \end_layout
 
 \begin_layout Standard
-Relevant citations: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{Refs}
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
 
 \end_inset
 
@@ -1245,160 +1267,7 @@ Indigenous sciences and local biologies
 \end_layout
 
 \begin_layout Standard
-We often conflate oppressions.
- Sexism was created by second wave feminists to draw a parallel to the preexisti
-ng racism.
- This is, at its best, a solidarity tool -- using our intimate understandings
- of our oppressions to help form coalitions with others against the interlocking
- systems of imperialist white supremacist capitalist patriarchy.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{"
-\backslash
-ldots because I wanted to have some language that would actually remind
- us continually of the interlocking systems of domination that define our
- reality" -bell hooks }
-\end_layout
-
-\end_inset
-
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-At worst, this conflation and confusion leads to movements that claim 
-\begin_inset Quotes eld
-\end_inset
-
-gay is the new black
-\begin_inset Quotes erd
-\end_inset
-
-, dismissing one oppression in lieu of another.
-\end_layout
-
-\begin_layout Standard
-So although they pair nicely, indigenous sciences are not the same as local
- biologies.
-\end_layout
-
-\begin_layout Standard
-To try and parse out an indigenous science is to frame it against a Eurocentric
- background, placing it in square opposition.
- This is the only framework within which I am capable of understanding an
- indigenous science or a local biology.
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Local biologies are implied by feminist science theory, and indeed general
- science studies.
- That biological realities differ between geographical and cultural locations
- should not, realistically, surprise anybody who's made it this far in my
- div.
-\end_layout
-
-\begin_layout Subsection
-defining indigenous sciences
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-I feel weird about calling local knowledges sciences.
- Science is such a clean cold scalpel like word.
- If we use sciences, we have to re-extricated knowledges out the other side.
- So we'll stick with knowledges maybe?
-\end_layout
-
-\end_inset
-
-Indigenous sciences are hard to define without explicit reference to our
- dominating framework of Eurocentric experiment-based knowledge production,
- which holds objectivity as king.
- Maintaining a myth of Indigenous inferiority in scientific development
- allows European-based systems to devalue and demean indigenous knowledge,
- erasing and destroying locally created systems of knowledge.
- The long history of 
-\begin_inset Quotes eld
-\end_inset
-
-re schooling
-\begin_inset Quotes erd
-\end_inset
-
- of Aboriginal children in all areas colonized by European expansionism
- (notably Canada and the U.S., as well as Australia).
- More formally, the systematic cutting down of non-European knowledges has
- tentacles in all eras: 
-\end_layout
-
-\begin_layout Enumerate
-the blind reliance on and citation of Greco- Roman references despite the
- fact that the Greek alphabet is largely of Syrian/Lebanese origin
-\end_layout
-
-\begin_layout Enumerate
-the manipulation of dates and demotion in importance of non-European knowledge
- such as Mayan, Hindu, and Arabic numerals, the concept of zero and algebraic
- notations, the use of decimals, and the solution of complex equations
-\end_layout
-
-\begin_layout Enumerate
-the Europeanization of the names of outstanding scientists and their devices,
- scientific documents, and processes to undermine equal and fair assessment
- of the global history of knowledges (for instance, a comet identified by
- the Chinese as early as 2,500 years ago is attributed to Haley)
-\end_layout
-
-\begin_layout Enumerate
-and the classification and trivialization of non-European science and technologi
-cal innovations and invention as “art”
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Battiste2005"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Local biologies
-\end_layout
-
-\begin_layout Standard
-Local biologies: menopause.
-\end_layout
-
-\begin_layout Standard
 Local environments: weather systems
-\end_layout
-
-\begin_layout Standard
-l
 \end_layout
 
 \begin_layout Description
@@ -1448,7 +1317,7 @@ not
 \end_layout
 
 \begin_layout Section
-effect of open access publishing 
+Effect of open access publishing 
 \emph on
 on
 \emph default
@@ -1456,25 +1325,16 @@ on
 \end_layout
 
 \begin_layout Standard
-What is the influence of publishing OA on relativ3
-\end_layout
-
-\begin_layout Standard
-e research impact? It's at least equal -- impact factors and citation count
- remain the same.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Bjork2012"
-
+Limited data implies that that OA makes the greatest impact in increasing
+ access and scientific participation globally, and specifically in the 
+\begin_inset Quotes eld
 \end_inset
 
+developing
+\begin_inset Quotes erd
+\end_inset
 
-\end_layout
-
-\begin_layout Standard
-There's also the proposal, backed by limited data, that OA makes it's greatest
- impact in increasing access and scientific participation globally, and
- specifically in the developing world.
+ world.
 \end_layout
 
 \begin_layout Quote
@@ -1487,8 +1347,13 @@ Across sub-fields, the impact of commercial online availability was positive,
 The influence of OA was more than twice as strong in the developing world
  but was less apparent in the very poorest countries where electronic access
  is limited 
+\end_layout
+
+\begin_layout Quote
+\align right
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealt
+after "Open Access and Global Participation in Science"
 key "Evans2009"
 
 \end_inset
@@ -1496,11 +1361,28 @@ key "Evans2009"
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Quote
+What is the influence of publishing OA on relative research impact? It's
+ at least equal -- impact factors and citation count remain the same.
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citealt
+after "Open access versus subscription journals: a comparison of scientific impact"
+key "Bjork2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
 Digital Divides and Open Access
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
@@ -1511,9 +1393,10 @@ Does open access actually increase access?
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
 \begin_inset CommandInset citation
 LatexCommand citep
+after "Do developing countries profit from free books? Discovery and online usage in developed and developing countries compared"
 key "Snijder2013"
 
 \end_inset
@@ -1521,18 +1404,25 @@ key "Snijder2013"
 
 \end_layout
 
-\begin_layout Subsubsection
-Internets
-\end_layout
-
 \begin_layout Standard
 If OA is internet enabled (largely it is!), then...broadband matters, and broadband
- is not equally distributed.
-\end_layout
+ is not equally distributed (as per 
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "sec:Digital-Divides"
 
-\begin_layout Standard
+\end_inset
+
+,
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:Digital-Divides"
+
+\end_inset
+
+)
 \begin_inset Note Comment
-status open
+status collapsed
 
 \begin_layout Plain Layout
 JC - What's the gender ratio for PLOS?
@@ -1544,6 +1434,44 @@ JC - What's the gender ratio for PLOS?
 \end_layout
 
 \begin_layout Section
+Xenophobia & Incentives
+\end_layout
+
+\begin_layout Standard
+Much of the open science initiatives are focused on incentivizing science
+ as a field for young researchers.
+ This belies, however, 
+\emph on
+which 
+\emph default
+young researchers count.
+ The motivations to 
+\begin_inset Quotes eld
+\end_inset
+
+improve
+\begin_inset Quotes erd
+\end_inset
+
+ science come from a perception 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{for quotations about all the bad foreign postdocs}
+\end_layout
+
+\end_inset
+
+ that all of the good American students are being pushed out, and foreigners
+ are taking all of the current post-doc positions.
+ 
+\end_layout
+
+\begin_layout Section
 Issues I'm running up against
 \end_layout
 
@@ -1551,9 +1479,8 @@ Issues I'm running up against
 I can't actually do an anthology of open science in the developing world.
  I can't catalog all of the grassroots citizen science projects.
  I can only speak about my concerns and highlight specific projects that
- are doing well or poorly.
- It is not, by ANY means, definitive, which I resent and feel is a flaw
- in myself.
+ are doing well or poorly (by my standards).
+ It is not, by ANY means, definitive or even whole.
 \end_layout
 
 \begin_layout Standard

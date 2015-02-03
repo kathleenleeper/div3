@@ -553,7 +553,7 @@ Non-science Stuff
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -669,6 +669,311 @@ status open
 
 
 \backslash
+acro{FLOSS}{free/libre open source software}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPL}{GNU General Public License}, the founding document of the Free
+ Software Movement
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLoS}{Public Library of Science}, a leader in open access publishing
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OS}{open science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OKF}{Open Knowledge Foundation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GMH}{growing misconduct hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SSH}{'stronger system' hypothesis}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2013"
+key "Fanelli2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPV}{positive predictive value}
+\end_layout
+
+\end_inset
+
+ (per 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2005"
+key "Ioannidis2005"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IF}{Journal Impact Factor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CNS journals}{
+\backslash
+emph{Cell}, 
+\backslash
+emph{Nature}, and 
+\backslash
+emph{Science}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{MIT}{the Massachusetts Institiute of Technology}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{NIH}{National Institute of Health}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
+ Canada
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{RoW}{"Rest of World"}, for what that's worth
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OECD}{Organisation for Economic Co-operation and Development}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
+ and scientific powerhouse countries
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 end{acronym}
 \end_layout
 
@@ -678,7 +983,7 @@ end{acronym}
 \end_layout
 
 \begin_layout Section*
-Science Stuff
+Science
 \end_layout
 
 \begin_layout Standard
@@ -706,6 +1011,22 @@ status open
 
 \backslash
 acro{GPCRs}{G-protein coupled receptors}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{G-protein}{guanine nucleotide-binding proteins}
 \end_layout
 
 \end_inset
@@ -769,7 +1090,7 @@ status open
 
 
 \backslash
-acro{bHLH}{basic helix-loop-helix protein structural motif}
+acro{CNS}{central nervous system}
 \end_layout
 
 \end_inset
@@ -785,7 +1106,23 @@ status open
 
 
 \backslash
-acro{vMNs}{visceral motor neurons}
+acro{GDP}{guanosine diphosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GTP}{guanosine triphosphate}
 \end_layout
 
 \end_inset
@@ -801,7 +1138,7 @@ status open
 
 
 \backslash
-acro{Shh}{sonic hedgehog}
+acro{LSD}{lysergic acid diethylamide, colloquially acid}
 \end_layout
 
 \end_inset
@@ -817,7 +1154,91 @@ status open
 
 
 \backslash
-acro{Ascl1}{Achaete-scute homolog 1}
+acro{mescaline}{3,4,5-trimethoxyphenethylamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OCD}{obsessive-compulsive disorder}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DMT}{
+\backslash
+emph{N},
+\backslash
+emph{N}-Dimethyltryptamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{STP}{Serenity, Tranquility, Peace}
 \end_layout
 
 \end_inset
@@ -855,6 +1276,9 @@ endgroup
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage cleardoublepage
 \end_inset
 
