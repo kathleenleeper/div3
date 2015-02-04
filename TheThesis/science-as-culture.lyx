@@ -73,6 +73,16 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 \begin_inset Argument 1
 status open
@@ -148,6 +158,19 @@ Science is both handmaid to progress and the worst ever.
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{define modern science}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -300,7 +323,7 @@ well-born
 \begin_inset Quotes erd
 \end_inset
 
-, in Greek) movement came to us from Charles' Darwin, via Francis Galton.
+, in Greek) movement came to us from Charles' Darwin.
  Eugenics, of course, gained notoriety in Nazi Germany, but its legacy in
  the United States is deeply rooted.
  
@@ -2069,7 +2092,7 @@ reference "chap:feminist-science-cultural-studies"
  
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection*
 Troubling Scientific Systems
 \end_layout
 
@@ -2195,7 +2218,7 @@ that I want to emulate, and projects that have attempted to wrestle with
  all or some of my issues and succeeded in some measure.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection*
 Doing Science Like a Scientist
 \end_layout
 
@@ -2234,7 +2257,7 @@ reference "chap:Open-Science_casestudy"
  on a practical implementation level.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection*
 Reconstructive Neuroscience
 \end_layout
 
@@ -2265,19 +2288,10 @@ Then there will be a conclusion when I finish my div!
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
