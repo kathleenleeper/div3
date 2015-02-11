@@ -146,7 +146,91 @@ I am become death
 \end_layout
 
 \begin_layout Standard
-Science is both handmaid to progress and the worst ever.
+Science is both handmaid to progress and a crucial strut in upholding inequities.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{bigger punch}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"Progress"} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Scientific ethics and responsibility is often looked at only within the
+ frame of experimental design and execution.
+ This is, indisputably, desperately important.
+ The Tuskegee Syphilis Experiments represent a clear failure on the part
+ of the scientists involved, their funding body
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{Tuskegee}
+\end_layout
+
+\end_inset
+
+, and whatever oversight the university claimed to consider basic human
+ rights
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Obviously, in the U.S.
+ racial frame black bodies are unhuman, and the experimenters were more
+ or less within their rights, so...} 
+\end_layout
+
+\end_inset
+
+; undoubtedly, the study leaders were deeply and irrevocably shaped by the
+ anti-back racism in the post-Civil War Jim Crow era.
+ 
+\end_layout
+
+\begin_layout Standard
+More insidious and more difficult to make sweeping moral judgements on is
+ the way science has not just been done 
+\begin_inset Quotes eld
+\end_inset
+
+poorly
+\begin_inset Quotes erd
+\end_inset
+
+, but used to justify and 
+\emph on
+create 
+\emph default
+new systems of exclusion, while staying within the ethical bounds of the
+ time.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -206,7 +290,7 @@ key "Headrick1981"
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -219,7 +303,7 @@ graffito{western expansionism has not stopped, merely transmuted.}
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -234,74 +318,7 @@ todo{re bioprospecting and new forms of scientific/medical colonialism}
 \end_layout
 
 \begin_layout Standard
-Scientific ethics and responsibility is often looked at only within the
- frame of experimental design and execution.
- This is, indisputably, desperately important.
- The Tuskegee Syphilis Experiments represent a clear failure on the part
- of the scientists involved, their funding body
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{more on Tuskegee}
-\end_layout
-
-\end_inset
-
-, and whatever oversight the university claimed to consider basic human
- rights
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Obviously, in the U.S.
- racial frame black bodies are unhuman, and the experimenters were more
- or less within their rights, so...} 
-\end_layout
-
-\end_inset
-
-; undoubtedly, the study leaders were deeply and irrevocably shaped by the
- anti-black racism in the post- Civil War.
- The following experiments on prisoners in the U.S.
- and around the world remains in the same vein
-\end_layout
-
-\begin_layout Standard
-More insidious and more difficult to make sweeping moral judgements on is
- the way science has not just been done 
-\begin_inset Quotes eld
-\end_inset
-
-poorly
-\begin_inset Quotes erd
-\end_inset
-
-, but used to justify and 
-\emph on
-create 
-\emph default
-new systems of exclusion, as well as enabling [[war!]]
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{fix me}
-\end_layout
-
-\end_inset
-
-, all while staying within the ethical bounds of the time.
- Racism -- the peculiar brand of American racism, derived from slave-owners
+Racism -- the peculiar brand of American racism, derived from slave-owners
  desperate to justify their brutality of human bondage -- was created through
  the collusion of science and society, specifically a science that carefully
  cataloged and characterized the way Africans and African-Americans differed,
@@ -338,7 +355,7 @@ status open
 
 
 \backslash
-rewrite{Add detail, re 1000 genomes project and current abuse?}
+rewrite{1000 genomes project and current scientific power abuse?}
 \end_layout
 
 \end_inset
@@ -707,7 +724,7 @@ towards
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
