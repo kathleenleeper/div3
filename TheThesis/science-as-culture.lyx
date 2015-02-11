@@ -85,7 +85,7 @@ filename "Contents.lyx"
 
 \begin_layout Chapter
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Feminist Science Studies
@@ -93,15 +93,7 @@ Feminist Science Studies
 
 \end_inset
 
-
-\begin_inset Quotes eld
-\end_inset
-
 Science Studies, Feminist Theory, Cultural Studies
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -125,7 +117,7 @@ Science
  is part of a long heritage of bold exploration, innovation, and human ingenuity.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -159,7 +151,7 @@ Science is both handmaid to progress and the worst ever.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -702,88 +694,6 @@ Facts
 \end_layout
 
 \begin_layout Standard
-His ideas re-appear in one of the most well-known historians or sociologists
- of science, Thomas Kuhn, famed writer of
-\emph on
- Structures of Scientific Revolution
-\emph default
-.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kuhn1996"
-
-\end_inset
-
-
-\emph on
- 
-\emph default
-The publication of Kuhn's 
-\emph on
-Structure
-\emph default
- in 1962 is considered a landmark event in philosophy and history of science.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Debating Kuhn's usefulness}
-\end_layout
-
-\end_inset
-
- He coined the usage of 
-\begin_inset Quotes eld
-\end_inset
-
-paradigm
-\begin_inset Quotes erd
-\end_inset
-
- in the incredibly-common, borderline meaningless sense it's used today.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Masterman (reference not currently included) cites 21 diff uses of paradigm
-\end_layout
-
-\end_inset
-
- A previous Div III expressed my feelings, with regards to at least 
-\emph on
-Structures:
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Thomas Kuhn’s work occupies an awkward and somewhat inexplicable position
- in the contemporary intellectual environment.
- Kuhn’s thinking, and here I refer specifically and exclusively to the thoughts
- put forth in The Structure of Scientific Revolutions (SSR), while conceptually
- worthwhile, erodes quickly under scrutiny.
- 
-\begin_inset Quotes eld
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
--Campbell, 
-\emph on
-Essays on Biological Epistemology
-\emph default
-, Div III in 2007
-\end_layout
-
-\begin_layout Standard
 Fleck and Kuhn and many of their concurrent and subsequent philosophers,
  historians, and sociologists of science offer compelling arguments that
  science is, yes, evolution, but not evolution 
@@ -839,16 +749,14 @@ Questioning representation with a vengeance.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo[size=
-\backslash
-small]{Find feminist science studies chronology; and also maybe ways it
- is or is not western?}
+todo{Find feminist science studies chronology; and also maybe ways it is
+ or is not western?}
 \end_layout
 
 \end_inset
@@ -989,20 +897,17 @@ silent spring, ecofeminism, etc
 
 \end_inset
 
-At some point in the past 30-40 years (mid-1980s?), feminist science happened;
- not, of course, always under one name or one set of goals.
- New ways of knowing overlaps with technology and science studies overlaps
+ANew ways of knowing overlaps with technology and science studies overlaps
  with philosophy of science overlaps with a plethora of other modes of analysis.
  What I now call feminist science studies emerges out of activists
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{feminist science studies more specifically tied to 1970s women's
- 
+todo{feminist science studies more specifically tied to 1970s women's 
 \backslash
 & environmental social movements: also in a specifically Western/US context}
 \end_layout
@@ -1027,8 +932,7 @@ key "Haraway1994"
 
 
 \emph default
-.
- Per Haraway, feminist science studies is at some meeting point of:
+ Per Haraway, feminist science studies is at some meeting point of
 \end_layout
 
 \begin_layout Quote
@@ -1043,8 +947,8 @@ Cultural
 
 studies
 \series default
- \SpecialChar \ldots{}
- Not culture only as symbols and meanings, not comparative culture studies,
+\SpecialChar \ldots{}
+Not culture only as symbols and meanings, not comparative culture studies,
  but culture as an account of the agencies, hegemonies, counter-hegemonies,
  and unexpected possibilities of bodily construction\SpecialChar \ldots{}
 Relentless attention
@@ -1077,8 +981,8 @@ Antiracist
 Theory/Projects
 \series default
  \SpecialChar \ldots{}
- situated knowledges, where the description of the situation is never self-evid
-ent, never simply 
+situated knowledges, where the description of the situation is never self-evide
+nt, never simply 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1149,17 +1053,17 @@ Science
 
 Studies
 \series default
- \SpecialChar \ldots{}
- reflexivity, constructionism\SpecialChar \ldots{}
-science in the making (not science made),
- actors and networks\SpecialChar \ldots{}
+\SpecialChar \ldots{}
+reflexivity, constructionism\SpecialChar \ldots{}
+science in the making (not science made), actors
+ and networks\SpecialChar \ldots{}
 science as practice and culture\SpecialChar \ldots{}
-the culture of no culture,
- the nature of no nature\SpecialChar \ldots{}
-All the disciplines of science studies: history,
- philosophy, sociology, semiology, and anthropology; but also the formation
- of science studies out of the histories of radical science movements, community
- organizing, and policy-directed work.
+the culture of no culture, the
+ nature of no nature\SpecialChar \ldots{}
+All the disciplines of science studies: history, philosophy,
+ sociology, semiology, and anthropology; but also the formation of science
+ studies out of the histories of radical science movements, community organizing
+, and policy-directed work.
  These histories are regularly erased in the hegemonic accounts of disciplinary
  and interdisciplinary development in the academy and the professions.
 \begin_inset Quotes erd
@@ -1230,7 +1134,7 @@ All that is merely to impress upon a reader that using the word feminism
 \begin_layout Section
 What does this do in a practical sense?
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 In Practice
@@ -1253,8 +1157,16 @@ Asking Different Questions
 \end_layout
 
 \begin_layout Standard
-Feminist science studies allows, and demands, a number of things of practicing
- scientists.
+Feminist science studies both allows and demands practicing scientists engagemen
+t with more than 
+\begin_inset Quotes eld
+\end_inset
+
+just
+\begin_inset Quotes erd
+\end_inset
+
+ science.
  It lets us ask questions of representation in our labs, our most important
  journals, and our students: 
 \begin_inset Quotes eld
