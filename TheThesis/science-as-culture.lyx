@@ -1292,13 +1292,14 @@ key "Subramaniam2009"
 It asks us to look at science as a practice inseparable from culture, and
  what that might mean for knowledge and for scientists as the future producers
  of that knowledge.
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Section
+\begin_layout Plain Layout
 Indigenous knowledges and local biologies
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1333,7 +1334,7 @@ ldots because I wanted to have some language that would actually remind
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 At worst, this conflation and confusion leads to movements that claim 
 \begin_inset Quotes eld
 \end_inset
@@ -1347,18 +1348,18 @@ gay is the new black
  biologies.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 To try and parse out an indigenous science is to frame it against a Eurocentric
  background, placing it in square opposition.
  This is the only framework within which I am capable of understanding an
  indigenous science or a local biology.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Local biologies
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -1382,7 +1383,7 @@ Local biologies are implied by feminist science theory, and indeed general
  trek through this div.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Local biologies were initiated by Margaret Lock, in comparing the uniquely
  North American symptoms of 
 \begin_inset Quotes eld
@@ -1478,7 +1479,7 @@ y reproduced, and the primary site where this engagement takes place is
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Moreover, while local is often geographical, location is only one of many
  axes.
  
@@ -1498,7 +1499,7 @@ geographic identities and locations.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 In practice, that means young boys in the United States who act out are
  diagnosed with autism, while young girls are ignored
 \begin_inset ERT
@@ -1527,7 +1528,7 @@ key "Hamdy2013"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1540,11 +1541,11 @@ More examples/elaboration here
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Indigenous knowledges and sciences
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -1611,7 +1612,7 @@ key "Battiste2005"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1667,6 +1668,11 @@ On the other hand, the Inuit strongly resist medicalization when they give
  birth, in large part be- cause this has usually involved routine "evacuation"
  from the Arctic to urban terti- ary care hospitals in the Canadian south
  (O'Neil and Kaufert 1995).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
