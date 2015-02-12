@@ -74,12 +74,6 @@
 \begin_body
 
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "Contents.lyx"
-
-\end_inset
-
 
 \end_layout
 
@@ -117,15 +111,13 @@ Science
  is part of a long heritage of bold exploration, innovation, and human ingenuity.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo[size=
-\backslash
-small]{define science here.
+todo{define science here.
  Generally, great power -> great responsibility}
 \end_layout
 
@@ -154,35 +146,22 @@ status open
 
 
 \backslash
-todo{bigger punch}
+graffito{"Progress"}
 \end_layout
 
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{"Progress"} 
-\end_layout
-
-\end_inset
-
-
+q
 \end_layout
 
 \begin_layout Standard
 Scientific ethics and responsibility is often looked at only within the
  frame of experimental design and execution.
  This is, indisputably, desperately important.
- The Tuskegee Syphilis Experiments represent a clear failure on the part
- of the scientists involved, their funding body
+ We decry the the Tuskegee Syphilis Experiments as a clear failure on the
+ part of the scientists involved, their funding body
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -204,14 +183,14 @@ status collapsed
 \backslash
 graffito{Obviously, in the U.S.
  racial frame black bodies are unhuman, and the experimenters were more
- or less within their rights, so...} 
+ or less within their rights, so}
 \end_layout
 
 \end_inset
 
-; undoubtedly, the study leaders were deeply and irrevocably shaped by the
- anti-back racism in the post-Civil War Jim Crow era.
- 
+.
+ To our modern sensibilities, the study leaders were deeply and irrevocably
+ shaped by the anti-back racism in the post-Civil War Jim Crow era.
 \end_layout
 
 \begin_layout Standard
@@ -303,13 +282,13 @@ graffito{western expansionism has not stopped, merely transmuted.}
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{re bioprospecting and new forms of scientific/medical colonialism}
+todo{re bioprospecting and new forms of scientific and medical colonialism}
 \end_layout
 
 \end_inset
