@@ -46,8 +46,8 @@
 \use_package stackrel 1
 \use_package stmaryrd 1
 \use_package undertilde 1
-\cite_engine natbib
-\cite_engine_type numerical
+\cite_engine basic
+\cite_engine_type default
 \biblio_style plainnat
 \use_bibtopic false
 \use_indices false
@@ -81,14 +81,10 @@ Representation & Science
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Section*
 Acronyms
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -104,7 +100,7 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -121,7 +117,7 @@ acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -137,7 +133,7 @@ acro{RoW}{"Rest of World"}, for what that's worth
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -153,7 +149,7 @@ acro{OECD}{Organisation for Economic Co-operation and Development}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -170,7 +166,23 @@ acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
 \begin_layout Plain Layout
+
+
+\backslash
+acro{IF}{Impact Factor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -186,9 +198,7 @@ end{acronym}
 
 \end_layout
 
-\end_inset
-
-
+\begin_layout Standard
 \begin_inset Note Comment
 status collapsed
 
@@ -251,7 +261,7 @@ place blame on paper and grant reviewers, editors, faculty members, or other
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 I've broken this into three sections -- geography/localities, gender, and
@@ -274,6 +284,19 @@ Some Notes
 \end_layout
 
 \begin_layout Itemize
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{this section into a paragraph}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -336,17 +359,7 @@ Ii you don't have internet access, you can't even do bioinformatics.
 \end_layout
 
 \begin_layout Section
-Developing Countries:
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- The 10/90 Problem
-\end_layout
-
-\end_inset
-
-
+Counting Heads: Bibliometrics
 \end_layout
 
 \begin_layout Standard
@@ -365,44 +378,77 @@ key "Evans2009,GlobalForumforHealthResearchOrganization2000,Godlee2000,Harle,Kin
 
 \end_inset
 
+When 
+the 
+\lang english
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+ came up before, it was only in the context of effects -- what happens to
+ the scientific system when single metrics start to dominate.
+ To be indexed -- or rather, to have a paper a published in an indexed journal,
+ is the start towards credit.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Since it's not done until it's published.}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Peer-Review-Impact-Factors"
+
+\end_inset
+
+, we discussed impact factors generally, and relative disaster that the
+ impact factor's valuing wreaks on scientific research.
+ Taking the global South into account adds an entirely new dimension to
+ that.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+the standards for inclusion...
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Subsection
-Who gets counted?: global citation indices
-\end_layout
-
-\begin_layout Standard
-In 
-\emph on
-Unseen Science: Scholarly Publication in the BRICs but not in the Web of
- Science
-\emph default
-, 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Wagner2011"
-
-\end_inset
-
- examined representation in citation indices and found only 4% of developing
- countries journals were counted.
- Luckily, this isn't country-specific -- only 4% of journals in 
-\emph on
-any
-\emph default
- country are indexed.
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-CITATIOn
-\end_layout
-
-\end_inset
-
- Which is not so much an indictment of what countries get indexed, but of
- impact factors in general.
+Global inclusion in indices
 \end_layout
 
 \begin_layout Standard
@@ -414,13 +460,10 @@ reference "fig:location-of-academic-knowledge"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -531,8 +574,20 @@ c, objective means to critically evaluate the world’s leading journals,"
 
 Of the material in SCIE, more than 50 percent of journals are attributed
  to just three countries: the United States (34 percent); England (19 percent)
- and the Netherlands (8 percent) reflecting an English-language bias that
- has been documented
+ and the Netherlands (8 percent) reflecting an English-language bias
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{unsurprising given that it has to be in English.} 
+\end_layout
+
+\end_inset
+
+ that has been documented
 \begin_inset Quotes erd
 \end_inset
 
@@ -586,26 +641,6 @@ Journal of Public Health Medicine
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-In 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sub:Peer-Review-Impact-Factors"
-
-\end_inset
-
-, we discussed impact factors generally, and relative disaster that the
- impact factor's valuing wreaks on scientific research.
- Taking the global South into account adds an entirely new dimension to
- that.
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Comment
 status collapsed
 
@@ -618,7 +653,7 @@ is this referring to who is publishing or who is producing or who is included?
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -638,7 +673,7 @@ key "Sumathipala2004"
 
  examined contributions by 4 geographic areas: the UK, USA, 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -651,7 +686,7 @@ ac{OEAC}
 
 , and 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -665,7 +700,7 @@ ac{RoW}
 .
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -679,7 +714,7 @@ ac{RoW}
 , on average, contributed 6.5% of the research literature.
  The highest seen was in the Lancet (12%), and of the 151 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -694,7 +729,7 @@ ac{RoW}
  Europe or North America.
  15 original papers in the journals had data from 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -707,7 +742,7 @@ ac{RoW}
 
  w/ no 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -720,7 +755,7 @@ ac{RoW}
 
  coauthors.
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -741,18 +776,15 @@ This study selected the highest impact general purpose medical journals,
  the geographic origin of data.
  Some notable variations in the regional data: 2 countries (
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{Interesting to remember that Japan was the aggressor in WWII; Japanese
- nationalism.
- Israel is...well, Israel and Palestine.
- Their research is not an 
+graffito{Japanese nationalism and Israeli aggression in Palestine
 \backslash
-emph{accident}.}
+dots their scientific dominance is not an accident}
 \end_layout
 
 \end_inset
@@ -762,11 +794,11 @@ Japan and Israel) contribute a 5th of the RoW-published literature, while
  contribute a total of 13%.
  Only 31% of the total articles were entirely independent RoW.
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 todo{re: independence -- should look into the developing culture of collaboratio
 n and thus the changing nature of discrimination or not}
@@ -777,10 +809,720 @@ n and thus the changing nature of discrimination or not}
 
 \end_layout
 
+\begin_layout Standard
+In 
+\emph on
+Unseen Science: Scholarly Publication in the BRICs but not in the Web of
+ Science
+\emph default
+, 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Wagner2011"
+
+\end_inset
+
+ examined representation in citation indices and found only 4% of developing
+ countries journals were counted.
+ Luckily, this isn't country-specific -- only 4% of journals in 
+\emph on
+any
+\emph default
+ country are indexed.
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+CITATIOn
+\end_layout
+
+\end_inset
+
+ Which is not so much an indictment of what countries get indexed, but of
+ impact factors in general.
+\end_layout
+
 \begin_layout Subsection
-notes on production from the Scholarly Communications in Africa report
+Gender Disparities
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Although there are more female than male undergraduate [especially in 
+\begin_inset Quotes eld
+\end_inset
+
+softer
+\begin_inset Quotes erd
+\end_inset
+
+ scientific fields
+\begin_inset Quotes erd
+\end_inset
+
+ and graduate students in many countries, there are relatively few female
+ full professors, and gender inequalities in hiring, earning, funding, satisfact
+ion and patenting persist.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quantitition of gender disparities in measures of scholarly output and has
+ been few and far between -- 
+\begin_inset Quotes eld
+\end_inset
+
+highly localized, mono-disciplinary, and dated
+\begin_inset Quotes erd
+\end_inset
+
+; they take little account of the rise in collaborative research and a changing
+ scholarly landscape.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lariviere2013"
+
+\end_inset
+
+ analyzed the relationship between gender and research output (authorship),
+ collaboration extent (co-authorships) and scientific impact of publications
+ (citation count, according to the Web of Science); 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Web of science, of course, is an extremely flawed way to do this
+ because it barely includes anything that isn't the US or UK.
+ See the sections on citation factors and global publishing}
+\end_layout
+
+\end_inset
+
+ The authors analyzed >5 million research papers and reviews with more than
+ 27 million involved authors, assigning gender using data from the Social
+ Security database.
+\end_layout
+
+\begin_layout Enumerate
+in the most productive entries, all articles with women in dominant author
+ positions receive fewer citations than those with men in the same position
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+accentuated by domesticity: women benefit less from the extra citations
+ accrued by international collaborations
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+globally, women account for <30% of fractionalized authorship, men are >70%
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+1:1.93 women:men in first authorship positions
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+South America & Eastern Europe had best gender parity -- 
 \begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Despite assumptions of gender parity inferiority in "less developed"
+ areas}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+female authorship generally more prevalent in countries and/or states with
+ lower output
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+impact:
+\series default
+ when a woman is in prominent position (sole authorship, first-author, last-auth
+or), the paper attracts fewer citations; holds for national and international
+ collaborations
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+go into findings on this
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "West2013"
+
+\end_inset
+
+ published a similar paper in PLoS one the same year, looking at gender
+ in the JStor corpus, 
+\begin_inset Quotes eld
+\end_inset
+
+a body of academic papers...spanning five centuries
+\begin_inset Quotes erd
+\end_inset
+
+.
+ They look at similar variables -- authorship order and overall percentages.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite[inline]{and their conclusions were...}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+with the mention that publication counts obviously are relevant in 
+\backslash
+emph{tenure} discussions, e.g.
+ hiring e.g.
+ perpetuating cycle
+\end_layout
+
+\begin_layout Plain Layout
+Also, HUGE points for their methods and reproducibility, e.g.
+ creating the gender browser and communicating with me about making that
+ something to apply to individual libraries in reference managers.
+ Secret part of my div that may or may not manifest depending on the cooperation
+ of these authors
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section
+Which Bodies Are In Research?
+\end_layout
+
+\begin_layout Subsection
+Globally: the 10/90 problem
+\end_layout
+
+\begin_layout Standard
+The 10/90 problem is simple: only 10% of the world's resources are used
+ for 90% of health problems.
+ Only 6% of psychiatric jurnals arose from regions accounting for >90% of
+ the population.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sumathipala2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Rochon2004"
+
+\end_inset
+
+, 
+\emph on
+Relation between randomized controlled trials published in leading general
+ medical journals and the global burden of disease
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Background 
+\series default
+More than two-thirds of the world’s population live in low-income countries,
+ where health priorities are different from those of people living in more
+ affluent parts of the world.
+ We evaluated the relation between the global burden of dis- ease and conditions
+ or diseases studied in randomized controlled trials (RCTs).
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Results: 
+\series default
+Among the 286 RCTs in our sample, 124 (43.4%) addressed 1 of the 35 leading
+ causes of the global burden of disease\SpecialChar \ldots{}
+Almost half of the 40 leading causes
+ of the global burden of disease were not studied by any trial.
+ 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Interpretation: 
+\series default
+Many conditions or diseases common internationally are underrepresented
+ in RCTs published in leading general medical journals.
+ Trials published in these journals that studied one of these high-priority
+ conditions were generally rated as being of little relevance to international
+ health.
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rochon2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Race
+\end_layout
+
+\begin_layout Standard
+african americans
+\end_layout
+
+\begin_layout Subsection
+by gender
+\end_layout
+
+\begin_layout Standard
+heart disease, car crashes
+\end_layout
+
+\begin_layout Section
+But why?
+\end_layout
+
+\begin_layout Standard
+There are, of course, major limitations to this kind of bibliometric study.
+ For one thing, age has an enormous role to play -- older investigators
+ will be more reputed, but are also more likely to be men because of sexism
+ in the past.
+\end_layout
+
+\begin_layout Standard
+Many trends are likely not actually markers of overt discrimination against
+ women in 
+\emph on
+publishing
+\emph default
+, but rather that women aren't making it to the top ranks of science and
+ thus are not in a position to be publishing or collaborating on the most
+ important papers.
+\end_layout
+
+\begin_layout Section
+Digital Divides
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Digital-Divides"
+
+\end_inset
+
+
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+Lots of new scientific endeavors focus on the internet as an equalizing
+ tool, but realistically, the digital divide is very very clear and doesn't
+ seem to be going away anytime soon.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
+	lyxscale 10
+	width 80page%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Description - This map illustrates the total number of Internet users in
+ a country as well as the percentage of the population that has Internet
+ access.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Data
+\end_layout
+
+\begin_layout Plain Layout
+The map uses 2011 data on Internet users and total population datasets that
+ were obtained from the World Bank.
+ The World Bank has tracked the number of Internet users and Internet connection
+s per country since the 1990s as part of its Worldwide Governance Indicators
+ project.
+\end_layout
+
+\begin_layout Plain Layout
+The data are visualized with a hexagon-shaped cartogram in which the size
+ of each country is drawn based on its population of Internet users.
+ Each hexagon accounts for about one third of a million Internet users.
+ Countries with fewer than that number have been removed from the map.
+ The shading of each country reflects its Internet penetration rate: darker
+ shades indicate higher levels of Internet usage in the population.
+\end_layout
+
+\begin_layout Plain Layout
+Findings
+\end_layout
+
+\begin_layout Plain Layout
+The distortion in the map paints a revealing picture about human activity
+ on the Internet.
+ China is now home to the world’s largest Internet population at over half
+ a billion.
+ The United States, India, and Japan then follow as the next most populous
+ nations of Internet users.
+\end_layout
+
+\begin_layout Plain Layout
+Looking at the largest Internet countries, we see two important trends.
+\end_layout
+
+\begin_layout Plain Layout
+First, the rise of Asia as the main contributor to the world’s Internet
+ population; 42% of the world’s Internet users live in Asia, and China,
+ India, and Japan alone host more Internet users than Europe and North America
+ combined.
+\end_layout
+
+\begin_layout Plain Layout
+Second, few of the world’s largest Internet countries fall into the top
+ category (>80%) of Internet penetration (and indeed India falls into the
+ lowest category, at <20% penetration).
+ In other words, in all of the world’s largest Internet nations, there is
+ still substantial room for growth.
+\end_layout
+
+\begin_layout Plain Layout
+We also see an interesting geographic pattern of Internet penetration.
+ All but four of the countries with an Internet penetration rate of over
+ 80% are in Europe (Canada, New Zealand, Qatar, and South Korea being the
+ exceptions).
+\end_layout
+
+\begin_layout Plain Layout
+The map also reveals interesting patterns in some of the world’s poorest
+ countries.
+ Most Latin American countries now can count over 40% of their citizens
+ as Internet users.
+ Because of this, Latin America as a whole now hosts almost as many Internet
+ users as the United States.
+\end_layout
+
+\begin_layout Plain Layout
+Some African countries have seen staggering growth, whereas other have seen
+ little change since we last mapped Internet use globally in 2008.
+ In the last three years, almost all North African countries doubled their
+ population of Internet users (Algeria being a notable exception).
+ Kenya, Nigeria, and South Africa, also saw massive growth.
+ However, it remains that over half of Sub-Saharan African countries have
+ an Internet penetration of less than 10%, and have seen very little grow
+ in recent years.
+\end_layout
+
+\begin_layout Plain Layout
+It is therefore important to remember that despite the massive impacts that
+ the Internet has on everyday life for many people, most people on our planet
+ remain entirely disconnected.
+ Only one third of the world’s population has access to the Internet.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Graphics
+	filename gfx/Broadband_Affordability.png
+	lyxscale 5
+	width 80page%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\series default
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+Description
+\series default
+ -This map presents an overview of broadband affordability, as the relationship
+ between average yearly income per capita and the cost of a broadband subscripti
+on.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Data
+\end_layout
+
+\begin_layout Plain Layout
+The maps use the “Fixed (wired)-broadband monthly subscription charge, in
+ USD” indicator published by the International Telecommunication Union (ITU)
+ in the 17th edition of the World Telecommunication/ICT Indicators Database.
+ We map 2011 data, being the most recent information available for this
+ indicator in the dataset.
+\end_layout
+
+\begin_layout Plain Layout
+The ITU defines the indicator as the following: “Fixed (wired)-broadband
+ monthly subscription charge refers to the monthly subscription charge for
+ fixed (wired)-broadband Internet service.
+ Fixed (wired) broadband is considered to be any dedicated connection to
+ the Internet at downstream speeds equal to, or greater than, 256 kbit/s.
+ If several offers are available, preference should be given to the 256
+ kbit/s connection.”
+\end_layout
+
+\begin_layout Plain Layout
+The data also refer to the monthly cost of the cheapest entry-level subscription
+ in any place.
+ These values have been multiplied by twelve to obtain a yearly cost, and
+ weighted over the gross national income per capita (Atlas method, current
+ USD) data available from the World Bank, referring to the same year (2011).
+\end_layout
+
+\begin_layout Plain Layout
+The graph on the lower-left corner illustrates the evolution of the cost
+ of broadband over time.
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Findings
+\end_layout
+
+\begin_layout Plain Layout
+This visualization speaks to one of the core themes of the global digital
+ divide: the relative cost of being connected to the Internet.
+ The geographies of the phenomenon could hardly be more clear, and its consequen
+ces are illustrated in many other visualizations published on our website,
+ from the cartogram of the Internet population to the graphic depicting
+ the geographic distribution of the top-level domain names.
+\end_layout
+
+\begin_layout Plain Layout
+We see that the price of a broadband connection in most parts of Africa
+ is out of reach for people on average incomes.
+ Said differently, Africans need to pay ten times as much of their salary
+ (if looking at the ratio of income to connectivity costs) for broadband
+ as people in the rest of the world.
+\end_layout
+
+\begin_layout Plain Layout
+A monthly broadband subscription costs about 60 USD both in Australia and
+ Mozambique.
+ However, while the average yearly gross income in Australia is around 50,000
+ USD, the same figure in Mozambique is less than 500 USD.
+ This means that while an average worker in Australia could pay for a year’s
+ worth of connectivity with one week’s salary, a Mozambican worker would
+ need over one and a half year’s salary.
+\end_layout
+
+\begin_layout Plain Layout
+This situation does not mean that costs in Africa aren’t dropping.
+ The average cost of an African Internet connection is now half of what
+ it was four years ago, thanks to a series of cables laid around the African
+ continent in 2009.
+ Kenya and Nigeria, for instance, have 2011 broadband costs that are respectivel
+y 21% and 8% of what they were in 2008.
+ These changes have undoubtedly contributed to the significant growth in
+ the number of Internet users seen by both countries.
+ The most striking drop in broadband cost has been observed in Burkina Faso,
+ which has gone from over 1,700 USD a month to a most reasonable 55 USD
+ (which still, however, represents 100% of the salary of an average worker).
+\end_layout
+
+\begin_layout Plain Layout
+Eritrea is the country where the Internet is least affordable.
+ A yearly subscription there is the equivalent of almost fifty year’s worth
+ of an average salary: an entire life of work! Over 18 countries still face
+ costs of Internet subscriptions higher than the average income, including
+ 14 Sub-Saharan African countries, the landlocked countries of Afghanistan
+ and Tajikistan, and the islands of Kiribati and Solomon Islands.
+ A broadband Internet connection cost over 500 USD a month in the Central
+ African Republic, Guinea, Malawi, and Swaziland, as well as in Cuba, where,
+ according to the ITU, 1,700 USD was still not enough to buy a subscription.
+\end_layout
+
+\begin_layout Plain Layout
+India and Sri Lanka have the cheapest broadband access prices, where access
+ can be obtained for as little as 6 USD a month.
+ Europe and North America have higher absolute costs, ranging between about
+ 10 and 40 USD a month, but have some of the lowest relative costs in the
+ world: with a couple of hours of work a month being sufficient for an average
+ worker to afford the cost of connectivity.
+\end_layout
+
+\begin_layout Plain Layout
+The data mapped here are some of the world’s most important indicators.
+ Without the ability and means to connect, the opportunities, the information,
+ and the communication mediated and afforded by the Internet all remain
+ impossible.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+notes on production from the Scholarly Communications in Africa report
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1058,682 +1800,11 @@ Many Southern African research projects are small, local projects, confined
  to an immediate geographical area.
 \end_layout
 
-\begin_layout Subsection
-Which Bodies Are In Research?: The 10/90 problem
-\end_layout
-
 \begin_layout Standard
-The 10/90 problem is simple: only 10% of the world's resources are used
- for 90% of health problems.
- Only 6% of psychiatric jurnals arose from regions accounting for >90% of
- the population.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-In 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Rochon2004"
-
-\end_inset
-
-, 
-\emph on
-Relation between randomized controlled trials published in leading general
- medical journals and the global burden of disease
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Background 
-\series default
-More than two-thirds of the world’s population live in low-income countries,
- where health priorities are different from those of people living in more
- affluent parts of the world.
- We evaluated the relation between the global burden of dis- ease and conditions
- or diseases studied in randomized controlled trials (RCTs).
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Results: 
-\series default
-Among the 286 RCTs in our sample, 124 (43.4%) addressed 1 of the 35 leading
- causes of the global burden of disease\SpecialChar \ldots{}
-Almost half of the 40 leading causes
- of the global burden of disease were not studied by any trial.
- 
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Interpretation: 
-\series default
-Many conditions or diseases common internationally are underrepresented
- in RCTs published in leading general medical journals.
- Trials published in these journals that studied one of these high-priority
- conditions were generally rated as being of little relevance to international
- health.
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Rochon2004"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Gender Disparities
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Although there are more female than male undergraduate [especially in 
-\begin_inset Quotes eld
-\end_inset
-
-softer
-\begin_inset Quotes erd
-\end_inset
-
- scientific fields
-\begin_inset Quotes erd
-\end_inset
-
- and graduate students in many countries, there are relatively few female
- full professors, and gender inequalities in hiring, earning, funding, satisfact
-ion and patenting persist.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Quantitition of gender disparities in measures of scholarly output and has
- been few and far between -- 
-\begin_inset Quotes eld
-\end_inset
-
-highly localized, mono-disciplinary, and dated
-\begin_inset Quotes erd
-\end_inset
-
-; they take little account of the rise in collaborative research and a changing
- scholarly landscape.
- 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Lariviere2013"
-
-\end_inset
-
- analyzed the relationship between gender and research output (authorship),
- collaboration extent (co-authorships) and scientific impact of publications
- (citation count, according to the Web of Science); 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {Web of science, of course, is an extremely flawed way to do this
- because it barely includes anything that isn't the US or UK.
- See the sections on citation factors and global publishing}
-\end_layout
-
-\end_inset
-
- The authors analyzed >5 million research papers and reviews with more than
- 27 million involved authors, assigning gender using data from the Social
- Security database.
-\end_layout
-
-\begin_layout Enumerate
-in the most productive entries, all articles with women in dominant author
- positions receive fewer citations than those with men in the same position
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-accentuated by domesticity: women benefit less from the extra citations
- accrued by international collaborations
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-globally, women account for <30% of fractionalized authorship, men are >70%
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-1:1.93 women:men in first authorship positions
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-South America & Eastern Europe had best gender parity -- 
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-female authorship generally more prevalent in countries and/or states with
- lower output
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-
-\series bold
-impact:
-\series default
- when a woman is in prominent position (sole authorship, first-author, last-auth
-or), the paper attracts fewer citations; holds for national and international
- collaborations
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-go into findings on this
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "West2013"
-
-\end_inset
-
- published an extremely similar paper in PLoS one the same year, without
- the global analysis component but with even more papers as part of the
- analysis.
- Their source was the JSTOR corpus, 
-\begin_inset Quotes eld
-\end_inset
-
-a body of academic papers...spanning five centuries
-\begin_inset Quotes erd
-\end_inset
-
-.
- They look at similar variables -- authorship order and overall percentages.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {with the mention that publication counts obviously are relevant
- in 
-\backslash
-emph{tenure} discussions, e.g.
- hiring e.g.
- perpetuating cycle}
-\end_layout
-
-\end_inset
-
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-graffito {Also, HUGE points for their methods and reproducibility, e.g.
- creating the gender browser and communicating with me about making that
- something to apply to individual libraries in reference managers.
- Secret part of my div that may or may not manifest depending on the cooperation
- of these authors}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-There are, of course, major limitations to this kind of bibliometric study.
- For one thing, age has an enormous role to play -- older investigators
- will be more reputed, but are also more likely to be men because of sexism
- in the past.
-\end_layout
-
-\begin_layout Standard
-Many trends are likely not actually markers of overt discrimination against
- women in 
-\emph on
-publishing
-\emph default
-, but rather that women aren't making it to the top ranks of science and
- thus are not in a position to be publishing or collaborating on the most
- important papers.
-\end_layout
-
-\begin_layout Section
-Digital Divides
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Digital-Divides"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Lots of new scientific endeavors focus on the internet as an equalizing
- tool, but realistically, the digital divide is very very clear and doesn't
- seem to be going away anytime soon.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-makebox[
-\backslash
-textwidth][c]{ 
-\end_layout
-
-\end_inset
-
-
-\begin_inset Graphics
-	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
-	lyxscale 10
-	width 80page%
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Description - This map illustrates the total number of Internet users in
- a country as well as the percentage of the population that has Internet
- access.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Data
-\end_layout
-
-\begin_layout Plain Layout
-The map uses 2011 data on Internet users and total population datasets that
- were obtained from the World Bank.
- The World Bank has tracked the number of Internet users and Internet connection
-s per country since the 1990s as part of its Worldwide Governance Indicators
- project.
-\end_layout
-
-\begin_layout Plain Layout
-The data are visualized with a hexagon-shaped cartogram in which the size
- of each country is drawn based on its population of Internet users.
- Each hexagon accounts for about one third of a million Internet users.
- Countries with fewer than that number have been removed from the map.
- The shading of each country reflects its Internet penetration rate: darker
- shades indicate higher levels of Internet usage in the population.
-\end_layout
-
-\begin_layout Plain Layout
-Findings
-\end_layout
-
-\begin_layout Plain Layout
-The distortion in the map paints a revealing picture about human activity
- on the Internet.
- China is now home to the world’s largest Internet population at over half
- a billion.
- The United States, India, and Japan then follow as the next most populous
- nations of Internet users.
-\end_layout
-
-\begin_layout Plain Layout
-Looking at the largest Internet countries, we see two important trends.
-\end_layout
-
-\begin_layout Plain Layout
-First, the rise of Asia as the main contributor to the world’s Internet
- population; 42% of the world’s Internet users live in Asia, and China,
- India, and Japan alone host more Internet users than Europe and North America
- combined.
-\end_layout
-
-\begin_layout Plain Layout
-Second, few of the world’s largest Internet countries fall into the top
- category (>80%) of Internet penetration (and indeed India falls into the
- lowest category, at <20% penetration).
- In other words, in all of the world’s largest Internet nations, there is
- still substantial room for growth.
-\end_layout
-
-\begin_layout Plain Layout
-We also see an interesting geographic pattern of Internet penetration.
- All but four of the countries with an Internet penetration rate of over
- 80% are in Europe (Canada, New Zealand, Qatar, and South Korea being the
- exceptions).
-\end_layout
-
-\begin_layout Plain Layout
-The map also reveals interesting patterns in some of the world’s poorest
- countries.
- Most Latin American countries now can count over 40% of their citizens
- as Internet users.
- Because of this, Latin America as a whole now hosts almost as many Internet
- users as the United States.
-\end_layout
-
-\begin_layout Plain Layout
-Some African countries have seen staggering growth, whereas other have seen
- little change since we last mapped Internet use globally in 2008.
- In the last three years, almost all North African countries doubled their
- population of Internet users (Algeria being a notable exception).
- Kenya, Nigeria, and South Africa, also saw massive growth.
- However, it remains that over half of Sub-Saharan African countries have
- an Internet penetration of less than 10%, and have seen very little grow
- in recent years.
-\end_layout
-
-\begin_layout Plain Layout
-It is therefore important to remember that despite the massive impacts that
- the Internet has on everyday life for many people, most people on our planet
- remain entirely disconnected.
- Only one third of the world’s population has access to the Internet.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-makebox[
-\backslash
-textwidth][c]{ 
-\end_layout
-
-\end_inset
-
-
-\series bold
-
-\begin_inset Graphics
-	filename gfx/Broadband_Affordability.png
-	lyxscale 5
-	width 80page%
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\series default
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\series bold
-Description
-\series default
- -This map presents an overview of broadband affordability, as the relationship
- between average yearly income per capita and the cost of a broadband subscripti
-on.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-
-\series bold
-Data
-\end_layout
-
-\begin_layout Plain Layout
-The maps use the “Fixed (wired)-broadband monthly subscription charge, in
- USD” indicator published by the International Telecommunication Union (ITU)
- in the 17th edition of the World Telecommunication/ICT Indicators Database.
- We map 2011 data, being the most recent information available for this
- indicator in the dataset.
-\end_layout
-
-\begin_layout Plain Layout
-The ITU defines the indicator as the following: “Fixed (wired)-broadband
- monthly subscription charge refers to the monthly subscription charge for
- fixed (wired)-broadband Internet service.
- Fixed (wired) broadband is considered to be any dedicated connection to
- the Internet at downstream speeds equal to, or greater than, 256 kbit/s.
- If several offers are available, preference should be given to the 256
- kbit/s connection.”
-\end_layout
-
-\begin_layout Plain Layout
-The data also refer to the monthly cost of the cheapest entry-level subscription
- in any place.
- These values have been multiplied by twelve to obtain a yearly cost, and
- weighted over the gross national income per capita (Atlas method, current
- USD) data available from the World Bank, referring to the same year (2011).
-\end_layout
-
-\begin_layout Plain Layout
-The graph on the lower-left corner illustrates the evolution of the cost
- of broadband over time.
-\end_layout
-
-\begin_layout Plain Layout
-
-\series bold
-Findings
-\end_layout
-
-\begin_layout Plain Layout
-This visualization speaks to one of the core themes of the global digital
- divide: the relative cost of being connected to the Internet.
- The geographies of the phenomenon could hardly be more clear, and its consequen
-ces are illustrated in many other visualizations published on our website,
- from the cartogram of the Internet population to the graphic depicting
- the geographic distribution of the top-level domain names.
-\end_layout
-
-\begin_layout Plain Layout
-We see that the price of a broadband connection in most parts of Africa
- is out of reach for people on average incomes.
- Said differently, Africans need to pay ten times as much of their salary
- (if looking at the ratio of income to connectivity costs) for broadband
- as people in the rest of the world.
-\end_layout
-
-\begin_layout Plain Layout
-A monthly broadband subscription costs about 60 USD both in Australia and
- Mozambique.
- However, while the average yearly gross income in Australia is around 50,000
- USD, the same figure in Mozambique is less than 500 USD.
- This means that while an average worker in Australia could pay for a year’s
- worth of connectivity with one week’s salary, a Mozambican worker would
- need over one and a half year’s salary.
-\end_layout
-
-\begin_layout Plain Layout
-This situation does not mean that costs in Africa aren’t dropping.
- The average cost of an African Internet connection is now half of what
- it was four years ago, thanks to a series of cables laid around the African
- continent in 2009.
- Kenya and Nigeria, for instance, have 2011 broadband costs that are respectivel
-y 21% and 8% of what they were in 2008.
- These changes have undoubtedly contributed to the significant growth in
- the number of Internet users seen by both countries.
- The most striking drop in broadband cost has been observed in Burkina Faso,
- which has gone from over 1,700 USD a month to a most reasonable 55 USD
- (which still, however, represents 100% of the salary of an average worker).
-\end_layout
-
-\begin_layout Plain Layout
-Eritrea is the country where the Internet is least affordable.
- A yearly subscription there is the equivalent of almost fifty year’s worth
- of an average salary: an entire life of work! Over 18 countries still face
- costs of Internet subscriptions higher than the average income, including
- 14 Sub-Saharan African countries, the landlocked countries of Afghanistan
- and Tajikistan, and the islands of Kiribati and Solomon Islands.
- A broadband Internet connection cost over 500 USD a month in the Central
- African Republic, Guinea, Malawi, and Swaziland, as well as in Cuba, where,
- according to the ITU, 1,700 USD was still not enough to buy a subscription.
-\end_layout
-
-\begin_layout Plain Layout
-India and Sri Lanka have the cheapest broadband access prices, where access
- can be obtained for as little as 6 USD a month.
- Europe and North America have higher absolute costs, ranging between about
- 10 and 40 USD a month, but have some of the lowest relative costs in the
- world: with a couple of hours of work a month being sufficient for an average
- worker to afford the cost of connectivity.
-\end_layout
-
-\begin_layout Plain Layout
-The data mapped here are some of the world’s most important indicators.
- Without the ability and means to connect, the opportunities, the information,
- and the communication mediated and afforded by the Internet all remain
- impossible.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"
 options "plainnat"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
