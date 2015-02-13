@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch mol-neuro
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -3431,10 +3436,10 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
 \end_inset
 
 
-\begin_inset Note Note
+\begin_inset Branch mol-neuro
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"

@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch good-people
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -72,6 +77,10 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+
+\end_layout
 
 \begin_layout Chapter
 Shit I like
@@ -494,10 +503,10 @@ The Green Neuroscience lab really deserves its own section.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch good-people
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "open-science,CriticalOpenNeuro"

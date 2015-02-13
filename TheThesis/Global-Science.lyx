@@ -9,7 +9,7 @@
 \usepackage{graphicx}
 \usepackage{lipsum}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqnheadinclude,10pt,a4paper,BCOR5mm,footinclude,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -55,6 +55,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch global-science
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -76,11 +81,34 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset Branch global-science
+status open
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 Representation & Science
 \end_layout
 
 \begin_layout Standard
+\begin_inset Branch global-science
+status open
+
+\begin_layout Section
 Acronyms
 \end_layout
 
@@ -102,7 +130,7 @@ begin{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -119,7 +147,7 @@ acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -135,7 +163,7 @@ acro{RoW}{"Rest of World"}, for what that's worth
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -151,7 +179,7 @@ acro{OECD}{Organisation for Economic Co-operation and Development}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -168,7 +196,7 @@ acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -184,13 +212,82 @@ acro{IF}{Impact Factor}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UB FoH}{University of Botswana, Faculties of Humanities}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UoM FoS}{University of Mauritius, Faculties of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UCT Comm}{University of Cape Town, Commerce}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
 end{acronym}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -378,10 +475,7 @@ key "Evans2009,GlobalForumforHealthResearchOrganization2000,Godlee2000,Harle,Kin
 
 \end_inset
 
-When 
-the 
-\lang english
-
+When the 
 \begin_inset ERT
 status open
 
@@ -936,20 +1030,6 @@ globally, women account for <30% of fractionalized authorship, men are >70%
 \end_deeper
 \begin_layout Enumerate
 South America & Eastern Europe had best gender parity -- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Despite assumptions of gender parity inferiority in "less developed"
- areas}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -1186,39 +1266,13 @@ Lots of new scientific endeavors focus on the internet as an equalizing
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-makebox[
-\backslash
-textwidth][c]{ 
-\end_layout
-
-\end_inset
-
-
 \begin_inset Graphics
 	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
 	lyxscale 10
 	width 80page%
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
 
 \end_inset
 
@@ -1338,41 +1392,15 @@ It is therefore important to remember that despite the massive impacts that
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-
-\backslash
-makebox[
-\backslash
-textwidth][c]{ 
-\end_layout
-
-\end_inset
-
-
 \series bold
-
 \begin_inset Graphics
 	filename gfx/Broadband_Affordability.png
 	lyxscale 5
 	width 80page%
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
 
 \end_inset
 
@@ -1521,6 +1549,9 @@ The data mapped here are some of the world’s most important indicators.
 
 \begin_layout Section
 notes on production from the Scholarly Communications in Africa report
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -1530,102 +1561,6 @@ status collapsed
 \backslash
 rewrite{SCAP report: instead of covering ALL of the non-Western world, do
  case studies}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UB FoH}{University of Botswana, Faculties of Humanities}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UoM FoS}{University of Mauritius, Faculties of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UCT Comm}{University of Cape Town, Commerce}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
 \end_layout
 
 \end_inset
@@ -1674,7 +1609,7 @@ Southern African scholars are motivated to produce and disseminate research
  for both intrinsic and extrinsic reasons, including: the institutional
  mandate (
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1687,7 +1622,7 @@ ac{UB FoH}
 
 ), peer expectation (
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1700,7 +1635,7 @@ ac{UCT Comm}
 
 ), personal desire (
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1713,7 +1648,7 @@ ac{UoM FoS}
 
 ) and to generate new knowledge and enhance teaching (
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1801,10 +1736,19 @@ Many Southern African research projects are small, local projects, confined
 \end_layout
 
 \begin_layout Standard
+\begin_inset Branch global-science
+status open
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

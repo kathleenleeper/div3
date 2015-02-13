@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch chapter
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -72,6 +77,25 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset Branch chapter
+status open
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Chapter
 Publishing Failures in Scientific Structures 
@@ -3420,10 +3444,10 @@ status collapsed
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch chapter
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"

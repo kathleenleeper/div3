@@ -55,6 +55,51 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch chapteronly
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch chapter
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch global-science
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch open-science
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch analysis-publish
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch good-people
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch mol-neuro
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch case-open-sci
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch critical-neur
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -177,7 +222,7 @@ status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 listoftodos
 \end_layout

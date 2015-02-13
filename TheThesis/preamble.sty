@@ -415,8 +415,10 @@
 \definecolor{medegg}{rgb}{0.91, 0.84, 0.42}
 \definecolor{lowegg}{rgb}{0.56, 0.74, 0.56}
 
-\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=blue!10,bordercolor=blue!10,linecolor=blue!30]{todonotes}
+\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=blue!10,bordercolor=blue!30,linecolor=blue!30]{todonotes}
 
-\newcommand{\findref}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=green!20]{find ref: {#1}}}
-\newcommand{\rewrite}[1]{\todo[bordercolor=highegg,linecolor=red,backgroundcolor=highegg]{rewrite: {#1}}}
+\newcommand{\findref}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=green!20]{find ref for{#1}}}
+
+\newcommand{\define}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=lowegg]{define{#1}}}
+\newcommand{\rewrite}[1]{\todo[bordercolor=highegg,linecolor=highegg,backgroundcolor=highegg]{rewrite {#1}}}
 \newcommand{\research}[1]{\todo[noline,bordercolor=medegg,linecolor=yellow,backgroundcolor=medegg]{research {#1}}}

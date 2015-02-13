@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch chapteronly
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -74,6 +79,21 @@
 \begin_body
 
 \begin_layout Standard
+\begin_inset Branch chapteronly
+status open
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -250,7 +270,7 @@ status open
 
 
 \backslash
-findref{scientific imperialism}
+research{scientific imperialism}
 \end_layout
 
 \end_inset
@@ -2202,10 +2222,19 @@ Then there will be a conclusion when I finish my div!
 \end_layout
 
 \begin_layout Standard
+\begin_inset Branch chapteronly
+status open
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"
 options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

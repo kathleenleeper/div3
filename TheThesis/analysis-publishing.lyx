@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch analysis-publish
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -1484,10 +1489,10 @@ I can't actually do an anthology of open science in the developing world.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch analysis-publish
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "open-science,CriticalOpenNeuro"
