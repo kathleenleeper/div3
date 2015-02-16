@@ -78,43 +78,22 @@
 
 \begin_body
 
-\begin_layout Chapter
-Solutions: Crack it Open? 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:solution-OS"
-
-\end_inset
-
-
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-so much of this is a focus on 
-\begin_inset Quotes eld
-\end_inset
-
-the U.S.
- is underfunding research, and our post-doc positions are increasingly filled
- by foreigners
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset Branch open-science
-status open
+status collapsed
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Acronyms
+\end_layout
 
 \begin_layout Standard
 \begin_inset ERT
@@ -280,6 +259,22 @@ end{acronym}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -289,12 +284,6 @@ status collapsed
 \begin_layout Plain Layout
 Relative Slowness of Medicinal Practice
 \end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
 
 \begin_layout Quote
 By far the most common argument made for open- access by scientists and
@@ -334,12 +323,6 @@ open source malaria practice\SpecialChar \@.
 
 \end_layout
 
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
 \begin_layout Plain Layout
 2 Many Boundaries Between Disciplines; Lack of Collaboration; 
 \begin_inset Quotes eld
@@ -352,12 +335,6 @@ Interdisciplinary
  Collabs
 \end_layout
 
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
 \begin_layout Plain Layout
 Incentivising Science: Funding and Prestige
 \end_layout
@@ -367,7 +344,37 @@ Incentivising Science: Funding and Prestige
 
 \end_layout
 
+\begin_layout Chapter
+Solutions: Crack it Open? 
+\end_layout
+
 \begin_layout Quote
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:solution-OS"
+
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+so much of this is a focus on 
+\begin_inset Quotes eld
+\end_inset
+
+the U.S.
+ is underfunding research, and our post-doc positions are increasingly filled
+ by foreigners
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
 Science is based on building on, reusing and openly criticising the published
  body of scientific knowledge.
 \end_layout
@@ -384,7 +391,11 @@ open
 
 \begin_layout Quote
 \align right
-The Panton Principles - 
+The Panton Principles 
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Flex URL
 status open
 
@@ -395,7 +406,7 @@ http://pantonprinciples.org
 
 \end_inset
 
-, accessed 02/16/2015
+, 02/16/2015
 \end_layout
 
 \begin_layout Quote
@@ -405,7 +416,11 @@ Knowledge is open if anyone is free to access, use, modify, and share it
 
 \begin_layout Quote
 \align right
-The open definition - 
+The open definition
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Flex URL
 status open
 
@@ -416,7 +431,7 @@ http://opendefinition.org/od
 
 \end_inset
 
-, accessed 02/16/2015
+, 02/16/2015
 \end_layout
 
 \begin_layout Standard
@@ -679,13 +694,16 @@ The most important royalty-free literature for our purposes is the body
 
 \end_layout
 
-\begin_layout Itemize
-OA literature is not free to produce or publish.
+\begin_layout Subparagraph
+OA literature is not 
+\strikeout on
+free
+\strikeout default
+ gratis to produce or publish.
  
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
+\begin_layout Quote
 `"Free is ambiguous.
  We mean free for readers, not free for producers.
  We know that open-access literature is not free (without cost) to produce.
@@ -693,14 +711,15 @@ OA literature is not free to produce or publish.
  (without price) for readers and users." 
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
+\begin_layout Subparagraph
 Open access is not synonymous with universal access.
- Even after OA has been achieved, at least four kinds of access barrier
+\end_layout
+
+\begin_layout Standard
+Even after OA has been achieved, at least four kinds of access barriers
  might remain in place: 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 Filtering and censorship barriers.
  Many schools, employers, and governments want to limit what you can see.
@@ -728,23 +747,21 @@ Connectivity barriers.
  
 \end_layout
 
-\end_deeper
-\begin_layout Section
-open code
-\end_layout
-
-\begin_layout Standard
-IF you generate numbers with code (which ,realistically, you do), that code
- should be open so it can be checked for accuracy and re-used so work doesn't
- have to be duplicated.
-\end_layout
-
-\begin_layout Standard
-Code can be cited.
-\end_layout
-
 \begin_layout Section
 Open data
+\end_layout
+
+\begin_layout Quote
+Open science data is a type of open data focused on publishing observations
+ and results of scientific activities available for anyone to analyze and
+ reuse.
+ While the 
+\emph on
+idea
+\emph default
+ of open science data has been actively promoted since the 1950s, the rise
+ of the Internet has significantly lowered the cost and time required to
+ publish or obtain data.
 \end_layout
 
 \begin_layout Standard
@@ -756,6 +773,199 @@ omg share your fucking datasets.
 
 \begin_layout Standard
 data sets can be cited.
+\end_layout
+
+\begin_layout Subsection
+Methods
+\end_layout
+
+\begin_layout Standard
+actual reproducibility is...let's be honest, not great with the way methods
+ are currently presented in papers.
+ even in supplemental data (only available online, although typically as
+ a gratis addition).
+\end_layout
+
+\begin_layout Standard
+If methods are supposed to aid in reproducibility, there's some breakdown
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{method sharing}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Code and Hardware
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{open code section.
+ It's weird and hard to parse..
+ Isn't this also related to...over work, expectations of productivity etc.
+ And hard not to get carried away and whine about abolishing all copyright.}
+\end_layout
+
+\end_inset
+
+To make sense of scientific data they must be analysed.
+ In all but the simplest cases, this is done by software.
+ The extensive use of software poses problems for the reproducibility of
+ research.
+ To keep research reproducible, it is necessary to publish not only all
+ data, but also the source code of all software used, and all the parametrizatio
+n used in running this software.
+ Presently, these requests are rarely ever met.
+\end_layout
+
+\begin_layout Standard
+Computers and machines
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{cyborgs!!}
+\end_layout
+
+\end_inset
+
+ are indispensable.
+ Statistics, the objective ruler of experimental results, is the result
+ of code in various languages -- R,Matlab, Python, or SPSS (to name a few).
+ Hey, there are entire papers and journals dedicated to computational biology
+ -- code that takes the aforementioned open data and pulls more facts out.
+ What we do with our computers is fundamental to the execution of science,
+ if not the actual thoughts.
+ 
+\end_layout
+
+\begin_layout Subparagraph
+Code is prone to errors.
+\end_layout
+
+\begin_layout Standard
+As per Eric Raymond in 
+\emph on
+The Cathedral and the Bazaar
+\emph default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Given enough eyeballs, all bugs are shallow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{OK, Raymond.}
+\end_layout
+
+\end_inset
+
+ Like with software development, in the generation and analysis of data
+ using computer code, not all bugs manifest with outward syntactic issues
+ where the code won't 
+\emph on
+run
+\emph default
+.
+ Instead, bugs are type errors, or misplaced loops: semantic errors that
+ systematically and insidiously warp results.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{coding errors and analysis}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+I.e.
+ if you use an int type number in Python, python will round the results.
+ This error will produce approximately accurate results -- but certainly
+ not with the calculated specificity, and might introduce other small-but-meanin
+gful errors.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+IF you generate numbers with code (which ,realistically, you do), that code
+ should be open so it can be checked for accuracy.
+\end_layout
+
+\begin_layout Subparagraph
+Code can and 
+\emph on
+is
+\emph default
+ re-used.
+\end_layout
+
+\begin_layout Standard
+As demonstrated by my desperate attempts to build and extend the work of
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "West2013"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Lariviere2013"
+
+\end_inset
+
+in a bibliometric analysis of gender in publications and I 
+\emph on
+can't
+\emph default
+ because they don't 
+\emph on
+share their fucking code.
+\end_layout
+
+\begin_layout Standard
+Code can be cited.
 \end_layout
 
 \begin_layout Standard
