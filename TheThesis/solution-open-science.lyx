@@ -862,6 +862,19 @@ Code is prone to errors.
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"Talk is cheap.
+ Show me the code." -Linus}
+\end_layout
+
+\end_inset
+
 As per Eric Raymond in 
 \emph on
 The Cathedral and the Bazaar
@@ -983,7 +996,7 @@ Confidentiality of Data
 \end_layout
 
 \begin_layout Standard
-Right,
+Right ok whatever.
 \end_layout
 
 \begin_layout Subsection
