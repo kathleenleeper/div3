@@ -6,7 +6,7 @@
 from __future__ import division
 
 """gendering"""
-from genderComputer import GenderComputer 
+from genderComputer.genderComputer import GenderComputer
 
 """bibtex parsing"""
 import os
@@ -20,13 +20,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# In[2]:
+# In[16]:
 
 bib = 'CriticalOpenNeuro.bib' #bring that bib file in
-gc = GenderComputer(os.path.abspath('./nameLists')) #make gendercomputer
 
 
-# In[3]:
+# In[10]:
+
+gc = GenderComputer(os.path.abspath('genderComputer/nameLists')) #make gendercomputer
+
+
+# In[11]:
 
 def customizations(record):
     """Use some functions delivered by the library
@@ -41,7 +45,7 @@ def customizations(record):
     return record
 
 
-# In[4]:
+# In[12]:
 
 def parseFile(bib_file):
     """parse the bib file
@@ -57,7 +61,7 @@ def parseFile(bib_file):
         return data
 
 
-# In[5]:
+# In[13]:
 
 def countGender(ts=True):
     """take the bib database and count genders of authors
@@ -89,7 +93,7 @@ def countGender(ts=True):
             
 
 
-# In[6]:
+# In[14]:
 
 women = 0
 men = 0
@@ -98,20 +102,19 @@ notav = 0
 auCount = 0
 
 
-# In[7]:
+# In[17]:
 
 data = parseFile(bib) #run the parse file
 countGender(ts=False)
-print auCount
 
 
-# In[8]:
+# In[18]:
 
 stats = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 percents = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 
 
-# In[10]:
+# In[19]:
 
 for key in stats:
     value = stats[key]
@@ -119,7 +122,14 @@ for key in stats:
     percents[key] = percent
 
 
-# In[11]:
+# In[20]:
+
+print stats
+print percents
+print auCount
+
+
+# In[21]:
 
 plt.bar(range(len(stats)), percents.values(), align='center', alpha=0.1)
 plt.xticks(range(len(percents)), percents.keys())
@@ -127,7 +137,7 @@ plt.xlabel('Gender Assigned')
 plt.ylabel('Percents')
 
 
-# In[12]:
+# In[22]:
 
 plt.savefig('gender_distr.png', bbox_inches='tight')
 
