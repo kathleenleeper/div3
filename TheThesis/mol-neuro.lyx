@@ -53,7 +53,7 @@
 \justification true
 \use_refstyle 0
 \branch mol-neuro
-\selected 0
+\selected 1
 \filename_suffix 0
 \color #faf0e6
 \end_branch
@@ -84,24 +84,6 @@ Background
 
 \begin_layout Standard
 \align right
-
-\series bold
-\size larger
-\begin_inset Quotes eld
-\end_inset
-
-every biological organism is 
-\begin_inset Newline newline
-\end_inset
-
-inherently individual
-\begin_inset Quotes erd
-\end_inset
-
-
-\series default
-\size default
-
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Serotonin,-transcription-factors_mol-neuro"
@@ -134,14 +116,14 @@ textsubscript{2a}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
+\begin_inset Branch mol-neuro
+status open
 
 \begin_layout Subsection*
 Acronyms
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -157,7 +139,7 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -173,7 +155,7 @@ acro{G-protein}{guanine nucleotide-binding proteins}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -189,7 +171,7 @@ acro{GPCRs}{G-protein coupled receptors}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -205,7 +187,7 @@ acro{RA}{retinoic acid}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -221,7 +203,7 @@ acro{5-HT}{5-hydroxytryptamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -237,7 +219,7 @@ acro{CNS}{central nervous system}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -253,7 +235,7 @@ acro{GDP}{guanosine diphosphate}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -269,7 +251,7 @@ acro{GTP}{guanosine triphosphate}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -277,7 +259,7 @@ status open
 
 
 \backslash
-acro{LSD}{lysergic acid diethylamide, colloquially acid}
+acro{LSD}{lysergic acid diethylamide}
 \end_layout
 
 \end_inset
@@ -285,7 +267,7 @@ acro{LSD}{lysergic acid diethylamide, colloquially acid}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -301,7 +283,7 @@ acro{mescaline}{3,4,5-trimethoxyphenethylamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -317,7 +299,7 @@ acro{OCD}{obsessive-compulsive disorder}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -337,7 +319,7 @@ emph{N}-Dimethyltryptamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -353,7 +335,7 @@ acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -369,7 +351,7 @@ acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -385,7 +367,7 @@ acro{STP}{Serenity, Tranquility, Peace}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -398,22 +380,22 @@ end{acronym}
 
 \end_inset
 
- 
+
 \end_layout
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Section
-Psychotropics & Pharmacology: Big Introductory Overview!
+Psychotropics & Pharmacology
 \end_layout
 
 \begin_layout Standard
 Culturally significant and an identity at my (soon to be) alma mater, hallucinog
-ens -- psychedelic hallucinogens, drugs that induce a profound qualitave
- perceptual change -- are small molecules.
+ens -- psychedelic hallucinogens, drugs inducing a profound qualitative
+ perceptual change -- are
 \begin_inset ERT
 status collapsed
 
@@ -421,17 +403,18 @@ status collapsed
 
 
 \backslash
-graffito{I 
+graffito{exist in science as
 \backslash
-emph{hate} myself}
+dots}
 \end_layout
 
 \end_inset
 
+ small molecules.
  They entered the modern scientific frame with with Albert Hoffman's 1938
  synthesis of 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -442,8 +425,26 @@ ac{LSD}
 
 \end_inset
 
- from ergotamine, a isolated compound from the rye fungus ergot.
- In the intervening years, the broad class of drugs exemplified by 
+ from ergotamine, a isolated compound from the rye fungus ergot and his
+ discovery, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{LSD history}
+\end_layout
+
+\end_inset
+
+some years later, of the compound's ability to induce profound psychological
+ effects.
+\end_layout
+
+\begin_layout Standard
+In the years since, the broad class of drugs exemplified by 
 \begin_inset ERT
 status open
 
@@ -456,9 +457,9 @@ ac{LSD}
 
 \end_inset
 
- have been, variously: implicated in CIA coverups and brainwashing; a foundation
-al symbol of counter-culture movements; effective treatment for alcoholism
- and 
+, colloquially acid, have been, variously: implicated in CIA coverups and
+ brainwashing; a foundational symbol of counter-culture movements; effective
+ treatment for alcoholism, 
 \begin_inset ERT
 status open
 
@@ -471,45 +472,75 @@ ac{OCD}
 
 \end_inset
 
-, the inspiration for a number of scientific breakthroughs; as a field of
- battle for the rights of indigenous rights .
+, depression; the inspiration for a number of scientific breakthroughs;
+ as a field of battle for the rights of indigenous rights .
 \end_layout
 
 \begin_layout Standard
-The plants and complexes they come from -- ayahuasca in the the past and
- present Amazon river basin, ergot-containing drinks for ancient Greek philosoph
-ers.
- etc.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Greyedout
+The peoples 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-these drugs have been around a hella long time, and it's only just now that
- Western science/culture is beginning to treat them as a potentially meaningful
- therapeutic substance.
- 
+
+
+\backslash
+graffito{originally plants and complexes}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Greyedout
+ they come from -- ayahuasca
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-In my own experience and those around, they're either positively life-changing;
- or not.
+
+
+\backslash
+research{native histories of drugs}
+\end_layout
+
+\end_inset
+
+ in the the past and present Amazon river basin, ergot-containing drinks
+ for ancient Greek philosophers.
+ etc.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{these drugs have been around a hella long time, and it's only
+ just now that Western science/culture is beginning to treat them as a potential
+ly meaningful therapeutic substance.}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{In my own experience and those around, they're either positively
+ life-changing; or not.
  Some functionally similar signaling mechanism interacts with environment
  and person to crate this completely unique experience.
  Part of what's incredible about really any drug experiences is the alterning
  of how you think -- it's a paradigm shift in the most literal sense of
- the word
+ the word}
 \end_layout
 
 \end_inset
@@ -570,6 +601,19 @@ Discovered in Switzerland, underwent furious experimentation until they
  no medical usage and dangerous), and have recently started to re-emerge
  in the scientific literature at specific labs.
  
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{history of psychedelics}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -579,19 +623,22 @@ Consciousness-raising molecules?
 \begin_layout Standard
 One small piece of the psychedelic puzzle is understanding what happens
  on a molecular level to induce both short and long term perceptual changes.
- While the molecular and single-cell level changes are only one level of
- the alteration in experiences, and only make meaning in the context of
- networks of neurons, brain regions, the body, and the environment, and
- are hardly 
-\emph on
-the
-\emph default
- defining feature they're on,
-\begin_inset Note Greyedout
+\end_layout
+
+\begin_layout Standard
+Of course, the single-cell and smaller level changes are only one level
+ of the alteration in experiences, and only make meaning in the context
+ of networks of neurons, brain regions, the body, and the environment.
+ 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
- they're still fucking interesting.
+
+
+\backslash
+todo[inline]{but they're still cool and I still like them.
+ Saying this but in academic language.}
 \end_layout
 
 \end_inset
@@ -615,7 +662,7 @@ The classical psychedelics
 \end_layout
 
 \begin_layout Standard
-Psychedelic hallucinogents are classed 
+Psychedelic hallucinogens are grouped 
 \begin_inset ERT
 status collapsed
 
@@ -628,19 +675,90 @@ graffito{at this point in time, ofc}
 
 \end_inset
 
- according to their chemical structure, receptor binding affinity, psychedelic
- effects, addictive potential, lethality (or lack thereof) 
-\begin_inset Note Greyedout
+ according to their chemical structure, 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-and the ineffable desire of humans to classify fucking everything.
+
+
+\backslash
+findref{receptor binding affinity
+\end_layout
+
+\begin_layout Plain Layout
+
+"The relative hallucinogenic potencies of various drugs can be extrapolated
+ by their affinities for these receptors (Glennon et al, 1984)." - from Nichols/S
+anders, 2001}
 \end_layout
 
 \end_inset
 
-.
- The classical psychedelics, the best known of which is synthetic 
+ psychedelic/psycholgical effects (see 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Psychological-Effects"
+
+\end_inset
+
+, addictive potential, lethality or lack thereof, and the ineffable desire
+ of humans to classify everything.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{too snarky?}
+\end_layout
+
+\end_inset
+
+ Chemically, they resemble the endogenous serotonin, as in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:chemical-structures"
+
+\end_inset
+
+; they are non-addictive, and users become tolerant after a single effective
+ dose, and must wait some weeks before the drugs are effective again.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{for clarity}
+\end_layout
+
+\end_inset
+
+ They are biologically non-lethal, which is to say unlike methamphetamines
+ or opiates, an overdose does not affect lower-level biological functions
+ like breathing.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{drug lethality}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The drugs that fit these admittedly-fluid criteria are the classical psychedelic
+s, the most well-known perhaps being the synthetic 
 \begin_inset ERT
 status collapsed
 
@@ -653,8 +771,42 @@ ac{LSD}
 
 \end_inset
 
-, has natural analogues in psilocybin, produced by a genus of mushrooms;
- mescaline, produced in several species of New-World
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{popularity of drugs}
+\end_layout
+
+\end_inset
+
+.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ has natural analogues in psilocybin, produced by a genus of mushrooms (
+\begin_inset Quotes eld
+\end_inset
+
+shrooms
+\begin_inset Quotes erd
+\end_inset
+
+); mescaline, produced in several species of New-World
 \begin_inset ERT
 status collapsed
 
@@ -680,8 +832,21 @@ ac{DMT}
 
 \end_inset
 
-, widespread throughout the plant kingdom, as well as plethora of other
- plants.
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{for clarity; DMT is endogenous, and common in plants but needs an
+ MAOI to function...}
+\end_layout
+
+\end_inset
+
+.
  Synthetically, the analogues are numerous and endlessly permeable -- 
 \begin_inset ERT
 status collapsed
@@ -723,17 +888,10 @@ ac{STP}
 
 , has enjoyed usage in both recreational and academic settings.
  
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
 status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 \align center
@@ -776,10 +934,61 @@ dimethyltryptamine
 \end_inset
 
 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
+serotonin
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:chemical-structures"
+
+\end_inset
+
 figure with structures here yay
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+The structures of many hallucinogens are similar to serotonin and have a
+ tryptamine core.
+ A) The structure of tryptamine.
+ B) Serotonin (5-hydroxytryptamine).
+ C) Psilocin.
+ D) 5-methoxy dimethyltryptamine.
+ E) LSD.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -797,6 +1006,12 @@ figure with structures here yay
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Psychological-Effects"
+
+\end_inset
+
 Psychological Effects
 \end_layout
 
@@ -819,6 +1034,17 @@ noetic
 
  perception that the user knows isn't real to the external world, but accepted
  as 'real' to their internal life
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+or teaches them an alternate reality
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+radical life changes (pollan article, end of life, terminal illnesses, compulsio
+ns, traumatic life events)
 \end_layout
 
 \begin_layout Subsubsection
@@ -875,7 +1101,7 @@ textsubscript{2a}
 
  receptor, normally targeted by 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -903,7 +1129,7 @@ ac{LSD}
  and ergoline analogues also bind to some dopamine receptor subtypes and
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -973,7 +1199,7 @@ textsubscript{2c}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1025,40 +1251,21 @@ ac{5-HT}
 
  hardly results in an alteration of the conscious state.
  
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Woo drugs have different effects than the ones they mimic yah! The user-reported
- differences between drug trips can then be at least with a model that relies
- on 
 \begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
 
-5-HT
+
 \backslash
-textsubscript{2a}
-\end_layout
-
-\end_inset
-
- activation, tempered by modulatory effects of dopamine and 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-5-HT
+todo[inline]{Woo drugs have different effects than the things they mimic
+ yah! The user-reported differences between drug trips can then be at least
+ with a model that relies on 5-HT
 \backslash
-textsubscript{2c}
-\end_layout
-
-\end_inset
-
- receptor activation.
- 
+textsubscript{2a} activation, tempered by modulatory effects of dopamine
+ and 5-HT
+\backslash
+textsubscript{2c}receptor activation.}
 \end_layout
 
 \end_inset
@@ -1097,7 +1304,11 @@ key "Urban2007"
 
 \end_inset
 
- This seems improbable in the face of evidence for ligand-specific intracellular
+ 
+\end_layout
+
+\begin_layout Standard
+This seems improbable in the face of evidence for ligand-specific intracellular
  effects on second messengers, transcription factor activation, receptor
  sensitization and/or internalization, and other effects on the 
 \begin_inset ERT
@@ -1171,7 +1382,7 @@ in vivo
  The grand goal remaining, of course, is to explain how a small molecule
  can qualitatively and irrevocably shake loose for examination 
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Plain Layout
 our deep-seated notions of who we are.
@@ -1519,6 +1730,24 @@ ic neurons only.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{
+\backslash
+emph{Receptors of interest} address the 5-HT2c, 5-HT1c and dopamine involvement}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 The 5-HT
 \begin_inset script subscript
@@ -1534,6 +1763,27 @@ receptor
 
 \begin_layout Subsection
 Distribution
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+This receptor is expressed in regions of the brain believed to be involved
+ in cognitive processes sucqh s the prefrontal cortex, specifically in pyramidal
+ neurons and interneurons.
+ 
+\begin_inset Quotes erd
+\end_inset
+
+ - 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -1669,6 +1919,41 @@ status collapsed
 
 \begin_layout Itemize
 more info
+\end_layout
+
+\begin_layout Subsection
+multistate ligand binding
+\end_layout
+
+\begin_layout Quote
+The 5-HT 2A receptor demonstrates multistate ligand binding (Branchek et
+ al, 1990; Teitler at el.
+ 1990).
+ This means that there are two conformations of the receptor, each with
+ a different affinity for ligand.
+ These two states exist in equilibrium.
+ The active, high affinity state activates effector pathways while the inactive,
+ low affinity state does not.
+ Agonists bind to the high affinity state, stabilize its conformation and
+ increase effector activity.
+ Another class of ligand called inverse agonists binds preferentially to
+ the low affinity state and stabilizes it.
+ This actually leads to a decrease in spontaneous activity.
+ A third class of ligand called neutral antagonists can bind to either state,
+ and as neutral antagonists, do not change the equilibrium state between
+ the two conformations and do not alter effector activity.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Isoforms probably
 \end_layout
 
 \begin_layout Subsection
@@ -2450,14 +2735,13 @@ Canonical Signalling pathway
 Other pathways?
 \end_layout
 
-\begin_layout Subsection
-Biased Signalling/Functional selectivity
+\begin_layout Section
+Evidence for Biased Signalling/Functional selectivity
 \end_layout
 
 \begin_layout Standard
-While the specifics are unclear, signalling biases play an undoubtedly important
- role in determining the effects of hallucinogens, with both immediate and
- longer term effects.
+Signalling biases seem to play an undoubtedly important role in determining
+ the effects of hallucinogens,
 \begin_inset ERT
 status collapsed
 
@@ -2465,53 +2749,14 @@ status collapsed
 
 
 \backslash
-graffito{If you accept that cells --> people?}
+graffito{and signalling biases are what originally drew me}
 \end_layout
 
 \end_inset
 
- 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Gonzalez-Maeso2007"
-
-\end_inset
-
-, at Mt.
- Sinai, attribute the main action of hallucinogens
+ with both immediate and longer term effects.Binding at the 
 \begin_inset ERT
 status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{probs review the evidence a lil}
-\end_layout
-
-\end_inset
-
- to the binding event at the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-5-HT
-\backslash
-textsubscript{2a}R
-\end_layout
-
-\end_inset
-
- and subsequent differential activation of second-messenger intracellular
- pathways.
-\end_layout
-
-\begin_layout Standard
-Binding at the 
-\begin_inset ERT
-status open
 
 \begin_layout Plain Layout
 
@@ -2531,7 +2776,7 @@ lack
 \emph default
  of binding at other receptors that would normally modulate 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2581,13 +2826,152 @@ graffito{Nothin' is real and I hate it}
 
 \end_layout
 
+\begin_layout Subsection
+Binding Events
+\end_layout
+
+\begin_layout Subsubsection
+Internalization
+\end_layout
+
+\begin_layout Subsubsection
+de/sensitization
+\end_layout
+
+\begin_layout Subsubsection
+downregulation of receptor production
+\end_layout
+
+\begin_layout Subsection
+Electrophysiological events
+\end_layout
+
+\begin_layout Subsection
+Signalling events
+\end_layout
+
+\begin_layout Quote
+The first is at the receptor/effector level.
+ It has been demonstrated that some hallucinogens, such as LSD, activate
+ different signaling cascades than 5-HT.
+ For example, at the 5-HT 2C receptor, 5-HT binding produces a strong phosphoino
+sitide hydrolysis response, a rise in intracellular calcium levels and phosphory
+lation of the receptor itself.
+ LSD produces robust phosphoinositide hydrolysis, however there is no concomitan
+t rise in intracellular calcium and only limited phosphorylation of the
+ receptor (Backstrom et al, 1999).
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+receptor reserves
+\end_layout
+
 \begin_layout Standard
-\begin_inset Note Greyedout
-status open
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Kurrasch-Orbaugh2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Transcriptomic signalling
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
-More about this here and specifics (transcription, lcal events, etc)
+
+
+\backslash
+graffito{If you accept that cells --> people?}
 \end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Gonzalez-Maeso2007"
+
+\end_inset
+
+, at Mt.
+ Sinai, attribute the main action of hallucinogens
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{probs review the evidence a lil}
+\end_layout
+
+\end_inset
+
+ to the binding event at the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ and subsequent differential activation of second-messenger intracellular
+ pathways.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{More about this here and specifics (transcription, lcal events,
+ etc)}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+long term changes
+\end_layout
+
+\begin_layout Subsubsection
+gene expression
+\end_layout
+
+\begin_layout Subsubsection
+Plasticity 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Jones2009"
 
 \end_inset
 
@@ -3351,6 +3735,14 @@ binds heterodimer of nuclear retinoic acid receptors and modifies transcription
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+A Brief Historical Foray into other kinds of uses???
+\end_layout
+
+\begin_layout Standard
+Mayans and the Inca and merchant men oh my.
 \end_layout
 
 \begin_layout Standard
