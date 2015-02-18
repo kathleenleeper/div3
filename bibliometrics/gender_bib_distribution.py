@@ -1,28 +1,32 @@
 
 # coding: utf-8
 
-# In[135]:
+# In[1]:
 
 from __future__ import division
-from genderComputer import GenderComputer #import gendercomputer - more fully featured
-import pprint as pp
+
+"""gendering"""
+from genderComputer import GenderComputer 
+
+"""bibtex parsing"""
 import os
 import bibtexparser as b #module for bibtexin'
 from bibtexparser.bparser import BibTexParser #import to add customization
 from bibtexparser.customization import *
 
+"""plotting functions"""
+import matplotlib.pyplot as plt; plt.rcdefaults()
+import numpy as np
+import matplotlib.pyplot as plt
 
-# In[136]:
 
+# In[2]:
+
+bib = 'CriticalOpenNeuro.bib' #bring that bib file in
 gc = GenderComputer(os.path.abspath('./nameLists')) #make gendercomputer
 
 
-# In[137]:
-
-bib = 'CriticalOpenNeuro.bib' #bring that bib file in
-
-
-# In[138]:
+# In[3]:
 
 def customizations(record):
     """Use some functions delivered by the library
@@ -37,20 +41,56 @@ def customizations(record):
     return record
 
 
-# In[139]:
+# In[4]:
 
-with open(bib) as bibtex_file: 
-    parser = BibTexParser()
-    parser.homogenize = True
-    parser.customization = customizations
-    data = b.load(bibtex_file, parser = parser)
+def parseFile(bib_file):
+    """parse the bib file
+    
+    :param bib_file: bibtex file to be parsed
+    :returns: -- a bibtex file object
+    """
+    with open(bib_file) as bibtex_file: 
+        parser = BibTexParser()
+        parser.homogenize = True        
+        parser.customization = customizations
+        data = b.load(bibtex_file, parser = parser)
+        return data
 
 
-# In[144]:
+# In[5]:
 
-"""
-initialize variables 
-"""
+def countGender(ts=True):
+    """take the bib database and count genders of authors
+    """ 
+    global auCount
+    global notav
+    global uni
+    global men
+    global women
+    for entry in data.entries:
+        title = entry["title"]
+        if "author" in entry:
+            authors = entry["author"] 
+        elif ts==True:
+            print "no author in", title
+        for j in authors:
+            auCount += 1
+            gender = gc.resolveGender(j, None) #resolve gender, yay
+            if gender == 'male':
+                men += 1
+            elif gender == 'female':
+                women += 1
+            elif gender == 'unisex':
+                uni += 1
+            else:
+                notav += 1 
+                if ts == True:
+                    print j, title
+            
+
+
+# In[6]:
+
 women = 0
 men = 0
 uni = 0
@@ -58,42 +98,36 @@ notav = 0
 auCount = 0
 
 
-# In[145]:
+# In[7]:
 
-for entry in data.entries:
-    title = entry["title"]
-    if "author" in entry:
-        authors = entry["author"] 
-    else:
-        print "no author in", title
-    for j in authors:
-        auCount = auCount + 1
-        gender = gc.resolveGender(j, None) #resolve gender, yay
-        if gender == 'male':
-            men += 1
-        elif gender == 'female':
-            women += 1
-        elif gender == 'unisex':
-            uni += 1
-        else:
-            notav += 1
+data = parseFile(bib) #run the parse file
+countGender(ts=False)
+print auCount
 
 
-# In[146]:
+# In[8]:
 
-print "authors ungendered:", notav
-percentMen = men/auCount*100
-percentWomen = women/auCount*100
-percentUni = uni/auCount*100
-percentNotAv = notav/auCount*100
-print 'author count total:', auCount
-print 'women:', women,",", "%.2f" % percentWomen, '%'
-print 'men:', men,",", "%.2f" %  percentMen, '%'
-print 'unisex:', uni,",", "%.2f" %  percentUni, '%'
-print 'unassigned:', notav,",", "%.2f" %  percentNotAv, '%'
+stats = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
+percents = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 
 
-# In[ ]:
+# In[10]:
+
+for key in stats:
+    value = stats[key]
+    percent = value/auCount*100 #probably should fix so it can't break if dividing by zero
+    percents[key] = percent
 
 
+# In[11]:
+
+plt.bar(range(len(stats)), percents.values(), align='center', alpha=0.1)
+plt.xticks(range(len(percents)), percents.keys())
+plt.xlabel('Gender Assigned')
+plt.ylabel('Percents')
+
+
+# In[12]:
+
+plt.savefig('gender_distr.png', bbox_inches='tight')
 
