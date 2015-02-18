@@ -8,7 +8,7 @@
 
 \usepackage{todonotes}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -96,6 +96,11 @@
 \color #faf0e6
 \end_branch
 \branch critical-neur
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch bib_me
 \selected 0
 \filename_suffix 0
 \color #faf0e6
@@ -280,7 +285,7 @@ status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 myPart{Troubling Scientific Ecosystems}
 \end_layout
@@ -368,9 +373,9 @@ status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
-myPart{Serotonin Science}
+myPart{Case Studies}
 \end_layout
 
 \end_inset
@@ -405,12 +410,24 @@ filename "OS-case-study.lyx"
 \begin_layout Standard
 
 \lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "bibliometrics_case-study.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 myPart{Reconstructive Neuroscience}
 \end_layout
