@@ -1740,7 +1740,11 @@ status open
 \backslash
 todo[inline]{
 \backslash
-emph{Receptors of interest} address the 5-HT2c, 5-HT1c and dopamine involvement}
+emph{Receptors of interest} address the 5-HT
+\backslash
+textsubscript{2c}, 5-HT
+\backslash
+textsubscript{1c} and dopamine involvement}
 \end_layout
 
 \end_inset
@@ -2891,7 +2895,7 @@ The serotonin (5-hydroxytryptamine) 2A receptor (5- HT 2A ) is an important
  and is the target of a number of commonly prescribed medica- tions including
  atypical antipsychotics, antidepres- sants, and anxiolytics.
  The 5-HT 2A receptor possesses a canonical Type I PDZ-binding domain (X-Ser/Thr
--X-⌽) at the carboxyl terminus and has been predicted, but never demonstrated,
+-X-) at the carboxyl terminus and has been predicted, but never demonstrated,
  to interact with PDZ domain-con- taining proteins.
  We discovered that PSD-95, a proto- typic PDZ domain-containing protein,
  directly associ- ates with the 5-HT 2A receptor and regulates 5-HT 2A receptor-
@@ -3033,22 +3037,22 @@ Visual and auditory hallucinations accompany certain neuropsy- chiatric
  are not well understood.
  Drugs acting at the 5-HT2AR can trigger diverse signaling path- ways that
  may be directed by the chemical properties of the drug.
- ␤ -arrestins are intracellular proteins that bind to heptahelical receptors
+ beta -arrestins are intracellular proteins that bind to heptahelical receptors
  and represent a point where such divergences in ligand- directed functional
  signaling could occur.
  Here we compare the endogenous agonist, serotonin, to a synthetic 5-HT2AR
  hallucino- genic agonist, 2,5-dimethoxy-4-iodoamphetamine (DOI), in mice
- lacking ␤ -arrestin-2, as well as in cells lacking ␤ -arrestins.
- In mice, we find that serotonin induces a head twitch response by a ␤ -arrestin
--2-dependent mechanism.
- However, DOI invokes the behavior independent of ␤ -arrestin-2.
+ lacking beta -arrestin-2, as well as in cells lacking beta -arrestins.
+ In mice, we find that serotonin induces a head twitch response by a beta
+ -arrestin-2-dependent mechanism.
+ However, DOI invokes the behavior independent of beta -arrestin-2.
  The two structurally distinct agonists elicit different signal transduction
  and trafficking patterns upon activation of 5-HT2AR, which hinge on the
- presence of ␤ -arrestins.
- Our study suggests that the 5-HT2AR– ␤ -arrestin inter- action may be particula
-rly important in receptor function in re- sponse to endogenous serotonin
- levels, which could have major implications in drug development for treating
- neuropsychiatric disorders such as depression and schizophrenia.
+ presence of beta -arrestins.
+ Our study suggests that the 5-HT2AR– beta -arrestin inter- action may be
+ particularly important in receptor function in re- sponse to endogenous
+ serotonin levels, which could have major implications in drug development
+ for treating neuropsychiatric disorders such as depression and schizophrenia.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Schmid2008a"
@@ -3127,7 +3131,7 @@ Most neuropharmacological agents and many drugs of abuse modulate the activity
  transcriptome fingerprint.
  We therefore studied behavioral and cortical signal transduction responses
  in wild-type and 5-HT2AR null-mutant mice.
- The hallucinogenic chemicals (Ϯ)-2,5-dimethoxy-4-iodoamphetamine (DOI)
+ The hallucinogenic chemicals (theta)-2,5-dimethoxy-4-iodoamphetamine (DOI)
  and lysergic acid diethylamide (LSD) stimulated a head-twitch behavioral
  response that was not observed with the nonhallucinogenic lisuride hydrogen
  maleate (LHM) and was absent in receptor null-mutant mice.
@@ -3228,34 +3232,34 @@ epigenetics
 \end_layout
 
 \begin_layout Quote
-We previously demonstrated that 24-h treatment with (Ϫ)-1- (2,5-dimethoxy-4-iodo
-phenyl)-2-aminopropane HCl (DOI) causes phosphorylation of G ␣ 11 protein
+We previously demonstrated that 24-h treatment with (delta)-1- (2,5-dimethoxy-4-
+iodophenyl)-2-aminopropane HCl (DOI) causes phosphorylation of G ␣ 11 protein
  at serine 154 and that this phosphorylation causes desensitization of serotonin
  (5-HT) 2A receptor signaling in A1A1v cells (Shi et al., 2007).
  We now report that treatment of A1A1v cells with DOI for 24 h produces
- a greater reduction in the B max of [ 125 I](Ϯ)-DOI-labeled high- affinity
+ a greater reduction in the B max of [ 125 I](theta)-DOI-labeled high- affinity
  binding sites (46%) than the reduction of [ 3 H]ketanserin binding sites
  (25%).
  Although the K D values are not altered, there is a smaller amount of GTP
- ␥ S [guanosine 5Ј-3-O-(thio)- triphosphate]-sensitive [ 125 I](Ϯ)-DOI binding
- in DOI-treated cells.
+ # S [guanosine 5Ј-3-O-(thio)- triphosphate]-sensitive [ 125 I](theta)-DOI
+ binding in DOI-treated cells.
  These results suggest that DOI treatment causes down- regulation of 5-HT
  2A receptors and reductions in G protein- coupled 5-HT 2A receptors.
  In contrast, in cells transfected with the phosphorylation state mimic
- G ␣ 11 S154D, GTP ␥ S-sensitive [ 125 I](Ϯ)-DOI binding was decreased by
- 48%; however, there was no significant difference in the K D and B max
- values of [ 125 I](Ϯ)-DOI-labeled receptors.
- The receptor binding experi- ments suggest that phosphorylation of G ␣
- 11 on serine 154 reduces coupling of 5-HT 2A receptors, whereas DOI causes
+ G ␣ 11 S154D, GTP  S-sensitive [ 125 I](theta)-DOI binding was decreased
+ by 48%; however, there was no significant difference in the K D and B max
+ values of [ 125 I](theta)-DOI-labeled receptors.
+ The receptor binding experi- ments suggest that phosphorylation of G 11
+ on serine 154 reduces coupling of 5-HT 2A receptors, whereas DOI causes
  down-regulation of 5-HT 2A receptors in addition to the phos- phorylation-induc
-ed uncoupling of G ␣ 11 to 5-HT 2A receptors.
- To determine whether DOI increases phosphorylation of G ␣ q/11 protein
- in vivo, rats were treated with 1 mg/kg/day DOI or saline for 1 to 7 days.
+ed uncoupling of G 11 to 5-HT 2A receptors.
+ To determine whether DOI increases phosphorylation of G q/11 protein in
+ vivo, rats were treated with 1 mg/kg/day DOI or saline for 1 to 7 days.
  Seven days of DOI treatment significantly decreased phospholipase C activity
  stimulated by an E max concentration of 5-HT by 40% and increased phosphorylati
-on of G ␣ q/11 proteins by 51% in the frontal cortex.
- These data suggest that DOI causes phosphorylation of G ␣ q/11 in vivo
- and could thereby contribute to the desensitization of 5-HT 2A re- ceptors.
+on of G q/11 proteins by 51% in the frontal cortex.
+ These data suggest that DOI causes phosphorylation of G q/11 in vivo and
+ could thereby contribute to the desensitization of 5-HT 2A re- ceptors.
  
 \begin_inset CommandInset citation
 LatexCommand citep
