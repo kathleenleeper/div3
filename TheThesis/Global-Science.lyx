@@ -83,9 +83,42 @@
 
 \begin_layout Standard
 \begin_inset Branch global-science
-status collapsed
+status open
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
@@ -292,22 +325,6 @@ end{acronym}
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-listoftodos
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \end_inset
 
 
@@ -400,6 +417,21 @@ Who gets to make science, and who gets credit?
 The trouble with rep (re Haraway)
 \end_layout
 
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The trouble with [representation] is,
+\end_layout
+
+\begin_layout Quotation
+it always tries to teach the wrong lesson
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 We can ask where are the queers, but queer, like woman or black, is not
  an inherently meaningful category.
@@ -408,10 +440,29 @@ We can ask where are the queers, but queer, like woman or black, is not
  race has not always defined us.
  Women, the political category, did not (one theorist argues) exist until
  just after WWII; class, too, was constructed.
- Analyzing based on these tropes of natural categories presumes their naturalnes
-s.
- And that' s why it's fucked.
- #Haraway
+ Analyzing on a large scale based on these tropes of natural categories
+ presumes their naturalness.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{This section has been bugging me because of exactly this; homogeniz
+ing and talking about "Women of Color" as a united group just doesn't....it
+ doesn't work.
+ So, yay, figured that out.
+ It's still valuable though.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Paragraph*
@@ -451,7 +502,7 @@ science
 .
  Part of this derives purely from where meta-research has been done.
  Clinical trials (and their representation, both in experimenters and in
- subjects) is 
+ subjects) seem to be 
 \begin_inset ERT
 status collapsed
 
@@ -464,16 +515,16 @@ todo{rephrase}
 
 \end_inset
 
- are more prioritized as study objects, because the efficacy is more obvious
- -- studying a medicine in only men completely ignores 50% of the population
- who might also succumb to a disease.
- Clinical research bias is immediately flawed when representation of different
- bodies isn't taken into account.
+ prioritized as study objects, because the effect is more clear -- studying
+ a medicine in only men completely ignores 50% of the population who might
+ also succumb to a disease.
+ That's just good science; clinical research is immediately flawed when
+ representation of different bodies isn't taken into account.
 \end_layout
 
 \begin_layout Standard
 It's also plausible the bias towards clinical trials as an analytic range
- stems partially from a pervading belief in both the 
+ stems partially from a pervading belief in the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -499,17 +550,13 @@ define{hardness}
  no functional purpose in questioning representation because all it does
  is cater to the feminists.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
 rewrite{this whole section}
-\end_layout
-
-\begin_layout Plain Layout
-
 \end_layout
 
 \end_inset

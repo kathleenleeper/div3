@@ -78,26 +78,57 @@
 
 \begin_body
 
-\begin_layout Chapter
-Shit I like
-\end_layout
-
-\begin_layout Subsection*
-Acronyms
-\end_layout
+\begin_layout Standard
+\begin_inset Branch good-people
+status open
 
 \begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:Good-People"
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
 
 \end_inset
 
 
-\begin_inset Note Note
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+acronyms
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -126,7 +157,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -143,7 +174,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -159,7 +190,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -175,7 +206,7 @@ acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -191,7 +222,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -204,6 +235,34 @@ end{acronym}
 
 \end_inset
 
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Shit I like
+\end_layout
+
+\begin_layout Subsection*
+Acronyms
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Good-People"
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 
 \end_layout
 

@@ -78,6 +78,57 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset Branch mol-neuro
+status open
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 Background
 \end_layout
@@ -2740,7 +2791,8 @@ Other pathways?
 \end_layout
 
 \begin_layout Section
-Evidence for Biased Signalling/Functional selectivity
+Evidence for Biased Signalling/Functional selectivity (also generalized
+ rignalling pathways)
 \end_layout
 
 \begin_layout Standard
@@ -2828,6 +2880,40 @@ graffito{Nothin' is real and I hate it}
 \end_inset
 
 
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+missingfigure{5-HT
+\backslash
+textsubscript{2a} signalling pathway}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -2839,30 +2925,59 @@ Internalization & recycling
 \end_layout
 
 \begin_layout Quote
-Serotonin (5-HT), a major neurotransmitter, has a large number of G protein-coup
-led receptors in mammals.
- On activation by expo- sure to their ligand, 5-HT 2 receptor subtypes increase
+On activation by expo- sure to their ligand, 5-HT 2 receptor subtypes increase
  IP 3 levels and undergo desensitization and internalization.
- To visualize the re- ceptor in cells during these processes, we have constructe
-d a 5-HT 2A -enhanced GFP (SR2-GFP) fusion receptor.
- We show that this fusion receptor undergoes internalization on exposure
- to its nat- ural ligand, 5-HT.
- Because 5-HT 2A receptors activate the phospho- lipase C pathway, we studied
+ 
+\end_layout
+
+\begin_layout Quote
+To visualize the re- ceptor in cells during these processes, we have constructed
+ a 5-HT 2A -enhanced GFP (SR2-GFP) fusion receptor.
+ 
+\end_layout
+
+\begin_layout Quote
+We show that this fusion receptor undergoes internalization on exposure
+ to its natural ligand, 5-HT.
+\end_layout
+
+\begin_layout Quote
+Because 5-HT 2A receptors activate the phospholipase C pathway, we studied
  the effect of protein kinase C (PKC) on the internalization process and
  found that activation of PKC by its specific activator phorbol 12-myristate
  13-acetate, in the absence of 5-HT, leads to internalization of the receptor.
- Moreover, inhibition of PKC by its inhibitor sphingosine in the presence
- of 5-HT prevents the internalization process, suggesting that activa- tion
+ 
+\end_layout
+
+\begin_layout Quote
+Moreover, inhibition of PKC by its inhibitor sphingosine in the presence
+ of 5-HT prevents the internalization process, suggesting that activation
  of PKC is sufficient and necessary for the internalization of 5-HT 2A receptors.
- We also show that SR2-GFP recycles back to the plasma membrane after 5-HT-depen
-dent internalization, suggest- ing a mechanism for resensitization.
- In addition, receptors that have been internalized on addition of phorbol
+ 
+\end_layout
+
+\begin_layout Quote
+We also show that SR2-GFP recycles back to the plasma membrane after 5-HT-depend
+ent internalization, suggesting a mechanism for resensitization.
+ 
+\end_layout
+
+\begin_layout Quote
+In addition, receptors that have been internalized on addition of phorbol
  12-myristate 13- acetate in the absence of 5-HT also recycle to the surface,
  with a time course similar to that seen after activation of the receptors
  by 5-HT.
+
+\series bold
  Our study suggests that 5-HT 2A receptors internalize and return to the
  surface after both serotonin- and PKC-mediated processes.
- This study reveals a role for PKC in receptor internal- ization and also
+ 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+This study reveals a role for PKC in receptor internal- ization and also
  shows that 5-HT 2A receptors are recycled
 \end_layout
 
@@ -2881,6 +2996,21 @@ key "Bhattacharyya2002"
 de/sensitization
 \end_layout
 
+\begin_layout Quote
+Waning responsiveness to continuous or repeated stimulation constitutes
+ the phenomenon of desensitization, which pervades biological systems\SpecialChar \ldots{}
+Agonist-ind
+uced desensitization involves phosphorylation of G protein-coupled receptors
+ by two currently recognized classes of serine/threonine protein kinases\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+GRK-mediated receptor phosphorylation facilitates the binding of an inhibitory
+ arrestin protein to the phosphorylated receptor, an event which substantially
+ impairs receptor signaling.
+\end_layout
+
 \begin_layout Subsubsection
 downregulation of receptor production
 \end_layout
@@ -2894,13 +3024,23 @@ The serotonin (5-hydroxytryptamine) 2A receptor (5- HT 2A ) is an important
  G protein-coupled receptor (GPCR) that mediates the effects of hallucinogens
  and is the target of a number of commonly prescribed medica- tions including
  atypical antipsychotics, antidepres- sants, and anxiolytics.
- The 5-HT 2A receptor possesses a canonical Type I PDZ-binding domain (X-Ser/Thr
--X-) at the carboxyl terminus and has been predicted, but never demonstrated,
- to interact with PDZ domain-con- taining proteins.
- We discovered that PSD-95, a proto- typic PDZ domain-containing protein,
- directly associ- ates with the 5-HT 2A receptor and regulates 5-HT 2A receptor-
-mediated signaling and trafficking in HEK-293 cells.
- Co-immunoprecipitation studies revealed that the native 5-HT 2A receptor,
+ 
+\end_layout
+
+\begin_layout Quote
+The 5-HT 2A receptor possesses a canonical Type I PDZ-binding domain (X-Ser/Thr-
+X-) at the carboxyl terminus\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+We discovered that PSD-95, a prototypic PDZ domain-containing protein, directly
+ associates with the 5-HT 2A receptor and regulates 5-HT 2A receptor-mediated
+ signaling and trafficking in HEK-293 cells.
+\end_layout
+
+\begin_layout Quote
+Co-immunoprecipitation studies revealed that the native 5-HT 2A receptor,
  but not a mutant lacking the PDZ-binding domain, interacted directly with
  PSD-95.
  The association with PSD-95 enhanced 5-HT 2A receptor- mediated signal
@@ -2911,9 +3051,17 @@ mediated signaling and trafficking in HEK-293 cells.
 ation.
  Additional studies demon- strated that 5-HT 2A receptor and PSD-95 were
  co-local- ized in clusters on the cell surface of HEK-293 cells.
- Taken together, the present work elucidates novel roles for PSD-95 in regulatin
-g the functional activity and in- tracellular trafficking of 5-HT 2A receptors
- and possibly other GPCRs.
+ 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Taken together, the present work elucidates novel roles for PSD-95 in regulating
+ the functional activity and in- tracellular trafficking of 5-HT 2A receptors
+ and possibly other GPCRs
+\series default
+.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -2929,30 +3077,52 @@ The 5-hydroxytryptamine type 2A (5-HT 2A ) receptor and the 5-HT 2C receptor
  are closely related members of the G-protein-coupled receptors activated
  by serotonin that share very similar pharmacological profiles and cel-
  lular signaling pathways.
- These receptors express a ca- nonical class I PDZ ligand (SXV) at their
+ 
+\end_layout
+
+\begin_layout Quote
+These receptors express a ca- nonical class I PDZ ligand (SXV) at their
  C-terminal ex- tremity.
  Here, we have identified proteins that interact with the PDZ ligand of
  the 5-HT 2A and 5-HT 2C receptors by a proteomic approach associating affinity
  chromatog- raphy using immobilized synthetic peptides encompass- ing the
  PDZ ligand and mass spectrometry.
- We report that both receptor C termini interact with specific sets of PDZ
+ 
+\end_layout
+
+\begin_layout Quote
+We report that both receptor C termini interact with specific sets of PDZ
  proteins in vitro.
  The 5-HT 2C receptor but not the 5-HT 2A receptor binds to the Veli-31⁄7CASK1⁄7
 Mint1 ternary complex and to SAP102.
- In addition, the 5-HT 2C receptor binds more strongly to PSD-95 and MPP-3
+ 
+\end_layout
+
+\begin_layout Quote
+In addition, the 5-HT 2C receptor binds more strongly to PSD-95 and MPP-3
  than the 5-HT 2A re- ceptor.
  In contrast, a robust interaction between the 5-HT 2A receptor and the
  channel-interacting PDZ protein CIPP was found, whereas CIPP did not significan
 tly as- sociate with the 5-HT 2C receptor.
  We also show that resi- dues located at the 1 position and upstream the
- PDZ ligand in the C terminus of the 5-HT 2A and 5-HT 2C recep- tors are
- major determinants in their interaction with spe- cific PDZ proteins.
- Immunofluorescence and electron mi- croscopy studies strongly suggested
+ PDZ ligand in the C terminus of the 5-HT 2A and 5-HT 2C receptors are major
+ determinants in their interaction with specific PDZ proteins.
+\end_layout
+
+\begin_layout Quote
+Immunofluorescence and electron mi- croscopy studies strongly suggested
  that these specific interactions also take place in living cells and that
  the 5-HT 2 receptor-PDZ protein complexes occur in intra- cellular compartments.
- The interaction of the 5-HT 2A and the 5-HT 2C receptor with specific sets
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+The interaction of the 5-HT 2A and the 5-HT 2C receptor with specific sets
  of PDZ proteins may contribute to their different signal transduction propertie
 s.
+\series default
+
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Becamel2004"
@@ -3009,9 +3179,13 @@ Hallucinogens, including mescaline, psilocybin, and lysergic acid diethylamide
  in the same 2AR-expressing cortical neurons.
  However, the signaling and behavioral responses to the hallucinogens are
  distinct.
- While lisuride and LSD both act at 2AR expressed by cortex neurons to regulate
+ 
+\series bold
+While lisuride and LSD both act at 2AR expressed by cortex neurons to regulate
  phospholipase C, LSD re- sponses also involve pertussis toxin-sensitive
  heterotrimeric G i/o proteins and Src.
+
+\series default
  These studies identify the long-elusive neural and sig- naling mechanisms
  responsible for the unique effects of hallucinogens.
 \begin_inset CommandInset citation
@@ -3028,31 +3202,64 @@ beta arrestin interactions
 \end_layout
 
 \begin_layout Quote
-Visual and auditory hallucinations accompany certain neuropsy- chiatric
- disorders, such as schizophrenia, and they also can be induced by the use
- or abuse of certain drugs.
- The heptahelical serotonin 2A receptors (5-HT2ARs) are molecular targets
+Visual and auditory hallucinations
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"hallucinations"}
+\end_layout
+
+\end_inset
+
+ accompany certain neuropsychiatric disorders, such as schizophrenia, and
+ they also can be induced by the use or abuse of certain drugs.
+ 
+\end_layout
+
+\begin_layout Quote
+The heptahelical serotonin 2A receptors (5-HT2ARs) are molecular targets
  for drug- induced hallucinations.
  However, the cellular mechanisms by which the 5-HT2AR mediates these effects
  are not well understood.
- Drugs acting at the 5-HT2AR can trigger diverse signaling path- ways that
+\end_layout
+
+\begin_layout Quote
+Drugs acting at the 5-HT2AR can trigger diverse signaling path- ways that
  may be directed by the chemical properties of the drug.
- beta -arrestins are intracellular proteins that bind to heptahelical receptors
+ 
+\end_layout
+
+\begin_layout Quote
+ß-arrestins are intracellular proteins that bind to heptahelical receptors
  and represent a point where such divergences in ligand- directed functional
  signaling could occur.
- Here we compare the endogenous agonist, serotonin, to a synthetic 5-HT2AR
- hallucino- genic agonist, 2,5-dimethoxy-4-iodoamphetamine (DOI), in mice
- lacking beta -arrestin-2, as well as in cells lacking beta -arrestins.
- In mice, we find that serotonin induces a head twitch response by a beta
- -arrestin-2-dependent mechanism.
- However, DOI invokes the behavior independent of beta -arrestin-2.
- The two structurally distinct agonists elicit different signal transduction
+\end_layout
+
+\begin_layout Quote
+Here we compare the endogenous agonist, serotonin, to a synthetic 5-HT2AR
+ hallucinogenic agonist, 2,5-dimethoxy-4-iodoamphetamine (DOI), in mice
+ lacking ß-arrestin-2, as well as in cells lacking ß-arrestins.
+ In mice, we find that serotonin induces a head twitch response by a ß -arrestin
+-2-dependent mechanism.
+ However, DOI invokes the behavior independent of ß -arrestin-2.
+\end_layout
+
+\begin_layout Quote
+The two structurally distinct agonists elicit different signal transduction
  and trafficking patterns upon activation of 5-HT2AR, which hinge on the
- presence of beta -arrestins.
- Our study suggests that the 5-HT2AR– beta -arrestin inter- action may be
- particularly important in receptor function in re- sponse to endogenous
- serotonin levels, which could have major implications in drug development
- for treating neuropsychiatric disorders such as depression and schizophrenia.
+ presence of ß-arrestins.
+ 
+\end_layout
+
+\begin_layout Quote
+Our study suggests that the 5-HT2AR– ß arrestin interaction may be particularly
+ important in receptor function in response to endogenous serotonin levels,
+ which could have major implications in drug development for treating neuropsych
+iatric disorders such as depression and schizophrenia.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Schmid2008a"
@@ -3078,7 +3285,11 @@ NIH3T3 cells stably expressing the rat 5-hydroxytryptamine 2A (5-HT 2A )
  receptor (5500 fmol/mg) were used to explore further the capacity of structural
 ly distinct ligands to elicit differential signaling through the phospholipase
  C (PLC) or phospholipase A 2 (PLA 2 ) signal transduction pathways.
- Initial experiments were designed to verify that 5-HT 2A receptor-mediated
+ 
+\end_layout
+
+\begin_layout Quote
+Initial experiments were designed to verify that 5-HT 2A receptor-mediated
  PLA 2 activation in NIH3T3 cells is independent from, and not a sub- sequent
  result of, 5-HT 2A receptor-mediated PLC activation.
  In addition, we also explored the extent of receptor reserve for the endogenous
@@ -3087,16 +3298,28 @@ ly distinct ligands to elicit differential signaling through the phospholipase
  phenethylamine, and ergoline families of 5-HT 2A receptor agonists to test
  the hypothesis of agonist-directed trafficking of 5-HT 2A receptor-mediated
  PLC and PLA 2 activa- tion.
- To measure agonist-induced pathway activation, we de- termined the potency
+ 
+\end_layout
+
+\begin_layout Quote
+To measure agonist-induced pathway activation, we de- termined the potency
  and intrinsic activity of each compound to activate either the PLA 2 pathway
  or the PLC pathway.
- The results showed that a larger receptor reserve exists for 5-HT- induced
+ The results showed that a larger receptor reserve exists for 5-HT-induced
  PLA 2 activation than for 5-HT-induced PLC activation.
- Furthermore, the data support the hypothesis of agonist-di- rected trafficking
- in NIH3T3–5HT 2A cells because structurally distinct ligands were able
- to induce preferential activation of the PLC or PLA 2 signaling pathway.
+ Furthermore, 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+the data support the hypothesis of agonist-di- rected trafficking in NIH3T3–5HT
+ 2A cells because structurally distinct ligands were able to induce preferential
+ activation of the PLC or PLA 2 signaling pathway.
  From these data we conclude that structurally distinct ligands can differential
 ly regulate 5-HT 2A receptor signal transduction.
+\series default
+
 \begin_inset CommandInset citation
 LatexCommand citealt
 after "2003"
@@ -3114,30 +3337,54 @@ Transcriptomic signalling
 \begin_layout Quote
 Most neuropharmacological agents and many drugs of abuse modulate the activity
  of heptahelical G-protein-coupled receptors.
- Al- though the effects of these ligands result from changes in cellular
- signaling, their neurobehavioral activity may not correlate with results
- of in vitro signal transduction assays.
+ 
+\end_layout
+
+\begin_layout Quote
+Although the effects of these ligands result from changes in cellular signaling,
+ their neurobehavioral activity may not correlate with results of in vitro
+ signal transduction assays.
  5-Hydroxytryptamine 2A receptor (5-HT2AR) partial agonists that have similar
  pharmacological profiles differ in the behavioral responses they elicit.
- In vitro studies suggest that different agonists acting at the same receptor
+\end_layout
+
+\begin_layout Quote
+In vitro studies suggest that different agonists acting at the same receptor
  may establish distinct patterns of signal transduction.
  Testing this hypothesis in the brain requires a global signal transduction
  assay that is applicable in vivo.
- To distinguish the cellular effects of the different 5-HT2AR agonists,
- we developed an assay for global signal transduc- tion on the basis of
- high throughput quantification of rapidly modulated transcripts.
- Study of the responses to agonists in human embryonic kidney 293 cells
- stably expressing 5-HT2ARs demonstrated that each agonist elicits a distinct
- transcriptome fingerprint.
- We therefore studied behavioral and cortical signal transduction responses
+\end_layout
+
+\begin_layout Quote
+To distinguish the cellular effects of the different 5-HT2AR agonists, we
+ developed an assay for global signal transduction on the basis of high
+ throughput quantification of rapidly modulated transcripts.
+ Study of the responses to agonists in
+\series bold
+ human embryonic kidney 293 cells stably expressing 5-HT2ARs
+\series default
+ demonstrated that each agonist elicits a distinct transcriptome fingerprint.
+\end_layout
+
+\begin_layout Quote
+We therefore studied behavioral and cortical signal transduction responses
  in wild-type and 5-HT2AR null-mutant mice.
  The hallucinogenic chemicals (theta)-2,5-dimethoxy-4-iodoamphetamine (DOI)
  and lysergic acid diethylamide (LSD) stimulated a head-twitch behavioral
  response that was not observed with the nonhallucinogenic lisuride hydrogen
  maleate (LHM) and was absent in receptor null-mutant mice.
- We also found that DOI, LSD, and LHM each induced distinct transcriptome
+ 
+\end_layout
+
+\begin_layout Quote
+We also found that DOI, LSD, and LHM each induced distinct transcriptome
  fingerprints in somatosensory cortex that were absent in 5-HT2AR null-mutants.
- Moreover, DOI and LSD showed similarities in the transcriptome fingerprints
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Moreover, DOI and LSD showed similarities in the transcriptome fingerprints
  obtained that were not observed with the behaviorally inactive drug LHM.
  Our results demonstrate that chemicals acting at the 5-HT2AR induce specific
  cellular response patterns in vivo that are reflected in unique changes
@@ -3249,7 +3496,11 @@ iodophenyl)-2-aminopropane HCl (DOI) causes phosphorylation of G ␣ 11 protein
  G ␣ 11 S154D, GTP  S-sensitive [ 125 I](theta)-DOI binding was decreased
  by 48%; however, there was no significant difference in the K D and B max
  values of [ 125 I](theta)-DOI-labeled receptors.
- The receptor binding experi- ments suggest that phosphorylation of G 11
+ 
+\end_layout
+
+\begin_layout Quote
+The receptor binding experi- ments suggest that phosphorylation of G 11
  on serine 154 reduces coupling of 5-HT 2A receptors, whereas DOI causes
  down-regulation of 5-HT 2A receptors in addition to the phos- phorylation-induc
 ed uncoupling of G 11 to 5-HT 2A receptors.
@@ -3272,6 +3523,16 @@ key "Shi2007a"
 
 \begin_layout Subsubsection
 gene expression
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Nichols2002"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -3671,6 +3932,7 @@ just
  science, I opted to work at Hampshire.
  Our money and our model systems are limited; I also won't be getting DEA
  approval, so I can't work directly with psychedelic drugs.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -3757,7 +4019,7 @@ P19s are derived from embryonal teratocarcinoma cells, from behind the testes
  of XY-karyotype mice.
  They are immortal and easy to maintain, retaining pluripotency under normal
  cell culture conditions.
- Upon 
+ With 
 \begin_inset ERT
 status open
 
@@ -3770,7 +4032,7 @@ ac{RA}
 
 \end_inset
 
- application and a slight modification of culture conditions, P19s differentiate
+ application and minro modification of culture conditions, P19s differentiate
  into 
 \begin_inset ERT
 status open
