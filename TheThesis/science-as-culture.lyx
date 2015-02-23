@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch chapteronly
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -73,9 +78,45 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset Branch chapteronly
+status open
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Feminist Science Studies
@@ -83,15 +124,7 @@ Feminist Science Studies
 
 \end_inset
 
-
-\begin_inset Quotes eld
-\end_inset
-
 Science Studies, Feminist Theory, Cultural Studies
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -121,9 +154,7 @@ status open
 
 
 \backslash
-todo[size=
-\backslash
-small]{define science here.
+todo{define science here.
  Generally, great power -> great responsibility}
 \end_layout
 
@@ -144,10 +175,94 @@ I am become death
 \end_layout
 
 \begin_layout Standard
-Science is both handmaid to progress and the worst ever.
+Science is both handmaid to progress and a crucial strut in upholding inequities.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"Progress"}
+\end_layout
+
+\end_inset
+
+q
 \end_layout
 
 \begin_layout Standard
+Scientific ethics and responsibility is often looked at only within the
+ frame of experimental design and execution.
+ This is, indisputably, desperately important.
+ We decry the the Tuskegee Syphilis Experiments as a clear failure on the
+ part of the scientists involved, their funding body
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{Tuskegee}
+\end_layout
+
+\end_inset
+
+, and whatever oversight the university claimed to consider basic human
+ rights
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Obviously, in the U.S.
+ racial frame black bodies are unhuman, and the experimenters were more
+ or less within their rights, so}
+\end_layout
+
+\end_inset
+
+.
+ To our modern sensibilities, the study leaders were deeply and irrevocably
+ shaped by the anti-back racism in the post-Civil War Jim Crow era.
+\end_layout
+
+\begin_layout Standard
+More insidious and more difficult to make sweeping moral judgements on is
+ the way science has not just been done 
+\begin_inset Quotes eld
+\end_inset
+
+poorly
+\begin_inset Quotes erd
+\end_inset
+
+, but used to justify and 
+\emph on
+create 
+\emph default
+new systems of exclusion, while staying within the ethical bounds of the
+ time.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{define modern science}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -172,7 +287,7 @@ status open
 
 
 \backslash
-findref{scientific imperialism}
+research{scientific imperialism}
 \end_layout
 
 \end_inset
@@ -191,7 +306,7 @@ key "Headrick1981"
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -210,7 +325,7 @@ status open
 
 
 \backslash
-todo{re bioprospecting and new forms of scientific/medical colonialism}
+todo{re bioprospecting and new forms of scientific and medical colonialism}
 \end_layout
 
 \end_inset
@@ -219,74 +334,7 @@ todo{re bioprospecting and new forms of scientific/medical colonialism}
 \end_layout
 
 \begin_layout Standard
-Scientific ethics and responsibility is often looked at only within the
- frame of experimental design and execution.
- This is, indisputably, desperately important.
- The Tuskegee Syphilis Experiments represent a clear failure on the part
- of the scientists involved, their funding body
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{more on Tuskegee}
-\end_layout
-
-\end_inset
-
-, and whatever oversight the university claimed to consider basic human
- rights
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Obviously, in the U.S.
- racial frame black bodies are unhuman, and the experimenters were more
- or less within their rights, so...} 
-\end_layout
-
-\end_inset
-
-; undoubtedly, the study leaders were deeply and irrevocably shaped by the
- anti-black racism in the post- Civil War.
- The following experiments on prisoners in the U.S.
- and around the world remains in the same vein
-\end_layout
-
-\begin_layout Standard
-More insidious and more difficult to make sweeping moral judgements on is
- the way science has not just been done 
-\begin_inset Quotes eld
-\end_inset
-
-poorly
-\begin_inset Quotes erd
-\end_inset
-
-, but used to justify and 
-\emph on
-create 
-\emph default
-new systems of exclusion, as well as enabling [[war!]]
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{fix me}
-\end_layout
-
-\end_inset
-
-, all while staying within the ethical bounds of the time.
- Racism -- the peculiar brand of American racism, derived from slave-owners
+Racism -- the peculiar brand of American racism, derived from slave-owners
  desperate to justify their brutality of human bondage -- was created through
  the collusion of science and society, specifically a science that carefully
  cataloged and characterized the way Africans and African-Americans differed,
@@ -300,7 +348,7 @@ well-born
 \begin_inset Quotes erd
 \end_inset
 
-, in Greek) movement came to us from Charles' Darwin, via Francis Galton.
+, in Greek) movement came to us from Charles' Darwin.
  Eugenics, of course, gained notoriety in Nazi Germany, but its legacy in
  the United States is deeply rooted.
  
@@ -323,7 +371,7 @@ status open
 
 
 \backslash
-rewrite{Add detail, re 1000 genomes project and current abuse?}
+rewrite{1000 genomes project and current scientific power abuse?}
 \end_layout
 
 \end_inset
@@ -679,88 +727,6 @@ Facts
 \end_layout
 
 \begin_layout Standard
-His ideas re-appear in one of the most well-known historians or sociologists
- of science, Thomas Kuhn, famed writer of
-\emph on
- Structures of Scientific Revolution
-\emph default
-.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kuhn1996"
-
-\end_inset
-
-
-\emph on
- 
-\emph default
-The publication of Kuhn's 
-\emph on
-Structure
-\emph default
- in 1962 is considered a landmark event in philosophy and history of science.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Debating Kuhn's usefulness}
-\end_layout
-
-\end_inset
-
- He coined the usage of 
-\begin_inset Quotes eld
-\end_inset
-
-paradigm
-\begin_inset Quotes erd
-\end_inset
-
- in the incredibly-common, borderline meaningless sense it's used today.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Masterman (reference not currently included) cites 21 diff uses of paradigm
-\end_layout
-
-\end_inset
-
- A previous Div III expressed my feelings, with regards to at least 
-\emph on
-Structures:
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Thomas Kuhn’s work occupies an awkward and somewhat inexplicable position
- in the contemporary intellectual environment.
- Kuhn’s thinking, and here I refer specifically and exclusively to the thoughts
- put forth in The Structure of Scientific Revolutions (SSR), while conceptually
- worthwhile, erodes quickly under scrutiny.
- 
-\begin_inset Quotes eld
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
--Campbell, 
-\emph on
-Essays on Biological Epistemology
-\emph default
-, Div III in 2007
-\end_layout
-
-\begin_layout Standard
 Fleck and Kuhn and many of their concurrent and subsequent philosophers,
  historians, and sociologists of science offer compelling arguments that
  science is, yes, evolution, but not evolution 
@@ -774,7 +740,7 @@ towards
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -816,16 +782,14 @@ Questioning representation with a vengeance.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo[size=
-\backslash
-small]{Find feminist science studies chronology; and also maybe ways it
- is or is not western?}
+todo{Find feminist science studies chronology; and also maybe ways it is
+ or is not western?}
 \end_layout
 
 \end_inset
@@ -966,20 +930,17 @@ silent spring, ecofeminism, etc
 
 \end_inset
 
-At some point in the past 30-40 years (mid-1980s?), feminist science happened;
- not, of course, always under one name or one set of goals.
- New ways of knowing overlaps with technology and science studies overlaps
+ANew ways of knowing overlaps with technology and science studies overlaps
  with philosophy of science overlaps with a plethora of other modes of analysis.
  What I now call feminist science studies emerges out of activists
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{feminist science studies more specifically tied to 1970s women's
- 
+todo{feminist science studies more specifically tied to 1970s women's 
 \backslash
 & environmental social movements: also in a specifically Western/US context}
 \end_layout
@@ -1004,8 +965,7 @@ key "Haraway1994"
 
 
 \emph default
-.
- Per Haraway, feminist science studies is at some meeting point of:
+ Per Haraway, feminist science studies is at some meeting point of
 \end_layout
 
 \begin_layout Quote
@@ -1020,8 +980,8 @@ Cultural
 
 studies
 \series default
- \SpecialChar \ldots{}
- Not culture only as symbols and meanings, not comparative culture studies,
+\SpecialChar \ldots{}
+Not culture only as symbols and meanings, not comparative culture studies,
  but culture as an account of the agencies, hegemonies, counter-hegemonies,
  and unexpected possibilities of bodily construction\SpecialChar \ldots{}
 Relentless attention
@@ -1054,8 +1014,8 @@ Antiracist
 Theory/Projects
 \series default
  \SpecialChar \ldots{}
- situated knowledges, where the description of the situation is never self-evid
-ent, never simply 
+situated knowledges, where the description of the situation is never self-evide
+nt, never simply 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1126,17 +1086,17 @@ Science
 
 Studies
 \series default
- \SpecialChar \ldots{}
- reflexivity, constructionism\SpecialChar \ldots{}
-science in the making (not science made),
- actors and networks\SpecialChar \ldots{}
+\SpecialChar \ldots{}
+reflexivity, constructionism\SpecialChar \ldots{}
+science in the making (not science made), actors
+ and networks\SpecialChar \ldots{}
 science as practice and culture\SpecialChar \ldots{}
-the culture of no culture,
- the nature of no nature\SpecialChar \ldots{}
-All the disciplines of science studies: history,
- philosophy, sociology, semiology, and anthropology; but also the formation
- of science studies out of the histories of radical science movements, community
- organizing, and policy-directed work.
+the culture of no culture, the
+ nature of no nature\SpecialChar \ldots{}
+All the disciplines of science studies: history, philosophy,
+ sociology, semiology, and anthropology; but also the formation of science
+ studies out of the histories of radical science movements, community organizing
+, and policy-directed work.
  These histories are regularly erased in the hegemonic accounts of disciplinary
  and interdisciplinary development in the academy and the professions.
 \begin_inset Quotes erd
@@ -1207,7 +1167,7 @@ All that is merely to impress upon a reader that using the word feminism
 \begin_layout Section
 What does this do in a practical sense?
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 In Practice
@@ -1230,8 +1190,16 @@ Asking Different Questions
 \end_layout
 
 \begin_layout Standard
-Feminist science studies allows, and demands, a number of things of practicing
- scientists.
+Feminist science studies both allows and demands practicing scientists engagemen
+t with more than 
+\begin_inset Quotes eld
+\end_inset
+
+just
+\begin_inset Quotes erd
+\end_inset
+
+ science.
  It lets us ask questions of representation in our labs, our most important
  journals, and our students: 
 \begin_inset Quotes eld
@@ -1357,13 +1325,14 @@ key "Subramaniam2009"
 It asks us to look at science as a practice inseparable from culture, and
  what that might mean for knowledge and for scientists as the future producers
  of that knowledge.
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Section
+\begin_layout Plain Layout
 Indigenous knowledges and local biologies
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1398,7 +1367,7 @@ ldots because I wanted to have some language that would actually remind
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 At worst, this conflation and confusion leads to movements that claim 
 \begin_inset Quotes eld
 \end_inset
@@ -1412,18 +1381,18 @@ gay is the new black
  biologies.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 To try and parse out an indigenous science is to frame it against a Eurocentric
  background, placing it in square opposition.
  This is the only framework within which I am capable of understanding an
  indigenous science or a local biology.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Local biologies
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -1447,7 +1416,7 @@ Local biologies are implied by feminist science theory, and indeed general
  trek through this div.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Local biologies were initiated by Margaret Lock, in comparing the uniquely
  North American symptoms of 
 \begin_inset Quotes eld
@@ -1543,7 +1512,7 @@ y reproduced, and the primary site where this engagement takes place is
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Moreover, while local is often geographical, location is only one of many
  axes.
  
@@ -1563,7 +1532,7 @@ geographic identities and locations.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 In practice, that means young boys in the United States who act out are
  diagnosed with autism, while young girls are ignored
 \begin_inset ERT
@@ -1592,7 +1561,7 @@ key "Hamdy2013"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1605,11 +1574,11 @@ More examples/elaboration here
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Plain Layout
 Indigenous knowledges and sciences
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -1676,7 +1645,7 @@ key "Battiste2005"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1732,6 +1701,11 @@ On the other hand, the Inuit strongly resist medicalization when they give
  birth, in large part be- cause this has usually involved routine "evacuation"
  from the Arctic to urban terti- ary care hospitals in the Canadian south
  (O'Neil and Kaufert 1995).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -2069,7 +2043,7 @@ reference "chap:feminist-science-cultural-studies"
  
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection*
 Troubling Scientific Systems
 \end_layout
 
@@ -2195,7 +2169,7 @@ that I want to emulate, and projects that have attempted to wrestle with
  all or some of my issues and succeeded in some measure.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection*
 Doing Science Like a Scientist
 \end_layout
 
@@ -2234,7 +2208,7 @@ reference "chap:Open-Science_casestudy"
  on a practical implementation level.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection*
 Reconstructive Neuroscience
 \end_layout
 
@@ -2265,10 +2239,10 @@ Then there will be a conclusion when I finish my div!
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch chapteronly
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"

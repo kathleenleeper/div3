@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch analysis-publish
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -73,23 +78,41 @@
 
 \begin_body
 
-\begin_layout Chapter
-What Happens When We 
-\begin_inset Quotes eld
+\begin_layout Standard
+\begin_inset Branch analysis-publish
+status open
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
 \end_inset
 
-Fix
-\begin_inset Quotes erd
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
 \end_inset
 
- Publishing?
+
+\end_layout
+
+\begin_layout Subsection*
+acronym
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -107,7 +130,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -124,7 +147,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -140,7 +163,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -156,7 +179,7 @@ acro{OS}{open science}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -172,7 +195,7 @@ acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -188,7 +211,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -212,7 +235,7 @@ key "Fanelli2013"
 )
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -236,7 +259,7 @@ key "Fanelli2013"
 )
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -260,7 +283,7 @@ key "Ioannidis2005"
 )
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -276,7 +299,7 @@ acro{IF}{Journal Impact Factor}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -298,45 +321,7 @@ emph{Science}}
 
 \end_layout
 
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -352,7 +337,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -368,7 +353,7 @@ acro{GPL}{GNU General Public License}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -384,7 +369,7 @@ acro{GNU}{GNUs Not Unix}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -400,7 +385,7 @@ acro{PLoS}{Public Library of Science}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -416,9 +401,9 @@ acro{OS}{open science}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -435,6 +420,21 @@ end{acronym}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter
+What Happens When We 
+\begin_inset Quotes eld
+\end_inset
+
+Fix
+\begin_inset Quotes erd
+\end_inset
+
+ Publishing?
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:values-fixing-publishing"
@@ -1484,10 +1484,10 @@ I can't actually do an anthology of open science in the developing world.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch analysis-publish
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "open-science,CriticalOpenNeuro"

@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch open-science
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -73,42 +78,41 @@
 
 \begin_body
 
-\begin_layout Chapter
-Solutions: Crack it Open? 
+\begin_layout Standard
+\begin_inset Branch open-science
+status open
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Acronyms
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:solution-OS"
-
-\end_inset
-
-
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-so much of this is a focus on 
-\begin_inset Quotes eld
-\end_inset
-
-the U.S.
- is underfunding research, and our post-doc positions are increasingly filled
- by foreigners
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -137,7 +141,7 @@ acro{FLOSS}{free/libre open source software}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -154,7 +158,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -170,7 +174,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -186,23 +190,7 @@ acro{OS}{open science}
 
 \end_layout
 
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -218,7 +206,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -226,71 +214,15 @@ status open
 
 
 \backslash
-acro{GMH}{growing misconduct hypothesis}
+acro{OA}{Open Access}
 \end_layout
 
 \end_inset
 
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
 
-\end_inset
-
-)
 \end_layout
 
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{SSH}{'stronger system' hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PPV}{positive predictive value}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2005"
-key "Ioannidis2005"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -306,7 +238,7 @@ acro{IF}{Journal Impact Factor}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -328,7 +260,7 @@ emph{Science}}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -337,6 +269,22 @@ status open
 
 \backslash
 end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
 \end_layout
 
 \end_inset
@@ -353,12 +301,6 @@ status collapsed
 \begin_layout Plain Layout
 Relative Slowness of Medicinal Practice
 \end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
 
 \begin_layout Quote
 By far the most common argument made for open- access by scientists and
@@ -398,12 +340,6 @@ open source malaria practice\SpecialChar \@.
 
 \end_layout
 
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
 \begin_layout Plain Layout
 2 Many Boundaries Between Disciplines; Lack of Collaboration; 
 \begin_inset Quotes eld
@@ -416,12 +352,6 @@ Interdisciplinary
  Collabs
 \end_layout
 
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
 \begin_layout Plain Layout
 Incentivising Science: Funding and Prestige
 \end_layout
@@ -431,26 +361,94 @@ Incentivising Science: Funding and Prestige
 
 \end_layout
 
-\begin_layout Quote
+\begin_layout Chapter
+Solutions: Crack it Open? 
+\end_layout
 
-\size large
-“Open means 
-\series bold
-anyone
-\series default
- can 
-\series bold
-freely access, use, modify, and share 
-\series default
-[content] for 
-\series bold
-any purpose
-\series default
-.
+\begin_layout Quote
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:solution-OS"
+
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+so much of this is a focus on 
+\begin_inset Quotes eld
+\end_inset
+
+the U.S.
+ is underfunding research, and our post-doc positions are increasingly filled
+ by foreigners
 \begin_inset Quotes erd
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+Science is based on building on, reusing and openly criticising the published
+ body of scientific knowledge.
+\end_layout
+
+\begin_layout Quote
+For science to effectively function, and for society to reap the full benefits
+ from scientific endeavours, it is crucial that science data be made 
+\emph on
+open
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Quote
+\align right
+The Panton Principles 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://pantonprinciples.org
+\end_layout
+
+\end_inset
+
+, 02/16/2015
+\end_layout
+
+\begin_layout Quote
+Knowledge is open if anyone is free to access, use, modify, and share it
+ — subject, at most, to measures that preserve provenance and openness.
+\end_layout
+
+\begin_layout Quote
+\align right
+The open definition
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://opendefinition.org/od
+\end_layout
+
+\end_inset
+
+, 02/16/2015
 \end_layout
 
 \begin_layout Standard
@@ -469,7 +467,20 @@ reference "chap:ScienticEcosystem"
 
 \end_inset
 
-, open results in a number of related goals, ideally put into practice together.
+, open manifests in different but co-existing
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{conflict between different areas of openness}
+\end_layout
+
+\end_inset
+
+ inititives.
 \end_layout
 
 \begin_layout Section
@@ -496,7 +507,7 @@ status collapsed
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 graffito{omg can I say this will people know it's a joke?}
 \end_layout
@@ -507,15 +518,517 @@ graffito{omg can I say this will people know it's a joke?}
  the paper version far behind.
 \end_layout
 
-\begin_layout Section
-open code
+\begin_layout Subsubsection
+From Peter Suber's 
+\begin_inset Quotes eld
+\end_inset
+
+Open Access Overview
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+He, and I, refer largely in this to the unit of scholarly success, the peer-revi
+ewed scholarly journal articles.
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
+
+
+\backslash
+ac{OA}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{licensing} - means the PDF can be downloaded, but also shared, fed
+ into text mining attemps, etc}
+\end_layout
+
+\end_inset
+
+ literature is digital, online, free of charge, and free of most copyright
+ and licensing restrictions.
+ It removes price barriers (subscriptions, licenscing fees, pay-per-view
+ fees, i.e.
+ gratis) and permission barriers (copyright and licensing, i.e.
+ libre).
+\end_layout
+
+\begin_layout Quote
+Succinctly, 
+\begin_inset Quotes eld
+\end_inset
+
+free availability and unrestricted use
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{as per 
+\backslash
+ac{PLoS}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To adapt Richard Stallman's famous formulation (originally applied to software),
+ gratis OA is free as in 'free beer', while libre OA is also free as in
+ 'free speech'.
+ 
+\end_layout
+
+\begin_layout Paragraph
+In legalese
+\end_layout
+
+\begin_layout Standard
+The legal basis of OA is the consent of the copyright holder (for newer
+ literature) or the expiration of copyright (for older literature).
+\end_layout
+
+\begin_layout Standard
+In the 
+\begin_inset Quotes eld
+\end_inset
+
+creative
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"creative" being a loaded term, of}
+\end_layout
+
+\end_inset
+
+ industries, copyright is arguably intrinsic to compensating the artist
+ for their work, in the sense that musicians, artists, authors and filmmakers
+ are paid via royalty or the sale of their work.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Although this is already troubled...fellowships and grants go to the art world
+ etc.
+ 
+\end_layout
+
+\end_inset
+
+ Scientists, on the other hand, publish without any expectation of payment
+ (
+\begin_inset Quotes eld
+\end_inset
+
+royalty-free literature).
+\end_layout
+
+\begin_layout Quote
+Obviously no one writes royalty-free literature for money.
+ Scholars write journal articles because advancing knowledge in their fields
+ advances their careers.
+ They write for impact, not for money.
+ It takes nothing away from a disinterested desire to advance knowledge
+ to note that it is accompanied by a strong self-interest in career-building.
+ OA does not depend on altruistic volunteerism.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OA}
+\end_layout
+
+\end_inset
+
+ occurs within this specialized realm where the actual release of knowledge
+ is unaccompanied by any direct movement of money into the author's pockets.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The most important royalty-free literature for our purposes is the body
+ of peer-reviewed scientific and scholarly research articles and their preprints.
+ (Non-academics are often surprised to learn that scholarly journals generally
+ do not pay authors for their articles.) Obviously no one writes royalty-free
+ literature for money.
+ Scholars write journal articles because advancing knowledge in their fields
+ advances their careers.
+ They write for impact, not for money.
+ It takes nothing away from a disinterested desire to advance knowledge
+ to note that it is accompanied by a strong self-interest in career-building.
+ OA does not depend on altruistic volunteerism.
+ Because scholars do not earn money from their journal articles, they are
+ very differently situated from most musicians and movie-makers.
+ Controversies about OA to music, movies, and other royalty-producing content,
+ therefore, do not carry over to research articles.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+OA literature is not 
+\strikeout on
+free
+\strikeout default
+ gratis to produce or publish.
+ 
+\end_layout
+
+\begin_layout Quote
+`"Free is ambiguous.
+ We mean free for readers, not free for producers.
+ We know that open-access literature is not free (without cost) to produce.
+ But that does not foreclose the possibility of making it free of charge
+ (without price) for readers and users." 
+\end_layout
+
+\begin_layout Subparagraph
+Open access is not synonymous with universal access.
+\end_layout
+
+\begin_layout Standard
+Even after OA has been achieved, at least four kinds of access barriers
+ might remain in place: 
+\end_layout
+
+\begin_layout Itemize
+Filtering and censorship barriers.
+ Many schools, employers, and governments want to limit what you can see.
+ 
+\end_layout
+
+\begin_layout Itemize
+Language barriers.
+ Most online literature is in English, or just one language, and machine
+ translation is very weak.
+ 
+\end_layout
+
+\begin_layout Itemize
+Handicap access barriers.
+ Most web sites are not yet as accessible to handicapped users as they should
+ be.
+ 
+\end_layout
+
+\begin_layout Itemize
+Connectivity barriers.
+ The digital divide keeps billions of people, including millions of serious
+ scholars, offline.
+ 
+\end_layout
+
+\begin_layout Section
+Open data
+\end_layout
+
+\begin_layout Quote
+Open science data is a type of open data focused on publishing observations
+ and results of scientific activities available for anyone to analyze and
+ reuse.
+ While the 
+\emph on
+idea
+\emph default
+ of open science data has been actively promoted since the 1950s, the rise
+ of the Internet has significantly lowered the cost and time required to
+ publish or obtain data.
+\end_layout
+
+\begin_layout Standard
+omg share your fucking datasets.
+ you should nt just report aggregate numbers and expect that t be a valid
+ demonstration of replicability.
+ also,
+\end_layout
+
+\begin_layout Standard
+data sets can be cited.
+\end_layout
+
+\begin_layout Subsection
+Methods
+\end_layout
+
+\begin_layout Standard
+actual reproducibility is...let's be honest, not great with the way methods
+ are currently presented in papers.
+ even in supplemental data (only available online, although typically as
+ a gratis addition).
+\end_layout
+
+\begin_layout Standard
+If methods are supposed to aid in reproducibility, there's some breakdown
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{method sharing}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Code and Hardware
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{open code section.
+ It's weird and hard to parse..
+ Isn't this also related to...over work, expectations of productivity etc.
+ And hard not to get carried away and whine about abolishing all copyright.}
+\end_layout
+
+\end_inset
+
+To make sense of scientific data they must be analysed.
+ In all but the simplest cases, this is done by software.
+ The extensive use of software poses problems for the reproducibility of
+ research.
+ To keep research reproducible, it is necessary to publish not only all
+ data, but also the source code of all software used, and all the parametrizatio
+n used in running this software.
+ Presently, these requests are rarely ever met.
+\end_layout
+
+\begin_layout Standard
+Computers and machines
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{cyborgs!!}
+\end_layout
+
+\end_inset
+
+ are indispensable.
+ Statistics, the objective ruler of experimental results, is the result
+ of code in various languages -- R,Matlab, Python, or SPSS (to name a few).
+ Hey, there are entire papers and journals dedicated to computational biology
+ -- code that takes the aforementioned open data and pulls more facts out.
+ What we do with our computers is fundamental to the execution of science,
+ if not the actual thoughts.
+ 
+\end_layout
+
+\begin_layout Subparagraph
+Code is prone to errors.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"Talk is cheap.
+ Show me the code." -Linus}
+\end_layout
+
+\end_inset
+
+As per Eric Raymond in 
+\emph on
+The Cathedral and the Bazaar
+\emph default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Given enough eyeballs, all bugs are shallow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{OK, Raymond.}
+\end_layout
+
+\end_inset
+
+ Like with software development, in the generation and analysis of data
+ using computer code, not all bugs manifest with outward syntactic issues
+ where the code won't 
+\emph on
+run
+\emph default
+.
+ Instead, bugs are type errors, or misplaced loops: semantic errors that
+ systematically and insidiously warp results.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{coding errors and analysis}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+I.e.
+ if you use an int type number in Python, python will round the results.
+ This error will produce approximately accurate results -- but certainly
+ not with the calculated specificity, and might introduce other small-but-meanin
+gful errors.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+IF you generate numbers with code (which ,realistically, you do), that code
+ should be open so it can be checked for accuracy.
+\end_layout
+
+\begin_layout Subparagraph
+Code can and 
+\emph on
+is
+\emph default
+ re-used.
+\end_layout
+
+\begin_layout Standard
+As demonstrated by my desperate attempts to build and extend the work of
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "West2013"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Lariviere2013"
+
+\end_inset
+
+in a bibliometric analysis of gender in publications and I 
+\emph on
+can't
+\emph default
+ because they don't 
+\emph on
+share their fucking code.
+\end_layout
+
+\begin_layout Section
+Issues
+\end_layout
+
+\begin_layout Subsection
+Credit
+\end_layout
+
+\begin_layout Standard
+Code can be cited.
+ Data can be cited.
+ If you can't think of other ways to award credit, be more inventive.
+\end_layout
+
+\begin_layout Subsection
+Confidentiality of Data
+\end_layout
+
+\begin_layout Standard
+Right ok whatever.
+\end_layout
+
+\begin_layout Subsection
+Which Data do you share?
+\end_layout
+
+\begin_layout Standard
+IDK SOME OF IT
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch open-science
+status open
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "open-science,CriticalOpenNeuro"

@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch chapter
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -72,6 +77,42 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset Branch chapter
+status open
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Chapter
 Publishing Failures in Scientific Structures 
@@ -957,7 +998,7 @@ Under the prevailing subscription-based system, commercial publishers own
 \begin_layout Quote
 \align right
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Shelton"
 
 \end_inset
@@ -1123,8 +1164,9 @@ s.
 
 \begin_layout Quote
 \align right
+r
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Shelton"
 
 \end_inset
@@ -1250,7 +1292,7 @@ key "Ioannidis2005"
  A.
  Ioannidis' calculations led him to estimate that more than 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1269,7 +1311,7 @@ graffito{aka research deemed 'significant' aka the research that's get published
  are likely to be false positives.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "zotero-null-1789"
+key "Ioannidis2014,Ioannidis2005"
 
 \end_inset
 
@@ -3317,7 +3359,7 @@ The science base in the developing world cannot be strengthened without
  access to the global library of research information.
  Currently, this is nearly impossible due to the high costs of journal subscript
 ions, with the result that even the most prestigious institutes in poorer
- countries cannot afford to buy the journals they need.
+ counries cannot afford to buy the journals they need.
  Many initiatives have been started to resolve the access problem, but progress
  has been slow and, since they are generally dependent on grants or subsidies,
  are unlikely to be long-term solutions.
@@ -3420,10 +3462,10 @@ status collapsed
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch chapter
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"

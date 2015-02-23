@@ -52,6 +52,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch case-open-sci
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -73,8 +78,12 @@
 
 \begin_body
 
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Chapter
-Open Science & Serotonin: Case Study
+Open Science & Serotonin
 \end_layout
 
 \begin_layout Standard
@@ -331,7 +340,7 @@ status open
 
 
 \backslash
-graffito{Can cite this if people feel strongly}
+todo{Can cite this if people feel strongly}
 \end_layout
 
 \end_inset
@@ -432,7 +441,7 @@ Version control of files.
 \begin_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -462,14 +471,13 @@ protocols
 Metrics on my lab entries.
  It's very easy to generate maps and time lines of processes; 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{Or at least prove to my committee how much work I am or am not
- doing}
+todo{Or at least prove to my committee how much work I am or am not doing}
 \end_layout
 
 \end_inset
@@ -500,7 +508,7 @@ status open
 
 
 \backslash
-graffito{These might belong in the earlier section? Or the earlier sections
+rewrite{These might belong in the earlier section? Or the earlier sections
  analyzing OS belongs here}
 \end_layout
 
@@ -571,10 +579,10 @@ Procedures were performed as described previously.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset Branch case-open-sci
 status open
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"

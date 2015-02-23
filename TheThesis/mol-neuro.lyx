@@ -6,7 +6,7 @@
 \begin_preamble
 \usepackage{preamble}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -52,12 +52,17 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch mol-neuro
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
 \end_index
 \secnumdepth 2
-\tocdepth 2
+\tocdepth 4
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -73,30 +78,63 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset Branch mol-neuro
+status collapsed
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 Background
 \end_layout
 
 \begin_layout Standard
 \align right
-
-\series bold
-\size larger
-\begin_inset Quotes eld
-\end_inset
-
-every biological organism is 
-\begin_inset Newline newline
-\end_inset
-
-inherently individual
-\begin_inset Quotes erd
-\end_inset
-
-
-\series default
-\size default
-
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Serotonin,-transcription-factors_mol-neuro"
@@ -129,16 +167,16 @@ textsubscript{2a}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
+\begin_inset Branch mol-neuro
+status open
 
 \begin_layout Subsection*
 Acronyms
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -152,9 +190,9 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -168,9 +206,9 @@ acro{G-protein}{guanine nucleotide-binding proteins}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -184,9 +222,9 @@ acro{GPCRs}{G-protein coupled receptors}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -200,9 +238,9 @@ acro{RA}{retinoic acid}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -216,9 +254,9 @@ acro{5-HT}{5-hydroxytryptamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -232,9 +270,9 @@ acro{CNS}{central nervous system}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -248,7 +286,7 @@ acro{GDP}{guanosine diphosphate}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -264,15 +302,15 @@ acro{GTP}{guanosine triphosphate}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{LSD}{lysergic acid diethylamide, colloquially acid}
+acro{LSD}{lysergic acid diethylamide}
 \end_layout
 
 \end_inset
@@ -280,9 +318,9 @@ acro{LSD}{lysergic acid diethylamide, colloquially acid}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -296,9 +334,9 @@ acro{mescaline}{3,4,5-trimethoxyphenethylamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -312,9 +350,9 @@ acro{OCD}{obsessive-compulsive disorder}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -332,9 +370,9 @@ emph{N}-Dimethyltryptamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -348,7 +386,7 @@ acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -364,7 +402,7 @@ acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -380,7 +418,103 @@ acro{STP}{Serenity, Tranquility, Peace}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
 \begin_layout Plain Layout
+
+
+\backslash
+acro{PFC}{prefrontal cortex}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{LC}{locus coeruleus}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PET}{positron emission tomography}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{HTR}{head twitch response}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DEA}{Drug Enforcement Administration}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPI}{pre pulse inhibition}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -393,22 +527,22 @@ end{acronym}
 
 \end_inset
 
- 
+
 \end_layout
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Section
-Psychotropics & Pharmacology: Big Introductory Overview!
+Psychotropics & Pharmacology
 \end_layout
 
 \begin_layout Standard
 Culturally significant and an identity at my (soon to be) alma mater, hallucinog
-ens -- psychedelic hallucinogens, drugs that induce a profound qualitave
- perceptual change -- are small molecules.
+ens -- psychedelic hallucinogens, drugs inducing a profound qualitative
+ perceptual change -- are
 \begin_inset ERT
 status collapsed
 
@@ -416,17 +550,18 @@ status collapsed
 
 
 \backslash
-graffito{I 
+graffito{exist in science as
 \backslash
-emph{hate} myself}
+dots}
 \end_layout
 
 \end_inset
 
+ small molecules.
  They entered the modern scientific frame with with Albert Hoffman's 1938
  synthesis of 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -437,8 +572,26 @@ ac{LSD}
 
 \end_inset
 
- from ergotamine, a isolated compound from the rye fungus ergot.
- In the intervening years, the broad class of drugs exemplified by 
+ from ergotamine, a isolated compound from the rye fungus ergot and his
+ discovery, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{LSD history}
+\end_layout
+
+\end_inset
+
+some years later, of the compound's ability to induce profound psychological
+ effects.
+\end_layout
+
+\begin_layout Standard
+In the years since, the broad class of drugs exemplified by 
 \begin_inset ERT
 status open
 
@@ -451,9 +604,9 @@ ac{LSD}
 
 \end_inset
 
- have been, variously: implicated in CIA coverups and brainwashing; a foundation
-al symbol of counter-culture movements; effective treatment for alcoholism
- and 
+, colloquially acid, have been, variously: implicated in CIA coverups and
+ brainwashing; a foundational symbol of counter-culture movements; effective
+ treatment for alcoholism, 
 \begin_inset ERT
 status open
 
@@ -466,26 +619,82 @@ ac{OCD}
 
 \end_inset
 
-, the inspiration for a number of scientific breakthroughs; as a field of
- battle for the rights of indigenous rights .
+, depression; the inspiration for a number of scientific breakthroughs;
+ as a field of battle for the rights of indigenous rights .
 \end_layout
 
 \begin_layout Standard
-The plants and complexes they come from -- ayahuasca in the the past and
- present Amazon river basin, ergot-containing drinks for ancient Greek philosoph
-ers.
- etc.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{brief history}
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Greyedout
+\end_inset
+
+The current shamanistic traditions 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-these drugs have been around a hella long time, and it's only just now that
- Western science/culture is beginning to treat them as a potentially meaningful
- therapeutic substance.
+
+
+\backslash
+graffito{originally plants and complexes}
+\end_layout
+
+\end_inset
+
+ we know they come from -- ayahuasca
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{native histories of drugs}
+\end_layout
+
+\end_inset
+
+ in the the past and present Amazon river basin, ergot-containing drinks
+ for ancient Greek philosophers.
+ etc.
  
+\end_layout
+
+\begin_layout Standard
+The current manifestations represent a lineage of psychedelic use predating
+ written history on all inhabitated continents: cave paintings in Europe
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Akers2011"
+
+\end_inset
+
+, archeological evidence from the desert southwest of what is now Texas
+ and Mexico
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bruhn2002,El-Seedi2005"
+
+\end_inset
+
+, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+textcolor{red}{and more evidence woo}
 \end_layout
 
 \end_inset
@@ -494,17 +703,38 @@ these drugs have been around a hella long time, and it's only just now that
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-In my own experience and those around, they're either positively life-changing;
- or not.
+
+
+\backslash
+textcolor{red}{these drugs have been around a hella long time, and it's
+ only just now that Western science/culture is beginning to treat them as
+ a potentially meaningful therapeutic substance.}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+textcolor{red}{In my own experience and those around, they're either positively
+ life-changing; or not.
  Some functionally similar signaling mechanism interacts with environment
  and person to crate this completely unique experience.
  Part of what's incredible about really any drug experiences is the alterning
  of how you think -- it's a paradigm shift in the most literal sense of
- the word
+ the word}
 \end_layout
 
 \end_inset
@@ -556,7 +786,7 @@ signaling pathways only make sense if you think you can figure out plasticity
 \end_layout
 
 \begin_layout Subsection
-A brief history of psychedelic research
+A brief history of scientific psychedelics
 \end_layout
 
 \begin_layout Standard
@@ -565,6 +795,19 @@ Discovered in Switzerland, underwent furious experimentation until they
  no medical usage and dangerous), and have recently started to re-emerge
  in the scientific literature at specific labs.
  
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{scientific history of psychedelics}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -574,19 +817,22 @@ Consciousness-raising molecules?
 \begin_layout Standard
 One small piece of the psychedelic puzzle is understanding what happens
  on a molecular level to induce both short and long term perceptual changes.
- While the molecular and single-cell level changes are only one level of
- the alteration in experiences, and only make meaning in the context of
- networks of neurons, brain regions, the body, and the environment, and
- are hardly 
-\emph on
-the
-\emph default
- defining feature they're on,
-\begin_inset Note Greyedout
+\end_layout
+
+\begin_layout Standard
+Of course, the single-cell and smaller level changes are only one level
+ of the alteration in experiences, and only make meaning in the context
+ of networks of neurons, brain regions, the body, and the environment.
+ 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
- they're still fucking interesting.
+
+
+\backslash
+todo[inline]{but they're still cool and I still like them.
+ Saying this but in academic language.}
 \end_layout
 
 \end_inset
@@ -610,7 +856,6 @@ The classical psychedelics
 \end_layout
 
 \begin_layout Standard
-Psychedelic hallucinogents are classed 
 \begin_inset ERT
 status collapsed
 
@@ -618,24 +863,97 @@ status collapsed
 
 
 \backslash
-graffito{at this point in time, ofc}
+graffito{For the sake of simplicity, "hallucinogens" here mean serotonergic
+ psychedelics}
 \end_layout
 
 \end_inset
 
- according to their chemical structure, receptor binding affinity, psychedelic
- effects, addictive potential, lethality (or lack thereof) 
-\begin_inset Note Greyedout
+Serotonergic hallucinogens are classified according to their chemical structure,
+ 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-and the ineffable desire of humans to classify fucking everything.
+
+
+\backslash
+findref{receptor binding affinity}
+\end_layout
+
+\begin_layout Plain Layout
+
+%"The relative hallucinogenic potencies of various drugs can be extrapolated
+ by their affinities for these receptors (Glennon et al, 1984)." - from Nichols/S
+anders, 2001
 \end_layout
 
 \end_inset
 
-.
- The classical psychedelics, the best known of which is synthetic 
+ psychedelic/psycholgical effects (see 
+\begin_inset CommandInset ref
+LatexCommand nameref
+reference "sub:Psychological-Effects"
+
+\end_inset
+
+), addictive potential, lethality or lack thereof, and the ineffable desire
+ of humans to classify everything.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{too snarky?}
+\end_layout
+
+\end_inset
+
+ Chemically, they resemble the endogenous serotonin, as in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:chemical-structures"
+
+\end_inset
+
+; they are non-addictive, and users become tolerant after a single effective
+ dose, and must wait some weeks before the drugs are effective again.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{for clarity}
+\end_layout
+
+\end_inset
+
+ They are biologically non-lethal, which is to say unlike methamphetamines
+ or opiates, an overdose does not affect lower-level biological functions
+ like breathing.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{drug lethality}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The drugs that fit these admittedly-fluid criteria are the classical psychedelic
+s, the most well-known perhaps being the synthetic 
 \begin_inset ERT
 status collapsed
 
@@ -648,8 +966,42 @@ ac{LSD}
 
 \end_inset
 
-, has natural analogues in psilocybin, produced by a genus of mushrooms;
- mescaline, produced in several species of New-World
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+research{popularity of drugs}
+\end_layout
+
+\end_inset
+
+.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ has natural analogues in psilocybin, produced by a genus of mushrooms (
+\begin_inset Quotes eld
+\end_inset
+
+shrooms
+\begin_inset Quotes erd
+\end_inset
+
+); mescaline, produced in several species of New-World
 \begin_inset ERT
 status collapsed
 
@@ -675,8 +1027,21 @@ ac{DMT}
 
 \end_inset
 
-, widespread throughout the plant kingdom, as well as plethora of other
- plants.
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{for clarity}% DMT is endogenous, and common in plants but needs
+ an MAOI to function...%}
+\end_layout
+
+\end_inset
+
+.
  Synthetically, the analogues are numerous and endlessly permeable -- 
 \begin_inset ERT
 status collapsed
@@ -718,20 +1083,28 @@ ac{STP}
 
 , has enjoyed usage in both recreational and academic settings.
  
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
+status open
 
 \begin_layout Plain Layout
 \align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
 \begin_inset Float figure
 wide false
 sideways false
@@ -740,8 +1113,8 @@ status collapsed
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename gfx/structures/DMT_wikipedia.png
-	width 50col%
+	filename gfx/structures/DMT_wikipedia.svg
+	width 25col%
 
 \end_inset
 
@@ -771,10 +1144,85 @@ dimethyltryptamine
 \end_inset
 
 
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/structures/Serotonin-2D-skeletal.svg
+	lyxscale 20
+	width 25col%
+
+\end_inset
+
+
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-figure with structures here yay
+serotonin
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:chemical-structures"
+
+\end_inset
+
+more structures
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+The structures of many hallucinogens are similar to serotonin and have a
+ tryptamine core.
+ A) The structure of tryptamine.
+ B) Serotonin (5-hydroxytryptamine).
+ C) Psilocin.
+ D) 5-methoxy dimethyltryptamine.
+ E) LSD.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -792,11 +1240,48 @@ figure with structures here yay
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Psychological-Effects"
+
+\end_inset
+
 Psychological Effects
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{write re: scales of consciousness}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{is there space for 
+\backslash
+emph{anecdotal} voices here?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
-woooo pretty colors and stuff!
+wooieoeuoo pretty colors and stuff!
 \end_layout
 
 \begin_layout Itemize
@@ -816,8 +1301,39 @@ noetic
  as 'real' to their internal life
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+or teaches them an alternate reality
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{per herb}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+radical life changes (pollan article, end of life, terminal illnesses, compulsio
+ns, traumatic life events)
+\end_layout
+
 \begin_layout Subsubsection
-Receptors
+Why Receptors?
 \end_layout
 
 \begin_layout Standard
@@ -839,11 +1355,11 @@ Biology's point of entry into molecule-body interactions starts with receptors.
  or act as a channel to allow direct access to the intracellular milieu.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{Well.
  Cap'n Obvious.}
@@ -870,7 +1386,7 @@ textsubscript{2a}
 
  receptor, normally targeted by 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -898,7 +1414,7 @@ ac{LSD}
  and ergoline analogues also bind to some dopamine receptor subtypes and
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -924,18 +1440,18 @@ ac{DOI}
 
  binds
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{we assume...}
 \end_layout
 
 \end_inset
 
-, evidently exclusively, to the 
+, seemingly exclusively to the 
 \begin_inset ERT
 status collapsed
 
@@ -962,13 +1478,20 @@ textsubscript{2c}
 \end_inset
 
  receptor subtypes.
- This shared affinity for a single receptor is seen as the essential component
- of psychedelic signaling.
+ This shared affinity for a single receptor and the subsequent signalling
+ pathways is seen as the essential component of psychedelic signaling.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gonzalez-Maeso2007"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -994,11 +1517,11 @@ textsubscript{2a}
 
 ,
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{Again, obvious.}
 \end_layout
@@ -1020,40 +1543,21 @@ ac{5-HT}
 
  hardly results in an alteration of the conscious state.
  
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Woo drugs have different effects than the ones they mimic yah! The user-reported
- differences between drug trips can then be at least with a model that relies
- on 
 \begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
 
-5-HT
+
 \backslash
-textsubscript{2a}
-\end_layout
-
-\end_inset
-
- activation, tempered by modulatory effects of dopamine and 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-5-HT
+todo[inline]{Drugs have different effects than the things they mimic ! The
+ user-reported differences between drug trips can then be at least with
+ a model that relies on 5-HT
 \backslash
-textsubscript{2c}
-\end_layout
-
-\end_inset
-
- receptor activation.
- 
+textsubscript{2a} activation, tempered by modulatory effects of dopamine
+ and 5-HT
+\backslash
+textsubscript{2c}receptor activation.}
 \end_layout
 
 \end_inset
@@ -1092,23 +1596,31 @@ key "Urban2007"
 
 \end_inset
 
- This seems improbable in the face of evidence for ligand-specific intracellular
+ 
+\end_layout
+
+\begin_layout Standard
+This seems improbable in the face of evidence for ligand-specific intracellular
  effects on second messengers, transcription factor activation, receptor
  sensitization and/or internalization, and other effects on the 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
-graffito{IDK about this}
+rewrite{this phrasing.}
 \end_layout
 
 \end_inset
 
 internal life of the cell.
- In the case of psychedelics, there are distinct 
+ 
+\end_layout
+
+\begin_layout Standard
+In the case of psychedelics, there are distinct 
 \emph on
 hallucinogenic
 \emph default
@@ -1166,7 +1678,7 @@ in vivo
  The grand goal remaining, of course, is to explain how a small molecule
  can qualitatively and irrevocably shake loose for examination 
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Plain Layout
 our deep-seated notions of who we are.
@@ -1514,6 +2026,28 @@ ic neurons only.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{
+\backslash
+emph{Receptors of interest} address the 5-HT
+\backslash
+textsubscript{2c}, 5-HT
+\backslash
+textsubscript{1c} and dopamine involvement}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 The 5-HT
 \begin_inset script subscript
@@ -1527,13 +2061,25 @@ The 5-HT
 receptor
 \end_layout
 
-\begin_layout Subsection
-Distribution
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Why the 5-HT
+\backslash
+textsubscript{2a} receptor is implicated.}
 \end_layout
 
-\begin_layout Itemize
-Text about distribution in the PFC and GABAergic neurons and layer V pyramidal
- neurons and interneurons
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -1541,7 +2087,821 @@ status collapsed
 
 
 \backslash
-rewrite{5-ht2a distribution}
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ was the first of many serotonergic agonists
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+define{classical pharmacology concepts}
+\end_layout
+
+\end_inset
+
+ synthesized in laborotories.
+ It was fundamental to the characterization of 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{serotonin discovery and LSD: history!}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The longstanding thrust of the literature implicates psychedelic agonism
+ at the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}R
+\end_layout
+
+\end_inset
+
+ in the neurobiology of psychedelics.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+In humans
+\end_layout
+
+\begin_layout Standard
+There is an extremely strong correlation between 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}
+\end_layout
+
+\end_inset
+
+R affinity and hallucinogen potentency in humans, as measured by subjective
+ reports post-trip.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{antagonists}
+\end_layout
+
+\begin_layout Plain Layout
+
+ketanserin:5-HT
+\backslash
+textsubscript{2A/C}
+\end_layout
+
+\begin_layout Plain Layout
+
+risperidone:5-HT
+\backslash
+textsubscript{2A}/D
+\backslash
+textsubscript{2}}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ antagonists 
+\begin_inset Quotes eld
+\end_inset
+
+ameliorate
+\begin_inset Quotes erd
+\end_inset
+
+ (or reduce, mitigate, dampen) both the subjective psilocybin experience
+ and block effects on a variety of neurophysiological measures.
+ In 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PET}
+\end_layout
+
+\end_inset
+
+ studies of binding, the intensity of a psilocybin experience directly correlate
+s to the level of 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}R
+\end_layout
+
+\end_inset
+
+ occupation.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{differences between PET and fMRI}% re: Halberstadt and activation}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Additionally, there is a very strong correlation (r = 0.90-0.97) between 5-HT
+ 2A receptor affinity and human hallucinogenic potency"
+\end_layout
+
+\begin_layout Quote
+5-HT 2A receptor blockade ameliorates most of the effects of psilocybin
+ in human subjects
+\end_layout
+
+\begin_layout Quote
+Furthermore, a positron emission tomography (PET) study with the 5-HT 2A
+ radio- tracer [ 18 F]altanserin has shown that the intensity of the response
+ to psilocybin is directly correlated with the level of 5-HT 2A occupa-
+ tion
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Unfortunaely, the Schedule I status of most known hallucinogens blocks a
+ lot of these studies.
+\end_layout
+
+\begin_layout Subsubsection
+in animals
+\end_layout
+
+\begin_layout Standard
+Psychedelic studies in animals, one could argue, somewhat defeats the point
+ of a consciousness-altering drug experience.
+ Mice, rats, and rabbits can't report back on their changing views on life,
+ the Universe, and everything; it's unlikely that they'll come to terms
+ with their looming decapitation.
+ That said, we can still decapitate them.
+\end_layout
+
+\begin_layout Quote
+Importantly, although there are some exceptions, almost all the behavioral
+ effects of hallucinogens stud- ies in laboratory animals are mediated by
+ the 5-HT 2A receptor\SpecialChar \ldots{}
+5-HT 2A activation is sufficient to produce hallucinogen-li
+ke stimulus effects.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{by measurement of behavioral effects}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In mice, rats, and rabbits, there are a few mostly-reliable behavioral proxies
+ for hallucinogenic potential.
+ Administration of drugs with known human hallucinogenic potential (typically
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ or 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DOI}
+\end_layout
+
+\end_inset
+
+) reliably induce several behaviors.
+ 
+\end_layout
+
+\begin_layout Subparagraph
+Drug discrimination
+\end_layout
+
+\begin_layout Standard
+The most common animal model relies on training rats (and less often, mice
+ or monkeys) to discriminate between a known hallucinogenic drug and a vehicle
+ control; by pressing one lever or the other, the rat 
+\begin_inset Quotes eld
+\end_inset
+
+tells
+\begin_inset Quotes erd
+\end_inset
+
+ the experimenter 
+\begin_inset Quotes eld
+\end_inset
+
+I think this was the training drug
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+I think this was nothing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2004"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{But seriously, do you think rats try to keep it together?}
+\end_layout
+
+\end_inset
+
+ With this, animals can reliably discriminate between drug and control at
+ low dosages that otherwise fail to elicit other overt behaviors; with a
+ more sensitive set-up (drug-drug-vehicle), rats will also reliably discriminate
+ between 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ and it's non-hallucinogenic counterpart, lisuride.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ome studies have found that lisuride produces full substitution in rats
+ trained with either LSD, DOI, or DOM [136–139], but in other studies it
+ pro- duced only partial substitution [129,140].
+ Although clearly some degree of similarity exists between the stimulus
+ cues evoked by lisuride and classical hallucinogens, there are also subtle
+ differ- ences because rats can be trained to discriminate between lisuride
+ and LSD using three-choice (drug–drug–vehicle) discrimination procedures
+ [141].
+ Discrimination studies where animals are trained to discriminate between
+ LSD and another drug such as pentobar- bital or cocaine also appear to
+ be less sensitive to lisuride-induced false-positive responses [139].
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+Head twitch response 
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HTR}
+\end_layout
+
+\end_inset
+
+ consists of 5-11 shakes of the head (in mice) and trunk (in rats), like
+ that of a wet dog.
+ It is not hallucinogen-specific, inducible by 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+ precursors, and drugs that increase 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{5-HT}
+\end_layout
+
+\end_inset
+
+ release, but the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HTR}
+\end_layout
+
+\end_inset
+
+ is reliably induced by hallucinogenic and reliably 
+\emph on
+not
+\emph default
+ induced by non-hallucinogenic 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ agonists.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{differences between organisms in HTR}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+he discrepant findings with regard to 2C-I and other phenethylamines may
+ reflect the fact that mice are more sensitive than rats to the HTR induced
+ by 5-HT 2A partial agonists.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Nevertheless, we are not aware of any serotonergic hallucinogens that do
+ not produce the HTR in mice.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{structural differences between mice, rat, and human 5-HT2aRs}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+By contrast, 1 mg/kg DOI produces a significant (albeit somewhat blunted)
+ HTR in 5-HT 2C knockout mice [167].
+ The fact that DOI can provoke head twitches in 5-HT 2C knockout mice but
+ not in 5-HT 2A knockout mice strongly indicates the 5-HT 2A recep- tor
+ is the member of the 5-HT 2 family responsible for mediating the HTR.
+ Similarly, there is a consensus in the literature that the ability of DOI
+ to induce the HTR is not blocked by selective 5-HT 2C antagonists or mixed
+ 5-HT 2C/2B antagonists [160,168–171].
+\end_layout
+
+\begin_layout Quote
+It is not clear why the 5-HT 2C receptor attenuates the HTR in certain studies
+ and augments the response in others, but Fantegrossi et al.
+ [171] have argued these differences may be strain dependent.
+ For example, there are strain differences in the editing of 5-HT 2C mRNA
+ [174,175].
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+Prepulse inhibition of startle
+\end_layout
+
+\begin_layout Quote
+Prepulse inhibition (PPI) refers to the phenomenon where a weak prestimulus
+ presented prior to a startling stimulus will attenuate the startle response;
+ PPI is often used as an operational measure of sensorimotor gating, and
+ reflects central mechanisms that filter out irrelevant or distracting sensory
+ stimuli
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+interval timing
+\end_layout
+
+\begin_layout Standard
+Temporal perception is seriously disturbed by hallucinogens, as any recreational
+, spiritual, or lab participant could subjectively inform you.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Subjects under the influence of mescaline and LSD often report that their
+ sense of time appears to speed up or slow down, or they may experience
+ a sensation of timelessness [187–191].
+ Psilocybin also alters performance on laboratory measures of timing [192].
+\end_layout
+
+\end_inset
+
+ In rats and mice, temporal perception can assessed, again, by training
+ regiments -- teaching rats to press levers after certain time intervals
+ have elapsed, or in response to long- or short-duration stimuli.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DOI}
+\end_layout
+
+\end_inset
+
+ affects performance in both types of trials, while 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ antagonists
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{ketanserin, volinanserin}
+\end_layout
+
+\end_inset
+
+ rescue the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DOI}
+\end_layout
+
+\end_inset
+
+induced loss of temporal function.
+\end_layout
+
+\begin_layout Subparagraph
+exploratory/investigative behavior
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+nutshell:
+\emph default
+ measuring the quantitative and qualitiative spatial and temporal structure
+ of activity (Behavioral Pattern Monitor, BPM) indicates hallucinogens induce
+ neophobia and specific locomotive/exploratory effects; lisuride vs.
+ LSD induce different behavioral footprints, and as per usual, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ antagonists reduce those effects.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+When rats are tested in unfamiliar BPM chambers after administration of
+ hallucinogens (including mesca- line, DOM, DOI, LSD, DMT, 5-MeO-DMT, and
+ psilocin), the animals display reduced amounts of locomotor activity, rearings,
+ and hole- pokes at the beginning of the test session, and avoidance of
+ the center of the BPM chamber is increased.
+ [202-205] Most of these effects are markedly diminished in animals habituated
+ to the BPM chambers, indicating that hallucinogens act by enhancing neophobia.
+ The ability of hallucinogens to increase the avoidance of novel (and potentiall
+y threatening) test chambers by rats may be analogous to the enhanced sensitivit
+y and reactivity to environmental stimuli that occurs in humans
+\end_layout
+
+\begin_layout Plain Layout
+Extensive testing has confirmed this pattern of effects in the BPM is highly
+ specific to hallucinogens [200,207–210].
+ For example, although 8-OH-DPAT and other selective 5-HT 1A agonists reduce
+ locomotor activity, rearings, and holepokes in rats, these effects are
+ not influenced by environmental familiarity and hence are likely to reflect
+ sedation [208].
+\end_layout
+
+\begin_layout Plain Layout
+When Adams and Geyer [211] compared lisuride and LSD in the BPM, they found
+ the two com- pounds produce markedly different patterns of effects.
+ Lisuride produces effects that are similar to those of apomorphine and
+ other dopamine agonists, with sedative effects occurring at low doses and
+ perseverative patterns of hyperactivity occurring at higher doses.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{differences in indoleamines and phenethylamine reaction in
+ rats and mice}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+tolerance studies
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+nutshell version: 
+\emph default
+DOM/LSD/other drugs show intense and rapid cross tolerance (with the exception
+ of DMT); this tolerance correlates with a significant decline in the density
+ of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ receptors.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+Rats treated repeatedly with DOM, LSD, or psilocin show a significantly
+ lowered density of 5-HT 2A receptors in sev- eral brain regions [223–225]
+\end_layout
+
+\begin_layout Quote
+Although most hallucinogens produce tolerance in humans, DMT seems to be
+ the exception.
+ It has been reported that DMT does not evoke tolerance in man, even after
+ an intramuscular (IM) dosage regimen of 0.7 mg/kg twice daily for five days
+ [227].
+\end_layout
+
+\begin_layout Quote
+In vitro experiments have shown that exposure to LSD or DOI desensitizes
+ 5-HT 2A and 5-HT 2C receptors in transfected cell lines [108,229].
+ However, after exposure to DMT, 5-HT 2C receptors showed desensitization
+ but there was no change in the response to 5-HT 2A activation [108].
+ These observations suggest that DMT fails to induce tolerance because it
+ does not desensitize the 5-HT 2A receptor.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Neuroanatomical Distribution
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+This receptor is expressed in regions of the brain believed to be involved
+ in cognitive processes such as the prefrontal cortex, specifically in pyramidal
+ neurons and interneurons.
+ 
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{5-ht
+\backslash
+textsubscript{2a} distribution}
 \end_layout
 
 \end_inset
@@ -1662,25 +3022,443 @@ status collapsed
 
 \end_layout
 
-\begin_layout Itemize
-more info
-\end_layout
-
 \begin_layout Subsection
-G-protein coupled receptors
+locus coeruleus
 \end_layout
 
-\begin_layout Paragraph
-The 5-HT
-\begin_inset script subscript
+\begin_layout Standard
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
-2a 
+
+
+\backslash
+todo[inline]{role of the locus coeruleus; source of noradrenergic projects;
+ responsive to (novel or arousing) sensory stimuli; HC enhance responsiveness
+ such that innocuous stimuli drives response; response mediated by 5-HT
+\backslash
+textsubscript{2a}}
 \end_layout
 
 \end_inset
 
-receptor is a GPCR
+
+\end_layout
+
+\begin_layout Subsection
+Prefrontal cortex
+\end_layout
+
+\begin_layout Subparagraph
+
+\emph on
+in vitro
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Most of the cells in monkey and human PFC express 5-HT 2A mRNA 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "DeAlmeida2007"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Almost all prefrontal pyramidal neurons express the 5-HT 2A receptor, with
+ the receptor localized primarily to the proximal apical dendrites.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "DeAlmeida2007"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+[237,252,256,257]
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Shorter proximal apical dendrites project radially to local pyramidal cells
+ and interneurons.
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{localization of 5-HT
+\backslash
+textsubscript{2a}Rs on neurons}
+\end_layout
+
+\end_inset
+
+ Approximately 20-25% of the interneurons in the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PFC} express 
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ mRNA; they appear to be basket and chandelier cells.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Approximately 20–25% of the glutamic acid decarboxylase-positive cells in
+ PFC express
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ mRNA 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+[253]
+\end_layout
+
+\end_inset
+
+.
+ From their morphology these interneurons appear to be basket cells and
+ chandelier cells 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+[258]
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Classic hallucinogens such as lysergic acid diethylamide are thought to
+ elicit their psychotropic actions via serotonin receptors of the 5-hydroxytrypt
+amine 2A subtype (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+).
+ One likely site for these effects is the prefrontal cortex (PFC).
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ Previous studies have shown that activation of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+s in this region results in a robust increase in spontaneous glutamatergic
+ synaptic activity, and these results have led to the widely held idea that
+ hallucinogens elicit their effect by modulating synaptic transmission within
+ the PFC.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ Here, we combine cellular and molecular biological ap- proaches, including
+ single-cell 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ inactivation and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ rescue over a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ knockout genetic background, to distinguish between competing hypotheses
+ accounting for these effects.
+ The results from these experiments do not support the idea that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ elicit the release of an excitatory retrograde messenger nor that they
+ activate thalamocortical afferents, the two dominant hypotheses.
+\end_layout
+
+\end_inset
+
+ Rather, they [our data] suggest that
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 5-HT
+\backslash
+textsubscript{2a}Rs
+\end_layout
+
+\end_inset
+
+ facilitate intrinsic networks within the PFC.
+ Consistent with this idea, we locate a discrete subpopulation of pyramidal
+ cells that is strongly excited by 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+ 5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+activation.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beique2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+
+\emph on
+in vivo
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{write re: fMRI, PET data? human-level science?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+interactions with other structures
+\end_layout
+
+\begin_layout Standard
+-> cortical feedback loops
+\end_layout
+
+\begin_layout Subsection
+visual cortex (maybe?)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+multistate ligand binding
+\end_layout
+
+\begin_layout Quote
+The 5-HT 2A receptor demonstrates multistate ligand binding (Branchek et
+ al, 1990; Teitler at el.
+ 1990).
+ This means that there are two conformations of the receptor, each with
+ a different affinity for ligand.
+ These two states exist in equilibrium.
+ The active, high affinity state activates effector pathways while the inactive,
+ low affinity state does not.
+ Agonists bind to the high affinity state, stabilize its conformation and
+ increase effector activity.
+ Another class of ligand called inverse agonists binds preferentially to
+ the low affinity state and stabilizes it.
+ This actually leads to a decrease in spontaneous activity.
+ A third class of ligand called neutral antagonists can bind to either state,
+ and as neutral antagonists, do not change the equilibrium state between
+ the two conformations and do not alter effector activity.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Isoforms probably?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+functional selectivity & the 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a
+\end_layout
+
+\end_inset
+
+R
+\end_layout
+
+\begin_layout Subsection
+G-protein coupled receptors
 \end_layout
 
 \begin_layout Standard
@@ -1720,7 +3498,7 @@ key "Cabrera-Vera2003"
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1731,19 +3509,9 @@ ac{GPCRs}
 
 \end_inset
 
- are a extremely diverse class of heptahelical transmembrane signaling proteins.
- They comprise approximately 30-40% of current drug targets, which covers
- 
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-some astronomically small # of potential targets
-\end_layout
-
-\end_inset
-
-, and are highly conserved across species
+ are a extremely diverse class of heptahelical transmembranet signaling
+ proteins.
+ Approximately 30-40% of pharmaceuticals target 7% of 
 \begin_inset ERT
 status collapsed
 
@@ -1751,7 +3519,34 @@ status collapsed
 
 
 \backslash
-graffito{source?}
+ac{GPCRs}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{garland 2013}
+\end_layout
+
+\end_inset
+
+; as a class of proteins, they are prolifically expressed and highly conserved
+ across species
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{GPCR conservation}
 \end_layout
 
 \end_inset
@@ -1759,7 +3554,7 @@ graffito{source?}
 .
  Ligand binding to a the extracellular terminal of 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1773,7 +3568,7 @@ ac{GPCRs}
  initiates a conformational change in the protein that transmutes through
  the membrane to interact with a heterotrimeric 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1784,7 +3579,7 @@ ac{G-protein}
 
 \end_inset
 
- complex on the oher side.
+ complex on the intracellular side.
 \end_layout
 
 \begin_layout Standard
@@ -1801,8 +3596,7 @@ ac{G-protein}s
 
 \end_inset
 
- on the intracellular side consist of a modular configuration of an intracellula
-r α-, β-, and γ-subunit.
+ consist of a modular configuration of an intracellular α-, β-, and γ-subunit.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Wettschureck2005"
@@ -1984,7 +3778,17 @@ ac{GDP}
 \end_inset
 
 -bound α-subunit re-associates with a βγ-complex to reform the G-protein
- complex.
+ complex 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+(unless the receptor has been modified in the meantime)
+\end_layout
+
+\end_inset
+
+.
  (See Fig.
 \begin_inset CommandInset ref
 LatexCommand vref
@@ -1998,22 +3802,26 @@ reference "fig:GPCR-cycle"
 \begin_layout Standard
 The classical model is complicated by evidence that suggests activation
  can trigger a conformational change without subunit dissociation; nonetheless,
-\begin_inset Note Greyedout
+ 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
- it's complicated and waahh it matters whatever.
+
+
+\backslash
+rewrite{G-protein complications}
 \end_layout
 
 \end_inset
 
- .
+
 \end_layout
 
 \begin_layout Standard
 The modular structure of the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2034,10 +3842,9 @@ ac{G-protein}
 \end_layout
 
 \begin_layout Standard
-There are sixteen α-subunit genes, and for much of the time spent researching
- 
+There are sixteen α-subunit genes, and for much of the research on 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2048,7 +3855,9 @@ ac{GPCRs}
 
 \end_inset
 
-, the α-subunits were considered the 'active' protein, and defining feature
+, the α-subunits were considered the active functional unit of the α-β-γ
+ complex.
+ 
 \end_layout
 
 \begin_layout Quote
@@ -2125,7 +3934,7 @@ The α-subunits that define the basic properties of a heterotrimeric G protein
 
 \begin_layout Standard
 The βγ-complex of mammalian G proteins is assembled from a repertoire of
- 5 G protein β-subunits and 12 γ-subunits.
+ 5 G-protein β-subunits and 12 γ-subunits.
 \begin_inset ERT
 status collapsed
 
@@ -2145,22 +3954,14 @@ key "Cabrera-Vera2003"
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Quote
-Gβγ subunits, once thought only to be negative regulators of Gα-dependent
- signaling have come into their own as mediators of receptor signaling.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Dupre2009"
+\begin_inset Note Note
+status collapsed
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
+\begin_layout Plain Layout
 The β1- to β4-subunits form a tight complex with γ-subunits which can only
  be separated under denaturing conditions.
 \begin_inset Foot
@@ -2177,11 +3978,23 @@ status collapsed
  
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Quote
 The βγ-complex was initially regarded as a more passive partner of the G
- protein α-subunit.
+ protein α-subunit, thought only to act as a negative regulator.
  However, it has become clear that βγ-complexes freed from the G protein
- α-subunit can regulate various effectors.
+ α-subunit can act as mediators of signalling in their own right.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dupre2009"
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -2290,10 +4103,192 @@ Whenever a G protein is active, both its GTP-bound alpha subunit and its
 In the inactive state, the GDP-bound Gα subunit is associated with the obligate
  Gβγ dimer, which slows the rate of spontaneous GDP release by Gα acting
  as a guanine-nucleotide dissociation inhibitor
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cabrera-Vera2003"
+
+\end_inset
+
+
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+citation here is v.
+ questionable
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a
+\end_layout
+
+\end_inset
+
+ Signalling pathways
 \end_layout
 
 \begin_layout Subsection
-The α subunit: G
+Canonical pathways
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename gfx/Halberstadt2015_2a-signalling-pathways.png
+	lyxscale 20
+	width 120col%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a
+\end_layout
+
+\end_inset
+
+ pathways, fig 4 from 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before ", 2015"
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Float wide
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename gfx/masson_2012_5-ht2asignalling-pathway.jpg
+	lyxscale 20
+	width 120col%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+from 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Masson2012"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+The canonical α subunit: G
 \begin_inset script subscript
 
 \begin_layout Plain Layout
@@ -2308,7 +4303,7 @@ The α subunit: G
 \begin_layout Standard
 The 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2321,7 +4316,7 @@ textsubscript{2a}R
 
  couples to Gα
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2332,7 +4327,7 @@ textsubscript{q/11}
 
 \end_inset
 
- and an unknown βγ-complex, or some configuration thereof.
+ and an unexplored βγ-complex.
 \begin_inset Note Note
 status collapsed
 
@@ -2351,8 +4346,8 @@ key "Urban2007"
 
 \end_layout
 
-\begin_layout Subsubsection
-Intrinsic Efficacy
+\begin_layout Plain Layout
+####Intrinsic Efficacy
 \end_layout
 
 \begin_layout Quote
@@ -2434,27 +4429,1036 @@ key "Urban2007"
 
 \end_inset
 
+ 
+\end_layout
+
+\begin_layout Quote
+The 5-HT 2A receptor couples to Gq and activates phospholipase C (PLC) signaling
+, resulting in the hydrolysis of membrane phospholipids to inositol triphosphate
+ (IP 3 ) and diacylglycerol,and mobilization of intracellular Ca 
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+2+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+There is evidence that 5-HT 2A is coupled to several non-canonical signaling
+ pathways, including beta-arrestin-2, Src (potentially involving G i/o-associate
+d G subunits), extracellular-regulated kinase (ERK), p38 mitogen-activated
+ protein (MAP) kinase, phospholipase A 2 (downstream from ERK 1,2 and p38
+ MAP kinase), Akt, and phospholipase D (dependent on the small G protein
+ ADP-ribosylation factor-1 (ARF1))
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+27–30]
+\end_layout
+
+\end_inset
+
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
 
 \end_layout
 
-\begin_layout Subsubsection
-Canonical Signalling pathway
-\end_layout
-
-\begin_layout Subsubsection
-Other pathways?
-\end_layout
-
-\begin_layout Subsection
-Biased Signalling/Functional selectivity
+\begin_layout Section
+Evidence for Biased Signalling?
 \end_layout
 
 \begin_layout Standard
-While the specifics are unclear, signalling biases play an undoubtedly important
- role in determining the effects of hallucinogens, with both immediate and
- longer term effects.
+The weight of evidence for the psychological effects of psychedelics implies
+ activation of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ receptor is crucial; that does not explain how or why.
+ While other receptors have a sort of tuning effect on the quality, duration,
+ and intensity of the drug experience, 2aR activation is the 
+\begin_inset Quotes eld
+\end_inset
+
+root note
+\begin_inset Quotes erd
+\end_inset
+
+ of a whole chord of potential experiences.
+\end_layout
+
+\begin_layout Standard
+While the interaction of different neurons and receptor activation are and
+ the emergent properties thereof are worth exploring, I'm a molecular biologist,
+ and we focus on single-cell effects.
+ Of these, there's evidence that the direct intracellular cascades play
+ a role in mediating hallucinogenic effects in the immediate response, in
+ the duration of the trip, and in the longer-term psychological changes
+ as measured by gene and structural changes.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Signalling biases seem to play an undoubtedly important role in determining
+ the effects of hallucinogens,
 \begin_inset ERT
 status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{and signalling biases are what originally drew me}
+\end_layout
+
+\end_inset
+
+ with both immediate and longer term effects.
+ Binding at the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ does not, inherently, cause hallucinations -- otherwise, our normal course
+ of perception would involve a lot more colors and a lot less filtering.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+They are created through a binding event by some drugs at specific receptors,
+ likely modulated by the 
+\emph on
+lack
+\emph default
+ of binding at other receptors that would normally modulate 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ activation.
+ The weight of evidence suggests that the 
+\begin_inset Quotes eld
+\end_inset
+
+root
+\begin_inset Quotes erd
+\end_inset
+
+ psychedelic effect is caused by specific cortical circuits of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+-expressing neurons.
+ these neurons (seem) to be both necessary and sufficient for induction
+ of effects.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+~thoughts~ cellular signaling is only imp.
+ if it's not being modulated by other cells; hallucinogenic action is an
+ emergent property of both activation of 
+\emph on
+those
+\emph default
+ receptors and the non activation of 
+\emph on
+other
+\emph default
+ receptors.
+ DUMB}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{transition to evidence at different levels for biased signalling's
+ involvement}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+The first is at the receptor/effector level.
+ It has been demonstrated that some hallucinogens, such as LSD, activate
+ different signaling cascades than 5-HT.
+ For example, at the 5-HT
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textsubscript{2C}
+\end_layout
+
+\end_inset
+
+ receptor, 5-HT binding produces a strong phosphoinositide hydrolysis response,
+ a rise in intracellular calcium levels and phosphorylation of the receptor
+ itself.
+ LSD produces robust phosphoinositide hydrolysis, however there is no concomitan
+t rise in intracellular calcium and only limited phosphorylation of the
+ receptor 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+(Backstrom et al, 1999).
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+i.e.
+ not desensitization
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Binding Events
+\end_layout
+
+\begin_layout Subsubsection
+internalization & recycling
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+On activation by exposure to their ligand, 5-HT 2 receptor subtypes increase
+ IP 3 levels and undergo desensitization and internalization.
+ 
+\end_layout
+
+\begin_layout Quote
+To visualize the re- ceptor in cells during these processes, we have constructed
+ a 5-HT 2A -enhanced GFP (SR2-GFP) fusion receptor.
+ 
+\end_layout
+
+\begin_layout Quote
+We show that this fusion receptor undergoes internalization on exposure
+ to its natural ligand, 5-HT.
+\end_layout
+
+\begin_layout Quote
+Because 5-HT 2A receptors activate the phospholipase C pathway, we studied
+ the effect of protein kinase C (PKC) on the internalization process and
+ found that activation of PKC by its specific activator phorbol 12-myristate
+ 13-acetate, in the absence of 5-HT, leads to internalization of the receptorq.
+ 
+\end_layout
+
+\begin_layout Quote
+Moreover, inhibition of PKC by its inhibitor sphingosine in the presence
+ of 5-HT prevents the internalization process, suggesting that activation
+ of PKC is sufficient and necessary for the internalization of 5-HT 2A receptors.
+ 
+\end_layout
+
+\begin_layout Quote
+We also show that SR2-GFP recycles back to the plasma membrane after 5-HT-depend
+ent internalization, suggesting a mechanism for resensitization.
+ 
+\end_layout
+
+\begin_layout Quote
+In addition, receptors that have been internalized on addition of phorbol
+ 12-myristate 13- acetate in the absence of 5-HT also recycle to the surface,
+ with a time course similar to that seen after activation of the receptors
+ by 5-HT.
+
+\series bold
+ Our study suggests that 5-HT 2A receptors internalize and return to the
+ surface after both serotonin- and PKC-mediated processes.
+ 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+This study reveals a role for PKC in receptor internal- ization and also
+ shows that 5-HT 2A receptors are recycled
+\end_layout
+
+\begin_layout Quote
+abstract from 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Bhattacharyya2002"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+de/sensitization
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Waning responsiveness to continuous or repeated stimulation constitutes
+ the phenomenon of desensitization, which pervades biological systems\SpecialChar \ldots{}
+Agonist-ind
+uced desensitization involves phosphorylation of G protein-coupled receptors
+ by two currently recognized classes of serine/threonine protein kinases\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+GRK-mediated receptor phosphorylation facilitates the binding of an inhibitory
+ arrestin protein to the phosphorylated receptor, an event which substantially
+ impairs receptor signaling.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+downregulation of receptor production
+\end_layout
+
+\begin_layout Subsubsection
+structural regulation
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+The serotonin (5-hydroxytryptamine) 2A receptor (5- HT 2A ) is an important
+ G protein-coupled receptor (GPCR) that mediates the effects of hallucinogens
+ and is the target of a number of commonly prescribed medica- tions including
+ atypical antipsychotics, antidepres- sants, and anxiolytics.
+ 
+\end_layout
+
+\begin_layout Quote
+The 5-HT 2A receptor possesses a canonical Type I PDZ-binding domain (X-Ser/Thr-
+X-) at the carboxyl terminus\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+We discovered that PSD-95, a prototypic PDZ domain-containing protein, directly
+ associates with the 5-HT 2A receptor and regulates 5-HT 2A receptor-mediated
+ signaling and trafficking in HEK-293 cells.
+\end_layout
+
+\begin_layout Quote
+Co-immunoprecipitation studies revealed that the native 5-HT 2A receptor,
+ but not a mutant lacking the PDZ-binding domain, interacted directly with
+ PSD-95.
+ The association with PSD-95 enhanced 5-HT 2A receptor- mediated signal
+ transduction, a novel action of PSD-95 on GPCRs.
+ The augmentation of 5-HT 2A receptor signal- ing by PSD-95 was not accompanied
+ by alteration in the kinetics of 5-HT 2A receptor desensitization but was
+ as- sociated with the inhibition of agonist-induced 5-HT 2A receptor internaliz
+ation.
+ Additional studies demon- strated that 5-HT 2A receptor and PSD-95 were
+ co-local- ized in clusters on the cell surface of HEK-293 cells.
+ 
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Quotes erd
+\end_inset
+
+Taken together, the present work elucidates novel roles for PSD-95 in regulating
+ the functional activity and in- tracellular trafficking of 5-HT 2A receptors
+ and possibly other GPCRs
+\series default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Xia2003a"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+The 5-hydroxytryptamine type 2A (5-HT 2A ) receptor and the 5-HT 2C receptor
+ are closely related members of the G-protein-coupled receptors activated
+ by serotonin that share very similar pharmacological profiles and cel-
+ lular signaling pathways.
+ 
+\end_layout
+
+\begin_layout Quote
+These receptors express a ca- nonical class I PDZ ligand (SXV) at their
+ C-terminal ex- tremity.
+ Here, we have identified proteins that interact with the PDZ ligand of
+ the 5-HT 2A and 5-HT 2C receptors by a proteomic approach associating affinity
+ chromatog- raphy using immobilized synthetic peptides encompass- ing the
+ PDZ ligand and mass spectrometry.
+ 
+\end_layout
+
+\begin_layout Quote
+We report that both receptor C termini interact with specific sets of PDZ
+ proteins in vitro.
+ The 5-HT 2C receptor but not the 5-HT 2A receptor binds to the Veli-31⁄7CASK1⁄7
+Mint1 ternary complex and to SAP102.
+ 
+\end_layout
+
+\begin_layout Quote
+In addition, the 5-HT 2C receptor binds more strongly to PSD-95 and MPP-3
+ than the 5-HT 2A re- ceptor.
+ In contrast, a robust interaction between the 5-HT 2A receptor and the
+ channel-interacting PDZ protein CIPP was found, whereas CIPP did not significan
+tly as- sociate with the 5-HT 2C receptor.
+ We also show that residues located at the 1 position and upstream the PDZ
+ ligand in the C terminus of the 5-HT 2A and 5-HT 2C receptors are major
+ determinants in their interaction with specific PDZ proteins.
+\end_layout
+
+\begin_layout Quote
+Immunofluorescence and electron mi- croscopy studies strongly suggested
+ that these specific interactions also take place in living cells and that
+ the 5-HT 2 receptor-PDZ protein complexes occur in intra- cellular compartments.
+\end_layout
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Quotes erd
+\end_inset
+
+The interaction of the 5-HT 2A and the 5-HT 2C receptor with specific sets
+ of PDZ proteins may contribute to their different signal transduction propertie
+s.
+\series default
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Becamel2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Electrophysiological events
+\end_layout
+
+\begin_layout Subsection
+Signalling events
+\end_layout
+
+\begin_layout Subsubsection
+second-messenger activation
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Hallucinogens, including mescaline, psilocybin, and lysergic acid diethylamide
+ (LSD), profoundly affect perception, cognition, and mood.
+ All known drugs of this class are 5-HT 2A receptor (2AR) agonists, yet
+ closely related 2AR agonists such as lisuride lack comparable psychoactive
+ properties.
+ Why only certain 2AR agonists are hallucinogens and which neural circuits
+ mediate their effects are poorly understood.
+ By geneti- cally expressing 2AR only in cortex, we show that 2AR-regulated
+ pathways on cortical neu- rons are sufficient to mediate the signaling
+ pat- tern and behavioral response to hallucinogens.
+ Hallucinogenic and nonhallucinogenic 2AR agonists both regulate signaling
+ in the same 2AR-expressing cortical neurons.
+ However, the signaling and behavioral responses to the hallucinogens are
+ distinct.
+\end_layout
+
+\end_inset
+
+ 
+\series bold
+
+\begin_inset Quotes eld
+\end_inset
+
+While lisuride and LSD both act at 2AR expressed by cortex neurons to regulate
+ phospholipase C, LSD responses also involve pertussis toxin-sensitive heterotri
+meric G i/o proteins and Src.
+\begin_inset Quotes erd
+\end_inset
+
+
+\series default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gonzalez-Maeso2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Alternatively, the reason why lisuride fails to recruit G i/o may have nothing
+ to do with functional selectivity, and could be a consequence of its low
+ intrinsic efficacy at 5-HT 2A
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+[31,32,131
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Although animals trained with DOM will generalize to lisuride [137,138],
+ the response to DOM is attenuated when it is co-administered with lisuride
+ [142].
+ The fact that lisuride induces a response when administered alone but act
+ as an antagonist in the presence of a full agonist (DOM) is consistent
+ with the behavior of a partial agonist.
+\end_layout
+
+\end_inset
+
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+beta arrestin interactions
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+ß-arrestins are intracellular proteins that bind to heptahelical receptors
+ and represent a point where such divergences in ligand- directed functional
+ signaling could occur\SpecialChar \ldots{}
+we compared the endogenous agonist, serotonin, to
+ the synthetic 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}
+\end_layout
+
+\end_inset
+
+R hallucinogenic agonist (DOI), in mice lacking ß-arrestin-2, as well as
+ in cells lacking ß-arrestins.
+ In mice, we find that serotonin induces a head twitch response by a ß -arrestin
+-2-dependent mechanism.
+ However, DOI invokes the behavior independent of ß -arrestin-2.
+\end_layout
+
+\begin_layout Quote
+The two structurally distinct agonists elicit different signal transduction
+ and trafficking patterns upon activation of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}
+\end_layout
+
+\end_inset
+
+R, which hinge on the presence of ß-arrestins.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Our study suggests that the 5-HT2AR– ß arrestin interaction may be particularly
+ important in receptor function in response to endogenous serotonin levels,
+ which could have major implications in drug development for treating neuropsych
+iatric disorders such as depression and schizophrenia
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schmid2008a,Schmid2010,Schmid2011"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsubsection
+receptor reserves
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{in your own words}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+NIH3T3 cells stably expressing the rat 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}R
+\end_layout
+
+\end_inset
+
+ were used to
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+he capacity of structurally distinct ligands to elicit differential signaling
+ through the phospholipase C (PLC) or phospholipase A2 (PLA
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+
+) signal transduction pathways.
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{NIH3T3: Swiss mouse embryo, hypertriploid karyotype}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Initial experiments were designed to verify that 5-HT 2A receptor-mediated
+ PLA 2 activation in NIH3T3 cells is independent from, and not a sub- sequent
+ result of, 5-HT 2A receptor-mediated PLC activation.
+ In addition, we also explored the extent of receptor reserve for the endogenous
+ ligand, 5-HT, for both PLC and PLA 2 activation.
+ Finally, we employed structurally diverse ligands from the tryptamine,
+ phenethylamine, and ergoline families of 5-HT 2A receptor agonists to test
+ the hypothesis of agonist-directed trafficking of 5-HT 2A receptor-mediated
+ PLC and PLA 2 activa- tion.
+ 
+\end_layout
+
+\end_inset
+
+ measure agonist-induced pathway activation.
+ We determined the potency and intrinsic activity of each compound to activate
+ either the PLA 2 pathway or the PLC pathway.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ The results showed that a larger receptor reserve exists for 5-HT-induced
+ PLA 2 activation than for 5-HT-induced PLC activation.
+\end_layout
+
+\end_inset
+
+ Furthermore, the data support the hypothesis of agonist-di- rected trafficking
+ in NIH3T3–5HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\series bold
+2A
+\end_layout
+
+\end_inset
+
+ cells because
+\series bold
+ structurally distinct ligands were able to induce preferential activation
+ of the PLC or PLA 2 signaling pathway.
+ 
+\series default
+From these data we conclude that structurally distinct ligands can differentiall
+y regulate 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\series bold
+2A
+\end_layout
+
+\end_inset
+
+ receptor signal transduction.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Kurrasch-Orbaugh2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Transcriptomic signalling
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+Most neuropharmacological agents and many drugs of abuse modulate the activity
+ of heptahelical G-protein-coupled receptors.
+ 
+\end_layout
+
+\begin_layout Quote
+Although the effects of these ligands result from changes in cellular signaling,
+ their neurobehavioral activity may not correlate with results of in vitro
+ signal transduction assays.
+ 5-Hydroxytryptamine 2A receptor (5-HT2AR) partial agonists that have similar
+ pharmacological profiles differ in the behavioral responses they elicit.
+\end_layout
+
+\begin_layout Quote
+In vitro studies suggest that different agonists acting at the same receptor
+ may establish distinct patterns of signal transduction.
+ Testing this hypothesis in the brain requires a global signal transduction
+ assay that is applicable in vivo.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+To distinguish the cellular effects of the different 5-HT2AR agonists, we
+ developed an assay for global signal transduction on the basis of high
+ throughput quantification of rapidly modulated transcripts.
+ Study of the responses to agonists in
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{HEKs human embryonic 'kidney' cells, XX karyotype}
+\end_layout
+
+\end_inset
+
+
+\series bold
+ 
+\series default
+
+\begin_inset Quotes eld
+\end_inset
+
+studied in human embryonic kidney 293 cells stably expressing 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}
+\end_layout
+
+\end_inset
+
+Rs 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+demonstrated that each agonist elicits a distinct transcriptome fingerprint.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+We therefore studied behavioral and cortical signal transduction responses
+ in wild-type and 5-HT2AR null-mutant mice.
+ The hallucinogenic chemicals (theta)-2,5-dimethoxy-4-iodoamphetamine (DOI)
+ and lysergic acid diethylamide (LSD) stimulated a head-twitch behavioral
+ response that was not observed with the nonhallucinogenic lisuride hydrogen
+ maleate (LHM) and was absent in receptor null-mutant mice.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+We also found that DOI, LSD, and LHM each induced distinct transcriptome
+ fingerprints in somatosensory cortex that were absent in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2A}
+\end_layout
+
+\end_inset
+
+R null-mutants.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{mice, XY karyotype}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Moreover, DOI and LSD showed similarities in the transcriptome fingerprints
+ obtained that were not observed with the behaviorally inactive drug LHM.
+ Our results demonstrate that chemicals acting at the 
+\series default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+
+\series bold
+R induce specific cellular response patterns in vivo that are reflected
+ in unique changes in the somatosensory cortex transcriptome.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\series default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gonzalez-Maeso2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 
@@ -2475,7 +5479,7 @@ key "Gonzalez-Maeso2007"
 , at Mt.
  Sinai, attribute the main action of hallucinogens
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2503,64 +5507,12 @@ textsubscript{2a}R
  pathways.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-Binding at the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-5-HT
-\backslash
-textsubscript{2a}R
-\end_layout
-
-\end_inset
-
- does not, inherently, cause hallucinations -- otherwise, our normal course
- of perception would involve a lot more colors and a lot less filtering.
- They are created through a binding event by some drugs at specific receptors,
- likely modulated by the 
-\emph on
-lack
-\emph default
- of binding at other receptors that would normally modulate 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-5-HT
-\backslash
-textsubscript{2a}R
-\end_layout
-
-\end_inset
-
- activation.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-~thoughts~ cellular signaling is only imp.
- if it's not being modulated by other cells; hallucinogenic action is an
- emergent property of both activation of 
-\emph on
-those
-\emph default
- receptors and the non activation of 
-\emph on
-other
-\emph default
- receptors.
- DUMB}
-\end_layout
-
-\end_inset
-
- Internally to the cell, however, hallucinogens and non-hallucinogens have
- very different downstream effects, which is given credit as the cause of
- psychedelic effects.
 \begin_inset ERT
 status collapsed
 
@@ -2568,7 +5520,8 @@ status collapsed
 
 
 \backslash
-graffito{Nothin' is real and I hate it}
+todo[inline]{More about this here and specifics (transcription, lcal events,
+ etc)}
 \end_layout
 
 \end_inset
@@ -2576,13 +5529,147 @@ graffito{Nothin' is real and I hate it}
 
 \end_layout
 
+\begin_layout Subsection
+long-er term changes
+\end_layout
+
 \begin_layout Standard
-\begin_inset Note Greyedout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-More about this here and specifics (transcription, lcal events, etc)
+
+
+\backslash
+graffito{on what time scale?}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Receptor modifications
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+We previously demonstrated that 24-h treatment with (delta)-1- (2,5-dimethoxy-4-
+iodophenyl)-2-aminopropane HCl (DOI) causes phosphorylation of G ␣ 11 protein
+ at serine 154 and that this phosphorylation causes desensitization of serotonin
+ (5-HT) 2A receptor signaling in A1A1v cells (Shi et al., 2007).
+ We now report that treatment of A1A1v cells with DOI for 24 h produces
+ a greater reduction in the B max of [ 125 I](theta)-DOI-labeled high- affinity
+ binding sites (46%) than the reduction of [ 3 H]ketanserin binding sites
+ (25%).
+ Although the K D values are not altered, there is a smaller amount of GTP
+ # S [guanosine 5Ј-3-O-(thio)- triphosphate]-sensitive [ 125 I](theta)-DOI
+ binding in DOI-treated cells.
+ These results suggest that DOI treatment causes down- regulation of 5-HT
+ 2A receptors and reductions in G protein- coupled 5-HT 2A receptors.
+ In contrast, in cells transfected with the phosphorylation state mimic
+ G ␣ 11 S154D, GTP  S-sensitive [ 125 I](theta)-DOI binding was decreased
+ by 48%; however, there was no significant difference in the K D and B max
+ values of [ 125 I](theta)-DOI-labeled receptors.
+ 
+\end_layout
+
+\end_inset
+
+The receptor binding experiments suggest that phosphorylation of G 11 on
+ serine 154 reduces coupling of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ receptors, whereas DOI causes down-regulation of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ in addition to the phosphorylation-induced uncoupling of G
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+α11
+\end_layout
+
+\end_inset
+
+ to 5-HT 2A receptors.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+To determine whether DOI increases phosphorylation of G q/11 protein in
+ vivo, rats were treated with 1 mg/kg/day DOI or saline for 1 to 7 days.
+ Seven days of DOI treatment significantly decreased phospholipase C activity
+ stimulated by an E max concentration of 5-HT by 40% and increased phosphorylati
+on of G q/11 proteins by 51% in the frontal cortex.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+These data suggest that DOI causes phosphorylation of G q/11 in vivo and
+ could thereby contribute to the desensitization of 5-HT 2A re- ceptors.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shi2007a"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+gene expression
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Nichols2002,Martin2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Neuronal plasticity
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Jones2009"
 
 \end_inset
 
@@ -2687,7 +5774,20 @@ name "enu:CHO-(others?)-cells"
 
 \end_inset
 
-CHO cells expressing a fluorescent 5-HT2a receptor and variants
+CHO cells expressing a fluorescent 5-
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ receptor and variants
 \end_layout
 
 \begin_layout Standard
@@ -2698,11 +5798,7 @@ reference "enu:Humans,-with-psilocybin,"
 
 \end_inset
 
- is the most full bodied (pun 
-\emph on
-totally
-\emph default
- intended) 
+ is the most full bodied 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2719,7 +5815,7 @@ status open
 
 
 \backslash
-findref{neuroimaging sucks}
+rewrite{neuroimaging sucks}
 \end_layout
 
 \end_inset
@@ -2894,14 +5990,14 @@ OK but not nearly imaginative or widely enough researched [unreadable stuff]
 \end_layout
 
 \begin_layout Subsection
-Frustrations with model systems
+Frustrations with model systems?
+\end_layout
+
+\begin_layout Subsubsection
+differences between mouse, human, and rat 
 \end_layout
 
 \begin_layout Section
-Background
-\end_layout
-
-\begin_layout Subsection
 Project outline
 \end_layout
 
@@ -2938,6 +6034,7 @@ just
  science, I opted to work at Hampshire.
  Our money and our model systems are limited; I also won't be getting DEA
  approval, so I can't work directly with psychedelic drugs.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -3015,7 +6112,7 @@ graffito {as far as cancerous, genetically manipulated, and traumatized
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 P19s
 \end_layout
 
@@ -3024,7 +6121,7 @@ P19s are derived from embryonal teratocarcinoma cells, from behind the testes
  of XY-karyotype mice.
  They are immortal and easy to maintain, retaining pluripotency under normal
  cell culture conditions.
- Upon 
+ With 
 \begin_inset ERT
 status open
 
@@ -3037,7 +6134,7 @@ ac{RA}
 
 \end_inset
 
- application and a slight modification of culture conditions, P19s differentiate
+ application and minor modification of culture conditions, P19s differentiate
  into 
 \begin_inset ERT
 status open
@@ -3068,13 +6165,6 @@ key "Wei2002"
 
  and they're an established model system for exploring embryonic differentiation
  of neuronal cells.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Farah2000"
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -3348,6 +6438,14 @@ binds heterodimer of nuclear retinoic acid receptors and modifies transcription
 
 \end_layout
 
+\begin_layout Section
+A Brief Historical Foray into other kinds of uses???
+\end_layout
+
+\begin_layout Standard
+Mayans and the Inca and merchant men, oh my.
+\end_layout
+
 \begin_layout Standard
 \begin_inset Note Note
 status collapsed
@@ -3431,10 +6529,10 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
 \end_inset
 
 
-\begin_inset Note Note
-status open
+\begin_inset Branch mol-neuro
+status collapsed
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"

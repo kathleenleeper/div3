@@ -9,7 +9,7 @@
 \usepackage{graphicx}
 \usepackage{lipsum}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqnheadinclude,10pt,a4paper,BCOR5mm,footinclude,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -55,6 +55,11 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch global-science
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -76,19 +81,57 @@
 
 \begin_body
 
-\begin_layout Chapter
-Representation & Science
+\begin_layout Standard
+\begin_inset Branch global-science
+status open
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Section*
 Acronyms
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -104,9 +147,9 @@ begin{acronym}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -121,9 +164,9 @@ acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -137,9 +180,9 @@ acro{RoW}{"Rest of World"}, for what that's worth
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -153,9 +196,9 @@ acro{OECD}{Organisation for Economic Co-operation and Development}
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -170,9 +213,105 @@ acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
 \begin_layout Plain Layout
+
+
+\backslash
+acro{IF}{Impact Factor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UB FoH}{University of Botswana, Faculties of Humanities}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UoM FoS}{University of Mauritius, Faculties of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UCT Comm}{University of Cape Town, Commerce}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{STEM}{Science, Technology, Engineering, and Math}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -189,6 +328,13 @@ end{acronym}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter
+Representation & Science
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Comment
 status collapsed
 
@@ -251,7 +397,7 @@ place blame on paper and grant reviewers, editors, faculty members, or other
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 I've broken this into three sections -- geography/localities, gender, and
@@ -263,46 +409,172 @@ I've broken this into three sections -- geography/localities, gender, and
 \end_inset
 
 
+\emph on
+Who gets to make science, and who gets credit?
+\end_layout
+
+\begin_layout Subsection
+The trouble with rep (re Haraway)
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The trouble with [representation] is,
+\end_layout
+
+\begin_layout Quotation
+it always tries to teach the wrong lesson
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Who gets to make science, and who gets credit?
+We can ask where are the queers, but queer, like woman or black, is not
+ an inherently meaningful category.
+ Statistical questions about proportions of women and men, minorities to
+ white, or tall to small reinstate (re-inscribe?) recently developed relations;
+ race has not always defined us.
+ Women, the political category, did not (one theorist argues) exist until
+ just after WWII; class, too, was constructed.
+ Analyzing on a large scale based on these tropes of natural categories
+ presumes their naturalness.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{This section has been bugging me because of exactly this; homogeniz
+ing and talking about "Women of Color" as a united group just doesn't....it
+ doesn't work.
+ So, yay, figured that out.
+ It's still valuable though.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Paragraph*
 Some Notes
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
+As a category here, 
 \begin_inset Quotes eld
 \end_inset
 
-Science
+science
 \begin_inset Quotes erd
 \end_inset
 
- as an analytical category is going be pretty generalized.
+ is subsumed to 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{STEM}
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-clinical research is generally more studied and more prioritized in the
- literature 
+\end_inset
+
+, with medicine as part of 
+\begin_inset Quotes eld
+\end_inset
+
+science
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Part of this derives purely from where meta-research has been done.
+ Clinical trials (and their representation, both in experimenters and in
+ subjects) seem to be 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{rephrase}
 \end_layout
 
-\begin_layout Itemize
-plausibly as a result of a pervading belief in the relative hardness of
- sciences.
- 
+\end_inset
+
+ prioritized as study objects, because the effect is more clear -- studying
+ a medicine in only men completely ignores 50% of the population who might
+ also succumb to a disease.
+ That's just good science; clinical research is immediately flawed when
+ representation of different bodies isn't taken into account.
 \end_layout
 
-\end_deeper
+\begin_layout Standard
+It's also plausible the bias towards clinical trials as an analytic range
+ stems partially from a pervading belief in the 
+\begin_inset Quotes eld
+\end_inset
+
+hardness
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+define{hardness}
+\end_layout
+
+\end_inset
+
+ of a field like high-energy physics, where notions of representation shouldn't,
+ according to traditional notions of objectivity, matter much; thus, there's
+ no functional purpose in questioning representation because all it does
+ is cater to the feminists.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{this whole section}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
 Also, there 
 \emph on
 is 
 \emph default
-some representation in clinical research{ It seems plausible that the 
+some representation in clinical research
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+It seems plausible that the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -314,15 +586,14 @@ harder
 n at the LHC.
  
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Although this 
 \emph on
 might 
 \emph default
-not be the case.
- Research hasn't shown.
+not be the case?
 \end_layout
 
 \end_inset
@@ -330,23 +601,28 @@ not be the case.
 
 \end_layout
 
+\end_deeper
 \begin_layout Itemize
 Ii you don't have internet access, you can't even do bioinformatics.
  Entire scientific fields are built purely on the internet.
-\end_layout
-
-\begin_layout Section
-Developing Countries:
-\begin_inset Note Note
+ 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
- The 10/90 Problem
+
+
+\backslash
+research{science without internet}
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Counting Heads: Bibliometrics
 \end_layout
 
 \begin_layout Standard
@@ -365,44 +641,148 @@ key "Evans2009,GlobalForumforHealthResearchOrganization2000,Godlee2000,Harle,Kin
 
 \end_inset
 
+When the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+ came up before, it was only in the context of effects -- what happens to
+ the scientific system when single metrics start to dominate.
+ To be indexed -- or rather, to have a paper a published in an indexed journal,
+ is the start towards credit.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Since it's not done until it's published.}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Peer-Review-Impact-Factors"
+
+\end_inset
+
+, we discussed impact factors generally, and relative disaster that the
+ impact factor's valuing wreaks on scientific research.
+ Taking the global South into account adds an entirely new dimension to
+ that.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For a journal to be included, it must meet many parameters of 
+\begin_inset Quotes eld
+\end_inset
+
+quality
+\begin_inset Quotes erd
+\end_inset
+
+ -- 
+\end_layout
+
+\begin_layout Quote
+Many factors are taken into account when evaluating journals for coverage
+ in Web of Science, ranging from the qualitative to the quantitative.
+ The journal's basic publishing standards, its editorial content, the internatio
+nal diversity of its authorship, and the citation data associated with it
+ are all considered.
+ No one factor is considered in isolation, but by combination and interrelation
+ of data, the Thomson Reuters editor is able to determine the journal's
+ overall strengths and weaknesses.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Full Text English
+\end_layout
+
+\begin_layout Quote
+English is the universal language of science.
+ For this reason Thomson Reuters focuses on journals that publish full text
+ in English, or at very least, bibliographic information in English.
+ There are many journals covered in Web of Science that publish articles
+ with bibliographic information in English and full text in another language.
+ However, going forward, it is clear that the journals most important to
+ the international research community will publish full text in English.
+ This is especially true in the natural sciences.
+ There are notable exceptions to this rule in the Arts & Humanities and
+ in Social Sciences topics.
+ This is discussed further below.
+ Nonetheless, full text English is highly desirable, especially if the journal
+ intends to serve an international community of researchers.
+ In addition, all journals must have cited references in the Roman alphabet.
+\end_layout
+
+\begin_layout Quote
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Regional Journals
+\end_layout
+
+\begin_layout Quote
+Thomson Reuters is also interested in excellent regional journals and is
+ able to include a relatively small proportion of these each year.
+ Regional journals often target a local rather than an international audience,
+ requiring less emphasis on extensive international diversity.
+ Citation analyses may also play a different role in the evaluation of regional
+ journals whose citation impact is usually modest.
+ Otherwise, the selection criteria for regional journals are the same as
+ for international journals.
+ The importance of the regional journal would be measured more in terms
+ of the specificity of its content.
+ Will it enrich our coverage of a particular subject or provide studies
+ with a specific regional perspective? All regional journals selected must
+ be publishing on time, have English-language bibliographic information
+ (title, abstract, keywords), and be peer reviewed
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
+the standards for inclusion...?
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Subsection
-Who gets counted?: global citation indices
-\end_layout
-
-\begin_layout Standard
-In 
-\emph on
-Unseen Science: Scholarly Publication in the BRICs but not in the Web of
- Science
-\emph default
-, 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Wagner2011"
-
-\end_inset
-
- examined representation in citation indices and found only 4% of developing
- countries journals were counted.
- Luckily, this isn't country-specific -- only 4% of journals in 
-\emph on
-any
-\emph default
- country are indexed.
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-CITATIOn
-\end_layout
-
-\end_inset
-
- Which is not so much an indictment of what countries get indexed, but of
- impact factors in general.
+Citation Indices and global inclusion
 \end_layout
 
 \begin_layout Standard
@@ -414,13 +794,10 @@ reference "fig:location-of-academic-knowledge"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -531,8 +908,20 @@ c, objective means to critically evaluate the world’s leading journals,"
 
 Of the material in SCIE, more than 50 percent of journals are attributed
  to just three countries: the United States (34 percent); England (19 percent)
- and the Netherlands (8 percent) reflecting an English-language bias that
- has been documented
+ and the Netherlands (8 percent) reflecting an English-language bias
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{unsurprising given that it has to be in English.} 
+\end_layout
+
+\end_inset
+
+ that has been documented
 \begin_inset Quotes erd
 \end_inset
 
@@ -586,59 +975,37 @@ Journal of Public Health Medicine
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-In 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sub:Peer-Review-Impact-Factors"
-
-\end_inset
-
-, we discussed impact factors generally, and relative disaster that the
- impact factor's valuing wreaks on scientific research.
- Taking the global South into account adds an entirely new dimension to
- that.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-is this referring to who is publishing or who is producing or who is included?
- subdivide subdivide
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {Numbers are boring, but wow, are they depressing.}
-\end_layout
-
-\end_inset
-
-In a retrospective of 5 major medical journals, 
+In 2004, 
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Sumathipala2004"
 
 \end_inset
 
- examined contributions by 4 geographic areas: the UK, USA, 
+ examined the geographic distribution (via instituation affiliation) of
+ authors in 5 of major medical journals over 1999 and 2000 (
+\emph on
+BMJ
+\emph default
+, 
+\emph on
+Lancet
+\emph default
+, 
+\emph on
+NEJM
+\emph default
+, 
+\emph on
+Annals of Internal Medicin
+\emph default
+e & 
+\emph on
+JAMA
+\emph default
+) Their four areas are the UK, USA, 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -649,9 +1016,10 @@ ac{OEAC}
 
 \end_inset
 
-, and 
+, e.g.
+ Canada and Australia, and literally the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -662,10 +1030,108 @@ ac{RoW}
 
 \end_inset
 
-.
+ -- grouping together the continents of Asia, South America, and Africa,
+ as well as Eastern Europe and Mexico.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{population percentages}
+\end_layout
+
+\end_inset
+
+ While the homogenization is terrifying, the sheer weight of the numbers
+ is telling.
+ On average, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}
+\end_layout
+
+\end_inset
+
+ authors contributed 6.5% -- 151 -- of the research literature.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{re: independence -- should look into the developing culture of collaboratio
+n and thus the changing nature of discrimination or not}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Some notable variations in the regional data: 2 countries, Japan and Israel,
+ (Japanese nationalism and Israeli aggression in Palestine...
+ their scientific dominance is not an 
+\emph on
+accident
+\emph default
+) contribute a 5th of the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}
+\end_layout
+
+\end_inset
+
+-published literature, while China and India combined (the two most populous
+ countries in the world) contribute a total of 13% of that 6.5%..
+ Only 31% of the total articles were entirely independent RoW.
+\end_layout
+
+\end_inset
+
  
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {Numbers are boring, but wow, are they depressing.}
+\end_layout
+
+\end_inset
+
+ Of those 151 articles, 68% included a co-author from a developed country
+ in Europe and in North American; 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+is this referring to who is publishing or who is producing or who is included?
+ subdivide subdivide
+\end_layout
+
+\end_inset
+
+15 original papers in the journals used data from 
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -676,38 +1142,9 @@ ac{RoW}
 
 \end_inset
 
-, on average, contributed 6.5% of the research literature.
- The highest seen was in the Lancet (12%), and of the 151 
+ countries with no 
 \begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RoW}
-\end_layout
-
-\end_inset
-
- articles involved, 68.9% involved authorship from a developed county in
- Europe or North America.
- 15 original papers in the journals had data from 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RoW}
-\end_layout
-
-\end_inset
-
- w/ no 
-\begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -719,425 +1156,42 @@ ac{RoW}
 \end_inset
 
  coauthors.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{This whole section} 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-This study selected the highest impact general purpose medical journals,
- of all issues in one calendar year (either 2000 or 1999), and examined
- authorship (by institutional affiliation) and the methods, to ascertain
- the geographic origin of data.
- Some notable variations in the regional data: 2 countries (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Interesting to remember that Japan was the aggressor in WWII; Japanese
- nationalism.
- Israel is...well, Israel and Palestine.
- Their research is not an 
-\backslash
-emph{accident}.}
-\end_layout
-
-\end_inset
-
-Japan and Israel) contribute a 5th of the RoW-published literature, while
- China and India combined (the two most populous countries in the world)
- contribute a total of 13%.
- Only 31% of the total articles were entirely independent RoW.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo{re: independence -- should look into the developing culture of collaboratio
-n and thus the changing nature of discrimination or not}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-notes on production from the Scholarly Communications in Africa report
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{SCAP report: instead of covering ALL of the non-Western world, do
- case studies}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UB FoH}{University of Botswana, Faculties of Humanities}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UoM FoS}{University of Mauritius, Faculties of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UCT Comm}{University of Cape Town, Commerce}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-from the last summary chapter of 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Henry2014"
-
-\end_inset
-
-, who performed a case study of scholarly communication from four research
- universities in southern Africa.
-\end_layout
-
-\begin_layout Paragraph
-Finding 1 
-\end_layout
-
-\begin_layout Standard
-Southern African research is comparatively marginal and invisible in the
- global context of academic research production.
-\end_layout
-
-\begin_layout Quote
-This general condition of marginality and invisibility is due to both external
- and internal factors.
- Externally, the wealth and productivity of Northern institutions (and increasin
-gly other Southern ones in China) simply dwarf the research potential of
- the smaller Southern African countries, a fact that will not change soon.
- However, it is also influenced by internal factors which, if altered, could
- increase its reach, prestige and relevance.
-\end_layout
-
-\begin_layout Paragraph
-Finding 2.
- 
-\end_layout
-
-\begin_layout Standard
-Southern African scholars are motivated to produce and disseminate research
- for both intrinsic and extrinsic reasons, including: the institutional
- mandate (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{UB FoH}
-\end_layout
-
-\end_inset
-
-), peer expectation (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{UCT Comm}
-\end_layout
-
-\end_inset
-
-), personal desire (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{UoM FoS}
-\end_layout
-
-\end_inset
-
-) and to generate new knowledge and enhance teaching (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{UNAM FHSS}
-\end_layout
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Paragraph
-Finding 3
-\end_layout
-
-\begin_layout Standard
-Not all Southern African scholars want their research to be visible.
-\end_layout
-
-\begin_layout Itemize
-anxieties about quality, peer judgment and community exposure (especially
- if they doubt the value of their research contributions) 
-\end_layout
-
-\begin_layout Itemize
-a culturally informed sense of modesty (where it is considered improper
- to engage in self-promotion, such as calling attention to one’s own work)
- 
-\end_layout
-
-\begin_layout Itemize
-a minimalist communications strategy (where dissemination is achieved through
- reading a paper at a conference, or perhaps allowing a journal to publish
- it, but nothing further) 
-\end_layout
-
-\begin_layout Itemize
-fear that others may steal their ideas/data (especially if still in gestational
- form)
-\end_layout
-
-\begin_layout Itemize
-a teaching- rather than research-oriented approach to scholarship (which
- speaks to one’s sense of academic identity, as a teacher rather than a
- researcher)
-\end_layout
-
-\begin_layout Paragraph
-Finding 4
-\end_layout
-
-\begin_layout Standard
-Heavy teaching and administrative loads hinder research production in Southern
- African universities.
-\end_layout
-
-\begin_layout Paragraph
-Finding 5
-\end_layout
-
-\begin_layout Standard
-The majority of Southern African research projects are either unfunded or
- funded by their universities.
-\end_layout
-
-\begin_layout Quote
-Considering that the four universities that we profiled were some of the
- more prolific in the region (each was the top producing university in their
- respective countries) and belonged to countries that had moderate financial
- resources (especially as compared to their neighbours), the challenges
- of research funding are likely much greater across the rest of Southern
- Africa.
-\end_layout
-
-\begin_layout Paragraph
-Finding 6.
- 
-\end_layout
-
-\begin_layout Standard
-Many Southern African research projects are small, local projects, confined
- to an immediate geographical area.
-\end_layout
-
-\begin_layout Subsection
-Which Bodies Are In Research?: The 10/90 problem
-\end_layout
-
-\begin_layout Standard
-The 10/90 problem is simple: only 10% of the world's resources are used
- for 90% of health problems.
- Only 6% of psychiatric jurnals arose from regions accounting for >90% of
- the population.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
 In 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Rochon2004"
-
-\end_inset
-
-, 
 \emph on
-Relation between randomized controlled trials published in leading general
- medical journals and the global burden of disease
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Background 
-\series default
-More than two-thirds of the world’s population live in low-income countries,
- where health priorities are different from those of people living in more
- affluent parts of the world.
- We evaluated the relation between the global burden of dis- ease and conditions
- or diseases studied in randomized controlled trials (RCTs).
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Results: 
-\series default
-Among the 286 RCTs in our sample, 124 (43.4%) addressed 1 of the 35 leading
- causes of the global burden of disease\SpecialChar \ldots{}
-Almost half of the 40 leading causes
- of the global burden of disease were not studied by any trial.
- 
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Interpretation: 
-\series default
-Many conditions or diseases common internationally are underrepresented
- in RCTs published in leading general medical journals.
- Trials published in these journals that studied one of these high-priority
- conditions were generally rated as being of little relevance to international
- health.
-\end_layout
-
-\begin_layout Quote
-\align right
+Unseen Science: Scholarly Publication in the BRICs but not in the Web of
+ Science
+\emph default
+, 
 \begin_inset CommandInset citation
-LatexCommand citep
-key "Rochon2004"
+LatexCommand citeauthor*
+key "Wagner2011"
 
 \end_inset
 
+ examined representation in citation indices and found only 4% of developing
+ countries journals were counted.
+ Luckily, this isn't country-specific -- only 4% of journals in 
+\emph on
+any
+\emph default
+ country are indexed.
+\begin_inset Note Comment
+status collapsed
 
+\begin_layout Plain Layout
+CITATIOn
 \end_layout
 
-\begin_layout Section
+\end_inset
+
+ Which is not so much an indictment of what countries get indexed, but of
+ impact factors in general.
+\end_layout
+
+\begin_layout Subsection
 Gender Disparities
 \end_layout
 
@@ -1220,7 +1274,7 @@ accentuated by domesticity: women benefit less from the extra citations
 
 \end_deeper
 \begin_layout Enumerate
-globally, women account for <30% of fractionalized authorship, men are >70%
+Globally, women account for <30% of fractionalized authorship, men are >70%
 \end_layout
 
 \begin_deeper
@@ -1267,10 +1321,8 @@ key "West2013"
 
 \end_inset
 
- published an extremely similar paper in PLoS one the same year, without
- the global analysis component but with even more papers as part of the
- analysis.
- Their source was the JSTOR corpus, 
+ published a similar paper in PLoS one the same year, looking at gender
+ in the JStor corpus, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1288,34 +1340,40 @@ status open
 
 
 \backslash
-graffito {with the mention that publication counts obviously are relevant
- in 
+rewrite{and their conclusions were
+\backslash
+dots}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+with the mention that publication counts obviously are relevant in 
 \backslash
 emph{tenure} discussions, e.g.
  hiring e.g.
- perpetuating cycle}
+ perpetuating cycle
+\end_layout
+
+\begin_layout Plain Layout
+Also, HUGE points for their methods and reproducibility, e.g.
+ creating the gender browser and communicating with me about making that
+ something to apply to individual libraries in reference managers.
+ Secret part of my div that may or may not manifest depending on the cooperation
+ of these authors
 \end_layout
 
 \end_inset
 
  
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-graffito {Also, HUGE points for their methods and reproducibility, e.g.
- creating the gender browser and communicating with me about making that
- something to apply to individual libraries in reference managers.
- Secret part of my div that may or may not manifest depending on the cooperation
- of these authors}
 \end_layout
 
-\end_inset
-
-
+\begin_layout Section
+But why?
 \end_layout
 
 \begin_layout Standard
@@ -1333,7 +1391,111 @@ publishing
 \emph default
 , but rather that women aren't making it to the top ranks of science and
  thus are not in a position to be publishing or collaborating on the most
- important papers.
+ important papers
+\end_layout
+
+\begin_layout Section
+Which Bodies Are In Research?
+\end_layout
+
+\begin_layout Subsection
+Globally: the 10/90 problem
+\end_layout
+
+\begin_layout Standard
+The 10/90 problem is simple: only 10% of the world's resources are used
+ for 90% of health problems.
+ Only 6% of psychiatric jurnals arose from regions accounting for >90% of
+ the population.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sumathipala2004"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+the global burden of disease falls more heavily on low-income countries;
+ 
+\end_layout
+
+\begin_layout Standard
+In 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Rochon2004"
+
+\end_inset
+
+, 
+\emph on
+Relation between randomized controlled trials published in leading general
+ medical journals and the global burden of disease
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Background 
+\series default
+More than two-thirds of the world’s population live in low-income countries,
+ where health priorities are different from those of people living in more
+ affluent parts of the world.
+ We evaluated the relation between the global burden of dis- ease and conditions
+ or diseases studied in randomized controlled trials (RCTs).
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Results: 
+\series default
+Among the 286 RCTs in our sample, 124 (43.4%) addressed 1 of the 35 leading
+ causes of the global burden of disease\SpecialChar \ldots{}
+Almost half of the 40 leading causes
+ of the global burden of disease were not studied by any trial.
+ 
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Interpretation: 
+\series default
+Many conditions or diseases common internationally are underrepresented
+ in RCTs published in leading general medical journals.
+ Trials published in these journals that studied one of these high-priority
+ conditions were generally rated as being of little relevance to international
+ health.
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rochon2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Race
+\end_layout
+
+\begin_layout Standard
+african americans
+\end_layout
+
+\begin_layout Subsection
+by gender
+\end_layout
+
+\begin_layout Standard
+heart disease, car crashes
 \end_layout
 
 \begin_layout Section
@@ -1348,9 +1510,6 @@ name "sec:Digital-Divides"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1363,49 +1522,16 @@ Lots of new scientific endeavors focus on the internet as an equalizing
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-
-
-\backslash
-makebox[
-\backslash
-textwidth][c]{ 
-\end_layout
-
-\end_inset
-
-
 \begin_inset Graphics
 	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
 	lyxscale 10
 	width 80page%
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
 
 \end_inset
 
@@ -1416,14 +1542,8 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Description - This map illustrates the total number of Internet users in
- a country as well as the percentage of the population that has Internet
- access.
-\end_layout
-
-\end_inset
-
-
+This map illustrates the total number of Internet users in a country as
+ well as the percentage of the population that has Internet access.
 \end_layout
 
 \end_inset
@@ -1527,48 +1647,18 @@ It is therefore important to remember that despite the massive impacts that
 \end_inset
 
 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset Float figure
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-makebox[
-\backslash
-textwidth][c]{ 
-\end_layout
-
-\end_inset
-
 
 \series bold
-
 \begin_inset Graphics
 	filename gfx/Broadband_Affordability.png
 	lyxscale 5
 	width 80page%
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
 
 \end_inset
 
@@ -1585,11 +1675,6 @@ Description
  -This map presents an overview of broadband affordability, as the relationship
  between average yearly income per capita and the cost of a broadband subscripti
 on.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -1722,9 +1807,202 @@ The data mapped here are some of the world’s most important indicators.
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
+
+\begin_layout Section
+notes on production from the Scholarly Communications in Africa report
+\end_layout
 
 \begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{SCAP report: instead of covering ALL of the non-Western world, do
+ case studies}
+\end_layout
+
+\end_inset
+
+from the last summary chapter of 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Henry2014"
+
+\end_inset
+
+, who performed a case study of scholarly communication from four research
+ universities in southern Africa.
+\end_layout
+
+\begin_layout Paragraph
+Finding 1 
+\end_layout
+
+\begin_layout Plain Layout
+Southern African research is comparatively marginal and invisible in the
+ global context of academic research production.
+\end_layout
+
+\begin_layout Quote
+This general condition of marginality and invisibility is due to both external
+ and internal factors.
+ Externally, the wealth and productivity of Northern institutions (and increasin
+gly other Southern ones in China) simply dwarf the research potential of
+ the smaller Southern African countries, a fact that will not change soon.
+ However, it is also influenced by internal factors which, if altered, could
+ increase its reach, prestige and relevance.
+\end_layout
+
+\begin_layout Paragraph
+Finding 2.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Southern African scholars are motivated to produce and disseminate research
+ for both intrinsic and extrinsic reasons, including: the institutional
+ mandate (
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UB FoH}
+\end_layout
+
+\end_inset
+
+), peer expectation (
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UCT Comm}
+\end_layout
+
+\end_inset
+
+), personal desire (
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UoM FoS}
+\end_layout
+
+\end_inset
+
+) and to generate new knowledge and enhance teaching (
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{UNAM FHSS}
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Paragraph
+Finding 3
+\end_layout
+
+\begin_layout Plain Layout
+Not all Southern African scholars want their research to be visible.
+\end_layout
+
+\begin_layout Itemize
+anxieties about quality, peer judgment and community exposure (especially
+ if they doubt the value of their research contributions) 
+\end_layout
+
+\begin_layout Itemize
+a culturally informed sense of modesty (where it is considered improper
+ to engage in self-promotion, such as calling attention to one’s own work)
+ 
+\end_layout
+
+\begin_layout Itemize
+a minimalist communications strategy (where dissemination is achieved through
+ reading a paper at a conference, or perhaps allowing a journal to publish
+ it, but nothing further) 
+\end_layout
+
+\begin_layout Itemize
+fear that others may steal their ideas/data (especially if still in gestational
+ form)
+\end_layout
+
+\begin_layout Itemize
+a teaching- rather than research-oriented approach to scholarship (which
+ speaks to one’s sense of academic identity, as a teacher rather than a
+ researcher)
+\end_layout
+
+\begin_layout Paragraph
+Finding 4
+\end_layout
+
+\begin_layout Plain Layout
+Heavy teaching and administrative loads hinder research production in Southern
+ African universities.
+\end_layout
+
+\begin_layout Paragraph
+Finding 5
+\end_layout
+
+\begin_layout Plain Layout
+The majority of Southern African research projects are either unfunded or
+ funded by their universities.
+\end_layout
+
+\begin_layout Quote
+Considering that the four universities that we profiled were some of the
+ more prolific in the region (each was the top producing university in their
+ respective countries) and belonged to countries that had moderate financial
+ resources (especially as compared to their neighbours), the challenges
+ of research funding are likely much greater across the rest of Southern
+ Africa.
+\end_layout
+
+\begin_layout Paragraph
+Finding 6.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Many Southern African research projects are small, local projects, confined
+ to an immediate geographical area.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch global-science
+status collapsed
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "cnltx,CriticalOpenNeuro"

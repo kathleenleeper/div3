@@ -8,7 +8,7 @@
 
 \usepackage{todonotes}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -55,6 +55,56 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\branch chapteronly
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch chapter
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch global-science
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch open-science
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch analysis-publish
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch good-people
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch mol-neuro
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch case-open-sci
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch critical-neur
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch bib_me
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
 \index Index
 \shortcut idx
 \color #008000
@@ -325,7 +375,7 @@ status open
 
 %
 \backslash
-myPart{Serotonin Science}
+myPart{Case Studies}
 \end_layout
 
 \end_inset
@@ -351,6 +401,18 @@ filename "mol-neuro.lyx"
 \begin_inset CommandInset include
 LatexCommand include
 filename "OS-case-study.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "bibliometrics_case-study.lyx"
 
 \end_inset
 
