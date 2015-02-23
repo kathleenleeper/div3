@@ -998,7 +998,7 @@ Under the prevailing subscription-based system, commercial publishers own
 \begin_layout Quote
 \align right
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Shelton"
 
 \end_inset
@@ -1164,8 +1164,9 @@ s.
 
 \begin_layout Quote
 \align right
+r
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citep
 key "Shelton"
 
 \end_inset
@@ -1291,7 +1292,7 @@ key "Ioannidis2005"
  A.
  Ioannidis' calculations led him to estimate that more than 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1310,7 +1311,7 @@ graffito{aka research deemed 'significant' aka the research that's get published
  are likely to be false positives.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "zotero-null-1789"
+key "Ioannidis2014,Ioannidis2005"
 
 \end_inset
 

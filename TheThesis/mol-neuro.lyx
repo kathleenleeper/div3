@@ -168,7 +168,7 @@ textsubscript{2a}
 
 \begin_layout Standard
 \begin_inset Branch mol-neuro
-status collapsed
+status open
 
 \begin_layout Subsection*
 Acronyms
@@ -6134,7 +6134,7 @@ ac{RA}
 
 \end_inset
 
- application and minro modification of culture conditions, P19s differentiate
+ application and minor modification of culture conditions, P19s differentiate
  into 
 \begin_inset ERT
 status open
@@ -6165,13 +6165,6 @@ key "Wei2002"
 
  and they're an established model system for exploring embryonic differentiation
  of neuronal cells.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Farah2000"
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
