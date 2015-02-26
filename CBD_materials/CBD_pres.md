@@ -3,7 +3,7 @@ title: Who Can Make Science? Access and Representation in the Culture of Science
 author: kathleen leeper
 ---
 
-#ABSTRACT
+#Abstract
 a talk on linking the flow of scientific information to gender and geographical disparities in scientific production
 
 ##fun facts:
@@ -11,7 +11,7 @@ a talk on linking the flow of scientific information to gender and geographical 
  * The U.S. and the U.K. jointly publish more high-profile journals than the rest of the world combined.	
 I'm talking about barriers -- legal and monetary-- to the flow of scientific information.
 
-#QUESTIONS YOU CAN SAY YES TO:
+#QUESTIONS YOU CAN SAY YES TO!
  1. Have you ever written a scientific paper?
  2.  Have you ever had access issues -- not being able to get to papers you want, when you want? This includes if you have to use a friend's or UMass library account (I use an MIT logon), and excludes interlibrary loan requests, because realistically we don't make them very often.
 <!---(3) how many of you pay attention to the publisher and make decisions accordingly?--- >
@@ -50,28 +50,40 @@ clinical trials on first world problems
 I thought it might be worthwhile to, as it were, check my privilege. I'm white, read as female, and I'm at Hampshire -- so how am I doing on my own standards? Or, less personally, how does my field (psychedelic research and feminist science studies) fare on these kinds of measurements?
 Realistically, [[probably not well]]
 
-
-
-##maps
- * geography of world knowledge: Wow, literally the U.S., and U.K produce like most of the "good" literature. Wow. Nigeria and S.A. are on there! Let's superimpose maps of Europe and of Africa as well.
-
-
 #linkages?
 the open access movement and open science movement is something I'm very dedicated to. PLoS is my favorite.
 
 
 #CONTACT ME
 
+**email**: kgl11 @ hampshire
+
+**email**: kathleen.leeper @ hampshire
+
+**github**: kathleenleeper
 
 
+#Notes
+
+###maps
+
+ * geography of world knowledge: Wow, literally the U.S., and U.K produce like most of the "good" literature. Wow. Nigeria and S.A. are on there! Let's superimpose maps of Europe and of Africa as well.
+
+###other things
 ***APC fee waivers
+
 ### HINARI
- * "Since 2002, the four programmes – Research in Health (HINARI), Research in Agriculture (AGORA), Research in the Environment (OARE), and Research for Development and Innovation (ARDI) – have provided researchers at more than 6000 institutions in more than 100 developing countries and territories with free or low-cost access to more than 9000 leading journalsin the fields of health, agriculture, environment and technology. "
+
+ ` ` `
+ "Since 2002, the four programmes – Research in Health (HINARI), Research in Agriculture (AGORA), Research in the Environment (OARE), and Research for Development and Innovation (ARDI) – have provided researchers at more than 6000 institutions in more than 100 developing countries and territories with free or low-cost access to more than 9000 leading journalsin the fields of health, agriculture, environment and technology. "
+` ` ` 
+
+
 RUN BY:
- * Research4Life is a public–private partnership between the World Health Organization (WHO), the Food and
-Agriculture Organization (FAO), the United Nations Environment Programme (UNEP), the World Intellectual Property
-Organization (WIPO), the International Association of Scientific, Technical and Medical Publishers (STM), Cornell
-University, Yale University, and several technical partners including Microsoft.
+` ` `
+ Research4Life is a public–private partnership between the World Health Organization (WHO), the Food and Agriculture Organization (FAO), the United Nations Environment Programme (UNEP), the World Intellectual Property Organization (WIPO), the International Association of Scientific, Technical and Medical Publishers (STM), Cornell University, Yale University, and several technical partners including Microsoft.
+` ` `
+
 
 
 
