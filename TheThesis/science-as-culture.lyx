@@ -80,7 +80,7 @@
 
 \begin_layout Standard
 \begin_inset Branch chapteronly
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset ERT
@@ -134,19 +134,65 @@ name "chap:feminist-science-cultural-studies"
 
 \end_inset
 
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{intro sentence}
+\end_layout
+
+\end_inset
+
 Science is an empowering technology.
- It satisfies some deep drive to understand and explain the world around
- us.
- 
+ The sense of systematic inquiry satisfies some deep drive to understand
+ and explain the world around us; 
 \begin_inset Quotes eld
 \end_inset
 
-Science
+science
 \begin_inset Quotes erd
 \end_inset
 
- is part of a long heritage of bold exploration, innovation, and human ingenuity.
- 
+ is part of a long and storied heritage of bold exploration, innovation,
+ and human ingenuity.
+\end_layout
+
+\begin_layout Standard
+The classic question in scientific philosophy classes, or history of science
+ classes: 
+\begin_inset Quotes eld
+\end_inset
+
+what is science?
+\begin_inset Quotes erd
+\end_inset
+
+ While I'd love to spend time ruminating on what the word -- or field, or
+ method of knowing, or style of inquiry -- is and is not,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"But boundary crossing in itself is not very interesting for feminist,
+ multicultural, antiracist technoscience projects.
+ Technoscience pro- vokes an interest in zones of implosion, more than in
+ boundaries, crossed or not.
+ The most interesting question is, What forms of life survive and flourish
+ in those dense, imploded zones?"}
+\end_layout
+
+\end_inset
+
+ I move more quickly towards the practical implications of a science embedded
+ in a culture.
+ For our purposes:
 \begin_inset ERT
 status open
 
@@ -163,11 +209,67 @@ todo{define science here.
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Science
+\series default
+ a systematic enterprise that builds and organizes knowledge in the form
+ of testable explanations and predictions about nature and the universe
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Science
+\series default
+ International weekly science journal, published by the American Association
+ for the Advancement of Science 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Science
+\series default
+ a way of exploring the world from a specific cultural/philosophical/technical
+ viewpoint; a practice and culture, but a 
 \begin_inset Quotes eld
 \end_inset
 
-I am become death
+culture of no culture
+\begin_inset Quotes erd
+\end_inset
+
+: domination and power relations through knowledge
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{see Longino}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+i am become death
+\emph default
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -188,7 +290,7 @@ graffito{"Progress"}
 
 \end_inset
 
-q
+
 \end_layout
 
 \begin_layout Standard
