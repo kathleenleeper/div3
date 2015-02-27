@@ -6,7 +6,7 @@
 \begin_preamble
 \usepackage{preamble}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -61,7 +61,7 @@
 \shortcut idx
 \color #008000
 \end_index
-\secnumdepth 3
+\secnumdepth 2
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
@@ -80,7 +80,7 @@
 
 \begin_layout Standard
 \begin_inset Branch chapteronly
-status collapsed
+status open
 
 \begin_layout Standard
 \begin_inset ERT
@@ -100,9 +100,76 @@ clearpage
 \end_inset
 
 
-\begin_inset CommandInset include
-LatexCommand include
-filename "Contents.lyx"
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IRB}{Institutional Review Board}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{USPHS}{U.S.
+ Public Health Service}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
 
 \end_inset
 
@@ -182,7 +249,7 @@ status collapsed
 \backslash
 graffito{"But boundary crossing in itself is not very interesting for feminist,
  multicultural, antiracist technoscience projects.
- Technoscience pro- vokes an interest in zones of implosion, more than in
+ Technoscience provokes an interest in zones of implosion, more than in
  boundaries, crossed or not.
  The most interesting question is, What forms of life survive and flourish
  in those dense, imploded zones?"}
@@ -193,40 +260,28 @@ graffito{"But boundary crossing in itself is not very interesting for feminist,
  I move more quickly towards the practical implications of a science embedded
  in a culture.
  For our purposes:
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{define science here.
- Generally, great power -> great responsibility}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \series bold
-Science
+Science,
 \series default
  a systematic enterprise that builds and organizes knowledge in the form
- of testable explanations and predictions about nature and the universe
+ of testable explanations and predictions about nature and the universe;
  
+\emph on
+progress
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 
 \series bold
-Science
+Science,
 \series default
- International weekly science journal, published by the American Association
+ an international weekly science journal, published by the American Association
  for the Advancement of Science 
 \end_layout
 
@@ -253,12 +308,18 @@ status open
 
 
 \backslash
-todo{see Longino}
+todo{see Longino?}
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Our second is tongue-in-cheek and the third is certainly controversial,
+ so we'll start with troubling the notion of science as progress, and as
+ a systematic truth-building exercise and get back to those later.
 \end_layout
 
 \begin_layout Section
@@ -267,7 +328,11 @@ todo{see Longino}
 \begin_inset Quotes eld
 \end_inset
 
-i am become death
+
+\emph default
+I
+\emph on
+ am become death
 \emph default
 
 \begin_inset Quotes erd
@@ -277,28 +342,10 @@ i am become death
 \end_layout
 
 \begin_layout Standard
-Science is both handmaid to progress and a crucial strut in upholding inequities.
-\begin_inset ERT
-status open
+Science is, simultaneously and harmoniously, a handmaid to progress
+ 
+\lang english
 
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{"Progress"}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Scientific ethics and responsibility is often looked at only within the
- frame of experimental design and execution.
- This is, indisputably, desperately important.
- We decry the the Tuskegee Syphilis Experiments as a clear failure on the
- part of the scientists involved, their funding body
 \begin_inset ERT
 status collapsed
 
@@ -306,13 +353,40 @@ status collapsed
 
 
 \backslash
-rewrite{Tuskegee}
+rewrite{word choice of "progress"?}
 \end_layout
 
 \end_inset
 
-, and whatever oversight the university claimed to consider basic human
- rights
+ and a crucial strut in upholding systematic societal inequities.
+\end_layout
+
+\begin_layout Standard
+The ethical duties and responsibilities of scientists seem to be relegated
+ to the limited frame of experimental design and execution.
+ For that, we have 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IRB}s
+\end_layout
+
+\end_inset
+
+ to manage human experiments, and the Republican party to manage stem cell
+ and climate science.
+ 
+\end_layout
+
+\begin_layout Standard
+This is indisputably and desperately important.
+ Even recent history of biomedical scientists is intimately interwoven with
+ colonial and racist underpinnings; the most well known of these, the Tuskegee
+ Syphilis experiments were a 
 \begin_inset ERT
 status collapsed
 
@@ -327,9 +401,133 @@ graffito{Obviously, in the U.S.
 
 \end_inset
 
-.
- To our modern sensibilities, the study leaders were deeply and irrevocably
- shaped by the anti-back racism in the post-Civil War Jim Crow era.
+human rights violation, wholly enabled by white supremacy.
+ In 1932 Macon County, Alabama, the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{USPHS}
+\end_layout
+
+\end_inset
+
+ found 400 syphilis-positive black men; they observed the 
+\begin_inset Quotes eld
+\end_inset
+
+natural
+\begin_inset Quotes erd
+\end_inset
+
+ course of untreated, latent syphilis.
+ Even when twenty years into the study, penicillin became widely available,
+ the men were deliberately prevented from seeking treatment elsewhere.
+ Moreover, over the course of the study, men were coerced into staying with
+ the
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{USPHS}
+\end_layout
+
+\end_inset
+
+ researchers with the 
+\emph on
+explicit
+\emph default
+ promise of 
+\emph on
+treatment: 
+\emph default
+free treatment for the known scourge of venereal disease.
+ In reality, researchers had no intent to treat these men, because, in fact,
+ in their (white) eyes, black men were a subhuman species.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+study
+\begin_inset Quotes erd
+\end_inset
+
+ ceased only forty years later, in 1972, after public outcry.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{and they were using the Wasserman reaction!!}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+To our modern sensibilities, this was a complete ethical failure on the
+ part of the scientists involved, their funding body
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{Tuskegee}
+\end_layout
+
+\end_inset
+
+, and the hospital.
+ All parties were deeply and irrevocably shaped by the anti-back racism
+ in the post-Civil War Jim Crow era, that continued, with only slight variation,
+ until the Civil Rights movement.
+ 
+\end_layout
+
+\begin_layout Standard
+To some extent, while abhorrent, given their cultural context, how could
+ they have known better? 
+\end_layout
+
+\begin_layout Standard
+And what cultural context was that? Not just 1932, but a specific moment
+ in U.S.
+ medicine.
+ This was not a mere failure; this was conducted with the support of a branch
+ of government and headed by syphilis experts of the time; nly deep-seated
+ beliefs about black culture and bodies could enable the Tuskegee Syphilis
+ Study.
+\end_layout
+
+\begin_layout Quote
+Doctors generally discounted socio-economic explanations of the state of
+ black health, arguing that better medical care could not alter the evolutionary
+ scheme.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brandt1978"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+From its inception, the USPHS regarded the Tuskegee Study as a classic "study
+ in nature," rather than an experiment.
 \end_layout
 
 \begin_layout Standard
@@ -349,6 +547,22 @@ create
 new systems of exclusion, while staying within the ethical bounds of the
  time.
  
+\end_layout
+
+\begin_layout Standard
+To return to the Tuskegee experiments -- Darwinism enabled scientific racism
+ to thrive.
+ While his counterpart, Wallace, argued that humanity was not done progressing,
+ Darwin's evolutionary theory proposed that the status quo was the final
+ form -- that humanity had perfected society, to put it crudely.
+\begin_inset CommandInset citation
+LatexCommand citep
+after "(page tbd)"
+key "Brandt1978,Fortun1998"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -383,7 +597,7 @@ modern
  science -- evolved in an era of Western expansionism and wholehearted imperiali
 sm.
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -421,7 +635,7 @@ graffito{western expansionism has not stopped, merely transmuted.}
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
