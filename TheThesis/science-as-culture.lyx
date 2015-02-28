@@ -111,6 +111,10 @@ LatexCommand tableofcontents
 
 \end_layout
 
+\begin_layout Subsection*
+Acronyms
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -318,8 +322,28 @@ todo{see Longino?}
 
 \begin_layout Standard
 Our second is tongue-in-cheek and the third is certainly controversial,
- so we'll start with troubling the notion of science as progress, and as
- a systematic truth-building exercise and get back to those later.
+ so we'll start with troubling the notion of science as progress and as
+ a systematic truth-building exercise.
+\end_layout
+
+\begin_layout Standard
+Science is, simultaneously and harmoniously, a handmaid to progress 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{word choice of "progress"?}
+\end_layout
+
+\end_inset
+
+ and a crucial strut in upholding systematic societal inequities.
+ It is both a compelling, evidence-driven narrative about biological and
+ physical realities and a knowledge necessarily developed in a social context.
+ 
 \end_layout
 
 \begin_layout Section
@@ -341,24 +365,8 @@ I
 : Biopolitics and scientific responsibility
 \end_layout
 
-\begin_layout Standard
-Science is, simultaneously and harmoniously, a handmaid to progress
- 
-\lang english
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{word choice of "progress"?}
-\end_layout
-
-\end_inset
-
- and a crucial strut in upholding systematic societal inequities.
+\begin_layout Subsubsection
+ethics
 \end_layout
 
 \begin_layout Standard
@@ -383,6 +391,63 @@ ac{IRB}s
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Itemize
+Tuskegee experiments & usage of , prisoners as experimental subjects
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+paying for clinical trials and being an experimental drug taker as a career
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+science & slavery -- creation of races was helped by scientific 
+\begin_inset Quotes eld
+\end_inset
+
+truth
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+eugenics & racialization
+\end_layout
+
+\begin_layout Itemize
+institutionalizing sexism re: brain difference
+\end_layout
+
+\begin_layout Itemize
+curing the gays
+\end_layout
+
+\begin_layout Itemize
+climate change/environmental disaster
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ooo also re: native americans
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+science as aid to colonialism (re: malaria?)
+\end_layout
+
+\begin_layout Itemize
+reproductive techs
+\end_layout
+
+\end_inset
+
 This is indisputably and desperately important.
  Even recent history of biomedical scientists is intimately interwoven with
  colonial and racist underpinnings; the most well known of these, the Tuskegee
@@ -498,8 +563,8 @@ rewrite{Tuskegee}
 \end_layout
 
 \begin_layout Standard
-To some extent, while abhorrent, given their cultural context, how could
- they have known better? 
+Abhorrent, but given their cultural context, how could they have known better?
+ 
 \end_layout
 
 \begin_layout Standard
@@ -507,7 +572,7 @@ And what cultural context was that? Not just 1932, but a specific moment
  in U.S.
  medicine.
  This was not a mere failure; this was conducted with the support of a branch
- of government and headed by syphilis experts of the time; nly deep-seated
+ of government and headed by syphilis experts of the time; only deep-seated
  beliefs about black culture and bodies could enable the Tuskegee Syphilis
  Study.
 \end_layout
@@ -560,6 +625,10 @@ LatexCommand citep
 after "(page tbd)"
 key "Brandt1978,Fortun1998"
 
+\end_inset
+
+
+\begin_inset Newline newline
 \end_inset
 
 
@@ -653,21 +722,14 @@ todo{re bioprospecting and new forms of scientific and medical colonialism}
 Racism -- the peculiar brand of American racism, derived from slave-owners
  desperate to justify their brutality of human bondage -- was created through
  the collusion of science and society, specifically a science that carefully
- cataloged and characterized the way Africans and African-Americans differed,
- and were therefore lesser, than White slaveholders.
- Lest we dismiss scientific racism as a legacy of the United States past,
- the eugenics (
-\begin_inset Quotes eld
-\end_inset
+ cataloged and characterized the way black men and women differed, and were
+ therefore lesser, than White slaveholders.
+\end_layout
 
-well-born
-\begin_inset Quotes erd
-\end_inset
-
-, in Greek) movement came to us from Charles' Darwin.
- Eugenics, of course, gained notoriety in Nazi Germany, but its legacy in
- the United States is deeply rooted.
- 
+\begin_layout Standard
+Darwin's great proposal of evolution let scientists justify the status quo
+ (White men, White Women, Black men, Black women, in that order) as a consequenc
+e of simple evolution; the eugeni
 \end_layout
 
 \begin_layout Standard
@@ -681,13 +743,13 @@ key "Roberts2011"
 .
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-rewrite{1000 genomes project and current scientific power abuse?}
+rewrite{1000 genomes project and current scientific power abuse?????s}
 \end_layout
 
 \end_inset
@@ -696,11 +758,11 @@ rewrite{1000 genomes project and current scientific power abuse?}
 \end_layout
 
 \begin_layout Standard
-We have the science of homosexuality -- every time we discover a new gay,
+We have the sciences of homosexuality -- every time we discover a new gay,
  someone uses that 'fact' to cure queers.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -754,7 +816,30 @@ basic
 \begin_inset Quotes erd
 \end_inset
 
- research, of discovering something new, that drives much of research.
+ research, of discovering something new, driving so much of research.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Oppenheimer and physics awakening to responsibility}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{brain imaging and designing for consent?}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -769,87 +854,6 @@ Science Studies
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-If you are neutral in situations of injustice, you have chosen the side
- of the oppressor.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
-Desmond Tutu
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Itemize
-Tuskegee experiments & usage of , prisoners as experimental subjects
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-paying for clinical trials and being an experimental drug taker as a career
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-science & slavery -- creation of races was helped by scientific 
-\begin_inset Quotes eld
-\end_inset
-
-truth
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-eugenics & racialization
-\end_layout
-
-\begin_layout Itemize
-institutionalizing sexism re: brain difference
-\end_layout
-
-\begin_layout Itemize
-curing the gays
-\end_layout
-
-\begin_layout Itemize
-climate change/environmental disaster
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ooo also re: native americans
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-science as aid to colonialism (re: malaria?)
-\end_layout
-
-\begin_layout Itemize
-reproductive techs
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Comment
 status collapsed
 
@@ -888,7 +892,7 @@ Beyond Gender
 
 \begin_layout Plain Layout
 not so much gender, but how science appears globally, currently.
- specifically sparked by the pen access 
+ specifically sparked by the open access 
 \begin_inset Quotes eld
 \end_inset
 
@@ -917,33 +921,31 @@ nal questions about queer, colored, trans, feminism/femme/women, poor etc;
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{on science studies:
+findref{on science studies: D.
+ Haraway, S.
+ Harding, U.
+ Narayan, D.
+ Roy, 
 \end_layout
 
 \end_inset
 
- -- Donna Haraway, Sandra Harding, Uma Narayan, Deboleena Roy, Banu Subramaniam,
- everybody from 
+
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Alcoff1992"
 
 \end_inset
 
-
-\emph on
- Feminist Epistemologies.
- 
-\emph default
-Also, probably both 
+, 
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citeauthor
 key "Fortun1998,Raskin1987"
 
 \end_inset
@@ -988,6 +990,10 @@ JC - I really like the idea of expanding this section.
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 Both my historical time line and ideological foundation for science studies
  starts with Ludwik Fleck's 
 \emph on
@@ -1038,8 +1044,7 @@ Facts
  are then not so much realities of the world but interpretations of it,
  made by collaboration between individual, collective, and evidence; they
  only take shape in a matrix of other beliefs and discoveries about the
- world.
- 
+ world,
 \end_layout
 
 \begin_layout Standard
@@ -1246,8 +1251,8 @@ silent spring, ecofeminism, etc
 
 \end_inset
 
-ANew ways of knowing overlaps with technology and science studies overlaps
- with philosophy of science overlaps with a plethora of other modes of analysis.
+New ways of knowing overlaps with technology and science studies overlaps
+ with philosophy of science overlaps with uncountable modes andof analysis.
  What I now call feminist science studies emerges out of activists
 \begin_inset ERT
 status collapsed
@@ -1265,12 +1270,13 @@ todo{feminist science studies more specifically tied to 1970s women's
 
  against white supremacy, patriarchy, heteronormativity, and ecological
  destruction working on ways to critique science as a social institution,
- and find new ways of answering scientific questions.
+ and using that critique to forge new ways of asking and answering answering
+ scientific questions.
 \end_layout
 
 \begin_layout Standard
-What I call feminist science studies is then at confluence of many ideas,
- summed up in Donna Haraway's 1994 
+Feminist science studies is then at confluence of many ideas, summed up
+ in Donna Haraway's 1994 
 \emph on
 Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies.
 \begin_inset CommandInset citation
@@ -1281,7 +1287,7 @@ key "Haraway1994"
 
 
 \emph default
- Per Haraway, feminist science studies is at some meeting point of
+ Per Haraway, it is at some meeting point of:
 \end_layout
 
 \begin_layout Quote
@@ -1434,7 +1440,16 @@ Cat's Cradle
 \begin_layout Standard
 So now that we know what we're dealing with (sort of, although it's a slippery
  web of concepts), that brings us to: so what? Sociological and historical
- questions are all very good, but what of the modern day?
+ questions are all very good, but what of the modern day? Why shouldn't
+ we, as one professor urged me, 
+\begin_inset Quotes eld
+\end_inset
+
+cut the sociology, focus on the science
+\begin_inset Quotes erd
+\end_inset
+
+?
 \begin_inset Note Note
 status collapsed
 
@@ -1531,7 +1546,7 @@ Who
 
  This extends
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1553,7 +1568,7 @@ Feminist science studies also lets -- and again, demands -- that we ask
  questions on a deeper level, about the nature of the knowledge produced.
  This includes (among many other things),
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 

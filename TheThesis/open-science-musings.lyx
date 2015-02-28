@@ -53,7 +53,7 @@
 \justification true
 \use_refstyle 0
 \branch chapter
-\selected 0
+\selected 1
 \filename_suffix 0
 \color #faf0e6
 \end_branch
@@ -103,6 +103,22 @@ clearpage
 \begin_inset CommandInset include
 LatexCommand include
 filename "Contents.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
+\end_layout
 
 \end_inset
 
@@ -588,19 +604,6 @@ to help
 
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{Transition}
-\end_layout
-
-\end_inset
-
 The broad initiatives huddling under the 
 \begin_inset ERT
 status open
@@ -614,18 +617,14 @@ ac{OS}
 
 \end_inset
 
- umbrella begin from the point of view in which the scientific ecosystem
+ umbrella stand from the point of view in which the scientific ecosystem
  -- that network of funding and publishing that undergirds the production
  of knowledge -- is suffering from serious problems in access, reproducibility,
  and efficiency.
  They propose transparency, greater access, and technological innovation
  can 'fix' or alleviate those flaws, as well as increase the speed and quality
  of scientific discovery.
- 
-\end_layout
-
-\begin_layout Standard
-The 
+ The 
 \begin_inset Quotes eld
 \end_inset
 
@@ -658,11 +657,20 @@ Using web-based tools to facilitate scientific collaboration.
 \end_layout
 
 \begin_layout Standard
-Different groups see and emphasize different problems, proposing specific
- solutions accordingly.
- Generally, those solutions center around digitizing and opening the scientific
- ecosystem in ~three areas, implementing structures that allow for and incentivi
-ze:
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Depending, of course, on your viewpoint, re-workers of scientific systems
+ both see and emphasize different problems, proposing specific solutions
+ accordingly.
+\end_layout
+
+\end_inset
+
+ Generally, those solutions and/or goals center around digitizing and opening
+ the scientific ecosystem in ~three areas, implementing structures that
+ allow for and incentivize:
 \end_layout
 
 \begin_layout Enumerate
@@ -747,7 +755,7 @@ online journal club
 \begin_layout Standard
 Despite the complexities and contradictions of any movement, 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -769,7 +777,7 @@ ughhhhh i hate definining this so so much
 \end_inset
 
  here are sufficient commonalities in both intent and execution to examine
- the value systems composing both problem and solution.
+ some of the values composing both problem and solution.
  
 \end_layout
 
@@ -782,7 +790,7 @@ Before we start talking about solutions, it makes sense to identify the
  problems.
  To some extent, the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -814,7 +822,7 @@ status open
 
 
 \backslash
-missingfigure{The"publishing pipeline" graphic! Question re
+missingfigure{The"publishing pipeline" graphic! Question re: 
 \end_layout
 
 \end_inset
@@ -877,12 +885,14 @@ fix
 
  science start.
  The pipeline of research to dissemination is 
-\begin_inset Note Greyedout
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-not that exciting but important.
- To be written.
+
+
+\backslash
+rewrite{publishing pipeline, history of journals}
 \end_layout
 
 \end_inset
@@ -912,19 +922,6 @@ Philosophical Transactions of the Royal Society
 LatexCommand citet
 before "2013 "
 key "Parker2013"
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{more on this history}
-\end_layout
 
 \end_inset
 
@@ -961,13 +958,13 @@ Labs submit a manuscript (gratis); publishers coordinate the peer review
  of their intellectual labors, having given up the legal right to share
  that knowledge on their own accord.
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{these two paragraphs}
+findref{current scholarly system}
 \end_layout
 
 \end_inset
@@ -1038,7 +1035,7 @@ I've been working from primary scientific literature since my first semester
  searches that I immediately slammed up against pay walls to the papers
  I wanted.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1048,9 +1045,7 @@ graffito{
 \backslash
 emph{Nature} is paywalled back to 
 \backslash
-underline{
-\backslash
-emph{1867}}.} 
+emph{1867}.} 
 \end_layout
 
 \end_inset
@@ -1132,11 +1127,16 @@ ac{MIT}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-Data about access & paywalls here.
+
+
+\backslash
+rewrite{Data about access 
+\backslash
+& paywalls here}
 \end_layout
 
 \end_inset
@@ -1196,7 +1196,7 @@ again
  for access to th eproduced knowledge, when they paid to fund it.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1360,15 +1360,14 @@ key "Goodman2007,Jager2014"
 \end_inset
 
 
-\begin_inset Note Greyedout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-\emph on
-Brief
-\emph default
- sketch of proof and discussion
+
+\backslash
+rewrite{Brief sketch of statistical proof and discussion for falseness}
 \end_layout
 
 \end_inset
@@ -1450,7 +1449,7 @@ status open
 
 
 \backslash
-todo{rephrase}
+todo{rephrase sentence on retraction}
 \end_layout
 
 \end_inset
@@ -1680,7 +1679,7 @@ key "Fanelli2013"
  retraction rates is due to an increased awareness and responsiveness to
  misconduct (the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1693,7 +1692,7 @@ ac{SSH}
 
 ), rather than increased misconduct itself (the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1800,15 +1799,13 @@ alleged research misconduct
 \series default
  the usage of questionable data or interpretations 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito {
-\backslash
-% stack to >100
+graffito{stack to >100
 \backslash
 % because more than one reason is often cited}
 \end_layout
@@ -1908,11 +1905,14 @@ Statistical Failures: Underpowered and Badly Analyzed Data Sets****
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-Everybody is bad at statistics.
+
+
+\backslash
+rewrite{Everybody is bad at statistics.}
 \end_layout
 
 \end_inset
@@ -2037,7 +2037,7 @@ science
 
 .
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2135,7 +2135,7 @@ status open
 
 
 \backslash
-findref{on biology, ecology, and physics.
+findref{on statistics abuse inbiology, ecology, and physics.
  And math, if it exists}
 \end_layout
 
@@ -2186,7 +2186,7 @@ status open
 
 
 \backslash
-findref{for this section}
+findref{for negative results}
 \end_layout
 
 \end_inset
@@ -2195,7 +2195,7 @@ findref{for this section}
  Journal editors, especially those in high-impact journals, are less likely
  to accept them
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2209,7 +2209,7 @@ findref{}
 .
  Readers are less likely to be interested
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2220,13 +2220,13 @@ findref{}
 
 \end_inset
 
-, andfFunding bodies aren't interested in therapies that 
+, and Funding bodies aren't interested in therapies that 
 \emph on
 don't
 \emph default
  work
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2258,6 +2258,19 @@ key "Ioannidis2005"
 \end_inset
 
  Negative papers are most likely to be suppressed when:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{suppression of negative papers according to Ionnidis}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -2432,13 +2445,13 @@ key "Brembs2013"
 Citation is the metaphorical currency of science because it leads to real
  currency! 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{}
+findref{citation as currency of science}
 \end_layout
 
 \end_inset
@@ -2488,15 +2501,16 @@ status collapsed
 
 
 \backslash
-graffito{Presumably physics and plants as well, but it seems like nature
- mostly does bio? I have literally no idea}
+graffito{Presumably physics and plants as well, but it seems like 
+\backslash
+emph{Nature} mostly does bio? I have literally no idea}
 \end_layout
 
 \end_inset
 
 Qualitatively, the top of the biology journal hierarchy is the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2523,7 +2537,7 @@ paper
 
  is to be immediately given respect in the scientific world.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Sources are: my life, everybody's life, a lot of blog posts, general atmosphere.
@@ -2599,7 +2613,7 @@ key "Kurmis2003"
 \begin_layout Standard
 \begin_inset Formula 
 \begin{equation}
-{\displaystyle I{\textstyle mpact\, Factor=}}\frac{{\textstyle number\, of\, citations}}{total\, number\, published\, in\, journal}\label{eq:impact-factor}
+{\displaystyle I{\textstyle mpact\,Factor=}}\frac{{\textstyle number\,of\,citations}}{total\,number\,published\,in\,journal}\label{eq:impact-factor}
 \end{equation}
 
 \end_inset
@@ -2737,7 +2751,7 @@ status open
 
 
 \backslash
-graffito{who thought this would go well?}
+graffito{Who thought this would go well?}
 \end_layout
 
 \end_inset
@@ -2877,7 +2891,7 @@ Moreover, impact factor trumps audience: while a field-specific journal
  might make your research more visible to people who could use it, it won't
  have the same on-paper look as a 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3290,7 +3304,7 @@ key "Brembs2013"
 
 \begin_layout Quote
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3352,6 +3366,19 @@ so in this sections...should it include who gets included???
 
 \begin_layout Subsection
 Knowledge Gaps: Developed/ing Worlds
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{Move knowledge gaps section elsewhere}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote

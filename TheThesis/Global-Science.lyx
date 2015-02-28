@@ -295,13 +295,29 @@ acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
 acro{STEM}{Science, Technology, Engineering, and Math}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SCI}{Science Citation Index}
 \end_layout
 
 \end_inset
@@ -352,6 +368,11 @@ name "chap:Representation_Science"
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 From a 
 \begin_inset Quotes eld
 \end_inset
@@ -367,7 +388,7 @@ purely
  and where are the queer and trans researchers? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The place it's easiest to see this, at least in science, is looking back
  at our publishing pipeline and noting the abysmal numbers of women and
  minorities participating in the production and editorial system.
@@ -395,6 +416,11 @@ place blame on paper and grant reviewers, editors, faculty members, or other
  of power.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset Note Note
 status collapsed
@@ -413,8 +439,15 @@ I've broken this into three sections -- geography/localities, gender, and
 Who gets to make science, and who gets credit?
 \end_layout
 
-\begin_layout Subsection
-The trouble with rep (re Haraway)
+\begin_layout Section
+\begin_inset Quotes eld
+\end_inset
+
+Women have always fought
+\begin_inset Quotes erd
+\end_inset
+
+: the trouble with 'representation'
 \end_layout
 
 \begin_layout Quote
@@ -425,7 +458,7 @@ The trouble with [representation] is,
 \end_layout
 
 \begin_layout Quotation
-it always tries to teach the wrong lesson
+it always tries to teach the wrong lesson.
 \begin_inset Quotes erd
 \end_inset
 
@@ -440,6 +473,18 @@ We can ask where are the queers, but queer, like woman or black, is not
  race has not always defined us.
  Women, the political category, did not (one theorist argues) exist until
  just after WWII; class, too, was constructed.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{per cyborg manifesto}
+\end_layout
+
+\end_inset
+
  Analyzing on a large scale based on these tropes of natural categories
  presumes their naturalness.
  
@@ -447,7 +492,7 @@ We can ask where are the queers, but queer, like woman or black, is not
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -465,7 +510,59 @@ ing and talking about "Women of Color" as a united group just doesn't....it
 
 \end_layout
 
-\begin_layout Paragraph*
+\begin_layout Standard
+Moreover, representation reduces a story of erasure by 
+\emph on
+our 
+\emph default
+culture into that of invisibility and repression by 
+\emph on
+their
+\emph default
+ culture, the culture of the past or current, but outside of 
+\emph on
+us
+\emph default
+.
+ To talk about the lack of women in science and technology over the past
+ 100 years is to ignore the many who 
+\emph on
+did
+\emph default
+ participate.
+ It is not on them, but rather on us, to recognize that our histories elide
+ the many and diverse Black, Brown, and White wo/men/of color; as one history
+ professor put it, 
+\begin_inset Quotes eld
+\end_inset
+
+Women have always fought.
+\begin_inset Quotes erd
+\end_inset
+
+ It's not their fault we refuse to count them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+also deep seated revulsion to talking about women 
+\emph on
+in 
+\emph default
+science;;; feels like a betrayal of valued science etc.
+ The caveats - lol nly drawn from WoS -- are not caveats, but inherent to
+ this kind of analysis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
 Some Notes
 \end_layout
 
@@ -695,7 +792,20 @@ reference "sub:Peer-Review-Impact-Factors"
 \end_layout
 
 \begin_layout Standard
-For a journal to be included, it must meet many parameters of 
+For a journal to be included in the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SCI}
+\end_layout
+
+\end_inset
+
+, it must meet many parameters of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -703,10 +813,14 @@ quality
 \begin_inset Quotes erd
 \end_inset
 
- -- 
+, as defined by the publishing company Thomson-Reuters.
+ From
 \end_layout
 
 \begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
 Many factors are taken into account when evaluating journals for coverage
  in Web of Science, ranging from the qualitative to the quantitative.
  The journal's basic publishing standards, its editorial content, the internatio
@@ -715,6 +829,15 @@ nal diversity of its authorship, and the citation data associated with it
  No one factor is considered in isolation, but by combination and interrelation
  of data, the Thomson Reuters editor is able to determine the journal's
  overall strengths and weaknesses.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Okay, Thomson Reuters.
+ What are your pre-reqs? (emphasis mine)
 \end_layout
 
 \begin_layout Quote
@@ -724,14 +847,22 @@ Full Text English
 \end_layout
 
 \begin_layout Quote
+
+\emph on
 English is the universal language of science.
+
+\emph default
  For this reason Thomson Reuters focuses on journals that publish full text
  in English, or at very least, bibliographic information in English.
  There are many journals covered in Web of Science that publish articles
  with bibliographic information in English and full text in another language.
- However, going forward, it is clear that the journals most important to
- the international research community will publish full text in English.
+ However, going forward, 
+\emph on
+it is clear that the journals most important to the international research
+ community will publish full text in English.
  This is especially true in the natural sciences.
+
+\emph default
  There are notable exceptions to this rule in the Arts & Humanities and
  in Social Sciences topics.
  This is discussed further below.
