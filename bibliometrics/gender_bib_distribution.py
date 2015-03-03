@@ -19,22 +19,21 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
 
+"""date time functions """
+from datetime import datetime #idk bring in the system date or whatever
 
-# In[16]:
 
+# In[3]:
+
+today = datetime.today()
 bib = 'CriticalOpenNeuro.bib' #bring that bib file in
-
-
-# In[10]:
-
 gc = GenderComputer(os.path.abspath('genderComputer/nameLists')) #make gendercomputer
 
 
-# In[11]:
+# In[4]:
 
 def customizations(record):
     """Use some functions delivered by the library
-
     :param record: a record
     :returns: -- customized record
     """
@@ -45,7 +44,7 @@ def customizations(record):
     return record
 
 
-# In[12]:
+# In[5]:
 
 def parseFile(bib_file):
     """parse the bib file
@@ -61,7 +60,7 @@ def parseFile(bib_file):
         return data
 
 
-# In[13]:
+# In[6]:
 
 def countGender(ts=True):
     """take the bib database and count genders of authors
@@ -93,7 +92,7 @@ def countGender(ts=True):
             
 
 
-# In[14]:
+# In[7]:
 
 women = 0
 men = 0
@@ -102,19 +101,19 @@ notav = 0
 auCount = 0
 
 
-# In[17]:
+# In[8]:
 
 data = parseFile(bib) #run the parse file
-countGender(ts=False)
+countGender()
 
 
-# In[18]:
+# In[9]:
 
 stats = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 percents = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 
 
-# In[19]:
+# In[10]:
 
 for key in stats:
     value = stats[key]
@@ -122,22 +121,22 @@ for key in stats:
     percents[key] = percent
 
 
-# In[20]:
+# In[11]:
 
 print stats
 print percents
 print auCount
 
 
-# In[21]:
+# In[12]:
 
-plt.bar(range(len(stats)), percents.values(), align='center', alpha=0.1)
+plt.bar(range(len(stats)), percents.values(), align='center', alpha=0.2)
 plt.xticks(range(len(percents)), percents.keys())
-plt.xlabel('Gender Assigned')
+plt.xlabel('Gender Assigned (generated ' + str(today) +')')
 plt.ylabel('Percents')
 
 
-# In[22]:
+# In[13]:
 
 plt.savefig('gender_distr.png', bbox_inches='tight')
 
