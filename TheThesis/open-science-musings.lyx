@@ -1508,30 +1508,103 @@ claim[s] research findings may often be simply accurate measures of the
 \end_layout
 
 \begin_layout Standard
-The interface between basic biomedical research and pharmaceuticals demonstrates
- the practical scope of the problem.
- A team at Bayer Amgen had an 11% success rate with respect to 50 very high-prof
-ile cancer studies
+This is not just theoretical number-crunching; the 'crisis' has an enormous
+ business and opportunity cost.
+ Biotech and pharmaceutical companies trying to monetize those discoveries
+ demonstrate the practical scope of the problem.
+ The rate of effective translation from basic research into clinical drug
+ treatments
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{lol @ pharma and cultures of molecules/reductionsm}
+\end_layout
+
+\end_inset
+
+ has always been low, but the increasing costs of drug development
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{with regard to increasing 
+\backslash
+ac{FDA} restrictions} 
+\end_layout
+
+\end_inset
+
+ and renewed focus on research reliability has prompted drug companies to
+ join the convernsation with data.
+\end_layout
+
+\begin_layout Standard
+The in-house target validation studies run by most biomedical companies
+ provide a unique dataset on the reproducibility of biomedical research.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Both sets of studies were largely based on oncology-directed data}
+\end_layout
+
+\end_inset
+
+Amgen's researchers
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+, in Thousand Oaks, CA,
+\end_layout
+
+\end_inset
+
+ attempted to reproduce the results of 53 high-profile 'landmark' cancer
+ studies; results could only be recapitulated in 6 of the cases, an 11%
+ success rate.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Begley2012"
 
 \end_inset
 
-; generally, drug targets identified by academics rarely pan out in the
- clinic.
+ Researchers at Bayer tracked the fate of 67 validation projects; in 2/3
+ of the cases, the validation data was so inconsistent with the published
+ literature that the project was significantly delayed, or more commonly,
+ terminated entirely.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Arrowsmith2011,Prinz2011"
+key "Prinz2011"
 
 \end_inset
 
-
+.
+ At Bayer, this did not correlate with fields, experimental conditions,
+ model systems, or journal impact -- it's just that most research could
+ not be reproduced at industrial labs.
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-these are actually very interesting studies and should go into more detail
+he chal- lenge of reproducibility — even under ideal conditions — has also
+ been highlighted, indi- cating that even in an optimal setting (the same
+ laboratory, the same people, the same tools and the same assays, with experimen
+ts separated by 5 months), there were substantial variations, as the intra-
+ and interscreen reproducibility of two genome-scale small interfering RNA
+ screens was influenced by the methodology of the analysis and ranged from
+ 32–99%
 \end_layout
 
 \end_inset
@@ -1547,7 +1620,7 @@ status collapsed
 
 
 \backslash
-graffito{This gets back to local biologies? But in the sense of localized
+comment{This gets back to local biologies? But in the sense of localized
  non-controllable environments}
 \end_layout
 
@@ -1572,7 +1645,14 @@ break
 \end_inset
 
  an experiment.
- 
+ b
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hines2014"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Paragraph
