@@ -718,78 +718,6 @@ status open
 
 
 \backslash
-acro{GMH}{growing misconduct hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{SSH}{'stronger system' hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PPV}{positive predictive value}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2005"
-key "Ioannidis2005"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 acro{IF}{Journal Impact Factor}
 \end_layout
 
@@ -865,6 +793,39 @@ status open
 
 \backslash
 begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IRB}{Institutional Review Board}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{USPHS}{U.S.
+ Public Health Service}
 \end_layout
 
 \end_inset
@@ -1010,7 +971,7 @@ Places
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1026,7 +987,23 @@ begin{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FDA}{Food and Drug Administration}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1042,7 +1019,7 @@ acro{MIT}{the Massachusetts Institiute of Technology}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1058,7 +1035,7 @@ acro{NIH}{National Institute of Health}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1074,7 +1051,7 @@ acro{NYU}{New York University}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1091,7 +1068,7 @@ acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1107,7 +1084,7 @@ acro{RoW}{"Rest of World"}, for what that's worth
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1124,7 +1101,168 @@ acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
+ Canada
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{RoW}{"Rest of World"}, for what that's worth
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{OECD}{Organisation for Economic Co-operation and Development}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UB FoH}{University of Botswana, Faculties of Humanities}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UoM FoS}{University of Mauritius, Faculties of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UCT Comm}{University of Cape Town, Commerce}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{STEM}{Science, Technology, Engineering, and Math}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SCI}{Science Citation Index}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{WoS}{Web of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1151,6 +1289,22 @@ status collapsed
 
 \backslash
 begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{FACS}{Fluorescence Activated Cell Sorting}
 \end_layout
 
 \end_inset
@@ -1288,7 +1442,7 @@ acro{LSD}{lysergic acid diethylamide}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 

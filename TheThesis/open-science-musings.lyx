@@ -6,7 +6,7 @@
 \begin_preamble
 \usepackage{preamble}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,pointlessnumbers,headinclude,10pt,a4paper,BCOR5mm,footinclude,cleardoubleempty,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -1643,13 +1643,13 @@ ts separated by 5 months), there were substantial variations, as the intra-
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-comment{This gets back to local biologies? But in the sense of localized
+graffito{This gets back to local biologies? But in the sense of localized
  non-controllable environments}
 \end_layout
 

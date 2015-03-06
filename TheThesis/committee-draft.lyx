@@ -8,7 +8,7 @@
 
 \usepackage{todonotes}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super
 \use_default_options false
 \maintain_unincluded_children false
 \language english

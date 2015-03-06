@@ -633,7 +633,7 @@ Or at least that what it seems like.
 \end_layout
 
 \begin_layout Section
-Open Access: scholarly articles
+Open Access
 \end_layout
 
 \begin_layout Standard
@@ -1269,7 +1269,7 @@ Code is prone to errors.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1299,7 +1299,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{OK, Raymond.}
 \end_layout
