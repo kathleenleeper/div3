@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<gcp:chemistry xmlns:gcp="http://www.nongnu.org/gchempaint" creation="03/05/2015" revision="03/06/2015">
+  <generator>GChemPaint 0.14.10</generator>
+  <author name="feline"/>
+  <theme name="GChemPaint" bond-length="140" bond-angle="120" bond-dist="5" bond-width="1" arrow-length="200" arrow-head-a="6" arrow-head-b="8" arrow-head-c="4" arrow-dist="5" arrow-width="1" arrow-padding="16" hash-width="1" hash-dist="2" stereo-bond-width="5" zoom-factor="4" padding="2" stoichiometry-padding="1" object-padding="16" sign-padding="8" charge-sign-size="9" font-family="Bitstream Vera Sans" font-style="normal" font-weight="normal" font-variant="normal" font-stretch="normal" font-size="12288" text-font-family="Bitstream Vera Serif" text-font-style="normal" text-font-weight="normal" text-font-variant="normal" text-font-stretch="normal" text-font-size="12288"/>
+  <molecule id="m1"/>
+  <molecule id="m2"/>
+  <molecule id="m3">
+    <atom id="a1" element="C">
+      <position x="635.53842589205362" y="763.02972412109375"/>
+    </atom>
+    <atom id="a10" element="C">
+      <position x="1093.463386553964" y="693.02972412109375"/>
+    </atom>
+    <atom id="a11" element="N">
+      <position x="1011.1734512330178" y="806.2921033335864"/>
+    </atom>
+    <atom id="a12" element="C">
+      <position x="1209.8072656095601" y="440.68245073879797"/>
+    </atom>
+    <atom id="a13" element="N">
+      <position x="1268.973822253258" y="313.79936055366699"/>
+    </atom>
+    <atom id="a2" element="C">
+      <position x="635.53842589205362" y="623.02972412109375"/>
+    </atom>
+    <atom id="a3" element="C">
+      <position x="756.781982421875" y="553.02972412109375"/>
+    </atom>
+    <atom id="a5" element="C">
+      <position x="1070.3400078767156" y="452.88425472347012"/>
+    </atom>
+    <atom id="a6" element="C">
+      <position x="756.781982421875" y="833.02972412109375"/>
+    </atom>
+    <atom id="a7" element="C">
+      <position x="878.02553895169638" y="763.02972412109375"/>
+    </atom>
+    <atom id="a8" element="C">
+      <position x="878.02553895169638" y="623.02972412109375"/>
+    </atom>
+    <atom id="a9" element="C">
+      <position x="1011.1734512330178" y="579.7673449086011"/>
+    </atom>
+    <bond id="b1" order="2" begin="a1" end="a2"/>
+    <bond id="b10" order="1" begin="a10" end="a11"/>
+    <bond id="b11" order="1" begin="a11" end="a7"/>
+    <bond id="b12" order="1" begin="a9" end="a5"/>
+    <bond id="b13" order="1" begin="a5" end="a12"/>
+    <bond id="b14" order="1" begin="a12" end="a13"/>
+    <bond id="b15" order="1" begin="a13" end="a14"/>
+    <bond id="b16" order="1" begin="a13" end="a15"/>
+    <bond id="b2" order="1" begin="a2" end="a3"/>
+    <bond id="b3" order="2" begin="a3" end="a8"/>
+    <bond id="b5" order="2" begin="a7" end="a6"/>
+    <bond id="b6" order="1" begin="a6" end="a1"/>
+    <bond id="b7" order="1" begin="a7" end="a8"/>
+    <bond id="b8" order="1" begin="a8" end="a9"/>
+    <bond id="b9" order="2" begin="a9" end="a10"/>
+    <fragment id="f1">
+      <residue id="a15" raw="C1H4" generic="true">R<symbols>R</symbols><name>Alkyl</name><name xml:lang="de">Alkyl</name><name xml:lang="el">&#x386;&#x3BB;&#x3BA;&#x3C5;&#x3BB;&#x3BF;</name><name xml:lang="es">Alquilo</name><name xml:lang="eu">Alkiloa</name><name xml:lang="fr">Alkyle</name><name xml:lang="pl">Alkil</name><name xml:lang="zh_TW">Alkyl &#x70F4;&#x57FA;</name><molecule id="m1"><pseudo-atom id="a1"><position x="24" y="600"/></pseudo-atom><atom id="a2" element="C"><position x="164" y="600"/></atom><bond id="b1" order="1" begin="a1" end="a2"/></molecule></residue>
+      <stoichiometry value="2"/>
+      <position x="1408.4410799861025" y="301.59755656899495"/>
+    </fragment>
+    <fragment id="f2">
+      <residue id="a14">R</residue>
+      <stoichiometry value="1"/>
+      <position x="1188.6731211641118" y="199.1180743532081"/>
+    </fragment>
+  </molecule>
+  <text id="o1">
+    <position x="732.60296630859375" y="877.906982421875"/>
+    <font name="Bitstream Vera Serif 12">7</font>
+  </text>
+  <text id="o2">
+    <position x="570.29742431640625" y="784.167236328125"/>
+    <font name="Bitstream Vera Serif 12">6</font>
+  </text>
+  <text id="o3">
+    <position x="587.68011474609375" y="611.18994140625"/>
+    <font name="Bitstream Vera Serif 12">5</font>
+  </text>
+  <text id="o4">
+    <position x="743.802001953125" y="515.7579345703125"/>
+    <font name="Bitstream Vera Serif 12">4</font>
+  </text>
+  <text id="o6">
+    <position x="1216.0552978515625" y="113.4129638671875"/>
+  </text>
+</gcp:chemistry>
