@@ -90,8 +90,19 @@ status open
 
 
 \backslash
-listoftodos
+let
+\backslash
+cleardoublepage
+\backslash
+clearpage
 \end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -106,19 +117,8 @@ status open
 
 
 \backslash
-let
-\backslash
-cleardoublepage
-\backslash
-clearpage
+listoftodos
 \end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset include
-LatexCommand include
-filename "Contents.lyx"
 
 \end_inset
 
@@ -1109,7 +1109,7 @@ Under the prevailing subscription-based system, commercial publishers own
 \align right
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Shelton"
+key "Shelton2005"
 
 \end_inset
 
@@ -1335,6 +1335,35 @@ ac{NIH} requires funded researchers to deposit after a period of time.}
 
 \begin_layout Section
 Reproducibility and Retraction
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Reproducibility is not replication.
+
+\series default
+ There’s often honest confusion between the notion of reproducibility and
+ what I would call a “full replication”.
+ A full replication doesn’t analyze the same dataset, but rather involves
+ an independent investigator collecting an independent dataset conducting
+ an independent analysis.
+ Full replication has been a fundamental component of science for a long
+ time now and will continue to be the primary yardstick for measuring the
+ plausibility of scientific claims.
+ I think most would agree that full replication is preferable, but often
+ it is simply not possible.
+ - See more at: http://simplystatistics.tumblr.com/post/12421558195/reproducible-r
+esearch-notes-from-the-field#sthash.u33Xh9M4.dpuf
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1572,8 +1601,8 @@ status collapsed
 \end_inset
 
  attempted to reproduce the results of 53 high-profile 'landmark' cancer
- studies; results could only be recapitulated in 6 of the cases, an 11%
- success rate.
+ studies over 10 years; results could only be recapitulated in 6 of the
+ cases, an 11% success rate.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Begley2012"
@@ -1583,7 +1612,7 @@ key "Begley2012"
  Researchers at Bayer tracked the fate of 67 validation projects; in 2/3
  of the cases, the validation data was so inconsistent with the published
  literature that the project was significantly delayed, or more commonly,
- terminated entirely.
+ entirely terminated.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Prinz2011"
@@ -1626,17 +1655,32 @@ comment{This gets back to local biologies? But in the sense of localized
 
 \end_inset
 
-There's 
-\begin_inset Quotes eld
+To temper those sample sizes, two labs (in Berkeley, CA, and Boston, MA)
+ collaborating on a 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FACS}
+\end_layout
+
 \end_inset
 
-explanations
-\begin_inset Quotes erd
-\end_inset
-
- for that -- principically, that biological research is at such a level
- of complexity that even minor changes from lab to lab in the microenvironment
- can 
+ project, discovered that even with identical protocols, they had consistently
+ different results.
+ In a laborious year-long process, the two labs (or rather, the primary
+ researchers in both labs) isolated the difference in their experimental
+ results to the speed of agitation at one step of the organ isolation process.
+ While the results initially 
+\emph on
+seemed 
+\emph default
+irreproducible and incommensurable, their end conclusion was principically
+ that biological research is at such a level of complexity that even minor
+ changes from lab to lab in the microenvironment can 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1645,10 +1689,36 @@ break
 \end_inset
 
  an experiment.
- b
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Hines2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+i would propose this is 
+\emph on
+not
+\emph default
+ the norm, and moreover, that kind of data should be...it seems like 
+\emph on
+writing out your protocols
+\emph default
+ better would be more plausible.
+\end_layout
+
+\begin_layout Plain Layout
+the scholarly kitchen posts things about water mattering, which is def.
+ true.
+ solution: IDK
+\end_layout
 
 \end_inset
 
@@ -1662,34 +1732,19 @@ Retraction
 \begin_layout Standard
 We can explain away the lack or replication with varying degrees of success.
  Where the literature really gets into trouble is retraction -- that is,
- journals and authors withdrawing published articles, those already having
- undergone peer review.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{rephrase sentence on retraction}
-\end_layout
-
-\end_inset
-
- This represents an enormous cost to both journal and author; retraction
- often leads to firing (or mandatory stepping down) of the editor, and in
- the longer-term, a distinct downward trend in the citation rate of the
- author's former papers.
- Retraction is 
+ journals and authors withdrawing published articles, articles that have
+ already been deemed acceptable by peer-review and editorial mandate.
+ Pulling an represents an enormous reputation cost to both journal and author;
+ retraction often leads to firing (or mandatory stepping down) of the editor,
+ and in the longer-term, a distinct downward trend in the citation rate
+ of the author's former papers.
+ Retraction is serious
 \emph on
-serious 
+ 
 \emph default
 business for everyone involved, which makes the relatively increasing incidence
  all the more concerning.
-\end_layout
-
-\begin_layout Standard
-In 2008, 
+ In 2008, 
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Cokol2008"
@@ -1735,9 +1790,21 @@ key "Cokol2008"
 \end_layout
 
 \begin_layout Standard
-This, of course, begs the question: why? Some propose the pressure to publish,
- increasingly important to funding and hiring decisions, hits researchers
- in a vulnerable spots.
+This trend begs for an answer, which is as of yet still in flux.
+ Some propose the pressure to publish, increasingly important to funding
+ and hiring decisions, hits researchers in a vulnerable spots -- pressures
+ to publish increase scientific bias
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2010"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
  To some extent this is borne out, as 
 \begin_inset Quotes eld
 \end_inset
@@ -1755,6 +1822,11 @@ competitive academic environments increase not
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2010"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -1781,7 +1853,7 @@ key "Fanelli2010"
 \begin_layout Quote
 \align right
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealt
 key "Cokol2008"
 
 \end_inset
@@ -1790,9 +1862,13 @@ key "Cokol2008"
 \end_layout
 
 \begin_layout Standard
-Intriguingly, and tellingly, not only are the rate of retractions increasing,
- but they're increasing in the journals we respect the most.
- In a 2011 PloS publication, 
+Intriguingly, and perhaps tellingly, not only are the rate of retractions
+ increasing, but they're increasing in the journals we respect the most.
+ In a 2011 
+\emph on
+Infection and Immunity
+\emph default
+ publication, 
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Fang2011"
@@ -1888,51 +1964,23 @@ key "Fang2011"
 \end_layout
 
 \begin_layout Standard
-But if we look past the doom and gloom, Daniele Fanelli is here to save
- us again.
- 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Fanelli2013"
-
-\end_inset
-
- proposes four lines of evidence to support that the relative increase in
- retraction rates is due to an increased awareness and responsiveness to
- misconduct (the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{SSH}
-\end_layout
-
-\end_inset
-
-), rather than increased misconduct itself (the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GMH}
-\end_layout
-
-\end_inset
-
-).
+That might not mean the rate of fraud is increasing -- rather, the rising
+ retraction rate might actually be due to an increased awareness and responsiven
+ess to misconduct, rather than increased misconduct itself.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2013"
 
 \end_inset
 
- In summary:
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Fanelli2013"
+
+\end_inset
+
+ argues this with four lines of evidence:
 \end_layout
 
 \begin_layout Enumerate
@@ -3744,7 +3792,7 @@ key "Lisberger2013"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 so in this sections...should it include who gets included???
