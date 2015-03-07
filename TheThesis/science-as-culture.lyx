@@ -193,8 +193,8 @@ graffito{"But boundary crossing in itself is not very interesting for feminist,
 
 \end_inset
 
- I move more quickly towards the practical implications of a science embedded
- in a culture.
+ I move gravitate more quickly towards the practical implications of a science
+ embedded in a culture.
  For our purposes:
 \end_layout
 
@@ -307,17 +307,6 @@ I
 
 \end_layout
 
-\begin_layout Subsubsection
-\begin_inset Quotes eld
-\end_inset
-
-Ethics
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 For the ethical duties and responsibilities of scientists, we have 
 \begin_inset ERT
@@ -421,7 +410,7 @@ That is not, however, exactly what this dumb Div III is about.
 
 \begin_layout Standard
 Take, for example, the well-known Tuskegee Syphilis experiments.
- In 1932 Tuskegee, Macon County, Alabama, the 
+ In 1932 Tuskegee, Alabama, the 
 \begin_inset ERT
 status collapsed
 
@@ -434,7 +423,7 @@ ac{USPHS}
 
 \end_inset
 
- enrolled 400 syphilis-positive black men, and observed the 
+ enrolled 400 syphilis-positive black men to observe the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -443,20 +432,29 @@ natural
 \end_inset
 
  course of untreated, latent syphilis.
- The study heads started by deliberately lying to their 
+ The study heads began by enticing their participants with explicit promises
+ of free health care and treatment, a promise they never intended to fulfill.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{and they were testing with the Wasserman reaction!}
+\end_layout
+
+\end_inset
+
+ To ensure the disease stayed 
 \begin_inset Quotes eld
 \end_inset
 
-participants
+natural
 \begin_inset Quotes erd
 \end_inset
 
-, enticing them with an 
-\emph on
-explicit
-\emph default
- promise of treatment: free treatment for a known scourge of disease.
- From the very beginning, the 
+, the 
 \begin_inset ERT
 status collapsed
 
@@ -469,19 +467,8 @@ ac{USPHS}
 
 \end_inset
 
- researchers took steps to prevent their subjecst from being treated elsewhere
- by local physicians.
- Twenty years into the study, when penicillin became widely available as
- an effective treatment and the men had started to express suspicions, researche
-rs continued the 
-\begin_inset Quotes eld
-\end_inset
-
-observations
-\begin_inset Quotes erd
-\end_inset
-
-.
+ researchers took steps to prevent their subjects from being treated by
+ local physicians.
  When the draft came through in 1941 and tested for syphilis, the 
 \begin_inset ERT
 status collapsed
@@ -496,14 +483,34 @@ ac{USPHS}
 \end_inset
 
  reseachers supplied the draft board with a list of names to be excluded
- for treatment; the U.S.
+ from treatment; the U.S.
  Army complied.
- Halfway through the study, more than 30% of the test group died 
+ In 1932, no effective syphilis treatment existed, although it was believed
+ that certain mercury ointments could slow its course.
+ Twenty years into the study, when penicillin 
+\emph on
+had
+\emph default
+ become established as an effective syphilis treatment, researchers increased
+ their efforts to prevent interference by the outside world and to maintain
+ the course of disease.
+ Halfway through the study, more than 30% of the test group had died 
 \emph on
 directly
 \emph default
- from advanced syphilitic lesions.
- The 
+ from advanced syphilitic lesions, with many more suffering from secondary
+ complications.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brandt1978"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The 
 \begin_inset Quotes eld
 \end_inset
 
@@ -517,19 +524,11 @@ study
 New York Times
 \emph default
  and Congressional hearings.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Brandt1978"
-
-\end_inset
-
-
+ 
 \end_layout
 
 \begin_layout Standard
-To our modern sensibilities, this was a complete ethical failure on the
- part of the scientists involved, their funding body, and the hospital.
- The criticism, in the form of a 1973 
+In 1973, a year after the cessation of the study, the 
 \begin_inset ERT
 status open
 
@@ -542,7 +541,9 @@ ac{HEW}
 
 \end_inset
 
- report, focused on the (1) lack of treatment, arguing that once penicillin
+ released a damning report of the ethical failures over the course of the
+ study.
+ The report focused on the (1) lack of treatment, arguing that once penicillin
  had been discovered, it should have been used and (2) the 
 \begin_inset Quotes eld
 \end_inset
@@ -556,7 +557,7 @@ informed consent issue
 an
 \emph default
  experiment, without being told what the experiment entailed.
- This remains the current interpretation; according to Wikipedia:
+ This remains the dominant interpretation:
 \begin_inset ERT
 status collapsed
 
@@ -589,7 +590,7 @@ controversial for reasons related to ethical standards, primarily because
 
 \begin_layout Quote
 \align right
-Wikipedia, on the Tuskegee 
+Wikipedia on the Tuskegee 
 \begin_inset Newline newline
 \end_inset
 
@@ -604,6 +605,16 @@ key "Wikipediacontributors2015"
 \end_layout
 
 \begin_layout Standard
+To our modern sensibilities, this was a complete ethical failure on the
+ part of the scientists involved, their funding body, and the hospital.
+ The criticism are founded in notions of what a 
+\emph on
+good
+\emph default
+ doctor would have done differently.
+\end_layout
+
+\begin_layout Standard
 This is an ethical criticism, and an ethical lesson.
  It does not account for or consider the deep social structures that 
 \emph on
@@ -612,18 +623,6 @@ allowed
  the Tuskegee experiments to go forward.
  Researchers had no intent to treat these men, because, in fact, in their
  (white) eyes, black men were a subhuman species.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{and they were using the Wasserman reaction!!}
-\end_layout
-
-\end_inset
-
  Doctors and reseachers discounted the socio-economics of black America,
  arguing that better medical care could not alter the 
 \begin_inset Quotes eld
@@ -648,17 +647,43 @@ key "Brandt1978"
 All parties were deeply and irrevocably shaped by the anti-back racism in
  the post-Civil War Jim Crow era that continued, with only slight variation,
  until the Civil Rights movement.
- 
+ Only deep-seated knowledges about black culture and bodies could enable
+ the Tuskegee Syphilis Study.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The cultural context, the specific moment of 1932, Alabama, tthis was conducted
+ with the support of a branch of government and headed by syphilis experts
+ of the time; , beliefs that were bolstered and interwoven with the science
+ of the times.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-And what cultural context was that? Not just 1932, but a specific moment
- in U.S.
- medicine.
- This was not a mere failure; this was conducted with the support of a branch
- of government and headed by syphilis experts of the time; only deep-seated
- beliefs about black culture and bodies could enable the Tuskegee Syphilis
- Study.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Reports were also published every two years by JAMA, so like,
+ this wasn't HIDDEN.
+ Many people saw and discussed this thing.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Ah a section divider here probably?
 \end_layout
 
 \begin_layout Standard
@@ -707,9 +732,6 @@ key "Brandt1978,Fortun1998"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -723,8 +745,8 @@ todo{define modern science}
 \end_inset
 
 Modern scientific systems evolved in an era of Western expansionism and
- wholehearted imperialism; the beginnings of biological classification are
- rooted in exploratory voyages and speciment collection by Europeans.
+ imperialism; the beginnings of biological classifications and phylogenies
+ are rooted in exploratory voyages and speciment collection by Europeans.
 \begin_inset ERT
 status collapsed
 
@@ -732,24 +754,8 @@ status collapsed
 
 
 \backslash
-research{scientific imperialism}
+research{scientific imperialism, bioprospecting, new forms}
 \end_layout
-
-\end_inset
-
- The Scientific and Industrial Revolutions enabled and fed on the expansion
- of European powers into new territory.
- 
-\end_layout
-
-\begin_layout Standard
-Discovery of the 'cure' for malaria (by indigenous tribes in the Amazon,
- transferred to the Jesuit, and eventually the expanding European empires)
- allowed European nations to make inroads into tropical areas, as their
- soldiers were no longer dying at the prodigious rates.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Headrick1981"
 
 \end_inset
 
@@ -759,14 +765,18 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{western expansionism has not stopped, merely transmuted.}
 \end_layout
 
 \end_inset
 
+ The Scientific Revolution enabled and fed on the expansion of European
+ powers into new territory.
+\end_layout
 
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -774,7 +784,10 @@ status collapsed
 
 
 \backslash
-todo{re bioprospecting and new forms of scientific and medical colonialism}
+todo[inline]{Discovery of the 'cure' for malaria (by indigenous tribes in
+ the Amazon, transferred to the Jesuit, and eventually the expanding European
+ empires) allowed European nations to make inroads into tropical areas,
+ as their soldiers were no longer dying at the prodigious rates.}
 \end_layout
 
 \end_inset
@@ -788,12 +801,9 @@ Racism -- the peculiar brand of American racism, derived from slave-owners
  the collusion of science and society, specifically a science that carefully
  cataloged and characterized the way black men and women differed, and were
  therefore lesser, than White slaveholders.
-\end_layout
-
-\begin_layout Standard
-Darwin's great proposal of evolution let scientists justify the status quo
- (White men, White Women, Black men, Black women, in that order) as a consequenc
-e of simple evolution; the eugeni
+ Darwin's great proposal of evolution let scientists justify the status
+ quo (White men, White Women, Black men, Black women, in that order) as
+ a mere consequence of natural selection.
 \end_layout
 
 \begin_layout Standard
@@ -804,16 +814,65 @@ key "Roberts2011"
 
 \end_inset
 
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{genetic surveillance, 1000 genomes project}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+todo{we can't say it's genetic OR cultural, needs to hold a tension of like
+ 'ha bisexuals exist well that's that'}
+\end_layout
+
+\end_inset
+
+ We have the sciences of homosexuality: if being gay is a genetic inheritance,
+ then we should be careful to screen our pre-natal children and not allow
+ gay men to donate sperm.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{intentionally focused on gay Men because patriarchy}
+\end_layout
+
+\end_inset
+
 .
- 
-\begin_inset ERT
+ If it's cultural, we should be more careful to police the kind of culture
+ we give our children, carefully isolating them in heterosexual spaces.
+ We can cure the queers, if only we knew 
+\emph on
+why
+\emph default
+ they were homosexual.
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-rewrite{1000 genomes project and current scientific power abuse?????s}
+to be gay, you must have some mutation frm the norm -- bc heterosexual is
+ normal and there's no HETERO gene
 \end_layout
 
 \end_inset
@@ -822,29 +881,22 @@ rewrite{1000 genomes project and current scientific power abuse?????s}
 \end_layout
 
 \begin_layout Standard
-We have the sciences of homosexuality -- every time we discover a new gay,
- someone uses that 'fact' to cure queers.
- 
 \begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
-graffito{Trans bodies have entered the neuroscientific sphere -- brain images
- used to confirm that the brains of transmen are more like cis men than
- they are cis women.}
+todo[inline]{Trans bodies have entered the neuroscientific sphere -- brain
+ images used to confirm that the brains of transmen are more like cis men
+ than they are cis women.}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The scientific heritage, the accumulated knowledge upon which we build our
- futures, is not exempt from criticism more commonly leveled at explicitly
+ The scientific heritage, the accumulated knowledge upon which we build
+ our futures, is not exempt from criticism more commonly leveled at explicitly
  political institutions.
  At the same time, the undeniable power of science and technology to do
  
@@ -855,11 +907,11 @@ good
 \begin_inset Quotes erd
 \end_inset
 
- -- hormones for trans people, Internet communities for otherwise isolated
- activists, the reclamation of environmental sciences by Native communities,
- technologies that re-enable disabled bodies, pharmaceuticals that prolong
- lifespans and raise quality of life, technologies that allow people to
- take control of their bodie's reproduction in every dimension
+ -- hormone therapy for medical gender transitions, Internet communities
+ for otherwise isolated activists, the reclamation of environmental sciences
+ by Native communities, technologies that re-enable disabled bodies, pharmaceuti
+cals that prolong lifespans and raise quality of life, and allow people
+ to take control of their reproductive health
 \begin_inset Foot
 status collapsed
 
@@ -870,7 +922,7 @@ Given access and governments that don't insist on fucking bullshit lookin'
 
 \end_inset
 
- -- means we need it.
+ -- means we need science to keep pushing.
  Not to mention the insatiable curiousty to understand and the delightful
  appeal of 
 \begin_inset Quotes eld
@@ -880,7 +932,7 @@ basic
 \begin_inset Quotes erd
 \end_inset
 
- research, of discovering something new, driving so much of research.
+ research, of discovering something new.
 \end_layout
 
 \begin_layout Standard
@@ -889,14 +941,14 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo[inline]{Oppenheimer and physics awakening to responsibility}
 \end_layout
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo[inline]{brain imaging and designing for consent?}
 \end_layout
@@ -991,48 +1043,6 @@ status collapsed
 
 
 \backslash
-findref{on science studies: D.
- Haraway, S.
- Harding, U.
- Narayan, D.
- Roy, 
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Alcoff1992"
-
-\end_inset
-
-, 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Fortun1998,Raskin1987"
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
 todo{Expand historical section of science studies to generate a foundation
  for current critiques.
  Probably means a more explicit Fleck summary w/page numbers, quotes}
@@ -1054,16 +1064,12 @@ JC - I really like the idea of expanding this section.
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 Both my historical time line and ideological foundation for science studies
  starts with Ludwik Fleck's 
 \emph on
 Genesis and Development of a Scientific Fact
 \emph default
-, originally published in 1935 pre-WWII Germany.
+, first published in 1935 pre-WWII Germany.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fleck1981"
@@ -1087,17 +1093,23 @@ radical
 
 \end_inset
 
-} A practicing syphilis researcher and pathologist, Fleck proposes that
- scientists are the creators of facts, rather than mere passive observers.
- He proffers an explanation that certain 
+ A practicing syphilis researcher and pathologist, Fleck proposes scientists
+ as the creators of facts, rather than mere observers; or rather, that the
+ act of observing also creates.
+ He describes how certain 
 \emph on
 styles 
 \emph default
 of thinking permeate and circumscribe scientific collectives and the people
  within them.
- Scientific knowledge is only accepted as true once the evidence been thoroughly
- vetted, trimmed, mediated, and judged acceptable by experts in the field.
- 
+ Scientific knowledge is only accepted as true fact once the evidence been
+ thoroughly vetted, trimmed, mediated, and judged acceptable by experts
+ in the field.
+ This is not just the peer-review that drives science, but the presented
+ facts must fit more-or-less neatly into pre-existing structures of thought.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
@@ -1108,7 +1120,10 @@ Facts
  are then not so much realities of the world but interpretations of it,
  made by collaboration between individual, collective, and evidence; they
  only take shape in a matrix of other beliefs and discoveries about the
- world,
+ world.
+ Like a group of people who together produce an idea where the origin is
+ never really clear, scientific facts are held in a common tension, without
+ distinctly available origin stories.
 \end_layout
 
 \begin_layout Standard
@@ -1119,20 +1134,17 @@ Fleck and Kuhn and many of their concurrent and subsequent philosophers,
 towards
 \emph default
  anything.
- Science is just another way to try to make sense of the world,.
- 
 \end_layout
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{Don't actually know enough about science studies to make these kinds
- of judgement, probably, but it's my general impression}
+todo{link P}
 \end_layout
 
 \end_inset
@@ -1167,14 +1179,14 @@ Questioning representation with a vengeance.
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{Find feminist science studies chronology; and also maybe ways it is
- or is not western?}
+rewrite{feminist science studies chronology; ways it is or is not western;
+ academic feminism, co-option of grassroots}
 \end_layout
 
 \end_inset
@@ -1198,7 +1210,7 @@ The interaction of the new cultural science took root with activists of
 
 \end_inset
 
- 
+
 \begin_inset Note Note
 status collapsed
 
@@ -1216,6 +1228,8 @@ status collapsed
 status collapsed
 
 \begin_layout Plain Layout
+
+\emph on
 from the plato encyclopedia on feminist science studies
 \end_layout
 
@@ -1305,27 +1319,16 @@ The central concept of feminist epistemology is that of a situated knower,
 
 \end_inset
 
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-silent spring, ecofeminism, etc
-\end_layout
-
-\end_inset
-
 New ways of knowing overlaps with technology and science studies overlaps
  with philosophy of science overlaps with uncountable modes andof analysis.
- What I now call feminist science studies emerges out of activists
+ What I now call feminist science studies emerges out of academic activists
+ 
 \begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
 
-
-\backslash
-todo{feminist science studies more specifically tied to 1970s women's 
+%todo{feminist science studies more specifically tied to 1970s women's 
 \backslash
 & environmental social movements: also in a specifically Western/US context}
 \end_layout
@@ -1334,13 +1337,13 @@ todo{feminist science studies more specifically tied to 1970s women's
 
  against white supremacy, patriarchy, heteronormativity, and ecological
  destruction working on ways to critique science as a social institution,
- and using that critique to forge new ways of asking and answering answering
- scientific questions.
+ and using that critique to forge new ways of asking and answering scientific
+ questions.
 \end_layout
 
 \begin_layout Standard
-Feminist science studies is then at confluence of many ideas, summed up
- in Donna Haraway's 1994 
+Feminist science studies is then at confluence of many ideas, summed in
+ Donna Haraway's 1994 
 \emph on
 Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies.
 \begin_inset CommandInset citation
@@ -1351,7 +1354,7 @@ key "Haraway1994"
 
 
 \emph default
- Per Haraway, it is at some meeting point of:
+ 
 \end_layout
 
 \begin_layout Quote
@@ -1360,11 +1363,7 @@ key "Haraway1994"
 \begin_inset Quotes eld
 \end_inset
 
-Cultural
-\begin_inset space ~
-\end_inset
-
-studies
+Cultural studies
 \series default
 \SpecialChar \ldots{}
 Not culture only as symbols and meanings, not comparative culture studies,
@@ -1381,26 +1380,10 @@ Relentless attention
 \begin_layout Quote
 
 \series bold
-Feminist,
-\begin_inset space ~
-\end_inset
-
-Multicultural,
-\begin_inset space ~
-\end_inset
-
-and
-\begin_inset space ~
-\end_inset
-
-Antiracist
-\begin_inset space ~
-\end_inset
-
-Theory/Projects
+Feminist, Multicultural, and Antiracist Theory/Projects
 \series default
- \SpecialChar \ldots{}
-situated knowledges, where the description of the situation is never self-evide
+\SpecialChar \ldots{}
+ situated knowledges, where the description of the situation is never self-evide
 nt, never simply 
 \begin_inset Quotes eld
 \end_inset
@@ -1450,17 +1433,11 @@ racialized gender
 \begin_inset Quotes erd
 \end_inset
 
- as a practice that builds worlds and objects in some ways rather than others,
- that gets built into objects and practices and exists in no other way\SpecialChar \ldots{}
-gender
- and race are built into practice, which is the social, and have no other
- reality, no origin, no status as properties \SpecialChar \ldots{}
-questioning representation
- with a vengeance.
-\begin_inset Quotes erd
-\end_inset
-
-
+ as a practice that builds worlds and objects in some ways rather than others\SpecialChar \ldots{}
+gen
+der and race are built into practice and have no other reality, no origin,
+ no status as properties \SpecialChar \ldots{}
+questioning representation with a vengeance.
 \end_layout
 
 \begin_layout Quote
@@ -1503,8 +1480,7 @@ Cat's Cradle
 
 \begin_layout Standard
 So now that we know what we're dealing with (sort of, although it's a slippery
- web of concepts), that brings us to: so what? Sociological and historical
- questions are all very good, but what of the modern day? Why shouldn't
+ web of concepts), that brings us to: so what? Why bother? Why shouldn't
  we, as one professor urged me, 
 \begin_inset Quotes eld
 \end_inset
@@ -1573,6 +1549,10 @@ In Practice
 
 \end_layout
 
+\begin_layout Standard
+Because I have to at least try to be an Emma Goldman, not Margaret Sanger.
+\end_layout
+
 \begin_layout Subsection
 \begin_inset Quotes eld
 \end_inset
@@ -1595,8 +1575,8 @@ just
 \end_inset
 
  science.
- It lets us ask questions of representation in our labs, our most important
- journals, and our students: 
+ It lets us ask questions of representation in our labs, our literature,
+ and our students: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1623,25 +1603,22 @@ emph{should} extend...}
 
 \end_inset
 
- to questioning not just gender, but about the representation of race, physical
- ability, nationalities, and other sociological classifications.
+ to questioning not just gender, but about race, physical ability, nationalities
+, and other sociological classifications.
 \end_layout
 
 \begin_layout Standard
 Feminist science studies also lets -- and again, demands -- that we ask
- questions on a deeper level, about the nature of the knowledge produced.
+ questions on another level about the nature of the knowledge produced.
  This includes (among many other things),
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{weak representationally.
- Mostly women (9/11), but only 3 of the 9 are women of color (African-American,
- Asian-American, and Indian).
- }
+todo{Representationally ~weak.}
 \end_layout
 
 \end_inset
@@ -1650,11 +1627,12 @@ todo{weak representationally.
 \end_layout
 
 \begin_layout Itemize
-an examination the scientific 
+an examination of the scientific 
 \emph on
 construction
 \emph default
- of race and gender perpetuated by the perceived objectivity of the sciences,
+ of race and gender perpetuated by the perceived objectivity of the sciences
+ 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fujimura2010,Fausto-Sterling2008,Ellison2007"
@@ -1666,7 +1644,7 @@ key "Fujimura2010,Fausto-Sterling2008,Ellison2007"
 
 \begin_layout Itemize
 the deep paradoxes involved in the ab/use of women's bodies in pursuit of
- reproductive technologies,
+ reproductive technologies
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Roberts2009,Beckett2005"
@@ -1685,7 +1663,7 @@ key "Keller1995,Martin1991"
 \end_inset
 
  and the historical complicity between scientific exploration and colonialism,
- misogyny, and racism
+ misogyny, and racism (all at once, not as isolated variables)
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Harding2009,Raskin1987,Schiebinger2004"
@@ -2113,9 +2091,19 @@ Why should scientists care?
 \end_layout
 
 \begin_layout Standard
-Because feminist science asks questions that are fundamentally geared towards
- addressing socialized inequalities in science, it can help scientists take
- those inequalities into account.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{this? maybe with sources or more emotions}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -2328,20 +2316,6 @@ emph{humans}
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{find a frame to efficiently explain why this matters for a given audience.
- }
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Comment
 status collapsed
 
@@ -2354,20 +2328,23 @@ JC while I agree, I think you need some kind of a reference here to support
 
 \end_inset
 
+ Because feminist science asks questions that are fundamentally geared towards
+ addressing socialized inequalities in science, it can (and has) help scientists
+ take those inequalities into account.
  Scientists (in theory) care about helping people
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{do they?}
+todo{do they though?}
 \end_layout
 
 \end_inset
 
-, and choose science because it seems like the best way to do so.
+.
  It can't help people if it's racist, misogynistic, and not considerate
 \begin_inset Note Comment
 status collapsed
@@ -2379,6 +2356,7 @@ JC - or mislead themselves!
 \end_inset
 
  of how work will be ab/used downstream.
+ 
 \end_layout
 
 \begin_layout Subsection
