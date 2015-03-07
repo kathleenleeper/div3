@@ -103,77 +103,9 @@ clearpage
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Acronyms
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IRB}{Institutional Review Board}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{USPHS}{U.S.
- Public Health Service}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -293,7 +225,7 @@ Science,
 \labelwidthstring 00.00.0000
 
 \series bold
-Science
+Science,
 \series default
  a way of exploring the world from a specific cultural/philosophical/technical
  viewpoint; a practice and culture, but a 
@@ -347,6 +279,11 @@ rewrite{word choice of "progress"?}
 \end_layout
 
 \begin_layout Section
+Biopolitics or scientific responsibility?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 
 \emph on
 \begin_inset Quotes eld
@@ -362,17 +299,27 @@ I
 \begin_inset Quotes erd
 \end_inset
 
-: Biopolitics and scientific responsibility
+: 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
-ethics
+\begin_inset Quotes eld
+\end_inset
+
+Ethics
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The ethical duties and responsibilities of scientists seem to be relegated
- to the limited frame of experimental design and execution.
- For that, we have 
+For the ethical duties and responsibilities of scientists, we have 
 \begin_inset ERT
 status open
 
@@ -387,10 +334,7 @@ ac{IRB}s
 
  to manage human experiments, and the Republican party to manage stem cell
  and climate science.
- 
-\end_layout
-
-\begin_layout Standard
+ Ethics are relegated to the limited frame of experimental design and execution.
 \begin_inset Note Note
 status collapsed
 
@@ -448,28 +392,38 @@ reproductive techs
 
 \end_inset
 
-This is indisputably and desperately important.
- Even recent history of biomedical scientists is intimately interwoven with
- colonial and racist underpinnings; the most well known of these, the Tuskegee
- Syphilis experiments were a 
-\begin_inset ERT
+ Notions of informed consent, 
+\begin_inset Quotes eld
+\end_inset
+
+do no harm
+\begin_inset Quotes erd
+\end_inset
+
+, and the humanity of people are what I would call ethical responsiblities,
+ are critical and basic scientific practices.
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito{Obviously, in the U.S.
- racial frame black bodies are unhuman, and the experimenters were more
- or less within their rights, so}
+Even recent history of biomedical scientists is intimately interwoven with
+ colonial and racist underpinnings;
 \end_layout
 
 \end_inset
 
-human rights violation, wholly enabled by white supremacy.
- In 1932 Macon County, Alabama, the 
+ 
+\end_layout
+
+\begin_layout Standard
+That is not, however, exactly what this dumb Div III is about.
+\end_layout
+
+\begin_layout Standard
+Take, for example, the well-known Tuskegee Syphilis experiments.
+ In 1932 Tuskegee, Macon County, Alabama, the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -480,7 +434,7 @@ ac{USPHS}
 
 \end_inset
 
- found 400 syphilis-positive black men; they observed the 
+ enrolled 400 syphilis-positive black men, and observed the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -489,12 +443,22 @@ natural
 \end_inset
 
  course of untreated, latent syphilis.
- Even when twenty years into the study, penicillin became widely available,
- the men were deliberately prevented from seeking treatment elsewhere.
- Moreover, over the course of the study, men were coerced into staying with
- the
+ The study heads started by deliberately lying to their 
+\begin_inset Quotes eld
+\end_inset
+
+participants
+\begin_inset Quotes erd
+\end_inset
+
+, enticing them with an 
+\emph on
+explicit
+\emph default
+ promise of treatment: free treatment for a known scourge of disease.
+ From the very beginning, the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -505,17 +469,40 @@ ac{USPHS}
 
 \end_inset
 
- researchers with the 
+ researchers took steps to prevent their subjecst from being treated elsewhere
+ by local physicians.
+ Twenty years into the study, when penicillin became widely available as
+ an effective treatment and the men had started to express suspicions, researche
+rs continued the 
+\begin_inset Quotes eld
+\end_inset
+
+observations
+\begin_inset Quotes erd
+\end_inset
+
+.
+ When the draft came through in 1941 and tested for syphilis, the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{USPHS}
+\end_layout
+
+\end_inset
+
+ reseachers supplied the draft board with a list of names to be excluded
+ for treatment; the U.S.
+ Army complied.
+ Halfway through the study, more than 30% of the test group died 
 \emph on
-explicit
+directly
 \emph default
- promise of 
-\emph on
-treatment: 
-\emph default
-free treatment for the known scourge of venereal disease.
- In reality, researchers had no intent to treat these men, because, in fact,
- in their (white) eyes, black men were a subhuman species.
+ from advanced syphilitic lesions.
  The 
 \begin_inset Quotes eld
 \end_inset
@@ -524,7 +511,107 @@ study
 \begin_inset Quotes erd
 \end_inset
 
- ceased only forty years later, in 1972, after public outcry.
+ ceased forty years after it started, in 1972, after a whistleblower publication
+ in the 
+\emph on
+New York Times
+\emph default
+ and Congressional hearings.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brandt1978"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To our modern sensibilities, this was a complete ethical failure on the
+ part of the scientists involved, their funding body, and the hospital.
+ The criticism, in the form of a 1973 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HEW}
+\end_layout
+
+\end_inset
+
+ report, focused on the (1) lack of treatment, arguing that once penicillin
+ had been discovered, it should have been used and (2) the 
+\begin_inset Quotes eld
+\end_inset
+
+informed consent issue
+\begin_inset Quotes erd
+\end_inset
+
+, wherein the report argued men had submitted to 
+\emph on
+an
+\emph default
+ experiment, without being told what the experiment entailed.
+ This remains the current interpretation; according to Wikipedia:
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Wikipedia because it represents dominant views of culture[science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+controversial for reasons related to ethical standards, primarily because
+ researchers knowingly failed to treat patients appropriately after the
+ 1940s validation of penicillin as an effective cure for the disease they
+ were studying.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+Wikipedia, on the Tuskegee 
+\begin_inset Newline newline
+\end_inset
+
+Syphilis experiments
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Wikipediacontributors2015"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is an ethical criticism, and an ethical lesson.
+ It does not account for or consider the deep social structures that 
+\emph on
+allowed
+\emph default
+ the Tuskegee experiments to go forward.
+ Researchers had no intent to treat these men, because, in fact, in their
+ (white) eyes, black men were a subhuman species.
 \begin_inset ERT
 status collapsed
 
@@ -537,33 +624,30 @@ graffito{and they were using the Wasserman reaction!!}
 
 \end_inset
 
+ Doctors and reseachers discounted the socio-economics of black America,
+ arguing that better medical care could not alter the 
+\begin_inset Quotes eld
+\end_inset
+
+evolutionary scheme
+\begin_inset Quotes erd
+\end_inset
+
+ of things.
  
-\end_layout
-
-\begin_layout Standard
-To our modern sensibilities, this was a complete ethical failure on the
- part of the scientists involved, their funding body
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{Tuskegee}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brandt1978"
 
 \end_inset
 
-, and the hospital.
- All parties were deeply and irrevocably shaped by the anti-back racism
- in the post-Civil War Jim Crow era, that continued, with only slight variation,
- until the Civil Rights movement.
- 
+
 \end_layout
 
 \begin_layout Standard
-Abhorrent, but given their cultural context, how could they have known better?
+All parties were deeply and irrevocably shaped by the anti-back racism in
+ the post-Civil War Jim Crow era that continued, with only slight variation,
+ until the Civil Rights movement.
  
 \end_layout
 
@@ -577,25 +661,11 @@ And what cultural context was that? Not just 1932, but a specific moment
  Study.
 \end_layout
 
-\begin_layout Quote
-Doctors generally discounted socio-economic explanations of the state of
- black health, arguing that better medical care could not alter the evolutionary
- scheme.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Brandt1978"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-From its inception, the USPHS regarded the Tuskegee Study as a classic "study
- in nature," rather than an experiment.
-\end_layout
-
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 More insidious and more difficult to make sweeping moral judgements on is
  the way science has not just been done 
 \begin_inset Quotes eld
@@ -614,7 +684,7 @@ new systems of exclusion, while staying within the ethical bounds of the
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 To return to the Tuskegee experiments -- Darwinism enabled scientific racism
  to thrive.
  While his counterpart, Wallace, argued that humanity was not done progressing,
@@ -634,6 +704,11 @@ key "Brandt1978,Fortun1998"
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -647,24 +722,9 @@ todo{define modern science}
 
 \end_inset
 
-
-\begin_inset Quotes eld
-\end_inset
-
-Science
-\begin_inset Quotes erd
-\end_inset
-
- -- 
-\begin_inset Quotes eld
-\end_inset
-
-modern
-\begin_inset Quotes erd
-\end_inset
-
- science -- evolved in an era of Western expansionism and wholehearted imperiali
-sm.
+Modern scientific systems evolved in an era of Western expansionism and
+ wholehearted imperialism; the beginnings of biological classification are
+ rooted in exploratory voyages and speciment collection by Europeans.
 \begin_inset ERT
 status collapsed
 
@@ -679,7 +739,11 @@ research{scientific imperialism}
 
  The Scientific and Industrial Revolutions enabled and fed on the expansion
  of European powers into new territory.
- Discovery of the 'cure' for malaria (by indigenous tribes in the Amazon,
+ 
+\end_layout
+
+\begin_layout Standard
+Discovery of the 'cure' for malaria (by indigenous tribes in the Amazon,
  transferred to the Jesuit, and eventually the expanding European empires)
  allowed European nations to make inroads into tropical areas, as their
  soldiers were no longer dying at the prodigious rates.
