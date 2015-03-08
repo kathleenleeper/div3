@@ -808,6 +808,22 @@ status open
 
 
 \backslash
+acro{HEW}{Department of Health, Education, and Welfare}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 acro{IRB}{Institutional Review Board}
 \end_layout
 
@@ -920,42 +936,6 @@ status open
 \begin_layout Plain Layout
 
 
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
-%
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
 \backslash
 end{acronym}
 \end_layout

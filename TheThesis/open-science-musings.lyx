@@ -131,7 +131,7 @@ listoftodos
 \end_layout
 
 \begin_layout Chapter
-Publishing Failures in Scientific Structures 
+Scientific Structures 
 \begin_inset Argument 1
 status collapsed
 
@@ -142,6 +142,38 @@ Scientific Structures and Incentives
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Here's the thing: science doesn't mean anything until you communicate it
+ to 
+\emph on
+someone
+\emph default
+.
+ Facts only become facts when they're part of a communal decision; more
+ practically, if you 
+\begin_inset Quotes eld
+\end_inset
+
+cure cancer
+\begin_inset Quotes erd
+\end_inset
+
+, there's not much point unless you get your acclaims, and start pushing
+ your therapy out.
+ The system that has evolved for scientific dissemination today is a network
+ of journals, Internet communications, conferences, emails, and blogs; the
+ rate at which scientific information moves within communities and between
+ scientists and the 
+\begin_inset Quotes eld
+\end_inset
+
+public
+\begin_inset Quotes erd
+\end_inset
+
+ has increased dramatically, in both speed and scope.
 \end_layout
 
 \begin_layout Standard
@@ -410,9 +442,6 @@ end{acronym}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -604,7 +633,7 @@ to help
 
 \end_inset
 
-The broad initiatives huddling under the 
+The broad sets initiatives under the 
 \begin_inset ERT
 status open
 
@@ -617,13 +646,13 @@ ac{OS}
 
 \end_inset
 
- umbrella stand from the point of view in which the scientific ecosystem
- -- that network of funding and publishing that undergirds the production
- of knowledge -- is suffering from serious problems in access, reproducibility,
- and efficiency.
- They propose transparency, greater access, and technological innovation
- can 'fix' or alleviate those flaws, as well as increase the speed and quality
- of scientific discovery.
+ umbrella (of which I am a card-carrying member), share a point of view,
+ in which the scientific ecosystem -- that network of funding and publishing
+ that undergirds the production of knowledge -- is suffering from serious
+ problems in dissemination, reproducibility, and efficiency.
+ They propose transparency, greater literature and scientific access, and
+ technological innovation can 'fix' or alleviate those flaws, and improve
+ science as an institution.
  The 
 \begin_inset Quotes eld
 \end_inset
@@ -669,8 +698,8 @@ Depending, of course, on your viewpoint, re-workers of scientific systems
 \end_inset
 
  Generally, those solutions and/or goals center around digitizing and opening
- the scientific ecosystem in ~three areas, implementing structures that
- allow for and incentivize:
+ the scientific ecosystem, implementing structures that allow for and incentiviz
+e:
 \end_layout
 
 \begin_layout Enumerate
@@ -752,7 +781,15 @@ online journal club
  diverse forms of knowledge transmission.
 \end_layout
 
+\begin_layout Section
+Scientific Communication Woes
+\end_layout
+
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Despite the complexities and contradictions of any movement, 
 \begin_inset ERT
 status collapsed
@@ -766,26 +803,13 @@ ac{OS}
 
 \end_inset
 
- included,
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-ughhhhh i hate definining this so so much
+ included, here are sufficient commonalities in both intent and execution
+ to examine some of the values composing both problem and solution.
+ 
 \end_layout
 
 \end_inset
 
- here are sufficient commonalities in both intent and execution to examine
- some of the values composing both problem and solution.
- 
-\end_layout
-
-\begin_layout Section
-Scientific Communication Woes
-\end_layout
-
-\begin_layout Standard
 Before we start talking about solutions, it makes sense to identify the
  problems.
  To some extent, the 
@@ -899,7 +923,7 @@ fix
 \end_inset
 
  science start.
- The pipeline of research to dissemination is long, tortorous, and winding,
+ The path of research to communication is long, tortorous, and winding,
  requiring abridgement, careful scheming, overstatements of effects, prestige
  calculations.
 \begin_inset ERT
