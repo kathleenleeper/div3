@@ -559,13 +559,13 @@ an
  experiment, without being told what the experiment entailed.
  This remains the dominant interpretation:
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{Wikipedia because it represents dominant views of culture[science}
+graffito{Wikipedia because it represents dominant views of culture/science}
 \end_layout
 
 \end_inset
@@ -798,10 +798,6 @@ todo[inline]{Discovery of the 'cure' for malaria (by indigenous tribes in
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 Racism -- the peculiar brand of American racism, derived from slave-owners
  desperate to justify their brutality of human bondage -- was created through
  the collusion of science and society, specifically a science that carefully
