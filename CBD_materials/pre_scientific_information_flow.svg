@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="32cm" height="14cm" viewBox="424 117 639 278" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="424.1" y="362.5">
+    <tspan x="424.1" y="362.5"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #eee8d5" x="528.25" y="120" width="156" height="78"/>
+    <path style="fill: #eee8d5" d="M 528.25,120 A 6,6 0 0 0 522.25,126 L 528.25,126 z"/>
+    <path style="fill: #eee8d5" d="M 690.25,126 A 6,6 0 0 0 684.25,120 L 684.25,126 z"/>
+    <rect style="fill: #eee8d5" x="522.25" y="126" width="168" height="66"/>
+    <path style="fill: #eee8d5" d="M 522.25,192 A 6,6 0 0 0 528.25,198 L 528.25,192 z"/>
+    <path style="fill: #eee8d5" d="M 684.25,198 A 6,6 0 0 0 690.25,192 L 684.25,192 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="528.25" y1="120" x2="684.25" y2="120"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="528.25" y1="198" x2="684.25" y2="198"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 528.25,120 A 6,6 0 0 0 522.25,126"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 690.25,126 A 6,6 0 0 0 684.25,120"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="522.25" y1="126" x2="522.25" y2="192"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="690.25" y1="126" x2="690.25" y2="192"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 522.25,192 A 6,6 0 0 0 528.25,198"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 684.25,198 A 6,6 0 0 0 690.25,192"/>
+    <text font-size="12.8" style="fill: #657b83;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="606.25" y="162.9">
+      <tspan x="606.25" y="162.9">scientists</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #eee8d5" x="666" y="320" width="183.15" height="73.5"/>
+    <path style="fill: #eee8d5" d="M 666,320 A 6,6 0 0 0 660,326 L 666,326 z"/>
+    <path style="fill: #eee8d5" d="M 855.15,326 A 6,6 0 0 0 849.15,320 L 849.15,326 z"/>
+    <rect style="fill: #eee8d5" x="660" y="326" width="195.15" height="61.5"/>
+    <path style="fill: #eee8d5" d="M 660,387.5 A 6,6 0 0 0 666,393.5 L 666,387.5 z"/>
+    <path style="fill: #eee8d5" d="M 849.15,393.5 A 6,6 0 0 0 855.15,387.5 L 849.15,387.5 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="666" y1="320" x2="849.15" y2="320"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="666" y1="393.5" x2="849.15" y2="393.5"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 666,320 A 6,6 0 0 0 660,326"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 855.15,326 A 6,6 0 0 0 849.15,320"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="660" y1="326" x2="660" y2="387.5"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="855.15" y1="326" x2="855.15" y2="387.5"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 660,387.5 A 6,6 0 0 0 666,393.5"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 849.15,393.5 A 6,6 0 0 0 855.15,387.5"/>
+    <text font-size="12.8" style="fill: #657b83;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="757.575" y="352.65">
+      <tspan x="757.575" y="352.65">atoms, proteins, cells, </tspan>
+      <tspan x="757.575" y="368.65">disease states, organisms</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #eee8d5" x="866" y="120" width="189.076" height="80"/>
+    <path style="fill: #eee8d5" d="M 866,120 A 6,6 0 0 0 860,126 L 866,126 z"/>
+    <path style="fill: #eee8d5" d="M 1061.08,126 A 6,6 0 0 0 1055.08,120 L 1055.08,126 z"/>
+    <rect style="fill: #eee8d5" x="860" y="126" width="201.076" height="68"/>
+    <path style="fill: #eee8d5" d="M 860,194 A 6,6 0 0 0 866,200 L 866,194 z"/>
+    <path style="fill: #eee8d5" d="M 1055.08,200 A 6,6 0 0 0 1061.08,194 L 1055.08,194 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="866" y1="120" x2="1055.08" y2="120"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="866" y1="200" x2="1055.08" y2="200"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 866,120 A 6,6 0 0 0 860,126"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 1061.08,126 A 6,6 0 0 0 1055.08,120"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="860" y1="126" x2="860" y2="194"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" x1="1061.08" y1="126" x2="1061.08" y2="194"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 860,194 A 6,6 0 0 0 866,200"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #93a1a1" d="M 1055.08,200 A 6,6 0 0 0 1061.08,194"/>
+    <text font-size="12.8" style="fill: #657b83;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="960.538" y="155.9">
+      <tspan x="960.538" y="155.9">academic scientists</tspan>
+      <tspan x="960.538" y="171.9">pharma/tech</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="960.538" y="160">
+    <tspan x="960.538" y="160"></tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #d33682" x1="637.625" y1="200.001" x2="720.634" y2="308.476"/>
+    <polygon style="fill: #d33682" points="716.664,311.515 726.712,316.418 724.605,305.438 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #d33682" points="716.664,311.515 726.712,316.418 724.605,305.438 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #d33682" x1="692.254" y1="159.243" x2="846.046" y2="159.677"/>
+    <polygon style="fill: #d33682" points="853.546,159.698 843.532,164.67 846.046,159.677 843.561,154.67 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #d33682" points="853.546,159.698 843.532,164.67 846.046,159.677 843.561,154.67 "/>
+  </g>
+  <text font-size="12.8" style="fill: #586e75;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="743.25" y="182.5">
+    <tspan x="743.25" y="182.5">e.g. publishing</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #586e75;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="260">
+    <tspan x="700" y="260">e.g. observation,</tspan>
+    <tspan x="700" y="276">manipulation</tspan>
+  </text>
+</svg>
