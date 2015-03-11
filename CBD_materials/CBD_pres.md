@@ -16,8 +16,8 @@ I'm talking about barriers -- legal and monetary-- to the flow of scientific inf
 4. Is this something you consider in the authors you cite?
 5. Are you familiar with the researchers in your field -- if you have a topic, do you have certain labs or groups that you know about? Do you know 
 
-<!---(3) how many of you pay attention to the publisher and make decisions accordingly?--- >
 
+<!---(3) how many of you pay attention to the publisher and make decisions accordingly?--- >`
 #intro
 
 my goal with this talk -- which will hopefully be brief so we can actually talk more generally -- is to link a couple of fields that don't cite each other at all. Namely, the so-called "serials" <!--and "reproducibility"--> crisis in the scientific literature, and the trouble with representation in scientific communities.
@@ -64,7 +64,7 @@ Neglected tropical disease: Mel? Ebola!
 
 the really good example of this, actually, is one you may be familiar with, is the symptoms of heart attack. **question: what are the symptoms of a heart attack, class?** Classically, this is crushing chest pain and pain down the left arm. 
 Women, however, might have pain focused on their back and jaw -- "non-classic" symptoms.
-Women generally wait longer than ment before going to the emergency room. As a result, women die more often then men. If women were the subject of more cardiovascular attention, those would not be "non-classic" symptoms -- we would be taught that pain from a heart attack could manifest in your chest, arm, back, or jaw -- less women would have died.
+Women generally wait longer than men before going to the emergency room. As a result, women die more often then men. If women were the subject of more cardiovascular attention, those would not be "non-classic" symptoms -- we would be taught that pain from a heart attack could manifest in your chest, arm, back, or jaw -- less women would have died.
 **pregnant seatbelt models**
 
 As an additional layer of complexity, it's unclear what variables actually account for this in terms of gender (or sex?) Presumably it's some combination of karyotype (presumed XX), hormonal distribution (presumed estrogen), body structure etc.
