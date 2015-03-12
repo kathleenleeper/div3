@@ -84,7 +84,7 @@ status open
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -95,6 +95,22 @@ let
 cleardoublepage
 \backslash
 clearpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+listoftodos
 \end_layout
 
 \end_inset
@@ -127,7 +143,7 @@ begin{acronym}
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -143,7 +159,7 @@ acro{FLOSS}{free/libre open source software}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -160,7 +176,7 @@ acro{GPL}{GNU General Public License}, the founding document of the Free
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -176,7 +192,7 @@ acro{PLoS}{Public Library of Science}, a leader in open access publishing
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -192,7 +208,7 @@ acro{OS}{open science}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -208,7 +224,7 @@ acro{OKF}{Open Knowledge Foundation}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -224,7 +240,7 @@ acro{OA}{Open Access}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -240,7 +256,7 @@ acro{IF}{Journal Impact Factor}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -262,13 +278,13 @@ emph{Science}}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-end{acronym}
+acro{NIH}{National Institute of Health}
 \end_layout
 
 \end_inset
@@ -284,7 +300,39 @@ status open
 
 
 \backslash
-listoftodos
+acro{NCBI}{National Center for Biotechnology Information}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{LHC}{Large Hadron Collider}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
 \end_layout
 
 \end_inset
@@ -362,7 +410,7 @@ Incentivising Science: Funding and Prestige
 \end_layout
 
 \begin_layout Chapter
-Solutions: Crack it Open? 
+Crack it 'Open'? 
 \end_layout
 
 \begin_layout Quote
@@ -393,12 +441,10 @@ the U.S.
 \end_inset
 
 Science is based on building on, reusing and openly criticising the published
- body of scientific knowledge.
-\end_layout
-
-\begin_layout Quote
-For science to effectively function, and for society to reap the full benefits
- from scientific endeavours, it is crucial that science data be made 
+ body of scientific knowledge\SpecialChar \ldots{}
+For science to effectively function, and for
+ society to reap the full benefits from scientific endeavours, it is crucial
+ that science data be made 
 \emph on
 open
 \emph default
@@ -408,22 +454,45 @@ open
 
 \begin_layout Quote
 \align right
-The Panton Principles 
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex URL
-status open
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
-http://pantonprinciples.org
+
+\backslash
+graffito{
 \end_layout
 
 \end_inset
 
-, 02/16/2015
+
+\emph on
+
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+pantonprinciples.org
+\end_layout
+
+\end_inset
+
+
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+, 02/16/2015}
+\end_layout
+
+\end_inset
+
+The Panton Principles 
 \end_layout
 
 \begin_layout Quote
@@ -433,22 +502,41 @@ Knowledge is open if anyone is free to access, use, modify, and share it
 
 \begin_layout Quote
 \align right
-The open definition
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Flex URL
-status open
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
-http://opendefinition.org/od
+
+\backslash
+graffito{
 \end_layout
 
 \end_inset
 
-, 02/16/2015
+
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+opendefinition.org/od
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+, 02/16/2015}
+\end_layout
+
+\end_inset
+
+The open definition
 \end_layout
 
 \begin_layout Standard
@@ -467,7 +555,7 @@ reference "chap:ScienticEcosystem"
 
 \end_inset
 
-, open manifests in different but co-existing
+, open becomes many different but co-existing 
 \begin_inset ERT
 status collapsed
 
@@ -481,6 +569,67 @@ research{conflict between different areas of openness}
 \end_inset
 
  inititives.
+\end_layout
+
+\begin_layout Standard
+Science as an institution feels like it's falling apart (from my perspective)
+ because what's actually happening is so different from what I thought.
+ Knowledge is limited, disparate, disorganized, and unreliable; it's behind
+ digital walls that seem contrived to keep science in the realm of the fiscally
+ elite and educationally privileged, in putting up jargon and financial
+ barriers.
+ It doesn't reproduce well, even when it's purely 1s and 0s: the reliability
+ of computer programs (to present stimuli, record data, crunch numbers)
+ is limited to the labs that wrote/interact with the program; attempts to
+ getting access to the generative programs has failed, repeatedly.
+\end_layout
+
+\begin_layout Standard
+When statistics are in question, datasets typically fail to materialize
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wicherts2011"
+
+\end_inset
+
+.
+ When they are available, they're often disorganized and thus essentially
+ un-usable; the published datasets
+\end_layout
+
+\begin_layout Standard
+Fears about tenure, funding, prestige, and scientific sex appeal shape research
+ courses and successes; academic research is regularly shuttered by the
+ funding whims of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NIH}
+\end_layout
+
+\end_inset
+
+.
+ Research between groups at higher levels feels cutthroat; it's no longer
+ about the pursuit of truth, but the pursuit of the ability to keep trying.
+\end_layout
+
+\begin_layout Standard
+Publishing groups, now, hold an unnatural kind of power by determining what
+ 
+\emph on
+counts
+\emph default
+ as good, interesting, novel science.
+ 
+\end_layout
+
+\begin_layout Standard
+Or at least that what it seems like.
 \end_layout
 
 \begin_layout Section
@@ -537,7 +686,7 @@ ewed scholarly journal articles.
 
 \begin_layout Quote
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -604,15 +753,25 @@ To adapt Richard Stallman's famous formulation (originally applied to software),
  gratis OA is free as in 'free beer', while libre OA is also free as in
  'free speech'.
  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{where should open vs free be defined?}
 \end_layout
 
-\begin_layout Paragraph
-In legalese
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-The legal basis of OA is the consent of the copyright holder (for newer
- literature) or the expiration of copyright (for older literature).
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+legally The legal basis of OA is the consent of the copyright holder (for
+ newer literature) or the expiration of copyright (for older literature).
 \end_layout
 
 \begin_layout Standard
@@ -712,16 +871,20 @@ The most important royalty-free literature for our purposes is the body
 \end_layout
 
 \begin_layout Subparagraph
-OA literature is not 
+Open access literature is not 
 \strikeout on
 free
 \strikeout default
- gratis to produce or publish.
+ 
+\emph on
+gratis
+\emph default
+ to produce or publish.
  
 \end_layout
 
 \begin_layout Quote
-`"Free is ambiguous.
+"Free is ambiguous.
  We mean free for readers, not free for producers.
  We know that open-access literature is not free (without cost) to produce.
  But that does not foreclose the possibility of making it free of charge
@@ -733,8 +896,21 @@ Open access is not synonymous with universal access.
 \end_layout
 
 \begin_layout Standard
-Even after OA has been achieved, at least four kinds of access barriers
- might remain in place: 
+Even after the implementaion of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OA}
+\end_layout
+
+\end_inset
+
+ policies, access barriers remain.
+ Per Murray-Rust:
 \end_layout
 
 \begin_layout Itemize
@@ -765,14 +941,46 @@ Connectivity barriers.
 \end_layout
 
 \begin_layout Section
-Open data
+Data
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+data a set of values of qualitative or quantitative variables; facts
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{FACTS.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+open clinical data vs open basic research data?
+\end_layout
+
+\end_inset
+
 Open science data is a type of open data focused on publishing observations
  and results of scientific activities available for anyone to analyze and
  reuse.
- While the 
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+While the 
 \emph on
 idea
 \emph default
@@ -781,15 +989,197 @@ idea
  publish or obtain data.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
+It's a broad concept that does not
+\emph on
+ 
+\emph default
+just apply to research data, but to government and institutional data.
+ The goals are similar: make data points work harder and mean more.
+ 
+\end_layout
+
+\begin_layout Standard
+Open data is the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NCBI}
+\end_layout
+
+\end_inset
+
+ genetic databases; open data is the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LHC}
+\end_layout
+
+\end_inset
+
+ publishing terabytes of information.
+ Open data ideally means 
+\emph on
+libre
+\emph default
+, but practically is often merely 
+\emph on
+gratis
+\emph default
+.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{NCBI licensing?}
+\end_layout
+
+\end_inset
+
+.
+ The sequencing of the genome (of many genomes, actually) and subsequent
+ publishing has enabled both basic biological research (primer design, anybody?)
+ and fields like bio-informatics to move forwards by leaps and bounds.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{how many people access that data daily?}
+\end_layout
+
+\end_inset
+
+ Most of the uses of that data were never planned or anticipated, but happened
+ when data went free.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+links between software and internet development, and the kent interview
+ on the race to patent the genome for freedom!!
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Murray-Rust on the unexpected uses of open data}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 omg share your fucking datasets.
  you should nt just report aggregate numbers and expect that t be a valid
  demonstration of replicability.
  also,
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 data sets can be cited.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Open data hopes to achieve stastistical reliability: your table of aggregate
+ numbers isn't meaningful unless we can see how you've manipulated (or not)
+ the original data.
+\end_layout
+
+\begin_layout Standard
+Open data could extend the useful life of data collections by combining
+ and manipulating datasets, like bio-informatians using the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NCBI}
+\end_layout
+
+\end_inset
+
+ datasets to generate phylogenies and genetic analyses.
+ Aggregating datasets allows for more thorough and meaningful meta-analyses
+ (when the appropriate controls are in place, of course).
+\end_layout
+
+\begin_layout Subsubsection
+regulations and principles
+\end_layout
+
+\begin_layout Standard
+organizations demanding sharing!
+\end_layout
+
+\begin_layout Subsubsection
+incentives for data sharing
+\end_layout
+
+\begin_layout Standard
+funders ask for it, but hard to actually d
+\end_layout
+
+\begin_layout Subsubsection
+credit for data publication
+\end_layout
+
+\begin_layout Subsection
+practical issues in data sharing
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+which
+\emph default
+ data, 
+\emph on
+when
+\emph default
+, and in what format? (re: conversations @ plos open data).
+ Not easily answerable questions, but maybe part of that holding contradictions
+ -- TT's issues with sharing cuttlefish data (who can host, is it worth
+ hosting?).
 \end_layout
 
 \begin_layout Subsection
@@ -847,7 +1237,6 @@ To make sense of scientific data they must be analysed.
  To keep research reproducible, it is necessary to publish not only all
  data, but also the source code of all software used, and all the parametrizatio
 n used in running this software.
- Presently, these requests are rarely ever met.
 \end_layout
 
 \begin_layout Standard
@@ -880,7 +1269,7 @@ Code is prone to errors.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -910,7 +1299,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{OK, Raymond.}
 \end_layout

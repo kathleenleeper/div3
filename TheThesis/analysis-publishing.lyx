@@ -80,7 +80,7 @@
 
 \begin_layout Standard
 \begin_inset Branch analysis-publish
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset ERT
@@ -423,21 +423,331 @@ end{acronym}
 \end_layout
 
 \begin_layout Chapter
-What Happens When We 
 \begin_inset Quotes eld
 \end_inset
 
-Fix
+Fixing
 \begin_inset Quotes erd
 \end_inset
 
- Publishing?
+ Publishing
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:values-fixing-publishing"
+
+\end_inset
+
+Most of what 
+\begin_inset Quotes eld
+\end_inset
+
+open science
+\begin_inset Quotes erd
+\end_inset
+
+ would implement centers around assumptions about access, knowledge, and
+ distribution.
+ While the more interesting and radical ideas toy with different presentation
+ formats, and scholarly webs, none are iconoclasts in the way they might
+ think.
+ 
+\end_layout
+
+\begin_layout Subsection
+Open, not free
+\end_layout
+
+\begin_layout Standard
+The open science movement is closely affiliated with the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ movement, and so it's taken as almost a default that the 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+ is free as in the French 
+\emph on
+libre
+\emph default
+, not 
+\emph on
+gratis
+\emph default
+ as we want our beer.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The terminology of and factions within this movement are complex, but, in
+ short, “free software” tends to be associated with the ideology of freedom,
+ “open source” with the openness of the development process, and “libre”
+ with those concerned about confusion from the previous two.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ are used as monikers to refer to all of these meanings.
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Reagle2012"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ draws technologically-minded scientists and engineers, often people with
+ ties to the free and open source software movement.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+specifically in the realm of community-driven creation.
+\end_layout
+
+\end_inset
+
+ The similarities are non-trivial; since the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ movement grows out 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ community, it makes sense to start there.
+\end_layout
+
+\begin_layout Standard
+In 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ movement, there's a sharp ideological divide between free/libre and open
+ licenses.
+ Advocates of the libre licensing model use many lines of persuasion, but
+ their focus is libre software as social imperative.
+ User freedom, as laid out in the founding document of the Free Software
+ movement (the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{GPL}
+\end_layout
+
+\end_inset
+
+) is paramount.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Open source
+\begin_inset Quotes erd
+\end_inset
+
+, on the other term, both as a term and in its associated licensing models,
+ comes from an explicit attempt to side-step the social values and ideological
+ connotations of the term "free software".
+ It instead has a narrow focus on the access to and production of source
+ code - i.e.
+ the 'practical' benefits of distributed production.
+ 
+\end_layout
+
+\begin_layout Standard
+Bearing that distinction in mind, as trivial as it may seem, I think the
+ usage of 
+\emph on
+open
+\emph default
+ in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ is a valuable point of entry into the ambivalent aspects of open science.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ advocates explicitly or implicitly draw on the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ and free culture movements, knowingly or not, but the chosen movement nomenclat
+ure is 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\emph on
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+.
+
+\emph on
+ 
+\emph default
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito {A lot of the following ideas draw heavily on analyses of the FLOSS
+ movement, because that's where work has been done to some extent.
+ "Open science" isn't nearly as widely talked about or analyzed.}
+\end_layout
+
+\end_inset
+
+The same disavowal (or maybe just lack of acknowledgment) of social values
+ seen in open source is apparent in a lot of the open science movement.
+ It's not about science helping (or empowering) people, it's about doing
+ 
+\begin_inset Quotes eld
+\end_inset
+
+better
+\begin_inset Quotes erd
+\end_inset
+
+ science -- more reproducible, more reliable, more powerful (disruptive,
+ even!).
+ Open science is defined almost entirely by the 
+\emph on
+mechanisms
+\emph default
+, in the same way open source is 
+\emph on
+just 
+\emph default
+focused on production.
+ Even projects that pitch themselves as a place for citizen scientists can
+ be construed as just a way to shift labor from cheap graduate students
+ to even cheaper laypeople.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+what is the analog to free in science and how can we address that?
+\end_layout
 
 \end_inset
 
@@ -682,273 +992,6 @@ The New York Times
  both their success stories.
  The open science narrative was a tool in both of their toolkits used for
  different purposes and different effects.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Open, not free
-\end_layout
-
-\begin_layout Standard
-The open science movement is closely affiliated with the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- movement, and so it's taken as almost a default that the 
-\begin_inset Quotes eld
-\end_inset
-
-free
-\begin_inset Quotes erd
-\end_inset
-
- is free as in freedom, not as in beer.
- For clarification:
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-The terminology of and factions within this movement are complex, but, in
- short, “free software” tends to be associated with the ideology of freedom,
- “open source” with the openness of the development process, and “libre”
- with those concerned about confusion from the previous two.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- are used as monikers to refer to all of these meanings.
-\begin_inset Quotes erd
-\end_inset
-
- (
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Reagle2012"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-Part of what draws many to 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
- are its ties to the free and open source software movement, specifically
- in the realm of community-driven creation.
- The similarities are many and significant; since the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
- movement grows out 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- community, it makes sense to start there.
-\end_layout
-
-\begin_layout Standard
-For the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- movement, there's a sharp ideological divide between the free/libre and
- the open licenses.
- Advocates of the libre licensing model use many rhetorical tools, but their
- focus is on libre software as social imperative.
- User freedom, as laid out in the founding document of the Free Software
- movement (the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{GPL}
-\end_layout
-
-\end_inset
-
-) is paramount.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Open source
-\begin_inset Quotes erd
-\end_inset
-
-, as a term and associated licensing models, comes from an explicit attempt
- to side-step the social values and ideological connotations of the term
- "free software".
- It instead has a narrow focus on access and production of source code -
- i.e.
- the 'practical' benefits of distributed production.
- 
-\end_layout
-
-\begin_layout Standard
-Bearing that distinction in mind, as trivial as it may seem, I think the
- usage of 
-\emph on
-open
-\emph default
- in 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
- is a valuable point of entry into the ambivalent moral aspects of open
- science.
- Lots of proponents of 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
- either come from and/or explicitly draw from the F/LOSS movement, but the
- chosen movement nomenclature is 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\emph on
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\emph default
-.
-
-\emph on
- 
-\emph default
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito {A lot of the following ideas draw heavily on analyses of the FLOSS
- movement, because that's where work has been done to some extent.
- "Open science" isn't nearly as widely talked about or analyzed.}
-\end_layout
-
-\end_inset
-
-The same disavowal (or maybe just lack of acknowledgment) of social values
- seen in open source is apparent in a lot of the open science movement.
- It's not about science helping (or empowering) people, it's about doing
- 
-\begin_inset Quotes eld
-\end_inset
-
-better
-\begin_inset Quotes erd
-\end_inset
-
- science -- more reproducible, more reliable, more powerful (disruptive,
- even!).
- Open science is defined almost entirely by the 
-\emph on
-mechanisms
-\emph default
-, in the same way open source is 
-\emph on
-just 
-\emph default
-focused on production.
- Even projects that pitch themselves as a place for citizen scientists can
- be construed as just a way to shift labor from cheap graduate students
- to even cheaper laypeople.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-what is the analog to free in science and how can we address that?
 \end_layout
 
 \end_inset

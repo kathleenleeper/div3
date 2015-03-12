@@ -83,7 +83,7 @@
 
 \begin_layout Standard
 \begin_inset Branch global-science
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset ERT
@@ -295,13 +295,45 @@ acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
 acro{STEM}{Science, Technology, Engineering, and Math}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SCI}{Science Citation Index}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{WoS}{Web of Science}
 \end_layout
 
 \end_inset
@@ -352,6 +384,11 @@ name "chap:Representation_Science"
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 From a 
 \begin_inset Quotes eld
 \end_inset
@@ -367,7 +404,7 @@ purely
  and where are the queer and trans researchers? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The place it's easiest to see this, at least in science, is looking back
  at our publishing pipeline and noting the abysmal numbers of women and
  minorities participating in the production and editorial system.
@@ -395,6 +432,11 @@ place blame on paper and grant reviewers, editors, faculty members, or other
  of power.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset Note Note
 status collapsed
@@ -413,8 +455,15 @@ I've broken this into three sections -- geography/localities, gender, and
 Who gets to make science, and who gets credit?
 \end_layout
 
-\begin_layout Subsection
-The trouble with rep (re Haraway)
+\begin_layout Section
+\begin_inset Quotes eld
+\end_inset
+
+Women have always fought
+\begin_inset Quotes erd
+\end_inset
+
+: the trouble with 'representation'
 \end_layout
 
 \begin_layout Quote
@@ -425,7 +474,7 @@ The trouble with [representation] is,
 \end_layout
 
 \begin_layout Quotation
-it always tries to teach the wrong lesson
+it always tries to teach the wrong lesson.
 \begin_inset Quotes erd
 \end_inset
 
@@ -436,13 +485,90 @@ it always tries to teach the wrong lesson
 We can ask where are the queers, but queer, like woman or black, is not
  an inherently meaningful category.
  Statistical questions about proportions of women and men, minorities to
- white, or tall to small reinstate (re-inscribe?) recently developed relations;
+ White, or tall to small reinstate (re-inscribe?) recently developed relations;
  race has not always defined us.
  Women, the political category, did not (one theorist argues) exist until
  just after WWII; class, too, was constructed.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{per cyborg manifesto}
+\end_layout
+
+\end_inset
+
  Analyzing on a large scale based on these tropes of natural categories
  presumes their naturalness.
  
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+There is nothing about being 'female' that naturally binds women.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Haraway1991"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It also presumes that having more women in science will make a more critically-c
+apable science, or that having more equity will also guarantee more holistic
+ and culturally sensitive knowledge.
+ To some extent, that's true: researchers who cross gender boundaries might
+ be less likely to presume the existence of 
+\begin_inset Quotes eld
+\end_inset
+
+male
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+female
+\begin_inset Quotes erd
+\end_inset
+
+ hormones, and Black and Brown researchers less likely to assume the default
+ of White histories for guiding their research in biological paradigms.
+ 
+\end_layout
+
+\begin_layout Standard
+Representation does play a role in certainly my life, and many of my peers.
+ The history of science is a line of Great White Men; our current role models
+ continue to be Great White Men.
+ I am incapable of naming, even now, high-profile women scientists.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{If you're wondering whether this still sucks, yes, it does.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -465,7 +591,77 @@ ing and talking about "Women of Color" as a united group just doesn't....it
 
 \end_layout
 
-\begin_layout Paragraph*
+\begin_layout Standard
+Moreover, representation reduces a story of erasure by 
+\emph on
+our 
+\emph default
+culture into that of invisibility and repression by 
+\emph on
+their
+\emph default
+ culture, the culture of the past or current, but outside of 
+\emph on
+us
+\emph default
+.
+ To talk about the lack of women in science and technology over the past
+ 100 years is to ignore the many who 
+\emph on
+did
+\emph default
+ participate.
+ It is not on them, but rather on us, to recognize that our histories elide
+ the many and diverse Black, Brown, and White wo/men/of color; as one history
+ professor put it, 
+\begin_inset Quotes eld
+\end_inset
+
+Women have always fought.
+\begin_inset Quotes erd
+\end_inset
+
+ It's not their fault we refuse to count them.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+also deep seated revulsion to talking about women 
+\emph on
+in 
+\emph default
+science;;; feels like a betrayal of valued science etc.
+ The caveats - lol only drawn from WoS -- are not caveats, but inherent
+ to this kind of analysis
+\end_layout
+
+\begin_layout Plain Layout
+history of feminism points out that representation does 
+\emph on
+not 
+\emph default
+mean idealogical agreement.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Women in science are only looking for role models, vs.
+ shaping the knowledge we're making.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
 Some Notes
 \end_layout
 
@@ -586,7 +782,7 @@ harder
 n at the LHC.
  
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Although this 
@@ -691,11 +887,84 @@ reference "sub:Peer-Review-Impact-Factors"
 
 \end_inset
 
+ I focus on the 
+\begin_inset ERT
+status open
 
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoS}
+\end_layout
+
+\end_inset
+
+ because that's largely how I do my literature searches; between 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoS}
+\end_layout
+
+\end_inset
+
+ and Google Scholar, my academic finding-needs are at least sated, if not
+ necessarily 
+\begin_inset Quotes eld
+\end_inset
+
+met
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
-For a journal to be included, it must meet many parameters of 
+When talking about representation, the large scale of papers necessary means
+ the necessity of database involvement.
+ The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SCI}
+\end_layout
+
+\end_inset
+
+ provides this cataloging, as does the JSTOR catalog, but that's less science.
+ But the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SCI}
+\end_layout
+
+\end_inset
+
+ doesn't categorize every journal; in fact, it only catalogs about 4% of
+ journals from any given country.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wagner2012"
+
+\end_inset
+
+ The semi-strict inclusion criteria predispose us to poor representation;
+ what counts as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -703,10 +972,14 @@ quality
 \begin_inset Quotes erd
 \end_inset
 
- -- 
+ is somewhat ethereal but grounded in practical explanations.
+ Thomson-Reuters explains:
 \end_layout
 
 \begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
 Many factors are taken into account when evaluating journals for coverage
  in Web of Science, ranging from the qualitative to the quantitative.
  The journal's basic publishing standards, its editorial content, the internatio
@@ -715,40 +988,54 @@ nal diversity of its authorship, and the citation data associated with it
  No one factor is considered in isolation, but by combination and interrelation
  of data, the Thomson Reuters editor is able to determine the journal's
  overall strengths and weaknesses.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Okay, Thomson Reuters.
+ What are your pre-reqs? (emphases mine)
 \end_layout
 
 \begin_layout Quote
 
 \emph on
-Full Text English
-\end_layout
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Quote
 English is the universal language of science.
+
+\emph default
  For this reason Thomson Reuters focuses on journals that publish full text
  in English, or at very least, bibliographic information in English.
  There are many journals covered in Web of Science that publish articles
  with bibliographic information in English and full text in another language.
- However, going forward, it is clear that the journals most important to
- the international research community will publish full text in English.
- This is especially true in the natural sciences.
- There are notable exceptions to this rule in the Arts & Humanities and
- in Social Sciences topics.
- This is discussed further below.
- Nonetheless, full text English is highly desirable, especially if the journal
- intends to serve an international community of researchers.
- In addition, all journals must have cited references in the Roman alphabet.
-\end_layout
-
-\begin_layout Quote
+ However, going forward, 
+\emph on
+it is clear that the journals most important to the international research
+ community will publish full text in English.
+ This is especially true in the natural sciences
+\emph default
 \SpecialChar \ldots{}
 
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
-\begin_layout Quote
+\begin_layout Standard
+In terms of 
+\begin_inset Quotes eld
+\end_inset
 
-\emph on
-Regional Journals
+regional
+\begin_inset Quotes erd
+\end_inset
+
+ journals
 \end_layout
 
 \begin_layout Quote
@@ -765,35 +1052,49 @@ Thomson Reuters is also interested in excellent regional journals and is
  Will it enrich our coverage of a particular subject or provide studies
  with a specific regional perspective? All regional journals selected must
  be publishing on time, have English-language bibliographic information
- (title, abstract, keywords), and be peer reviewed
+ (title, abstract, keywords), and be peer reviewed.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Greyedout
+So our major metric (the 
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-the standards for inclusion...?
+
+
+\backslash
+ac{IF}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Subsection
-Citation Indices and global inclusion
+), andindicative of what literature is find-able (e.g.
+ visible) to researchers using relatively-highly respected search engines
+ -- essentially does not include local journals, requires English-language
+ publication, and is swamped by journals originating from the U.K.
+ and the U.S.
 \end_layout
 
 \begin_layout Standard
-More starkly -- the disproportionate -- truly disproportionate data in 
+Nearly all of the most highly respected journals come from the U.S.
+ and the U.K., both in terms of sheer number and proportionally.
+ 
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "fig:location-of-academic-knowledge"
 
 \end_inset
 
+ shows, in terms of raw numbers, the 
+\begin_inset Quotes eld
+\end_inset
 
+location of academic knowledge.
+\begin_inset Quotes erd
+\end_inset
+
+ 
 \begin_inset Float figure
 wide false
 sideways false
@@ -851,6 +1152,10 @@ The location of academic knowledge
 \end_inset
 
 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -861,13 +1166,12 @@ This map reveals a staggering amount of inequality in the geography of the
  Western Europe, in particular Germany and the Netherlands, also scores
  relatively well\SpecialChar \ldots{}
 One of the starkest contrasts is that Switzerland is represented
- at more than three times the size of the entire continent of Africa.
-\begin_inset Note Note
-status collapsed
+ at more than three times the size of the entire continent of Africa
+\end_layout
 
 \begin_layout Plain Layout
 Most of the rest of the world then scarcely shows up in these rankings.
-  The non-Western world is not only under-represented in these rankings,
+ The non-Western world is not only under-represented in these rankings,
  but also ranks poorly on average citation score measures.
  Despite the large number and diversity of journals in the United States
  and United Kingdom, those countries manage to maintain higher average impact
@@ -893,22 +1197,10 @@ c, objective means to critically evaluate the world’s leading journals,"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
-
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Of the material in SCIE, more than 50 percent of journals are attributed
- to just three countries: the United States (34 percent); England (19 percent)
- and the Netherlands (8 percent) reflecting an English-language bias
+ -- the U.S.
+ and U.K produce more 
 \begin_inset ERT
 status collapsed
 
@@ -916,30 +1208,55 @@ status collapsed
 
 
 \backslash
-todo{unsurprising given that it has to be in English.} 
+ac{SCI}
 \end_layout
 
 \end_inset
 
- that has been documented
+ indexed journals
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Of the material in SCIE, more than 50 percent of journals are attributed
+ to just three countries: the United States (34 percent); England (19 percent)
+ and the Netherlands (8 percent) reflecting an English-language bias that
+ has been documented
 \begin_inset Quotes erd
 \end_inset
 
  
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Wagner2011"
+key "Wagner2012"
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Quote
+\end_inset
+
+ than the rest of the world combined; Switzerland dwarfs, by a factor of
+ 3, the entire continent of Africa.
+ Not only do the formerly-colonized countries fare well by the numbers,
+ they have systematic lower rankings.
+ Those journals are cited less often and therefore 'contribute less' to
+ the global pool of scientific information.
+\end_layout
+
+\begin_layout Standard
+More practically, despite all their demonstrated sure-to-be-problematic
+ flaws, these are still useful aggregates of information.
+ When we use high-level catalogs like Web of Science or JSTOR to tell us
+ about representation, what can we find?
 \begin_inset Note Note
 status collapsed
 
-\begin_layout Quote
+\begin_layout Plain Layout
 Authors from countries with poor publication records who submit a paper
  to the Journal will be positively discriminated towards, in that the editors
  will comment on the quality of papers and return these comments to the
@@ -952,7 +1269,7 @@ Authors from countries with poor publication records who submit a paper
  be pub- lished.
 \end_layout
 
-\begin_layout Quote
+\begin_layout Plain Layout
 \align right
 \begin_inset CommandInset citation
 LatexCommand citealt
@@ -972,6 +1289,10 @@ Journal of Public Health Medicine
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection
+Where are they from?
 \end_layout
 
 \begin_layout Standard
@@ -1003,7 +1324,18 @@ e &
 \emph on
 JAMA
 \emph default
-) Their four areas are the UK, USA, 
+) Their four areas are the:
+\end_layout
+
+\begin_layout Enumerate
+UK 
+\end_layout
+
+\begin_layout Enumerate
+USA
+\end_layout
+
+\begin_layout Enumerate
 \begin_inset ERT
 status collapsed
 
@@ -1017,7 +1349,10 @@ ac{OEAC}
 \end_inset
 
 , e.g.
- Canada and Australia, and literally the 
+ Canada and Australia
+\end_layout
+
+\begin_layout Enumerate
 \begin_inset ERT
 status collapsed
 
@@ -1032,6 +1367,9 @@ ac{RoW}
 
  -- grouping together the continents of Asia, South America, and Africa,
  as well as Eastern Europe and Mexico.
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -1044,8 +1382,8 @@ research{population percentages}
 
 \end_inset
 
- While the homogenization is terrifying, the sheer weight of the numbers
- is telling.
+ While the homogenization is disturbing for other reasons,, the sheer weight
+ of the numbers is telling.
  On average, 
 \begin_inset ERT
 status collapsed
@@ -1059,7 +1397,7 @@ ac{RoW}
 
 \end_inset
 
- authors contributed 6.5% -- 151 -- of the research literature.
+ authors contributed 6.5% of the research literature.
 \begin_inset ERT
 status collapsed
 
@@ -1159,25 +1497,22 @@ ac{RoW}
 \end_layout
 
 \begin_layout Standard
-In 
-\emph on
-Unseen Science: Scholarly Publication in the BRICs but not in the Web of
- Science
-\emph default
-, 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Wagner2011"
+Moreover, the homogenization conceals even greater inequities.
+ Of that 6.5%, the vast majority came from Japan and Israel, with the other
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{BRICs}
+\end_layout
 
 \end_inset
 
- examined representation in citation indices and found only 4% of developing
- countries journals were counted.
- Luckily, this isn't country-specific -- only 4% of journals in 
-\emph on
-any
-\emph default
- country are indexed.
+ countries following close behind.
 \begin_inset Note Comment
 status collapsed
 
@@ -1187,8 +1522,7 @@ CITATIOn
 
 \end_inset
 
- Which is not so much an indictment of what countries get indexed, but of
- impact factors in general.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -1230,8 +1564,9 @@ highly localized, mono-disciplinary, and dated
 \begin_inset Quotes erd
 \end_inset
 
-; they take little account of the rise in collaborative research and a changing
- scholarly landscape.
+.
+ They often take little account of the rise in collaborative research and
+ a changing scholarly landscape.
  
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -1241,7 +1576,22 @@ key "Lariviere2013"
 
  analyzed the relationship between gender and research output (authorship),
  collaboration extent (co-authorships) and scientific impact of publications
- (citation count, according to the Web of Science); 
+ (citation count according to the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoS}
+\end_layout
+
+\end_inset
+
+).
+ The authors analyzed >5 million research papers and reviews with more than
+ 27 million involved authors.
 \begin_inset ERT
 status collapsed
 
@@ -1249,51 +1599,44 @@ status collapsed
 
 
 \backslash
-graffito {Web of science, of course, is an extremely flawed way to do this
- because it barely includes anything that isn't the US or UK.
- See the sections on citation factors and global publishing}
+graffito{Gender assigned using Social Security databases}
 \end_layout
 
 \end_inset
 
- The authors analyzed >5 million research papers and reviews with more than
- 27 million involved authors, assigning gender using data from the Social
- Security database.
+
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
 in the most productive entries, all articles with women in dominant author
- positions receive fewer citations than those with men in the same position
-\end_layout
+ positions receive fewer citations than those with men in the same position.
+\begin_inset Note Note
+status collapsed
 
-\begin_deeper
-\begin_layout Enumerate
-accentuated by domesticity: women benefit less from the extra citations
+\begin_layout Plain Layout
+ Accentuated by domesticity: women benefit less from the extra citations
  accrued by international collaborations
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-Globally, women account for <30% of fractionalized authorship, men are >70%
+\end_inset
+
+ Globally, women account for <30% of fractionalized authorship.
+ Women are outnumbered by men in first authorship positions at a 1:1.93 ratio.
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
-1:1.93 women:men in first authorship positions
-\end_layout
+\begin_layout Standard
+Intriguingly, and dismaying to American exceptionalists, South America &
+ Eastern Europe had the best gender parity -- in fact, female authorship
+ is generally more prevalent in countries and in states with lower overall
+ output.
+\begin_inset Note Note
+status collapsed
 
-\end_deeper
-\begin_layout Enumerate
-South America & Eastern Europe had best gender parity -- 
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 female authorship generally more prevalent in countries and/or states with
  lower output
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 
 \series bold
@@ -1304,37 +1647,24 @@ or), the paper attracts fewer citations; holds for national and international
  collaborations
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-go into findings on this
-\end_layout
-
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Similar trends hold in the JSTOR corpus, in 
 \begin_inset CommandInset citation
-LatexCommand citealt
+LatexCommand citeauthor
 key "West2013"
 
 \end_inset
 
- published a similar paper in PLoS one the same year, looking at gender
- in the JStor corpus, 
-\begin_inset Quotes eld
-\end_inset
-
-a body of academic papers...spanning five centuries
-\begin_inset Quotes erd
-\end_inset
-
-.
- They look at similar variables -- authorship order and overall percentages.
+'s analysis of gender and author order in the corpus of academic papers
+ spanning five centuries and a variety of topics.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1377,13 +1707,6 @@ But why?
 \end_layout
 
 \begin_layout Standard
-There are, of course, major limitations to this kind of bibliometric study.
- For one thing, age has an enormous role to play -- older investigators
- will be more reputed, but are also more likely to be men because of sexism
- in the past.
-\end_layout
-
-\begin_layout Standard
 Many trends are likely not actually markers of overt discrimination against
  women in 
 \emph on
@@ -1391,21 +1714,82 @@ publishing
 \emph default
 , but rather that women aren't making it to the top ranks of science and
  thus are not in a position to be publishing or collaborating on the most
- important papers
+ important papers.
+ Age of the investigator may be 
+\emph on
+the 
+\emph default
+determining role; older investigators have had more time to build careers,
+ and had systematic advantages in the past.
 \end_layout
 
 \begin_layout Section
-Which Bodies Are In Research?
+Which 
+\emph on
+Bodies
+\emph default
+ Are In Research?
+\end_layout
+
+\begin_layout Standard
+Again, this is 
+\emph on
+numbers, 
+\emph default
+not critical analysis.
+ But numbers -- for the scientists -- matter.
 \end_layout
 
 \begin_layout Subsection
 Globally: the 10/90 problem
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+10/90
+\begin_inset space ~
+\end_inset
+
+gap: less than 10% of global spending on health research is devoted to diseases
+ or conditions that account for 90% of the global disease burden.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "GlobalForumforHealthResearchOrganization2000"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-The 10/90 problem is simple: only 10% of the world's resources are used
- for 90% of health problems.
- Only 6% of psychiatric jurnals arose from regions accounting for >90% of
+Health burdens fall differently based on geography, socio-economics, and
+ race: 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+pneumonia, diarrhoea, tuberculosis and malaria, which together account for
+ more than 20% of the disease burden in the world, receive less than 1%
+ of the total public and private funds devoted to health research.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What this means, practically, that the global burden of disease falls more
+ heavily on low-income countries, and much fewer resources go to solving
+ 'basic' problems -- insofar as the global North has already made the steps
+ to alleviate those issues.
+\end_layout
+
+\begin_layout Standard
+Only 6% of psychiatric jurnals arose from regions accounting for >90% of
  the population.
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1413,11 +1797,6 @@ key "Sumathipala2004"
 
 \end_inset
 
- 
-\end_layout
-
-\begin_layout Standard
-the global burden of disease falls more heavily on low-income countries;
  
 \end_layout
 
@@ -1430,10 +1809,31 @@ key "Rochon2004"
 \end_inset
 
 , 
-\emph on
-Relation between randomized controlled trials published in leading general
- medical journals and the global burden of disease
 \end_layout
+
+\begin_layout Standard
+In a 2004 analysis of randomized controlled trials, of 286 trials, 43% addressed
+ 1 of the 35 
+\begin_inset Quotes eld
+\end_inset
+
+leading causes of the global burden of disease
+\begin_inset Quotes erd
+\end_inset
+
+; but almost half weren't studied at all.
+ These are largely causes that affect the socioeconomically depressed, which
+ also means disproportionately people of color, most typically on the women
+ in the global South.
+\end_layout
+
+\begin_layout Standard
+In the U.S., women are often
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Quote
 
@@ -1469,6 +1869,11 @@ Many conditions or diseases common internationally are underrepresented
  Trials published in these journals that studied one of these high-priority
  conditions were generally rated as being of little relevance to international
  health.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
@@ -1525,7 +1930,7 @@ Lots of new scientific endeavors focus on the internet as an equalizing
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics

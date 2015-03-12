@@ -19,22 +19,24 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import numpy as np
 import matplotlib.pyplot as plt
 
+"""date time functions """
+from datetime import datetime #idk bring in the system date or whatever
 
-# In[16]:
+"""csv"""
+import csv
 
+
+# In[2]:
+
+today = datetime.today()
 bib = 'CriticalOpenNeuro.bib' #bring that bib file in
-
-
-# In[10]:
-
 gc = GenderComputer(os.path.abspath('genderComputer/nameLists')) #make gendercomputer
 
 
-# In[11]:
+# In[3]:
 
 def customizations(record):
     """Use some functions delivered by the library
-
     :param record: a record
     :returns: -- customized record
     """
@@ -45,7 +47,7 @@ def customizations(record):
     return record
 
 
-# In[12]:
+# In[4]:
 
 def parseFile(bib_file):
     """parse the bib file
@@ -61,7 +63,20 @@ def parseFile(bib_file):
         return data
 
 
-# In[13]:
+# In[5]:
+
+women = 0
+men = 0
+uni = 0
+notav = 0
+auCount = 0
+
+unavailable = []
+
+
+# In[6]:
+
+
 
 def countGender(ts=True):
     """take the bib database and count genders of authors
@@ -71,6 +86,7 @@ def countGender(ts=True):
     global uni
     global men
     global women
+    global unavailable
     for entry in data.entries:
         title = entry["title"]
         if "author" in entry:
@@ -90,31 +106,29 @@ def countGender(ts=True):
                 notav += 1 
                 if ts == True:
                     print j, title
-            
 
 
-# In[14]:
-
-women = 0
-men = 0
-uni = 0
-notav = 0
-auCount = 0
-
-
-# In[17]:
+# In[7]:
 
 data = parseFile(bib) #run the parse file
-countGender(ts=False)
+countGender(False)
 
 
-# In[18]:
+# In[8]:
+
+"""writing names unassigned to a file for troubleshooting"""
+with open('unavailable_gender', 'wb') as myfile:
+    wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+    wr.writerow(unavailable)
+
+
+# In[9]:
 
 stats = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 percents = {'Women':women, 'Men':men, 'Unisex':uni, 'Not Available':notav}
 
 
-# In[19]:
+# In[10]:
 
 for key in stats:
     value = stats[key]
@@ -122,22 +136,27 @@ for key in stats:
     percents[key] = percent
 
 
-# In[20]:
+# In[11]:
 
 print stats
 print percents
 print auCount
 
 
+# In[20]:
+
+plt.bar(range(len(stats)), percents.values(), align='center', color="#2aa198")
+plt.xticks(range(len(percents)), percents.keys(), color="#657b83")
+plt.xlabel('Gender Assigned (generated ' + str(today) +')', color="#073642")
+plt.ylabel('Percents', color="#073642")
+
+
 # In[21]:
 
-plt.bar(range(len(stats)), percents.values(), align='center', alpha=0.1)
-plt.xticks(range(len(percents)), percents.keys())
-plt.xlabel('Gender Assigned')
-plt.ylabel('Percents')
+plt.savefig('gender_distr.png', bbox_inches='tight',transparent=True)
 
 
-# In[22]:
+# In[ ]:
 
-plt.savefig('gender_distr.png', bbox_inches='tight')
+
 
