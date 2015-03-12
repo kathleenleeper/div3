@@ -278,9 +278,18 @@ pagenumbering{arabic}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset include
 LatexCommand include
 filename "outline_chapters.lyx"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -330,6 +339,12 @@ filename "open-science-musings.lyx"
 \begin_layout Standard
 
 \lang american
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "Global-Science.lyx"
@@ -337,11 +352,6 @@ filename "Global-Science.lyx"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-
-\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "solution-open-science.lyx"
@@ -351,7 +361,7 @@ filename "solution-open-science.lyx"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang american
 \begin_inset CommandInset include
@@ -363,12 +373,17 @@ filename "analysis-publishing.lyx"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "good-people.lyx"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -408,6 +423,12 @@ filename "mol-neuro.lyx"
 \begin_layout Standard
 
 \lang american
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "OS-case-study.lyx"
@@ -417,12 +438,17 @@ filename "OS-case-study.lyx"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "bibliometrics_case-study.lyx"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

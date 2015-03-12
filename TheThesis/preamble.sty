@@ -385,9 +385,9 @@
     breaklinks=true, pdfpagemode=UseNone, pageanchor=true, pdfpagemode=UseOutlines,%
     plainpages=false, bookmarksnumbered, bookmarksopen=true, bookmarksopenlevel=1,%
     hypertexnames=true, pdfhighlight=/O,hyperfootnotes=true,%nesting=true,%frenchlinks,%
-    urlcolor=webbrown, linkcolor=RoyalBlue, citecolor=webgreen, pagecolor=RoyalBlue,%
+    %urlcolor=webbrown, linkcolor=RoyalBlue, citecolor=webgreen, pagecolor=RoyalBlue,%
     % uncomment the following line if you want to have black links (e.g., for printing)
-    %urlcolor=Black, linkcolor=Black, citecolor=Black, pagecolor=Black,%
+    urlcolor=Black, linkcolor=Black, citecolor=Black, pagecolor=Black,%
     pdftitle={\myTitle},%
     pdfauthor={\textcopyright\ \myName, \myUni, \myFaculty},%
     pdfsubject={},%
@@ -407,18 +407,27 @@
 %############
 %#for printing#
 %############ 
-%\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=white,linecolor=white]{todonotes}
+\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=white,linecolor=black,bordercolor=black]{todonotes}
 %############
 %#for digital devel.#
 %############ 
-\definecolor{highegg}{rgb}{0.96, 0.76, 0.76}
-\definecolor{medegg}{rgb}{0.91, 0.84, 0.42}
-\definecolor{lowegg}{rgb}{0.56, 0.74, 0.56}
+%\definecolor{highegg}{rgb}{0.96, 0.76, 0.76}
+%\definecolor{medegg}{rgb}{0.91, 0.84, 0.42}
+%\definecolor{lowegg}{rgb}{0.56, 0.74, 0.56}
+\definecolor{highegg}{rgb}{1, 1, 1}
+\definecolor{medegg}{rgb}{1, 1, 1}
+\definecolor{lowegg}{rgb}{1, 1, 1}
 
-\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=blue!10,bordercolor=blue!30,linecolor=blue!30]{todonotes}
+%\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=blue!10,bordercolor=blue!30,linecolor=blue!30]{todonotes}
 
-\newcommand{\findref}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=green!20]{find ref for {#1}}}
+%\newcommand{\findref}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=green!20]{find ref for {#1}}}
+\newcommand{\findref}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=black]{find ref for {#1}}}
 
-\newcommand{\define}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=lowegg]{define{#1}}}
-\newcommand{\rewrite}[1]{\todo[bordercolor=highegg,linecolor=highegg,backgroundcolor=highegg]{rewrite {#1}}}
-\newcommand{\research}[1]{\todo[noline,bordercolor=medegg,linecolor=yellow,backgroundcolor=medegg]{research {#1}}}
+%\newcommand{\define}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=lowegg]{define{#1}}}
+\newcommand{\define}[1]{\todo[bordercolor=black,backgroundcolor=lowegg,linecolor=black]{define{#1}}}
+
+%\newcommand{\rewrite}[1]{\todo[bordercolor=highegg,linecolor=highegg,backgroundcolor=highegg]{rewrite {#1}}}
+\newcommand{\rewrite}[1]{\todo[bordercolor=black,backgroundcolor=lowegg,linecolor=black]{rewrite {#1}}}
+
+%\newcommand{\research}[1]{\todo[noline,bordercolor=medegg,linecolor=yellow,backgroundcolor=medegg]{research {#1}}}
+\newcommand{\research}[1]{\todo[noline,bordercolor=black,backgroundcolor=lowegg]{research {#1}}}

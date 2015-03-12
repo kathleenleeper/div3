@@ -118,112 +118,7 @@ listoftodos
 
 \end_layout
 
-\begin_layout Subsection*
-Acronyms
-\end_layout
-
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{NYU}{New York University}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{HEKs}{human embryonic kidney 293 cells}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OA}{open access}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{MAOI}{monoamine oxidase inhibitor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
 
 \end_layout
 
@@ -291,7 +186,7 @@ This chapter is more of a clean-up than anything new; ideally, the previous
 \end_layout
 
 \begin_layout Section
-Psychedelics and me.
+Psychedelics and me (woo)
 \end_layout
 
 \begin_layout Standard
@@ -486,6 +381,7 @@ know
 know
 \emph default
  that drug-users are still in our world, they're just processing it differently.
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -496,10 +392,10 @@ t is a literal different viewpoint.
 
 \end_inset
 
-With that knowledge, gleaned from personal experiences and shared from others,
- is something I bring to case studies, lends support to discussions of addiction
-s, means I can draw on flesh-deep knowledge to fill in the outlines made
- by science.
+ With that knowledge, gleaned from personal experiences and shared from
+ others, is something I bring to case studies, lends support to discussions
+ of addictions, means I can draw on flesh-deep knowledge to fill in the
+ outlines made by science.
  but that's not something I can 
 \emph on
 say
@@ -516,6 +412,10 @@ of psychedelics is also, of course, not something that should enter Scientific
  Writing from a personal point of view; but just as familial or personal
  experiences with cancers inspire research into the biological underpinnings,
  psychedelic researchers don't just happen upon these drugs.
+\end_layout
+
+\begin_layout Subparagraph
+shame
 \end_layout
 
 \begin_layout Standard
@@ -535,14 +435,14 @@ ch artists and creatives.
  Serious scientists should restrain themselves to less squishy areas, at
  least if they want to stay serious.
  
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
-
+\begin_layout Subparagraph
+sharing experiences
 \end_layout
 
 \begin_layout Standard
-Also so interesting how people want to share these experiences.
+people want to share these experiences.
  Making LSD a primary component of how I introduce my interests has garnered
  incredible stories, of bad trips and good trips and revolutionary life-changing
  experiences.
@@ -635,7 +535,7 @@ ac{MAOI}
 
 ) is a traditional South American 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -682,9 +582,13 @@ todo{Source for ergot and historical significance}
 
 \end_layout
 
+\begin_layout Subparagraph
+Locating drugs
+\end_layout
+
 \begin_layout Standard
-On a related note -- how presumptuous to take drugs from indigenous cultures
- and push them into the laboratory.
+how presumptuous to take drugs from indigenous cultures and push them into
+ the laboratory.
  Is plasticity and all of the signaling mechanisms relevant if the experience
  isn't included? Hallucinogens are notoriously sensitive to situation --
  or rather, individual interpretations of a situation.
@@ -698,7 +602,7 @@ interplay
  Trying to pull that out in a lab environment, is, as Fleck describes, not
  just a translation of information from one knowledge realm to another,
  but a full fledged transformation such that the ayahuasca in the lab is
- only nominally related to ayahuasca in practice.
+ only nominally related to ayahuasca in (shamanistic) practice.
 \begin_inset Note Note
 status collapsed
 
@@ -755,23 +659,55 @@ Anne Fausto-Sterling, and many others, talk about knowledge outside the
 \end_layout
 
 \begin_layout Subsection
-Colonialism and Western Knowledge
+Colonialism, Women, and Western Knowledge
 \end_layout
 
-\begin_layout Itemize
-psychedelic use in Mexico was pushed down by the Spanish conquerors
+\begin_layout Subparagraph
+Religion/Recreation
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-and then re-integrated in the 60's with pilgrimages to small Mexican villages
+\begin_layout Standard
+Psychedelic use in Mexico was pushed down by the Spanish conquerors; it
+ existed in small, isolated villages.
+ In the 50s and 60s, the first (white, male, and then white, female) pilgrims
+ from the United States made their way to isolated Mexican villages to first
+ take drugs in the spiritual shamanic context, and then started using them
+ recreationally, for days at time.
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
-ayahuasca experiences can be bought and sold in South America -- which turns
- out to be okay, from an appropriative standpoint, because those services
- were always part of the indigenous economy as well
+\begin_layout Standard
+Now, ayahuasca experiences can be bought and sold in South America -- which
+ turns out to be okay, from an appropriative standpoint, because those services
+ were always part of the indigenous economy.
+ The Western/Northern feminist trope is to instantly assume indigenous businesse
+s are violations, which seems like another recreation of the noble savage.
+\end_layout
+
+\begin_layout Subparagraph
+Women
+\end_layout
+
+\begin_layout Standard
+As per Londa
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Schiebinger2004"
+
+\end_inset
+
+'s 
+\emph on
+Feminist history of colonial science
+\emph default
+, women often held botanical and plant knowledge because of the distribution
+ of gender roles.
+ When colonialism showed up in the Americas and in Africa, the subsequent
+ destructin and theft of that knowledge fell/was principally from 
+\emph on
+women
+\emph default
+.
+ 
 \end_layout
 
 \begin_layout Section
@@ -779,6 +715,9 @@ Feminist Serotonin Studies(?)
 \end_layout
 
 \begin_layout Standard
+*****theoretically I think all of this should be included in the...serotonin
+ section, bc embedded-ness? Phamarcology of serotonin/depression, 5-HT2a
+ is affected by race/gender/socioeconomics/different & localized biologies******
 \begin_inset Note Note
 status collapsed
 
@@ -1047,7 +986,7 @@ key "Zhang1999"
 \end_layout
 
 \begin_layout Section
-Turtles All The Way Down: History's Neuroscience
+Turtles All The Way Down
 \end_layout
 
 \begin_layout Standard
@@ -1067,7 +1006,7 @@ key "Abi-Rached2010"
 \end_inset
 
 .
- More realistically, 
+ realistically, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1309,10 +1248,10 @@ Reductionism
 \begin_inset Quotes erd
 \end_inset
 
- is a bit of a catch all.
- To a large extent, the Western scientific traditions is entirely focused
- on reducing systems to their smallest working unit,, with the intention
- of finding out one 
+ is a bit of a catch all term that I should probably explore more.
+ The Western scientific traditions is entirely focused on reducing systems
+ to their smallest working unit,, with the intention of finding out one
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1387,7 +1326,7 @@ Purity
 
 \end_inset
 
- In the biological sciences, and in the neurosciences, reductionism is generally
+ In the biological sciences, and in the neurosciences, reductionism is:
 \end_layout
 
 \begin_layout Itemize
@@ -1438,7 +1377,7 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 footnote {"A sensible research strategy (isolationism/reductionism) becomes
  a metaphysical commitment to a system, where the system is reality." For
@@ -1461,18 +1400,14 @@ footnote {"A sensible research strategy (isolationism/reductionism) becomes
 Personalized medicine; or personalized neuroscience is still a way of reducing
  the individual to the cellular and genomic information, without accounting
  for personhood.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Personalized medicine
+ Personalized medicine
 \begin_inset Quotes erd
 \end_inset
 
  is not actually personalized; it's genomic.
  Relying on genetic information to give meaningful information about health
  care and responses is hardly specific to an individual's needs and abilities,
- as we'd like a feminist science t be.
+ as we'd like a feminist science to be.
 \begin_inset Note Comment
 status collapsed
 
@@ -1523,6 +1458,19 @@ use
 \emph default
  those drugs than scientists who have never experienced them and treat them
  solely as tools in a molecular toolkit.
+\end_layout
+
+\begin_layout Section
+conclusion
+\end_layout
+
+\begin_layout Standard
+Div is hard but I guess okay in the end, also what will I do with the rest
+ of my life?
+\end_layout
+
+\begin_layout Standard
+Sorry, current reader, this doesn't exist yet <3
 \end_layout
 
 \begin_layout Standard

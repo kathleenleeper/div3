@@ -734,13 +734,9 @@ status open
 
 
 \backslash
-acro{CNS journals}{
+acro{WoK}{
 \backslash
-emph{Cell}, 
-\backslash
-emph{Nature}, and 
-\backslash
-emph{Science}}
+emph{Web of Knowledge}}
 \end_layout
 
 \end_inset
@@ -858,22 +854,6 @@ status open
 
 \backslash
 acro{PLoS}{Public Library of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}, a leader in open access publishing
 \end_layout
 
 \end_inset
@@ -1031,7 +1011,7 @@ acro{NYU}{New York University}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1072,23 +1052,6 @@ status collapsed
 \backslash
 acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
  and scientific powerhouse countries
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
- Canada
 \end_layout
 
 \end_inset
@@ -1185,22 +1148,6 @@ status collapsed
 
 \backslash
 acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{STEM}{Science, Technology, Engineering, and Math}
 \end_layout
 
 \end_inset
@@ -1609,6 +1556,38 @@ status collapsed
 
 \backslash
 acro{PPI}{pre pulse inhibition}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{MAOI}{monoamine oxidase inhibitor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{HEKs}{human embryonic kidney 293 cells}
 \end_layout
 
 \end_inset

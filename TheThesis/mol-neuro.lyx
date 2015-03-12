@@ -304,7 +304,7 @@ acro{GTP}{guanosine triphosphate}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1127,23 +1127,6 @@ Tryptamines
 \begin_inset Float figure
 wide false
 sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-missingfigure[figwidth=6cm]{ergolines - bc fuck chemical drawing programs}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
@@ -1156,16 +1139,11 @@ status collapsed
 
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
 \begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-ergolines
+ergolines[[not actually]
 \end_layout
 
 \end_inset
@@ -1179,23 +1157,6 @@ ergolines
 \begin_inset Float figure
 wide false
 sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-missingfigure[figwidth=6cm]{phenethylamines - bc fuck chemical drawing programs}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
@@ -1208,16 +1169,11 @@ status collapsed
 
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
 \begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-phenethylamianes
+phenethylamines [eventually]
 \end_layout
 
 \end_inset
@@ -1242,21 +1198,20 @@ name "fig:Chemotypes-of-Psychedelics"
 
 Chemotypes of 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 5-HT
 \backslash
-textsubscript{1}
+textsubscript{2a}
 \end_layout
 
 \end_inset
 
- agonists, from 
+ agonists
 \begin_inset CommandInset citation
-LatexCommand citealt
-before "2012"
+LatexCommand citep
 key "Nichols2012a"
 
 \end_inset
@@ -3017,10 +2972,7 @@ todo[inline]{rewrite literally all of this section to be more concise and
 \begin_inset Quotes eld
 \end_inset
 
-
 [The 
-\lang english
-
 \begin_inset ERT
 status open
 
@@ -3754,10 +3706,8 @@ key "Garland2013"
 
 \end_inset
 
-; as a class of proteins, they are prolifically expressed across cell
- types and species
-\lang english
-.
+; as a class of proteins, they are prolifically expressed across cell types
+ and species.
  Ligand binding to a the extracellular terminal of 
 \begin_inset ERT
 status collapsed

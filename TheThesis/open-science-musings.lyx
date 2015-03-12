@@ -648,7 +648,7 @@ ac{OS}
 
  umbrella (of which I am a card-carrying member), share a point of view,
  in which the scientific ecosystem -- that network of funding and publishing
- that undergirds the production of knowledge -- is suffering from serious
+ that underlies the production of knowledge -- is suffering from serious
  problems in dissemination, reproducibility, and efficiency.
  They propose transparency, greater literature and scientific access, and
  technological innovation can 'fix' or alleviate those flaws, and improve
@@ -923,7 +923,7 @@ fix
 \end_inset
 
  science start.
- The path of research to communication is long, tortorous, and winding,
+ The path of research to communication is long, torturous, and winding,
  requiring abridgement, careful scheming, overstatements of effects, prestige
  calculations.
 \begin_inset ERT
@@ -970,29 +970,53 @@ key "Parker2013"
 \end_layout
 
 \begin_layout Standard
-The journal article has multiple origin stories -- 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{current goals/what's accomplished w/ publishing}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The modern journal article has multiple origin stories, reasons of funding
+ or happenstance.
 \end_layout
 
 \begin_layout Itemize
-an opening for an asthma grant, so my PI applied to research asthma in the
- context of serotonin signalling
+In New Orleans, an opening for an asthma grant, so my PI applied to research
+ asthma in the context of serotonin signaling
 \end_layout
 
 \begin_layout Itemize
-an idea, late at night (the frog exp.)
+an idea, late at night (Otto Loewi, discovery of acetylcholine)
 \end_layout
 
 \begin_layout Itemize
-previously established work by a lab (routine and ~boring~ research)
+previously established work by a lab (routine and boring research)
 \end_layout
 
 \begin_layout Itemize
-w/in the context of a greater project by the PI (re: translational neuroscience
- lab?)
+within the context of a greater project by the PI (re: translational neuroscienc
+e lab?)
 \end_layout
 
 \begin_layout Itemize
-a happenstance observation; (see Charney et al., serendipity in general!)
+a happenstance observation; (see 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Charney2014"
+
+\end_inset
+
+, serendipity generally!)
 \end_layout
 
 \begin_layout Standard
@@ -1018,20 +1042,9 @@ make things work
 \begin_inset Quotes erd
 \end_inset
 
- until there's a data set showing evidence for an effect (p<0.05) or that
- they've successfully answered the question, hopefully witha yes.
- With the research we see, it's almost always a yes.
+ until there's a data set with evidence for an effect (p < 0.05), or that
+ they've successfully answered the question, hopefully with a yes.
  
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-not true for 
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1056,41 +1069,49 @@ todo[inline]{linking}
 
 \end_layout
 
-\begin_layout Subsubsection
-Publishers
-\end_layout
-
 \begin_layout Standard
 Publishers act, although the boundaries are shifting in the digital age,
- as a clearinghouse and managerial stage.
- They don't 
-\emph on
-produce
-\emph default
- the content, make the figures, or draw the conclusions in scientific papers.
- Journals and their publishing groupsprovide, to varying degrees: a measure
- of typesetting and formatting, editorial work, and a distribution system.
+ as a clearinghouse and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{although publishers do provide 
+\backslash
+emph{some} value}
+\end_layout
+
+\end_inset
+
+managerial stage.
+ They don't produce the content, make the figures, or draw the conclusions
+ in papers; Journals and their publishing groups provide, to varying degrees:
+ a measure of typesetting and formatting, editorial work, and a distribution
+ system.
 \end_layout
 
 \begin_layout Standard
-Labs submit a manuscript (
+Authors/labs submit a manuscript (
 \emph on
 gratis
 \emph default
-); publishers coordinate the peer review of said manuscript by shipping
- it out to 2-3 other academics.
+); publishers coordinate the peer review of said manuscript, shipping it
+ out to 1-3 other academics in the field.
  Those academics review the paper, give feedback, and send it back -- also
  
 \emph on
 gratis
 \emph default
 .
- This process alone can take 2-3 months, during which time the submitting
- author can do nothing else with the manuscript (double submissions being
- verboten).
- The original writer makes revisions, and, if the paper is accepted, the
- submitting lab pays a per-figure per-page fee, signs away their copyright,
- and the journal takes the final work as its own.
+ During the months of the process, the submitting author can do nothing
+ else with the manuscript (double submissions being verboten).
+ Peer reviewers send it back with recommendations for publishing, the original
+ writer makes revisions, and the journal agrees to publish it.
+ The submitting lab pays a per-figure and/or per-page fee, signs away their
+ copyright, and the journal takes the final work as its own.
  Then, those submitting and reviewing scientists pay to access the product
  of their intellectual labors, having given up the legal right to share
  that knowledge on their own accord.
@@ -1296,32 +1317,9 @@ todo[inline]{A sense of outrage at these monetary barriers to research that
 
 \end_layout
 
-\begin_layout Subsubsection
-Publicly Funded Research
-\end_layout
-
-\begin_layout Quote
-Consequently, though the vast majority of the scientific research is publicly
- financed by taxpayers' dollars, access to research is not freely and publicly
- available: it is restricted to customers who can afford to pay for subscription
-s.
- 
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Shelton2005"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Most studies in the U.S.
- and U.K (the strongholds of scientific research generally) are publically
+ and U.K (the strongholds of scientific research generally) are publicly
  funded research, in part or in whole.
  
 \begin_inset Quotes eld
@@ -1338,7 +1336,13 @@ Taxpayer dollars
 \emph on
 again
 \emph default
- for access to th eproduced knowledge, when they paid to fund it.
+ for access to the produced knowledge, when they paid to fund it.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shelton2005"
+
+\end_inset
+
  
 \begin_inset ERT
 status collapsed
@@ -1445,8 +1449,8 @@ key "Marcus2012"
 The principle of the elusive scientific method is replication and reproducibilit
 y.
  Researchers document their methods and results to such an extent that any
- other researcher is able to reproduce their data independently, or, more
- often, build experiments atop the results of their colleagues.
+ other researcher is able to reproduce their data independently , or, more
+ often, build experiments atop the results of their colleagues (replication).
 \end_layout
 
 \begin_layout Standard
@@ -1466,7 +1470,7 @@ key "Ioannidis2005"
 \emph default
 .
  The paper outlined a statistical estimate on the likely false positive
- rate in the published biomedical literature, an estimate eventually clocking
+ rate in the published bio-medical literature, an estimate eventually clocking
  in at >50%.
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1595,12 +1599,12 @@ ac{FDA} restrictions}
 \end_inset
 
  and renewed focus on research reliability has prompted drug companies to
- join the convernsation with data.
+ join the conversation with data.
 \end_layout
 
 \begin_layout Standard
-The in-house target validation studies run by most biomedical companies
- provide a unique dataset on the reproducibility of biomedical research.
+The in-house target validation studies run by most bio-medical companies
+ provide a unique data set on the reproducibility of bio-medical research.
  
 \begin_inset ERT
 status collapsed
@@ -1667,7 +1671,7 @@ ts separated by 5 months), there were substantial variations, as the intra-
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1997,7 +2001,11 @@ key "Fanelli2013"
 
 \end_inset
 
- 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Fanelli2013"
@@ -2038,21 +2046,25 @@ Statistics on retractions and findings of misconduct are best used to make
  inferences about weaknesses in the system of scientific self-correction.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-Data to support the proposals comes from 
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Grieneisen2012"
 
 \end_inset
 
-, who did not just count numbers of retractions, but examined 
+ examined not just numbers of retractions, but 
 \emph on
 why
 \emph default
  articles were being retracted.
  Of the 4,449 retracted articles found in 42 of the largest bibliographic
- databases from 1928-2011, retractions were due to
+ databases from 1928-2011, retractions were due to:
 \end_layout
 
 \begin_layout Labeling
@@ -2135,18 +2147,11 @@ key "Grieneisen2012"
 
 \end_inset
 
- admit the growth in retractions by a factor of 11.36 (excluding repeat offenders
-, adjusting for literature growth), they assert that neither data
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-LOL SORRY BUT 42% is still significatnnnnn11
-\end_layout
-
-\end_inset
-
- nor research misconduct underlie most retractions.
+ admit the growth in retractions by a factor of 11.36 deos exist (excluding
+ repeat offenders, adjusting for literature growth), they assert that research
+ misconduct of the fraud variety underlie most retractions; i.e.
+ the retraction rate is likely due to social factors, not changes in rigor
+ or intentional deception.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Grieneisen2012"
@@ -2195,23 +2200,13 @@ concern
 \end_layout
 
 \begin_layout Subsection
-Statistical Failures: Underpowered and Badly Analyzed Data Sets****
+Statistical Failures: Underpowered and Badly Analyzed Data Sets
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{Everybody is bad at statistics.}
-\end_layout
-
-\end_inset
-
-
+**everybody is bad at statistics, our stuff is underpowered and selective
+ etc., we don't report data so we can't actually check how much statistics
+ are being done**
 \end_layout
 
 \begin_layout Quote
@@ -2219,7 +2214,7 @@ rewrite{Everybody is bad at statistics.}
 \emph on
 Power failure: why small sample size undermines the reliability of neuroscience
 \emph default
- -
+ --
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Button2013"
@@ -2239,14 +2234,14 @@ Puzzlingly High Correlations in fMRI Studies of Emotion, Personality, and
 \emph on
 Voodoo Correlations in Social Neuroscience
 \emph default
-) 
+) -- 
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealt
 key "Vul2009"
 
 \end_inset
 
-
+)
 \end_layout
 
 \begin_layout Quote
@@ -2255,25 +2250,21 @@ key "Vul2009"
 Willingness to Share Research Data Is Related to the Strength of the Evidence
  and the Quality of Reporting of Statistical Result
 \emph default
-s
-\end_layout
-
-\begin_layout Quote
-\align right
+s -- 
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealt
 key "Wicherts2011"
 
 \end_inset
 
-
+)
 \end_layout
 
 \begin_layout Subsection
 File Drawer Problems, Negative Results, Publication Bias
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
 \begin_inset Note Note
 status collapsed
 
@@ -2285,10 +2276,6 @@ negative results are more a result of wanting to be finished and complete;
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Quote
 Publication bias occurs when results of published studies are systematically
  different from results of unpublished studies\SpecialChar \ldots{}
 Empirical research consistently
@@ -2301,11 +2288,11 @@ Empirical research consistently
 \align right
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Dwan2008"
+key "Dwan2008,Jones2009a"
 
 \end_inset
 
- and see nicola jones, in nature
+ 
 \end_layout
 
 \begin_layout Standard
@@ -2318,24 +2305,11 @@ What happens when something doesn't work? When do we keep pushing, and how
 \emph on
 This
 \emph default
- disproves our hypothesis.
+ disproves our hypothesis
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{bc of course scientists work off hypotheses}
-\end_layout
-
-\end_inset
-
-An experiment that is 
+?An experiment that is 
 \emph on
 not
 \emph default
@@ -2353,8 +2327,7 @@ Of course, the time of year
 \emph on
 is 
 \emph default
-a meaningful factor, as seen in the experiments by Otto Loewi that established
- chemical neurotransmission in frog hearts
+a meaningful factor, re: Otto Loewi and acetylcholine in frogs
 \end_layout
 
 \end_inset
@@ -2370,11 +2343,11 @@ science
  (i.e.
  the realities of the world).
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{the thing where we can really only see 
 \backslash
@@ -2409,9 +2382,6 @@ key "Rockwell2006"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -2450,18 +2420,27 @@ rewrite{positive publications bias}
 
 \end_inset
 
- This first appeared as a concern in a 1991
+ A 1991
 \emph on
  Lancet
 \emph default
- issue, when 
+ issue is usually cited as the first publicaiton to directly point at the
+ issue.
+ 
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Easterbrook1991"
 
 \end_inset
 
- reviewed a set of clinical research trials, concluding: 
+ reviewed a set of clinical research trials, concluding:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Easterbrook1991"
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Quote
@@ -2484,7 +2463,7 @@ Studies with statistically significant results were more likely to be published
 \end_layout
 
 \begin_layout Standard
-The tendency is often called the 
+The tendency is ften called the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2492,7 +2471,7 @@ positive publication bias
 \begin_inset Quotes erd
 \end_inset
 
-, but it's more accurately a bias towards 
+, but it's might be more accurately described as bias towards 
 \emph on
 interesting 
 \emph default
@@ -2508,16 +2487,9 @@ key "Luijendijk2012"
 \end_layout
 
 \begin_layout Standard
-This is not limited to clinical trials or the eternal scapegoat of psychology:
-\end_layout
-
-\begin_layout Standard
-animal research
-\begin_inset Quotes erd
-\end_inset
-
- fields like ecology, molecular biology, and physics show a similar (if
- decreasing) bias.
+The positive is not limited to clinical trials or the eternal scapegoat
+ of psychology: animal research, and fields like ecology, molecular biology,
+ and physics show a similar (if decreasingly prevalent) bias.
 \begin_inset ERT
 status collapsed
 
@@ -2526,7 +2498,7 @@ status collapsed
 
 \backslash
 findref{on statistics abuse inbiology, ecology, and physics.
- And math, if it exists}
+ And math, if it exists? ~questionable}
 \end_layout
 
 \end_inset
@@ -2537,7 +2509,7 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{Hierarchy of the Sciences: moving from simple and general phenomena
  [harder] (e.g.
@@ -2553,14 +2525,27 @@ cal consensus.
 \end_layout
 
 \begin_layout Standard
-One effect of this is the file drawer effect (per Robert Rosenthal): many
- studies in a given research area may be conducted but never reported, leading
- to a set of journal articles wholly unrepresentative of the actual research
- state of affairs.
- The abandoned data stays in a theoretical file drawer, useless to everyone
- but the carpenter ants.
+One effect of this is the file drawer effect: many studies in a given research
+ area may be conducted but never reported, leading to a set of journal articles
+ wholly unrepresentative of the actual state of affairs.
+ An extreme example: if the null hypothesis is 
+\begin_inset Quotes eld
+\end_inset
+
+true
+\begin_inset Quotes erd
+\end_inset
+
+, but the 5% of studies that by 
+\emph on
+chance 
+\emph default
+show a statistical significance are published while the rest of abandoned
+ data stays in a theoretical file drawer, useless to everyone but the carpenter
+ ants.
  
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Quote
 The file drawer effect, or file drawer problem, is that many studies in
@@ -2582,29 +2567,24 @@ The file drawer effect, or file drawer problem, is that many studies in
 Wikipedia page on publication bias, re: file drawer effect
 \end_layout
 
-\begin_layout Standard
-Why there is a preponderance of significant results is unclear, but it's
- likely due a combination of effects.
- Scientists, first and foremost, are extremely loath to submit a paper with
- negative results
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
+\end_inset
 
 
-\backslash
-findref{for negative results}
 \end_layout
+
+\begin_layout Standard
+The tendency towards significant results come from a combination of social
+ factors and the inherent chance involved in testing biological systems.
+ Scientists are extremely loath to submit a paper with negative results.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Olson2002a"
 
 \end_inset
 
-.
-\end_layout
-
-\begin_layout Standard
-Journal editors, especially those in high-impact journals, are less likely
+ Journal editors, especially those in high-impact journals, are less likely
  to accept them.
+ 
 \begin_inset ERT
 status collapsed
 
@@ -2617,13 +2597,9 @@ findref{}
 
 \end_inset
 
- 
-\end_layout
-
-\begin_layout Standard
-Peer reviewers are more likely to recommend a positive-results paper be
- published, award positive-results papers better methodolgical scores, and
- are more critical and detect more errors in papers with non-significant
+ Peer reviewers are more likely to recommend a positive-results paper be
+ published, award positive-results papers better methodological scores,
+ and are more critical and detect more errors in papers with non-significant
  results.
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -2631,19 +2607,15 @@ key "Emerson2010"
 
 \end_inset
 
- Negative results also garner requests for additional data points and statistica
-l analyses.
+ Negative results also garner more requests for additional data points and
+ statistical analyses than identical papers with significant results.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Rockwell2006"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-Readers are less likely to be interested
+ Readers are less likely to be interested
 \begin_inset ERT
 status collapsed
 
@@ -2656,7 +2628,7 @@ findref{}
 
 \end_inset
 
-, and Funding bodies aren't interested in therapies that 
+, and funding bodies aren't interested in hearing about therapies that 
 \emph on
 don't
 \emph default
@@ -2674,7 +2646,12 @@ findref{}
 \end_inset
 
 .
- In 
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Ioannidis2005"
@@ -2693,16 +2670,26 @@ key "Ioannidis2005"
 
 \end_inset
 
- Negative papers are most likely to be suppressed when:
-\begin_inset ERT
-status collapsed
 
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{suppression of negative papers according to Ionnidis}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+According to 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Ioannidis2005"
+
+\end_inset
+
+, negative papers are most likely to be suppressed when:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2005,Young2008"
 
 \end_inset
 
@@ -2733,23 +2720,11 @@ there is greater financial and other interest and prejudice
 \begin_layout Itemize
 more teams are involved in a scientific field in chase of statistical significan
 ce
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
-\begin_layout Quote
-\align right
-per
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Ioannidis2005"
-
-\end_inset
-
-
-\end_layout
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Quote
 \begin_inset Quotes eld
@@ -2766,7 +2741,11 @@ A signalling benefit from the market—good scientists being identified by
  their positive results—may be more powerful in the basic biological sciences
  than in clinical research, where the consequences of incorrect assessment
  of positive results are more dire.
- As with clinical research, prominent claims sometimes disappear over time.
+ 
+\end_layout
+
+\begin_layout Quote
+As with clinical research, prominent claims sometimes disappear over time.
  If a posteriori considerations are met sceptically in clinical research,
  in basic biology they dominate.
 \end_layout
@@ -2776,9 +2755,10 @@ A signalling benefit from the market—good scientists being identified by
 Negative data are not necessarily different than positive results as related
  to considerations of experimental design, execution, or importance.
  Much data are never formally refuted in print, but most promising preclinical
- work eventually fails to translate to clinical benefit [22].
- Worse, in the course of ongoing experimentation, apparently negative studies
- are abandoned prematurely as wasteful.
+ work eventually fails to translate to clinical benefit\SpecialChar \ldots{}
+Worse, in the course
+ of ongoing experimentation, apparently negative studies are abandoned premature
+ly as wasteful.
 \begin_inset Quotes erd
 \end_inset
 
@@ -2796,39 +2776,21 @@ key "Young2008"
 
 \end_layout
 
-\begin_layout Quote
-Studies with positive results are more likely to be published than studies
- with negative results (publication bias).
- One reason this occurs is that authors are less likely to submit manuscripts
- reporting negative results to journals.
- There is no evidence that publication bias occurs once manuscripts have
- been submitted to a medical journal.
- 
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Olson2002a"
-
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 Whatever the reason, the current journal system, the de facto dissemination
- system for scholarly production, is leaving out an enormous amount of informati
-on.
+ system for scholarly production, is not representative of the research
+ that's actually happening.
  Researchers may spend years trying to duplicate results, since the papers
  of failures to replicate weren't published.
  Meta-analyses, papers that use the entirety of collected data in a field
- to compare results, report positive results that are flawed to an extraordiary
- degree because of lack of access to the entirety of conducted research.
-\end_layout
+ to compare results, can only draw on the published data, which has a distinct
+ bias towards significance.
+ 
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Quote
+\begin_layout Plain Layout
 f no effect is seen, the reviewers often request additional analyses using
  different statistical approaches or additional experiments involving different
  frequencies, different modulation patterns or irradiation parameters, additiona
@@ -2855,7 +2817,9 @@ findref{Sara Rockwell}
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Comment
 status collapsed
 
@@ -2894,7 +2858,7 @@ Does the pressure to publish in prestigious, high-ranking journals contribute
 \begin_inset Newline newline
 \end_inset
 
--
+
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Brembs2013"
@@ -2923,17 +2887,26 @@ findref{citation as currency of science}
 \end_layout
 
 \begin_layout Standard
-Nominally, choosing papers to read and base future work off of is based
- on relevance and applicability, but a serious factor in where scientists
- invest their researching and publishing time and energy is which journals
- are the highest ranked.
- 
+Nominally, choosing papers to read and base future work on is based on relevance
+ and applicability of the literature.
+ There is, of course, a deluge of literature, and it's nigh-impossible to
+ keep up with the flow of information.
+ One technique employed by scientific audiences in deciding where to invest
+ their reading time is the prestige rank of a journal; similarly, when choosing
+ which journal will be the most beneficial venue for their work, those same
+ rankings come into play.
 \end_layout
 
 \begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
 Most researchers acknowledge an intrinsic hierarchy in the scholarly journals
  (“journal rank”) that they submit their work to, adjusting not only their
  submission but their reading strategies accordingly.
+\begin_inset Quotes erd
+\end_inset
+
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -2945,8 +2918,15 @@ key "Brembs2013"
 \end_layout
 
 \begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
 The citation game has created distinct hierarchical relationships among
  journals in different fields.
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Young2008"
@@ -2973,13 +2953,17 @@ emph{Nature} mostly does bio? I have literally no idea}
 
 Qualitatively, the top of the biology journal hierarchy is the 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-ac{CNS journals}
+emph{Cell}, 
+\backslash
+emph{Nature}, and 
+\backslash
+emph{Science}
 \end_layout
 
 \end_inset
@@ -2988,23 +2972,20 @@ ac{CNS journals}
  reputable.
  To get a
 \emph on
- 
-\begin_inset Quotes eld
-\end_inset
-
-Cell 
+ Cell 
 \emph default
-paper
-\begin_inset Quotes erd
-\end_inset
-
- is to be immediately given respect in the scientific world.
+paper is to be immediately taken a little more seriously.
+ 
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 Sources are: my life, everybody's life, a lot of blog posts, general atmosphere.
- 
+ Like, if I see a 
+\emph on
+Nature
+\emph default
+ headliner, I'm more likely to be excited and impressed.
 \end_layout
 
 \end_inset
@@ -3026,17 +3007,30 @@ ac{IF}
 
 \end_inset
 
-, assigned to journals by 
+, calculated for journals by 
 \begin_inset Note Greyedout
-status open
+status collapsed
 
 \begin_layout Plain Layout
-publishing hous?
+publishing house?
 \end_layout
 
 \end_inset
 
- Thomson-Reuters,.
+ mass-media company Thomson-Reuters, specifically their 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoK}
+\end_layout
+
+\end_inset
+
+ citation network.
  The 
 \begin_inset ERT
 status open
@@ -3076,7 +3070,7 @@ key "Kurmis2003"
 \begin_layout Standard
 \begin_inset Formula 
 \begin{equation}
-{\displaystyle I{\textstyle mpact\,Factor=}}\frac{{\textstyle number\,of\,citations}}{total\,number\,published\,in\,journal}\label{eq:impact-factor}
+{\displaystyle \text{Impact\,Factor}=}\frac{\text{number\,of\,citations}}{\text{\#\,citable\,materials\,published}}\label{eq:impact-factor}
 \end{equation}
 
 \end_inset
@@ -3103,24 +3097,11 @@ key "Kurmis2003"
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{reformat equation}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
-That's all well and good, but like with many metrics, it's been applied
- with a widening and indiscriminatory brush.
+That's all well and good, but like with many metrics, it's applied with
+ a widening and indiscriminatory brush.
  
 \begin_inset ERT
 status open
@@ -3134,8 +3115,9 @@ ac{IF}
 
 \end_inset
 
-s have evolved from metric for journal quality overall, on the premise that
- a higher citation rate indicates higher journal quality.
+s have evolved from one metrics of citation rates to one approximating journal
+ quality overall, on the premise that a higher citation rate of papers indicates
+ higher quality papers.
 \begin_inset ERT
 status collapsed
 
@@ -3155,7 +3137,7 @@ key "Kurmis2003"
 
 \end_inset
 
-From there, 
+From there, the journal 
 \begin_inset ERT
 status collapsed
 
@@ -3168,14 +3150,27 @@ ac{IF}
 
 \end_inset
 
-s also serve as a marker of quality on individual papers and researchers.
- Undeniably, this is an abuse of a simple equation, but just as undeniably,
- it has serious consequences for the scientific ecosystem of research, hiring,
- grantsmanship, and publishing.
+ serves as a marker of quality on individual papers and researchers.
+ Eugene Garfield, the first one to describe an 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF} type system
+\end_layout
+
+\end_inset
+
+, considers these applications an abuse of a simple equation.
+ Likely yes, but it nonetheless has serious consequences for the scientific
+ ecosystem of research, hiring, grantsmanship, and publishing.
 \end_layout
 
 \begin_layout Subsection
-How Journals choose their acceptances
+choose their acceptances
 \end_layout
 
 \begin_layout Quote
@@ -3190,9 +3185,10 @@ key "Young2008"
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Quote
+\begin_layout Plain Layout
 See 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
@@ -3201,6 +3197,11 @@ key "Lawrence2003"
 \end_inset
 
  for experiential account of how editors modulate for interest
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3220,9 +3221,10 @@ graffito{Who thought this would go well?}
 \end_inset
 
  
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 has implications for 
 \begin_inset Quotes eld
 \end_inset
@@ -3234,13 +3236,9 @@ paradigm shifts
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 duplicate results can't be published even if they're temporally simultaneous/ver
 y slightly behind the other
-\end_layout
-
-\begin_layout Subsubsection
-Choosing the right journal
 \end_layout
 
 \begin_layout Quote
@@ -3280,8 +3278,14 @@ key "Young2008"
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-Scientists choose, extremely carefully, which journals they'll submit to.
+Scientists, especially high-profile and competitive ones, choose carefully
+ which journals they'll submit to.
  It's a game of saying is this research trendy 
 \emph on
 and
@@ -3295,8 +3299,8 @@ and
 enough
 \emph default
  to make it in this high-impact journal or another? A manuscript submission
- takes months, especially high-profile journals, and in the intervening
- time, the manuscript can't be sent out anywhere else.
+ takes months and in the intervening time, the manuscript can't be sent
+ out anywhere else.
  This means choosing a too high impact journal is a loss of months of publicatio
 n time; but publishing in a less-cited journal can have serious consequences
  on tenure decisions, grant applications, and other administrative gambols.
@@ -3320,30 +3324,16 @@ ac{IF}s
  are specifically counted in any of these.
  But they're certainly powerful tokens in the scientific imaginary, from
  which reviewers of any kind are hardly exempt.
- Except maybe in our school, where there's only one scientist.
+ 
 \end_layout
 
 \end_inset
 
-
+ It also sets up a choice along the lines of relevance: should one publish
+ in a high-profile, non-specific journal 
 \end_layout
 
 \begin_layout Quote
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Choosing the "best" journal wastes time and leads to not picking
- the best journal for 
-\backslash
-emph{functional} dissemination}
-\end_layout
-
-\end_inset
-
 They powerfully discriminate against submission to most journals, restricting
  acceptable outlets for publication.
  
@@ -3373,7 +3363,7 @@ ac{CNS journals}
 status open
 
 \begin_layout Plain Layout
-effects on the kind of research that gets done and acceptde
+effects on the kind of research that gets done and accepted
 \end_layout
 
 \end_inset
@@ -3680,15 +3670,12 @@ the original intended use 1
 What is obvious from this equation is that the impact factor depends crucially
  on which article types Thomson Scientific deems as “citable”—the fewer,
  the better (i.e., the lower the denominator, the higher the impact factor).
-\begin_inset Quotes erd
-\end_inset
-
- -
-\begin_inset Foot
+ 
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-And because they only take shit in english.
+And because they only take shit in english
 \end_layout
 
 \end_inset
@@ -3700,8 +3687,8 @@ And because they only take shit in english.
 \SpecialChar \ldots{}
 Because a journal’s impact factor is derived from citations to all articles
  in a journal, this number cannot tell us anything about the quality of
- any specific research article unin that journal, nor of the quality of
- the work of any specific author.
+ any specific research article in that journal, nor of the quality of the
+ work of any specific author.
  These points become particularly evident by understanding that a journal’s
  impact factor can be substantially affected by the publication of review
  articles (which usually acquire more citations than research articles)
@@ -3720,7 +3707,11 @@ key "ThePLoSMedicineEditors2006"
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Fixin' Data to Meet 
 \emph on
 Cell 
@@ -3728,7 +3719,7 @@ Cell
 Standards
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 High-impact journals tend to have higher retraction rates.
  Why, and how? 
 \end_layout
@@ -3814,7 +3805,9 @@ key "Lisberger2013"
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -3827,7 +3820,11 @@ so in this sections...should it include who gets included???
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
 Knowledge Gaps: Developed/ing Worlds
 \end_layout
 
@@ -3871,7 +3868,9 @@ key "Chan2005"
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset ERT
 status collapsed
 
@@ -3888,9 +3887,6 @@ status collapsed
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -3913,9 +3909,6 @@ status collapsed
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
