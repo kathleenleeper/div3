@@ -352,6 +352,11 @@ filename "Global-Science.lyx"
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset include
 LatexCommand include
 filename "solution-open-science.lyx"
@@ -360,6 +365,12 @@ filename "solution-open-science.lyx"
 
 
 \end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset Note Note
+status open
 
 \begin_layout Plain Layout
 

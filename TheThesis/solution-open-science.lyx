@@ -116,224 +116,12 @@ listoftodos
 \end_inset
 
 
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Acronyms
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}, the founding document of the Free
- Software Movement
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}, a leader in open access publishing
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OKF}{Open Knowledge Foundation}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OA}{Open Access}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IF}{Journal Impact Factor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{CNS}{
-\backslash
-emph{Cell}, 
-\backslash
-emph{Nature}, and 
-\backslash
-emph{Science}}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{NIH}{National Institute of Health}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{NCBI}{National Center for Biotechnology Information}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{LHC}{Large Hadron Collider}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -619,8 +407,8 @@ ac{NIH}
 \end_layout
 
 \begin_layout Standard
-Publishing groups, now, hold an unnatural kind of power by determining what
- 
+Publishing groups hold an unnatural kind of power, it seems, by determining
+ what 
 \emph on
 counts
 \emph default
@@ -628,8 +416,134 @@ counts
  
 \end_layout
 
+\begin_layout Section
+Personal Motivations
+\end_layout
+
 \begin_layout Standard
-Or at least that what it seems like.
+A lot of why I think those practical implementations of 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "enu:open-science-ecosysemst"
+
+\end_inset
+
+ -- open access, open code, open data -- are so important is because of
+ the ways in which they have helped or hurt me, over the course of this
+ project and others in my time at Hampshire.
+\end_layout
+
+\begin_layout Standard
+Access to literature is more immediately applicable -- there's not an academic
+ I know who doesn't feel the pinch of journal costs.
+ But I want to start with code, actually, because of the surprising and
+ constantly frustrating ways it's been a problem for me.
+\end_layout
+
+\begin_layout Standard
+One of my shaping sections and goals of this paper is self-bibliometrics;
+ that inspiration draws from two papers, bibliometric studies of the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoK}
+\end_layout
+
+\end_inset
+
+ and JSTOR databases.
+ Both 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "West2013"
+
+\end_inset
+
+'s 
+\emph on
+Role of Gender in Scholarly Authorship
+\emph default
+ and and 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Sugimoto2013"
+
+\end_inset
+
+'s 
+\emph on
+Global gender disparities in science
+\emph default
+ have, I think, an enormous potential to be extended to different databases
+ and personal libraries.
+ To my chagrin, however, despite one paper in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PLoS}
+\end_layout
+
+\end_inset
+
+, notorious for open policies, and another in 
+\emph on
+Nature,
+\emph default
+ which has recently implemented an open code policy, neither set of authors
+ has released any code,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+After emailing one author and his response of saying 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, I'll put it up on github!
+\begin_inset Quotes erd
+\end_inset
+
+, several months later there's no response
+\end_layout
+
+\end_inset
+
+ despite their results being 
+\emph on
+entirely
+\emph default
+ dependent on digital data manipulation.
+ If they had released their (even small bits of it) programming, it would
+ have saved me hours of time, given my work a better base to build off,
+ and let me do more.
+ 
+\end_layout
+
+\begin_layout Standard
+Access is more basic -- I use an 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{MIT}
+\end_layout
+
+\end_inset
+
+ logon for most things.
+ Even then, not all of the humanities journals or less prominent pharmacology
+ journals are accessible.
 \end_layout
 
 \begin_layout Section
@@ -948,7 +862,7 @@ Data
 \labelwidthstring 00.00.0000
 data a set of values of qualitative or quantitative variables; facts
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -973,8 +887,7 @@ open clinical data vs open basic research data?
 \end_inset
 
 Open science data is a type of open data focused on publishing observations
- and results of scientific activities available for anyone to analyze and
- reuse.
+ and results of scientific activities, for anyone to analyze and reuse.
  
 \begin_inset Note Note
 status collapsed
@@ -1420,7 +1333,7 @@ status open
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "open-science,CriticalOpenNeuro"
+bibfiles "CriticalOpenNeuro"
 options "plainnat"
 
 \end_inset
