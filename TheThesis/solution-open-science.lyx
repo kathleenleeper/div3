@@ -363,26 +363,21 @@ research{conflict between different areas of openness}
 Science as an institution feels like it's falling apart (from my perspective)
  because what's actually happening is so different from what I thought.
  Knowledge is limited, disparate, disorganized, and unreliable; it's behind
- digital walls that seem contrived to keep science in the realm of the fiscally
- elite and educationally privileged, in putting up jargon and financial
- barriers.
- It doesn't reproduce well, even when it's purely 1s and 0s: the reliability
- of computer programs (to present stimuli, record data, crunch numbers)
- is limited to the labs that wrote/interact with the program; attempts to
- getting access to the generative programs has failed, repeatedly.
-\end_layout
-
-\begin_layout Standard
-When statistics are in question, datasets typically fail to materialize
+ digital walls contrived to keep science in the realm of the fiscally elite
+ and educationally privileged, in putting up jargon and financial barriers.
+ Science doesn't replicate well, even when it's purely 1s and 0s: the reliabilit
+y of computer programs (to present stimuli, record data, crunch numbers)
+ is limited to the labs that wrote/interact with the program and attempts
+ to getting access to the generative programs fail almost every time.
+ When scientifically-minded readers try to look deeper into statistical
+ manipulations, datasets typically fail to materialize;
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Wicherts2011"
 
 \end_inset
 
-.
- When they are available, they're often disorganized and thus essentially
- un-usable; the published datasets
+ when they are available, they're typically disorganized and poorly documented.
 \end_layout
 
 \begin_layout Standard
@@ -404,16 +399,42 @@ ac{NIH}
 .
  Research between groups at higher levels feels cutthroat; it's no longer
  about the pursuit of truth, but the pursuit of the ability to keep trying.
-\end_layout
-
-\begin_layout Standard
-Publishing groups hold an unnatural kind of power, it seems, by determining
+ Publishing groups hold an unnatural kind of power, it seems, by determining
  what 
 \emph on
 counts
 \emph default
  as good, interesting, novel science.
  
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{rise of commercial publishing groups}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The solutions to this, or the ones I've been taught, rely on the Internet
+ and technical know-how, and are geared towards a generation that grew up
+ on Napster and the Pirate Bay.
+ Proponents are, more often than not, looking at science from a 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+, non-proprietary operating system -- and they feel pretty damn justified
+ in an ideological no-money-needed stance.
 \end_layout
 
 \begin_layout Section
@@ -434,17 +455,22 @@ reference "enu:open-science-ecosysemst"
 \end_layout
 
 \begin_layout Standard
-Access to literature is more immediately applicable -- there's not an academic
+Access to literature is immediately applicable -- there's not an academic
  I know who doesn't feel the pinch of journal costs.
  But I want to start with code, actually, because of the surprising and
  constantly frustrating ways it's been a problem for me.
+ Surprising because I don't 
+\emph on
+do
+\emph default
+ code scientifically; or at least, I didn't.
 \end_layout
 
 \begin_layout Standard
-One of my shaping sections and goals of this paper is self-bibliometrics;
- that inspiration draws from two papers, bibliometric studies of the 
+One of my shaping and goals of this paper is self-bibliometrics; that inspiratio
+n draws from two papers, bibliometric studies of the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -482,7 +508,7 @@ Global gender disparities in science
  and personal libraries.
  To my chagrin, however, despite one paper in 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -498,29 +524,11 @@ ac{PLoS}
 Nature,
 \emph default
  which has recently implemented an open code policy, neither set of authors
- has released any code,
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-After emailing one author and his response of saying 
-\begin_inset Quotes eld
-\end_inset
-
-Yes, I'll put it up on github!
-\begin_inset Quotes erd
-\end_inset
-
-, several months later there's no response
-\end_layout
-
-\end_inset
-
- despite their results being 
+ has released any code despite their results being 
 \emph on
 entirely
 \emph default
- dependent on digital data manipulation.
+ dependent on digital data manipulation and requests from a young undergraduate.
  If they had released their (even small bits of it) programming, it would
  have saved me hours of time, given my work a better base to build off,
  and let me do more.
@@ -528,9 +536,9 @@ entirely
 \end_layout
 
 \begin_layout Standard
-Access is more basic -- I use an 
+Journal access is more basic -- I use an 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -541,30 +549,49 @@ ac{MIT}
 
 \end_inset
 
- logon for most things.
+ logo for most things.
  Even then, not all of the humanities journals or less prominent pharmacology
  journals are accessible.
-\end_layout
-
-\begin_layout Section
-Open Access
-\end_layout
-
-\begin_layout Standard
-Open access is an exclusively digital invention.
- Paying publishers for access used to mean you(r library) received a hard
- copy, delivered to the doorstep.
- One assumed subscription costs were largely a function of the work involved
- in collation and the physical manufacture and distribution costs; publishers
- also dealt with corralling peer reviewers
+ My barriers are largely price-related, but that's only because I'm not
+ proficient enough as a coder to know how to effectively interact with machine-r
+eadable literature.
 \end_layout
 
 \begin_layout Standard
-However.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{relationship w/ data}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Any reputable journal (and many non!)
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{open notebooks?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+These scientific issues have been a thorn in my side my entire scientific
+ career, 
 \begin_inset ERT
 status collapsed
 
@@ -572,35 +599,26 @@ status collapsed
 
 
 \backslash
-graffito{omg can I say this will people know it's a joke?}
+graffito{granted, a career only ~5 years long}
 \end_layout
 
 \end_inset
 
- is now expected to provide digital access to their publication, rendering
- the paper version far behind.
+ so the discovery of a movement thatvalidates my concern and proposes a
+ mechanism to solve it is alluring and, despite hurdles, something I firmly
+ believe would have changed, for the better, my science/life.
 \end_layout
 
-\begin_layout Subsubsection
-From Peter Suber's 
-\begin_inset Quotes eld
-\end_inset
-
-Open Access Overview
-\begin_inset Quotes erd
-\end_inset
-
-
+\begin_layout Section
+Open Access
 \end_layout
 
 \begin_layout Standard
-He, and I, refer largely in this to the unit of scholarly success, the peer-revi
-ewed scholarly journal articles.
-\end_layout
-
-\begin_layout Quote
+Open access scholarly publishing addresses the barriers to accessing peer-review
+ed scholarly journal articles, the unit of scholarly success.
+ An exclusively digital invention, 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -611,36 +629,48 @@ ac{OA}
 
 \end_inset
 
+ literature is 
+\begin_inset Quotes eld
+\end_inset
+
+literature is digital, online, free of charge, and free of most copyright
+ and licensing restrictions.
+ It removes price barriers (subscriptions, licensing fees, pay-per-view
+ fees, i.e.
+ gratis) and permission barriers (copyright and licensing, i.e.
+ libre).
+\begin_inset Quotes erd
+\end_inset
+
  
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Suber2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+More succinctly, 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{
-\backslash
-emph{licensing} - means the PDF can be downloaded, but also shared, fed
- into text mining attemps, etc}
+ac{OA}
 \end_layout
 
 \end_inset
 
- literature is digital, online, free of charge, and free of most copyright
- and licensing restrictions.
- It removes price barriers (subscriptions, licenscing fees, pay-per-view
- fees, i.e.
- gratis) and permission barriers (copyright and licensing, i.e.
- libre).
-\end_layout
-
-\begin_layout Quote
-Succinctly, 
+ literature has 
 \begin_inset Quotes eld
 \end_inset
 
-free availability and unrestricted use
+free availability and [allows] unrestricted use.
 \begin_inset Quotes erd
 \end_inset
 
@@ -662,7 +692,33 @@ ac{PLoS}}
 
 \end_layout
 
+\begin_layout Subsubsection
+why the fuck does this work?
+\end_layout
+
 \begin_layout Standard
+Paying publishers for access used to mean you(r library) received a hard
+ copy, delivered to the doorstep.
+ One assumed subscription costs were largely a function of the work involved
+ in collation and the physical manufacture and distribution costs; publishers
+ also deal with corralling peer reviewers, typesetting, and other
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{functions of journals?}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 To adapt Richard Stallman's famous formulation (originally applied to software),
  gratis OA is free as in 'free beer', while libre OA is also free as in
  'free speech'.
@@ -686,6 +742,11 @@ todo{where should open vs free be defined?}
 \labelwidthstring 00.00.0000
 legally The legal basis of OA is the consent of the copyright holder (for
  newer literature) or the expiration of copyright (for older literature).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -740,6 +801,13 @@ Obviously no one writes royalty-free literature for money.
  It takes nothing away from a disinterested desire to advance knowledge
  to note that it is accompanied by a strong self-interest in career-building.
  OA does not depend on altruistic volunteerism.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Suber2013"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -858,6 +926,23 @@ Connectivity barriers.
 Data
 \end_layout
 
+\begin_layout Standard
+Data is the heart and soul of science; 
+\begin_inset Quotes eld
+\end_inset
+
+let the data speak
+\begin_inset Quotes erd
+\end_inset
+
+ is the clarion call in any argument where you just want the 
+\emph on
+facts.
+
+\emph default
+ Less wordily:
+\end_layout
+
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 data a set of values of qualitative or quantitative variables; facts
@@ -874,6 +959,11 @@ graffito{FACTS.}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+In open science, data, the variables collected during scientific activities,
+ should be published in full along with the papers, 
 \end_layout
 
 \begin_layout Quote
@@ -913,7 +1003,10 @@ It's a broad concept that does not
  
 \emph default
 just apply to research data, but to government and institutional data.
- The goals are similar: make data points work harder and mean more.
+\end_layout
+
+\begin_layout Standard
+The goals are similar: make data points work harder and mean more.
  
 \end_layout
 
@@ -1031,12 +1124,6 @@ data sets can be cited.
 \end_layout
 
 \begin_layout Standard
-Open data hopes to achieve stastistical reliability: your table of aggregate
- numbers isn't meaningful unless we can see how you've manipulated (or not)
- the original data.
-\end_layout
-
-\begin_layout Standard
 Open data could extend the useful life of data collections by combining
  and manipulating datasets, like bio-informatians using the 
 \begin_inset ERT
@@ -1054,6 +1141,13 @@ ac{NCBI}
  datasets to generate phylogenies and genetic analyses.
  Aggregating datasets allows for more thorough and meaningful meta-analyses
  (when the appropriate controls are in place, of course).
+ There's also the ideal that
+\end_layout
+
+\begin_layout Standard
+Open data hopes to achieve stastistical reliability: your table of aggregate
+ numbers isn't meaningful unless we can see how you've manipulated (or not)
+ the original data.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1108,6 +1202,7 @@ actual reproducibility is...let's be honest, not great with the way methods
 
 \begin_layout Standard
 If methods are supposed to aid in reproducibility, there's some breakdown
+ b
 \begin_inset ERT
 status open
 
@@ -1125,6 +1220,18 @@ research{method sharing}
 
 \begin_layout Section
 Code and Hardware
+\end_layout
+
+\begin_layout Standard
+Once we move on from hardware, code is how many scientists interact with
+ their data; more than interact, code 
+\emph on
+is
+\emph default
+ the science -- in computational biology and in psychology, programs and
+ scripts control how and when information is collected, what kinds of metadata
+ we can use, how we parse, smooth, and manipulate it, how it's presented
+ to us and in the figures we submit to journals.
 \end_layout
 
 \begin_layout Quote
@@ -1171,9 +1278,8 @@ graffito{cyborgs!!}
  of code in various languages -- R,Matlab, Python, or SPSS (to name a few).
  Hey, there are entire papers and journals dedicated to computational biology
  -- code that takes the aforementioned open data and pulls more facts out.
- What we do with our computers is fundamental to the execution of science,
- if not the actual thoughts.
- 
+ What we do with our computers is fundamental to the execution of science.
+ To those who don't primarily work with bytes
 \end_layout
 
 \begin_layout Subparagraph
@@ -1294,6 +1400,13 @@ can't
  because they don't 
 \emph on
 share their fucking code.
+ 
+\emph default
+The relative speed of science is slow; the speed of a single researcher
+ is even slower.
+ While using the code of others can be a risky proposition, it can also
+ be an important stepping stone to bigger and more advanced projects.
+ 
 \end_layout
 
 \begin_layout Section
