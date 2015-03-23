@@ -927,6 +927,29 @@ Data
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+per rust, more important that publishers take this upon themselves;; scientists
+ aren't great @ cyberscholarship, and likeyl open data isn't being used
+ 
+\emph on
+in the same fields
+\emph default
+ so of coures the people 
+\emph on
+generating 
+\emph default
+the data don't interact withi s
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Data is the heart and soul of science; 
 \begin_inset Quotes eld
 \end_inset
@@ -945,7 +968,12 @@ facts.
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-data a set of values of qualitative or quantitative variables; facts
+data a set of values of qualitative or quantitative variables collected
+ during scientific activities; facts.
+\end_layout
+
+\begin_layout Standard
+In open science, data publication goes hand in hand with the 
 \begin_inset ERT
 status open
 
@@ -953,31 +981,35 @@ status open
 
 
 \backslash
-graffito{FACTS.}
+ac{OA}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-In open science, data, the variables collected during scientific activities,
- should be published in full along with the papers, 
-\end_layout
-
-\begin_layout Quote
+ literature.
+ The goals: make data points work harder (i.e.
+ in re-use and meta-analyses) and mean more (statistics and information
+ available for double checking).
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-open clinical data vs open basic research data?
+open clinical data vs open basic research data? metni
 \end_layout
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Open science data is a type of open data focused on publishing observations
  and results of scientific activities, for anyone to analyze and reuse.
+\end_layout
+
+\end_inset
+
  
 \begin_inset Note Note
 status collapsed
@@ -998,20 +1030,28 @@ idea
 \end_layout
 
 \begin_layout Standard
-It's a broad concept that does not
-\emph on
+'Pure' data, collected for the sake of collecting, have been historically
+ important.
+ Mendeleev's proposal for the periodic table of elements was based in part
+ on published data on elemental melting points, colors, and densities.
  
-\emph default
-just apply to research data, but to government and institutional data.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Mendeleev's use of published data}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The goals are similar: make data points work harder and mean more.
- 
-\end_layout
-
-\begin_layout Standard
-Open data is the 
+In a more modern era, open data is the 
 \begin_inset ERT
 status collapsed
 
@@ -1024,20 +1064,31 @@ ac{NCBI}
 
 \end_inset
 
- genetic databases; open data is the 
+ genetic databases and the terabytes of information from every run by 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-ac{LHC}
+ac{CERN}
 \end_layout
 
 \end_inset
 
- publishing terabytes of information.
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "CERNPressRelease2011"
+
+\end_inset
+
+ .
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
  Open data ideally means 
 \emph on
 libre
@@ -1061,9 +1112,14 @@ todo{NCBI licensing?}
 \end_inset
 
 .
+\end_layout
+
+\end_inset
+
  The sequencing of the genome (of many genomes, actually) and subsequent
- publishing has enabled both basic biological research (primer design, anybody?)
- and fields like bio-informatics to move forwards by leaps and bounds.
+ publishing has enabled both basic biological research (e.g.
+ primer design) and fields like bioinformatics to move forwards by leaps
+ and bounds.
  
 \begin_inset ERT
 status collapsed
@@ -1077,8 +1133,12 @@ research{how many people access that data daily?}
 
 \end_inset
 
- Most of the uses of that data were never planned or anticipated, but happened
- when data went free.
+ 
+\end_layout
+
+\begin_layout Standard
+In many cases, most of the uses of that data were never planned or anticipated,
+ but happened when data went free.
  
 \begin_inset Note Note
 status collapsed
@@ -1124,7 +1184,7 @@ data sets can be cited.
 \end_layout
 
 \begin_layout Standard
-Open data could extend the useful life of data collections by combining
+Open data theoretically extends the useful life of data collections by combining
  and manipulating datasets, like bio-informatians using the 
 \begin_inset ERT
 status collapsed
@@ -1141,13 +1201,75 @@ ac{NCBI}
  datasets to generate phylogenies and genetic analyses.
  Aggregating datasets allows for more thorough and meaningful meta-analyses
  (when the appropriate controls are in place, of course).
- There's also the ideal that
+ Open data hopes to achieve stastistical reliability: your table of aggregate
+ numbers becomes much more meaningful when we can manipulate the data ourselves.
+\end_layout
+
+\begin_layout Subsubsection
+Case Study
 \end_layout
 
 \begin_layout Standard
-Open data hopes to achieve stastistical reliability: your table of aggregate
- numbers isn't meaningful unless we can see how you've manipulated (or not)
- the original data.
+One of the 
+\begin_inset Quotes eld
+\end_inset
+
+giants
+\begin_inset Quotes erd
+\end_inset
+
+ in the open science world was the now deceased
+\end_layout
+
+\begin_layout Standard
+TEXT AND DATA MINING -- 
+\end_layout
+
+\begin_layout Quote
+This may appear impossible to understand but it has a fairly regular microstruct
+ure and our OSCAR toolkits can make a great deal of sense of it.
+ OSCAR-DATA was originally developed (Experimental data checker: better
+ information for organic chemists) through sponsorship of the Royal Society
+ of Chemistry (Experimental Data Checker Homepage) and is now developed
+ as a standalone data-checker.
+ Simply cutting and pasting the above text into OSCAR-DATA gives the result:
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Murray-Rust2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+practical issues in data sharing
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Which
+\emph default
+ data, 
+\emph on
+when
+\emph default
+, and in what format? 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+(re: conversations @ plos open data)
+\end_layout
+
+\end_inset
+
+.
+ Not easily answerable questions, but maybe part of that holding contradictions
+ -- TT's issues with sharing cuttlefish data (who can host, is it worth
+ hosting?).
 \end_layout
 
 \begin_layout Subsubsection
@@ -1168,25 +1290,6 @@ funders ask for it, but hard to actually d
 
 \begin_layout Subsubsection
 credit for data publication
-\end_layout
-
-\begin_layout Subsection
-practical issues in data sharing
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-which
-\emph default
- data, 
-\emph on
-when
-\emph default
-, and in what format? (re: conversations @ plos open data).
- Not easily answerable questions, but maybe part of that holding contradictions
- -- TT's issues with sharing cuttlefish data (who can host, is it worth
- hosting?).
 \end_layout
 
 \begin_layout Subsection
