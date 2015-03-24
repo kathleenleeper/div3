@@ -1456,8 +1456,21 @@ key "Marcus2012"
 The principle of the elusive scientific method is replication and reproducibilit
 y.
  Researchers document their methods and results to such an extent that any
- other researcher is able to reproduce their data independently , or, more
+ other researcher is able to reproduce their data independently, or, more
  often, build experiments atop the results of their colleagues (replication).
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{clarify reproducibilty VS replication}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
