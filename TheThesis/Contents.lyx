@@ -57,7 +57,7 @@
 \color #008000
 \end_index
 \secnumdepth 3
-\tocdepth 0
+\tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -320,7 +320,7 @@ status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 addcontentsline{toc}{chapter}{
 \backslash
@@ -589,6 +589,22 @@ status open
 
 
 \backslash
+acro{IP}{Intellectual Property}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 acro{FLOSS}{free/libre open source software}
 \end_layout
 
@@ -702,7 +718,7 @@ status open
 
 
 \backslash
-acro{OA}{open access}
+acro{OA}{Open Access}
 \end_layout
 
 \end_inset
@@ -768,6 +784,22 @@ status open
 
 
 \backslash
+acro{DOI}{Digital Object Identifier}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 end{acronym}
 \end_layout
 
@@ -789,6 +821,51 @@ status open
 
 \backslash
 begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{NCBI}{National Center for Biotechnology Information}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CERN}{European Organization for Nuclear Research}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+derived from the french 
+\size normal
+\emph on
+Conseil Europeen pour la Recherche Nuclear
 \end_layout
 
 \end_inset
@@ -1011,7 +1088,7 @@ acro{NYU}{New York University}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1180,6 +1257,22 @@ status collapsed
 
 \backslash
 acro{WoS}{Web of Science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{LHC}{Large Hadron Collider}
 \end_layout
 
 \end_inset
@@ -1443,22 +1536,6 @@ status collapsed
 
 
 \backslash
-acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
 acro{STP}{Serenity, Tranquility, Peace}
 \end_layout
 
@@ -1565,7 +1642,7 @@ acro{PPI}{pre pulse inhibition}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1581,7 +1658,7 @@ acro{MAOI}{monoamine oxidase inhibitor}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 

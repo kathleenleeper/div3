@@ -78,10 +78,6 @@
 
 \begin_body
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Chapter
 Open Science & Serotonin
 \end_layout
@@ -294,6 +290,15 @@ reference "enu:This-also-relates"
 \end_layout
 
 \begin_layout Enumerate
+The lack of 
+\emph on
+drawing
+\emph default
+ abilities is a serious hindrance; annotation via text is significantly
+ less effective than writing in red pen next to it
+\end_layout
+
+\begin_layout Enumerate
 Writing up negative results is 
 \emph on
 annoying
@@ -305,8 +310,9 @@ useless\SpecialChar \@.
 \emph default
 Trouble shooting procedures is incredibly tedious; having to write up and
  explain your attempt and subsequent failure time and again is far from
- encouraging, and I would venture to say increases the feeling of failure
- upon revisiting the entry.
+ encouraging.
+ I would venture to say the increased feeling of failure upon revisiting
+ the entry is one of the most demoralizing things
 \end_layout
 
 \end_deeper
@@ -319,12 +325,6 @@ While there are tablet and smart phone options, a basic laptop is simply
 
 \begin_deeper
 \begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:This-also-relates"
-
-\end_inset
-
 This also relates to the sketching and informal drawing that happens in
  lab notebooks -- quick calculations, arrows between protocols, annotations
  of protocols on the fly as you mis-time, forget, or mix up steps.
@@ -354,7 +354,8 @@ todo{Can cite this if people feel strongly}
 
 \begin_layout Enumerate
 Some advocates claim that knowing your work flow could be examined at any
- time -- an ever-present Potential Big Brother
+ time -- an ever-present Potential Big Brother -- makes you more likely
+ to be careful with your records and scientific choices
 \end_layout
 
 \begin_deeper
@@ -401,7 +402,7 @@ It's very easy to share and talk about my project -- because the repository
  the state of my lab work almost anywhere, quickly, efficiently, and with
  a minimum of fuss.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 This is mostly useful when John is upstairs on the 3rd floor and I forget
