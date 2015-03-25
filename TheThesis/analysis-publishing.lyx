@@ -53,7 +53,7 @@
 \justification true
 \use_refstyle 0
 \branch analysis-publish
-\selected 0
+\selected 1
 \filename_suffix 0
 \color #faf0e6
 \end_branch
@@ -62,7 +62,7 @@
 \color #008000
 \end_index
 \secnumdepth 2
-\tocdepth 2
+\tocdepth 4
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -80,337 +80,12 @@
 
 \begin_layout Standard
 \begin_inset Branch analysis-publish
-status collapsed
-
-\begin_layout Standard
-\begin_inset ERT
 status open
 
-\begin_layout Plain Layout
-
-
-\backslash
-let
-\backslash
-cleardoublepage
-\backslash
-clearpage
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-acronym
-\end_layout
-
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}, the founding document of the Free
- Software Movement
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}, a leader in open access publishing
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OKF}{Open Knowledge Foundation}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GMH}{growing misconduct hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{SSH}{'stronger system' hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PPV}{positive predictive value}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2005"
-key "Ioannidis2005"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IF}{Journal Impact Factor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{CNS}{
-\backslash
-emph{Cell}, 
-\backslash
-emph{Nature}, and 
-\backslash
-emph{Science}}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GNU}{GNUs Not Unix}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -423,14 +98,7 @@ end{acronym}
 \end_layout
 
 \begin_layout Chapter
-\begin_inset Quotes eld
-\end_inset
-
-Fixing
-\begin_inset Quotes erd
-\end_inset
-
- Publishing
+What's Inside? Fixing Science
 \end_layout
 
 \begin_layout Standard
@@ -440,7 +108,7 @@ name "chap:values-fixing-publishing"
 
 \end_inset
 
-Most of what 
+Most of the suggestions of from 
 \begin_inset Quotes eld
 \end_inset
 
@@ -448,15 +116,125 @@ open science
 \begin_inset Quotes erd
 \end_inset
 
- would implement centers around assumptions about access, knowledge, and
- distribution.
- While the more interesting and radical ideas toy with different presentation
- formats, and scholarly webs, none are iconoclasts in the way they might
- think.
+ centers around assumptions about access, knowledge, and distribution.
+ The more interesting and radical ideas toy with different presentation
+ formats, and scholarly webs, and re-envisioning whole new systems of scholarly
+ production and communications; the more sedate merely push for scientific
+ knowledge as a public good.
+ The angles to take on this are varied and complex; I don't quite feel qualified.
  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{TBH, they are still pretty disorganized.
+ But we'll try anyway}
 \end_layout
 
-\begin_layout Subsection
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+assumptions about
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Open science, first, presumes that science has the capability to be 
+\emph on
+better 
+\emph default
+if the 
+\emph on
+culture
+\emph default
+ was better
+\end_layout
+
+\begin_layout Itemize
+Presumes this kind of knowledge is the right kind of knowledge
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+political stance
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{
+\backslash
+emph{why} open and not free?}
+\end_layout
+
+\end_inset
+
+Avoids political dedication of 
+\emph on
+libre 
+\emph default
+in lieu of open
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+data overload? (re: OKF)
+\end_layout
+
+\begin_layout Itemize
+representations/access/
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+DIY do it yourself culture
+\end_layout
+
+\begin_layout Itemize
+who has intellectual access to literature/data/code? making things open
+ does not make them accessible
+\end_layout
+
+\begin_layout Itemize
+who is producing? bc of intellectual access issues, the same people will
+ produce (although evidence is that global South scholars do use OA resources)
+\end_layout
+
+\begin_layout Itemize
+should probably address APCs but fuck that's boring
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+okay to think it's good as well
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+but then you also have data/software carpentry and readme's and good commenting
+ technique
+\end_layout
+
+\begin_layout Itemize
+allows transnational organizing (Iraq Veterans Against The War); expanding
+ biomed knowledge to places where it could be useful in direct opposition
+ to military-bio web
+\end_layout
+
+\end_deeper
+\begin_layout Section
 Open, not free
 \end_layout
 
@@ -755,7 +533,7 @@ what is the analog to free in science and how can we address that?
 \end_layout
 
 \begin_layout Section
-Fixing Science
+return to the glorious past
 \end_layout
 
 \begin_layout Standard
@@ -1498,7 +1276,7 @@ improve
 
  science come from a perception 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1528,7 +1306,7 @@ I can't actually do an anthology of open science in the developing world.
 
 \begin_layout Standard
 \begin_inset Branch analysis-publish
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset CommandInset bibtex

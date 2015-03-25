@@ -198,7 +198,7 @@ Incentivising Science: Funding and Prestige
 \end_layout
 
 \begin_layout Chapter
-Cracking Science Open: What's Inside Open Science?
+Cracking Science Open
 \end_layout
 
 \begin_layout Quote
@@ -1744,11 +1744,8 @@ By this [Open Notebook Science] I mean that there is a URL to a laboratory
 He started a project called UsefulChem, a project exploring synthesis and
  testing of anti-malarial compounds in the effort to hasten the search for
  an effective cure.
- 
-A paper published out of the project included, as a supplemental material,
- the entire lab notebook of the pro
-\lang english
-ject.
+ A paper published out of the project included, as a supplemental material,
+ the entire lab notebook of the project.
 \begin_inset ERT
 status collapsed
 
@@ -1960,10 +1957,7 @@ ac{DOI}s
 status collapsed
 
 \begin_layout Plain Layout
-
 A 
-\lang english
-
 \begin_inset ERT
 status collapsed
 
