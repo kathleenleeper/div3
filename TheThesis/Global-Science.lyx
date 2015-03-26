@@ -1778,6 +1778,19 @@ pneumonia, diarrhoea, tuberculosis and malaria, which together account for
 \begin_inset Quotes erd
 \end_inset
 
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{global burden of disease/this quote}
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -1789,26 +1802,20 @@ What this means, practically, that the global burden of disease falls more
 \end_layout
 
 \begin_layout Standard
-Only 6% of psychiatric jurnals arose from regions accounting for >90% of
- the population.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
+Clinical trials of drugs 
+\begin_inset ERT
+status collapsed
 
-\end_inset
+\begin_layout Plain Layout
 
- 
+
+\backslash
+rewrite{WHO 2013 report on location of clinical trials by economics
 \end_layout
 
-\begin_layout Standard
-In 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Rochon2004"
-
 \end_inset
 
-, 
+
 \end_layout
 
 \begin_layout Standard
@@ -1823,15 +1830,21 @@ leading causes of the global burden of disease
 
 ; but almost half weren't studied at all.
  These are largely causes that affect the socioeconomically depressed, which
- also means disproportionately people of color, most typically on the women
- in the global South.
+ also means disproportionately people, specifically women of color, most
+ typically on the women in the global South.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{burden of poverty globally}
 \end_layout
 
-\begin_layout Standard
-In the U.S., women are often
-\end_layout
+\end_inset
 
-\begin_layout Quote
+
 \begin_inset Note Note
 status collapsed
 
@@ -1876,19 +1889,8 @@ Many conditions or diseases common internationally are underrepresented
 
 \end_layout
 
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Rochon2004"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
-Race
+U.S.: Race
 \end_layout
 
 \begin_layout Standard
@@ -1896,7 +1898,8 @@ african americans
 \end_layout
 
 \begin_layout Subsection
-by gender
+U.S.
+ :Gender
 \end_layout
 
 \begin_layout Standard
