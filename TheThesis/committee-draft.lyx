@@ -223,11 +223,11 @@ filename "Contents.lyx"
 
 \lang american
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 listoftodos
 \end_layout
