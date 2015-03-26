@@ -800,6 +800,22 @@ status open
 
 
 \backslash
+acro{DIY}{Do It Yourself}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 end{acronym}
 \end_layout
 
