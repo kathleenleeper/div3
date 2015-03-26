@@ -1172,6 +1172,12 @@ idea
  important.
  Mendeleev's proposal for the periodic table of elements was based in part
  on published data on elemental melting points, colors, and densities.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mendeleyev1905"
+
+\end_inset
+
  
 \begin_inset ERT
 status collapsed
@@ -1180,7 +1186,7 @@ status collapsed
 
 
 \backslash
-findref{Mendeleev's use of published data}
+findref{page number in mendeleev's}
 \end_layout
 
 \end_inset
@@ -1265,7 +1271,7 @@ The sequencing of the genome (of many genomes, actually) and subsequent
  and bounds.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1429,20 +1435,6 @@ rewrite{role of code/tech -- re: measurements? and measuring}
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{connect code to what code generatesi in terms of data -- Rust on presenting
- NMR spectra as direct output, not graphical}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -1517,19 +1509,6 @@ Given enough eyeballs, all bugs are shallow.
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-graffito{OK, Raymond.}
-\end_layout
-
-\end_inset
-
  Like with software development, in the generation and analysis of data
  using computer code, not all bugs manifest with outward syntactic issues
  where the code won't 
@@ -1539,7 +1518,46 @@ run
 .
  Instead, bugs are type errors, or misplaced loops: semantic errors that
  systematically and insidiously warp results.
+ Debugging, perhaps in science especially, is non random and biased towards
+ seeking positive, confirmatory results.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stokes2013,Poldrack2013"
+
+\end_inset
+
  
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+As I mentioned in response to Chris, I think the problem is not so much
+ how to debug code (there are lots of great and clever tricks), but how
+ to be systematic in debugging code that produces good or bad results.
+\end_layout
+
+\end_inset
+
+
+\lang english
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+I completely agree about code replication.
+ It's amazing how easy it is to catch errors that go in the wrong direction
+ (that decrease your results) and how hard it is to catch those that go
+ in the right direction.
+ Double-entry (recoding from scratch) really seems like the gold standard.
+ - comment on poldrack
+\end_layout
+
+\end_inset
+
+
 \begin_inset ERT
 status open
 
@@ -1612,6 +1630,29 @@ The relative speed of science is slow; the speed of a single researcher
  While using the code of others can be a risky proposition, it can also
  be an important stepping stone to bigger and more advanced projects.
  
+\end_layout
+
+\begin_layout Section
+the interaction of data and code
+\end_layout
+
+\begin_layout Quote
+Making data freely available will certainly allow others to attempt to replicate
+ the published results using the stated analysis pipeline given the same
+ data.
+ (cmment on
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Stokes2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Quote
+connect code to what code generatesi in terms of data -- Rust on presenting
+ NMR spectra as direct output, not graphical
 \end_layout
 
 \begin_layout Section
