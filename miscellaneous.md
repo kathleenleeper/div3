@@ -1,3 +1,6 @@
+#racism and the law
+[driving while black - ACLU](http://www.aclu.org/racial-justice/driving-while-black-racial-profiling-our-nations-highways)
+
 #open access and institutional oppression
 
   basically, all of nina de jesus' writing @ [satifice](satifice.github.io) (now a part of the big zotero library)
