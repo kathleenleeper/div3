@@ -13,7 +13,8 @@
   * shit is -complicated-
 
 #funding of publishing
-  Address APC barriers in terms of wh ocan make open science
+  * Address APC barriers in terms of wh ocan make open science
+  * address predatory publishers; but most predatory publishers are owned by elsevier and wiley and "reputable" publishing houses so what the fuck
 
 #funding of science
 
