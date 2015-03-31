@@ -1243,6 +1243,313 @@ The New York Times
 Who is helped and gets t help?
 \end_layout
 
+\begin_layout Section
+Digital Divides
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Digital-Divides"
+
+\end_inset
+
+
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+Lots of new scientific endeavors focus on the internet as an equalizing
+ tool, but realistically, the digital divide is very very clear and doesn't
+ seem to be going away anytime soon.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
+	lyxscale 10
+	width 80page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+This map illustrates the total number of Internet users in a country as
+ well as the percentage of the population that has Internet access.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Data
+\end_layout
+
+\begin_layout Plain Layout
+The map uses 2011 data on Internet users and total population datasets that
+ were obtained from the World Bank.
+ The World Bank has tracked the number of Internet users and Internet connection
+s per country since the 1990s as part of its Worldwide Governance Indicators
+ project.
+\end_layout
+
+\begin_layout Plain Layout
+The data are visualized with a hexagon-shaped cartogram in which the size
+ of each country is drawn based on its population of Internet users.
+ Each hexagon accounts for about one third of a million Internet users.
+ Countries with fewer than that number have been removed from the map.
+ The shading of each country reflects its Internet penetration rate: darker
+ shades indicate higher levels of Internet usage in the population.
+\end_layout
+
+\begin_layout Plain Layout
+Findings
+\end_layout
+
+\begin_layout Plain Layout
+The distortion in the map paints a revealing picture about human activity
+ on the Internet.
+ China is now home to the world’s largest Internet population at over half
+ a billion.
+ The United States, India, and Japan then follow as the next most populous
+ nations of Internet users.
+\end_layout
+
+\begin_layout Plain Layout
+Looking at the largest Internet countries, we see two important trends.
+\end_layout
+
+\begin_layout Plain Layout
+First, the rise of Asia as the main contributor to the world’s Internet
+ population; 42% of the world’s Internet users live in Asia, and China,
+ India, and Japan alone host more Internet users than Europe and North America
+ combined.
+\end_layout
+
+\begin_layout Plain Layout
+Second, few of the world’s largest Internet countries fall into the top
+ category (>80%) of Internet penetration (and indeed India falls into the
+ lowest category, at <20% penetration).
+ In other words, in all of the world’s largest Internet nations, there is
+ still substantial room for growth.
+\end_layout
+
+\begin_layout Plain Layout
+We also see an interesting geographic pattern of Internet penetration.
+ All but four of the countries with an Internet penetration rate of over
+ 80% are in Europe (Canada, New Zealand, Qatar, and South Korea being the
+ exceptions).
+\end_layout
+
+\begin_layout Plain Layout
+The map also reveals interesting patterns in some of the world’s poorest
+ countries.
+ Most Latin American countries now can count over 40% of their citizens
+ as Internet users.
+ Because of this, Latin America as a whole now hosts almost as many Internet
+ users as the United States.
+\end_layout
+
+\begin_layout Plain Layout
+Some African countries have seen staggering growth, whereas other have seen
+ little change since we last mapped Internet use globally in 2008.
+ In the last three years, almost all North African countries doubled their
+ population of Internet users (Algeria being a notable exception).
+ Kenya, Nigeria, and South Africa, also saw massive growth.
+ However, it remains that over half of Sub-Saharan African countries have
+ an Internet penetration of less than 10%, and have seen very little grow
+ in recent years.
+\end_layout
+
+\begin_layout Plain Layout
+It is therefore important to remember that despite the massive impacts that
+ the Internet has on everyday life for many people, most people on our planet
+ remain entirely disconnected.
+ Only one third of the world’s population has access to the Internet.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+\begin_inset Graphics
+	filename gfx/Broadband_Affordability.png
+	lyxscale 5
+	width 80page%
+
+\end_inset
+
+
+\series default
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+Description
+\series default
+ -This map presents an overview of broadband affordability, as the relationship
+ between average yearly income per capita and the cost of a broadband subscripti
+on.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Data
+\end_layout
+
+\begin_layout Plain Layout
+The maps use the “Fixed (wired)-broadband monthly subscription charge, in
+ USD” indicator published by the International Telecommunication Union (ITU)
+ in the 17th edition of the World Telecommunication/ICT Indicators Database.
+ We map 2011 data, being the most recent information available for this
+ indicator in the dataset.
+\end_layout
+
+\begin_layout Plain Layout
+The ITU defines the indicator as the following: “Fixed (wired)-broadband
+ monthly subscription charge refers to the monthly subscription charge for
+ fixed (wired)-broadband Internet service.
+ Fixed (wired) broadband is considered to be any dedicated connection to
+ the Internet at downstream speeds equal to, or greater than, 256 kbit/s.
+ If several offers are available, preference should be given to the 256
+ kbit/s connection.”
+\end_layout
+
+\begin_layout Plain Layout
+The data also refer to the monthly cost of the cheapest entry-level subscription
+ in any place.
+ These values have been multiplied by twelve to obtain a yearly cost, and
+ weighted over the gross national income per capita (Atlas method, current
+ USD) data available from the World Bank, referring to the same year (2011).
+\end_layout
+
+\begin_layout Plain Layout
+The graph on the lower-left corner illustrates the evolution of the cost
+ of broadband over time.
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Findings
+\end_layout
+
+\begin_layout Plain Layout
+This visualization speaks to one of the core themes of the global digital
+ divide: the relative cost of being connected to the Internet.
+ The geographies of the phenomenon could hardly be more clear, and its consequen
+ces are illustrated in many other visualizations published on our website,
+ from the cartogram of the Internet population to the graphic depicting
+ the geographic distribution of the top-level domain names.
+\end_layout
+
+\begin_layout Plain Layout
+We see that the price of a broadband connection in most parts of Africa
+ is out of reach for people on average incomes.
+ Said differently, Africans need to pay ten times as much of their salary
+ (if looking at the ratio of income to connectivity costs) for broadband
+ as people in the rest of the world.
+\end_layout
+
+\begin_layout Plain Layout
+A monthly broadband subscription costs about 60 USD both in Australia and
+ Mozambique.
+ However, while the average yearly gross income in Australia is around 50,000
+ USD, the same figure in Mozambique is less than 500 USD.
+ This means that while an average worker in Australia could pay for a year’s
+ worth of connectivity with one week’s salary, a Mozambican worker would
+ need over one and a half year’s salary.
+\end_layout
+
+\begin_layout Plain Layout
+This situation does not mean that costs in Africa aren’t dropping.
+ The average cost of an African Internet connection is now half of what
+ it was four years ago, thanks to a series of cables laid around the African
+ continent in 2009.
+ Kenya and Nigeria, for instance, have 2011 broadband costs that are respectivel
+y 21% and 8% of what they were in 2008.
+ These changes have undoubtedly contributed to the significant growth in
+ the number of Internet users seen by both countries.
+ The most striking drop in broadband cost has been observed in Burkina Faso,
+ which has gone from over 1,700 USD a month to a most reasonable 55 USD
+ (which still, however, represents 100% of the salary of an average worker).
+\end_layout
+
+\begin_layout Plain Layout
+Eritrea is the country where the Internet is least affordable.
+ A yearly subscription there is the equivalent of almost fifty year’s worth
+ of an average salary: an entire life of work! Over 18 countries still face
+ costs of Internet subscriptions higher than the average income, including
+ 14 Sub-Saharan African countries, the landlocked countries of Afghanistan
+ and Tajikistan, and the islands of Kiribati and Solomon Islands.
+ A broadband Internet connection cost over 500 USD a month in the Central
+ African Republic, Guinea, Malawi, and Swaziland, as well as in Cuba, where,
+ according to the ITU, 1,700 USD was still not enough to buy a subscription.
+\end_layout
+
+\begin_layout Plain Layout
+India and Sri Lanka have the cheapest broadband access prices, where access
+ can be obtained for as little as 6 USD a month.
+ Europe and North America have higher absolute costs, ranging between about
+ 10 and 40 USD a month, but have some of the lowest relative costs in the
+ world: with a couple of hours of work a month being sufficient for an average
+ worker to afford the cost of connectivity.
+\end_layout
+
+\begin_layout Plain Layout
+The data mapped here are some of the world’s most important indicators.
+ Without the ability and means to connect, the opportunities, the information,
+ and the communication mediated and afforded by the Internet all remain
+ impossible.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Creation and Representation
 \end_layout

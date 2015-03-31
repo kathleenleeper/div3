@@ -2854,7 +2854,7 @@ ion of studies
 \end_layout
 
 \begin_layout Section
-Impact Factors & Gatekeeping 
+Impact Factors and Citations 
 \begin_inset CommandInset label
 LatexCommand label
 name "sub:Peer-Review-Impact-Factors"
@@ -2889,17 +2889,24 @@ key "Brembs2013"
 \end_layout
 
 \begin_layout Standard
-Citation is the metaphorical currency of science because it leads to real
- currency! 
-\begin_inset ERT
-status collapsed
+Citation is the metaphorical currency of science, a way of paying homage
+ to previous work and making sure scientists receive their proper due.
+ It also functions, in a globalized/linked/connected world, as convertible
+ and real currency.
+ Citation counts now function, however, as a proxy for scientific success,
+ first by those outside the academy, and now as a selection metric for researche
+rs engaged in the 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Plain Layout
+literature deluge
+\begin_inset Quotes erd
+\end_inset
 
-
-\backslash
-findref{citation as currency of science}
-\end_layout
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Figa-Talamanca2007"
 
 \end_inset
 
