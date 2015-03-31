@@ -1,3 +1,5 @@
+#what's open access?
+ * pubchase has an option to sort by "open access PDFs"
 #racism and the law
 [driving while black - ACLU](http://www.aclu.org/racial-justice/driving-while-black-racial-profiling-our-nations-highways)
 
