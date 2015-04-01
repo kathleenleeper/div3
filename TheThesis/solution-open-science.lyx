@@ -451,7 +451,7 @@ has
 \emph default
 take to fulfill the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -530,20 +530,9 @@ do
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{rapidly shifting paragraph, contingent on email from Sugimoto!!}
-\end_layout
-
-\end_inset
-
-One of my shaping and goals of this paper is self-bibliometrics; that inspiratio
-n draws from two papers, bibliometric studies of the 
+One of facets of this thesis is a self-bibliometrics; that inspiration draws
+ from two papers that examined the gender and geographic distribution of
+ the two scholarly databases, 
 \begin_inset ERT
 status collapsed
 
@@ -571,7 +560,7 @@ Role of Gender in Scholarly Authorship
  and and 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
-key "Sugimoto2013"
+key "Lariviere2013"
 
 \end_inset
 
@@ -579,8 +568,8 @@ key "Sugimoto2013"
 \emph on
 Global gender disparities in science
 \emph default
- have, I think, an enormous potential to be extended to different databases
- and personal libraries.
+ have enormous potential to help researchers assess the gender imbalance
+ in their own libraries.
  To my chagrin, however, despite one paper in 
 \begin_inset ERT
 status collapsed
@@ -599,19 +588,20 @@ ac{PLoS}
 Nature,
 \emph default
  which has recently implemented an open code policy, neither set of authors
- has released any code despite their results being 
+ has released any code, publicly or upon request, despite their results
+ being 
 \emph on
 entirely
 \emph default
- dependent on digital data manipulation and requests from a young undergraduate.
- If they had released their (even small bits of it) programming, it would
- have saved me hours of time, given my work a better base to build off,
- and let me do more.
+ dependent on digital data manipulation If they had released their (even
+ small bits of it) programming, it would have saved me hours of time, given
+ my work a better base to build off, and let me do more.
  
 \end_layout
 
 \begin_layout Standard
-Journal access is more basic -- I use an 
+Journal access is more basic.
+ Nearly all of my papers are adorned by an 
 \begin_inset ERT
 status collapsed
 
@@ -624,9 +614,8 @@ ac{MIT}
 
 \end_inset
 
- logo for most things.
- Even then, not all of the humanities journals or less prominent pharmacology
- journals are accessible.
+ logo, but even then, many humanities and lower-profile scientific journals
+ are behind paywalls.
  My barriers are largely price-related, but that's only because I'm not
  proficient enough as a coder to know how to effectively interact with machine-r
 eadable literature.
@@ -681,7 +670,7 @@ graffito{granted, a career only ~5 years long}
 
  so the discovery of a movement that validates my concern and proposes a
  mechanism to solve it is alluring and, despite hurdles, something I firmly
- believe would have changed, for the better, my science/life.
+ believe would have changed, for the better, the science I do.
 \end_layout
 
 \begin_layout Section
@@ -702,7 +691,7 @@ todo{where does passing off copyright of articles fit in?}
 \end_inset
 
 Open access scholarly publishing addresses the barriers to accessing peer-review
-ed scholarly journal articles, the unit of scholarly success.
+ed scholarly journal articles.
  An exclusively digital invention, 
 \begin_inset ERT
 status open
@@ -722,8 +711,8 @@ ac{OA}
 
 literature is digital, online, free of charge, and free of most copyright
  and licensing restrictions.
- It removes price barriers (subscriptions, licensing fees, pay-per-view
- fees, i.e.
+ Ideally, it removes both removes price barriers (subscriptions, licensing
+ fees, pay-per-view fees, i.e.
  gratis) and permission barriers (copyright and licensing, i.e.
  libre).
 \begin_inset Quotes erd
@@ -742,7 +731,7 @@ key "Suber2013"
 \begin_layout Standard
 More succinctly, 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -753,39 +742,24 @@ ac{OA}
 
 \end_inset
 
- literature has 
+ literature 
 \begin_inset Quotes eld
 \end_inset
 
-free availability and [allows] unrestricted use.
+has free availability and [allows] unrestricted use.
 \begin_inset Quotes erd
 \end_inset
 
  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{as per 
-\backslash
-ac{PLoS}}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
-Why the fuck might this work?
+The Flow of Money and Knowledge
 \end_layout
 
 \begin_layout Standard
-The debate about access to cultural products often occurs in the context
- of so-called 
+The debate around access to cultural products usually occurs in the context
+ of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -795,21 +769,22 @@ creative
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{"creative" being a loaded term, of}
+graffito{"creative" being a loaded term}
 \end_layout
 
 \end_inset
 
  industries.
  Who has the rights to remix music and movies? What does it mean to re-use
- published literature for fanfiction? Is pirating software wrong? It depends
- on who you ask, but usually boils down to: 
+ characters from published literature for fanfiction? Is pirating software
+ wrong? It depends on who you ask, but the argument against free culture
+ usually boils down to: 
 \begin_inset ERT
 status open
 
@@ -822,37 +797,34 @@ ac{IP}
 
 \end_inset
 
- costs money because the producers need to be paid.
- Musicians, artists, authors and filmmakers are paid via royalties or direct
- sale of their work.
+ should cost money because the producers need to be paid.
+ Musicians, artists, authors and filmmakers make their living via royalties
+ or direct sale of their work.
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 Although this is already troubled...fellowships and grants go to the art world
  etc.
+ And to be clear, I don't think
+\emph on
  
+\emph default
+the copyright terms 
+\emph on
+there
+\emph default
+ are really great either.
 \end_layout
 
 \end_inset
 
 
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-And to be clear, I don't think copyright is valid in THOSE cases either,
- but...
-\end_layout
-
-\end_inset
-
- 
 \end_layout
 
 \begin_layout Standard
-Scientific authors and their publishers, on the other hand occupy a specialized
- realm where actual release of knowledge is unaccompanied by any direct
+Scientific authors and their publishers, on the other hand, occupy a specialized
+ realm where the actual release of knowledge is unaccompanied by any direct
  movement of money into the author's pockets.
 \begin_inset Note Note
 status collapsed
@@ -878,7 +850,7 @@ The most important royalty-free literature for our purposes is the body
 
 \end_inset
 
- Scientific publishing moves forward without any expectation of direct payment
+ Scientific authors move forward without any expectation of direct payment
  (
 \begin_inset Quotes eld
 \end_inset
@@ -887,7 +859,7 @@ royalty-free literature
 \begin_inset Quotes erd
 \end_inset
 
-); scientists write for impact, not for money, and because advancing knowledge
+); they write for impact, not for money, and because advancing knowledge
  in their fields also advances their career.
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -895,91 +867,82 @@ key "Suber2013"
 
 \end_inset
 
- In many cases, scientists pay a per-page or per-figure fee to have their
- papers included at all.
- 
+
 \end_layout
 
 \begin_layout Standard
 This puts the debate about open access in a different place than contemporary
- movements for copyright-free cultural production in other realms; what,
- exactly, are we paying for?
+ movements for copyright-free cultural production in other realms; what
+ exactly 
+\emph on
+are
+\emph default
+ subscribers paying for?
 \end_layout
 
 \begin_layout Standard
-Journal subscriptions used to pay delivery of a hard copy to you(r local
- academic library).
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{functions of journals}
-\end_layout
-
-\end_inset
-
-One assumed subscription costs were largely a function of the work involved
- in collation and the physical manufacture and distribution costs
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-; while publishers also deal with corralling peer reviewers, typesetting,
- and other, many of those functions are also done in part or whole by scientists
- themselves.
- 
-\end_layout
+Scholarly journals provide, of course, a number of services -- one list
+ by a publisher at 
+\emph on
+Science
+\emph default
+ listed 82 hats a scientific publisher wears, from social media outreach
+ to the care and feeding of peer reviewers to handling to making sure articles
+ disclose all necessary conflicts of interest.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Anderson2014"
 
 \end_inset
 
-Ink on paper was the only way to access articles; it made sense to pay for
- the physical product.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-To adapt Richard Stallman's famous formulation (originally applied to software),
- gratis OA is free as in 'free beer', while libre OA is also free as in
- 'free speech'.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{where should open vs free be defined?}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-legally The legal basis of OA is the consent of the copyright holder (for
- newer literature) or the expiration of copyright (for older literature).
-\end_layout
-
-\end_inset
-
- 
+ They also used to provide, pre-Internet, delivery of a hard copy of the
+ journal to the you(r local academic library)'s doorstep.
+ One assumed subscription costs largely went to the paper-and-ink making
+ of the journals; paying substantial fees for the physical product was only
+ reasonably
 \end_layout
 
 \begin_layout Standard
 With the advent of digital publishing, the role of journals in adding value
  is significantly muddled.
  If journal authors aren't directly paid for their journal submissions,
- and physical costs are no longer a barrier, what are journals doing? If
- the goal is to disseminate information and advance science, why should
- other other scientists (or potential scientists) be barred from the universal
- pool of knowledge by an artificial digital barrier?
+ physical costs of production are insignificant, and libraries have downgraded
+ from owning paper copies to leasing digital entities, how have the services
+ provided by journals changed? If all the 
+\emph on
+other
+\emph default
+ participants
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{noting that even things like typesetting have often been passed
+ onto submitting authors in a digital era}
+\end_layout
+
+\end_inset
+
+ -- submitters, publishers, editors -- are doing their share of the work
+ for free, why is the publisher still posting profits of 30-50%, in the
+ realm of $106 million dollars? 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Morrison2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In moral terms, if the goal of publishing is to disseminate information
+ and advance science, why should other other scientists (or potential scientists
+) be barred from the universal pool of knowledge by an artificially-constructed
+ digital barrier? What are the other options?
 \end_layout
 
 \begin_layout Subsection
@@ -1527,12 +1490,10 @@ key "Stokes2013,Poldrack2013"
 \end_inset
 
  
-
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
 As I mentioned in response to Chris, I think the problem is not so much
  how to debug code (there are lots of great and clever tricks), but how
  to be systematic in debugging code that produces good or bad results.
@@ -1540,8 +1501,6 @@ As I mentioned in response to Chris, I think the problem is not so much
 
 \end_inset
 
-
-\lang english
 
 \begin_inset Note Note
 status open
