@@ -705,12 +705,15 @@ ac{OA}
 
 \end_inset
 
- literature is 
+ literature is
+\end_layout
+
+\begin_layout Quotation
 \begin_inset Quotes eld
 \end_inset
 
-literature is digital, online, free of charge, and free of most copyright
- and licensing restrictions.
+digital, online, free of charge, and free of most copyright and licensing
+ restrictions.
  Ideally, it removes both removes price barriers (subscriptions, licensing
  fees, pay-per-view fees, i.e.
  gratis) and permission barriers (copyright and licensing, i.e.
@@ -729,7 +732,28 @@ key "Suber2013"
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Subject, at max, to crediting the proper sources in your scientific
+ remix}
+\end_layout
+
+\end_inset
+
 More succinctly, 
+\begin_inset Quotes eld
+\end_inset
+
+true
+\begin_inset Quotes erd
+\end_inset
+
+ 
 \begin_inset ERT
 status collapsed
 
@@ -742,19 +766,11 @@ ac{OA}
 
 \end_inset
 
- literature 
-\begin_inset Quotes eld
-\end_inset
-
-has free availability and [allows] unrestricted use.
-\begin_inset Quotes erd
-\end_inset
-
- 
+ literature has free availability and allows unrestricted (re)use.
 \end_layout
 
-\begin_layout Subsubsection
-The Flow of Money and Knowledge
+\begin_layout Paragraph
+Money and Knowledge
 \end_layout
 
 \begin_layout Standard
@@ -895,20 +911,24 @@ key "Anderson2014"
 
 \end_inset
 
- They also used to provide, pre-Internet, delivery of a hard copy of the
- journal to the you(r local academic library)'s doorstep.
- One assumed subscription costs largely went to the paper-and-ink making
- of the journals; paying substantial fees for the physical product was only
- reasonably
+ Publishers 
+\emph on
+also
+\emph default
+ used to provide delivery of a hard copy of the journal to your local academic
+ library's doorstep.
+ One assumed subscription costs largely went to the paper-and-ink printing
+ costs; paying substantial fees for wnership of the physical product was
+ only reasonable.
 \end_layout
 
 \begin_layout Standard
 With the advent of digital publishing, the role of journals in adding value
- is significantly muddled.
+ to science is muddled.
  If journal authors aren't directly paid for their journal submissions,
  physical costs of production are insignificant, and libraries have downgraded
- from owning paper copies to leasing digital entities, how have the services
- provided by journals changed? If all the 
+ from owning paper copies to leasing digital entities, what are subscription
+ costs really paying for? If all the 
 \emph on
 other
 \emph default
@@ -920,15 +940,15 @@ status collapsed
 
 
 \backslash
-graffito{noting that even things like typesetting have often been passed
- onto submitting authors in a digital era}
+graffito{Even things like typesetting are now often passed onto submitting
+ authors in a digital era}
 \end_layout
 
 \end_inset
 
  -- submitters, publishers, editors -- are doing their share of the work
- for free, why is the publisher still posting profits of 30-50%, in the
- realm of $106 million dollars? 
+ for free, why is the publisher still posting profits of 30-40%, in the
+ realm of $106 million (John Wiley & Sons) and $1.1 billion (Elsevier)?
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Morrison2012"
@@ -940,9 +960,11 @@ key "Morrison2012"
 
 \begin_layout Standard
 In moral terms, if the goal of publishing is to disseminate information
- and advance science, why should other other scientists (or potential scientists
-) be barred from the universal pool of knowledge by an artificially-constructed
- digital barrier? What are the other options?
+ and advance science, why should other other scientists, or potential scientists
+, be barred from the universal pool of knowledge by an artificially-constructed
+ digital barrier? When taxpayers fund a great deal of the research, and
+ most contributors aren't directly paid, why not have unrestricted access
+ to the great project of Western science?
 \end_layout
 
 \begin_layout Subsection
@@ -1027,6 +1049,26 @@ Connectivity barriers.
  
 \end_layout
 
+\begin_layout Subsection
+Implementing Open Access
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{implementing open access}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Data
 \end_layout
@@ -1062,19 +1104,21 @@ let the data speak
  is the clarion call in any argument where you just want the 
 \emph on
 facts.
-
-\emph default
- Less wordily:
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-data a set of values of qualitative or quantitative variables collected
- during scientific activities; facts.
+
+\series bold
+data
+\series default
+ a set of values of qualitative or quantitative variables collected during
+ scientific activities
 \end_layout
 
 \begin_layout Standard
-In open science, data publication goes hand in hand with the 
+In open science, the publication of data sets goes hand in hand with the
+ 
 \begin_inset ERT
 status collapsed
 
@@ -1087,10 +1131,10 @@ ac{OA}
 
 \end_inset
 
- literature.
+.
  The goals: make data points work harder (i.e.
- in re-use and meta-analyses) and mean more (statistics and information
- available for double checking).
+ in re-use and meta-analyses) and mean more (i.e.
+ statistical manipulation and the raw numbers available for double checking).
 \begin_inset Note Note
 status collapsed
 
@@ -1111,7 +1155,7 @@ Open science data is a type of open data focused on publishing observations
 
 \end_inset
 
- 
+
 \begin_inset Note Note
 status collapsed
 
@@ -1131,7 +1175,7 @@ idea
 \end_layout
 
 \begin_layout Standard
-'Pure' data, collected for the sake of collecting, have been historically
+'Pure' data points, collected for non-specific purposes, have been historically
  important.
  Mendeleev's proposal for the periodic table of elements was based in part
  on published data on elemental melting points, colors, and densities.
@@ -1155,131 +1199,6 @@ findref{page number in mendeleev's}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-In our more digitally-minded age, open data is the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{NCBI}
-\end_layout
-
-\end_inset
-
- genetic databases and the terabytes of information released from each run
- of the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{LHC}
-\end_layout
-
-\end_inset
-
- in Geneva.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "CERNPressRelease2011"
-
-\end_inset
-
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- Open data ideally means 
-\emph on
-libre
-\emph default
-, but practically is often merely 
-\emph on
-gratis
-\emph default
-.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{NCBI licensing?}
-\end_layout
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The sequencing of the genome (of many genomes, actually) and subsequent
- publishing has enabled both basic biological research (e.g.
- primer design) and fields like bioinformatics to move forwards by leaps
- and bounds.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-research{how many people access that data daily?}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Subparagraph
-Meta-analyses
-\end_layout
-
-\begin_layout Standard
-Open data theoretically extends the useful life of data collections by combining
- and manipulating datasets, like bio-informatians using the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{NCBI}
-\end_layout
-
-\end_inset
-
- datasets to generate phylogenies and genetic analyses.
- Aggregating datasets allows for more thorough and meaningful meta-analyses
- (when the appropriate controls are in place, of course).
- 
-\end_layout
-
-\begin_layout Subparagraph
-Statistical reliability
-\end_layout
-
-\begin_layout Standard
-Open data hopes to achieve statistical reliability: your table of aggregate
- numbers becomes much more meaningful when we can manipulate the data ourselves.
 \end_layout
 
 \begin_layout Standard
@@ -1336,6 +1255,180 @@ data sets can be cited.
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+More recently, the biggest successes of massive data sets in applied science
+ have been in biology and astronomy.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stalzer2015"
+
+\end_inset
+
+ The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HGP}
+\end_layout
+
+\end_inset
+
+, declared complete in 2003, has enabled the discovery of over 1,800 disease-rel
+ated genes.
+ The deposition of the initial genomic sequences into the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NCBI}
+\end_layout
+
+\end_inset
+
+ databases and the precedent of genomic data-sharing that deposition set
+ has allowed 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{fact sheet on usage statistics of NCBI}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In astronomy, the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SDSS}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{sloan digital sky survey}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+Meta-analyses
+\end_layout
+
+\begin_layout Standard
+Open data extends the useful life of data collections by combining and manipulat
+ing datasets, like bio-informatians using the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NCBI}
+\end_layout
+
+\end_inset
+
+ datasets to generate phylogenies and genetic analyses.
+ Aggregating datasets allows for more thorough and meaningful meta-analyses
+ (when the appropriate controls are in place, of course).
+ 
+\end_layout
+
+\begin_layout Subparagraph
+Statistical reliability
+\end_layout
+
+\begin_layout Standard
+Open data hopes to achieve statistical reliability: your table of aggregate
+ numbers becomes much more meaningful when we can manipulate the data ourselves.
+\end_layout
+
+\begin_layout Subsection
+Why We're not doing it
+\end_layout
+
+\begin_layout Standard
+all from
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Pampel2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+“legal issues”, 
+\end_layout
+
+\begin_layout Enumerate
+“misuse of data” and 
+\end_layout
+
+\begin_layout Enumerate
+“incompatible data types” (Kuipers & Hoeven 2009)
+\end_layout
+
+\begin_layout Enumerate
+“insufficient time” and “lack of funding” (Tenopir et al.
+ 2011).
+ 
+\end_layout
+
+\begin_layout Standard
+campbell et al, 2002
+\end_layout
+
+\begin_layout Standard
+n this study that involved about 1,800 life science scientists, they identified
+ two central factors that hinder Data Sharing: “Lack of resources and issues
+ of scientific priority play an important role in scientists’ decisions
+ to withhold data, materials, and information from other academic geneticists.”
+\end_layout
+
+\begin_layout Standard
+Articles for which the underlying data is shared are more frequently cited
+ than articles for which this is not the case.
+ This is substantiated in studies from genetics (Piwowar et al.
+ 2007; Botstein 2010), astronomy (Henneken & Accomazzi 2011; Dorch 2012)
+ and paleoceanography (Sears 2011).
+\end_layout
+
+\begin_layout Subsubsection
+People are bad at statistics
 \end_layout
 
 \begin_layout Section
