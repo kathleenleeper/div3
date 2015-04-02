@@ -734,7 +734,7 @@ status open
 
 
 \backslash
-acro{IF}{Journal Impact Factor}
+acro{APC}{Article Processing Charge}
 \end_layout
 
 \end_inset
@@ -750,9 +750,7 @@ status open
 
 
 \backslash
-acro{WoK}{
-\backslash
-emph{Web of Knowledge}}
+acro{IF}{Journal Impact Factor}
 \end_layout
 
 \end_inset
@@ -801,6 +799,108 @@ status open
 
 \backslash
 acro{DIY}{Do It Yourself}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{HGP}{Human Genome Project}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Tools
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{WoK}{
+\backslash
+emph{Web of Knowledge}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{BLAST}{Basic Local Alignment Search Tool}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SDSS}{Sloan Digital Sky Survey}
 \end_layout
 
 \end_inset
