@@ -162,7 +162,7 @@ frenchspacing
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -180,7 +180,7 @@ pagenumbering{roman}
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -198,7 +198,7 @@ pagestyle{plain}
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -223,11 +223,11 @@ filename "Contents.lyx"
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 listoftodos
 \end_layout
@@ -296,18 +296,9 @@ pagenumbering{arabic}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset CommandInset include
 LatexCommand include
 filename "outline_chapters.lyx"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
@@ -453,12 +444,6 @@ filename "mol-neuro.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "OS-case-study.lyx"
@@ -468,17 +453,12 @@ filename "OS-case-study.lyx"
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "bibliometrics_case-study.lyx"
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 

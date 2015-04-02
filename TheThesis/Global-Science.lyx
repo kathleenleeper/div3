@@ -367,17 +367,6 @@ Representation & Science
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-summarizing JC here -- use numbers, explain papers more, generally more
- detail about the excplciit findings
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Representation_Science"
@@ -438,55 +427,94 @@ place blame on paper and grant reviewers, editors, faculty members, or other
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-I've broken this into three sections -- geography/localities, gender, and
- gender-localities, because that is how the literature is broken down and
- I'm not doing a meta-analysis\SpecialChar \@.
 
+
+\backslash
+todo[inline]{ this 
+\backslash
+% of women are in science, and this 
+\backslash
+% of burden of disease falls here, probably PAY GAPS}
 \end_layout
 
 \end_inset
 
-The classic feminist question is that of representation.
- How many (white, Latina, black, Asian, indigenous) women or people are
- involved in the workforce? How many of the Forbes 500 companies are headed
- by women? (24, for a whopping total of 4.8%; and only 1% are black, and
- 
+
+\end_layout
+
+\begin_layout Standard
+These are answers of a sort to the classic question of representation.
+ How many (white, Latina, black, Asian, indigenous) women and people are
+ in the workforce? How many of the Forbes 500 companies are headed by women?
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+24, for a whopping total of 4.8%; and only 1% are black, and 
 \emph on
 none
 \emph default
  are openly gay
+\end_layout
+
+\end_inset
+
+ For us, that means questions about who gets to make science, and who gets
+ credit for their work.
+ Which kinds of physical bodies does scientific research choose to include?
+ 
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{s
+graffito{Although not always men and/or women 
 \backslash
-&P 500 ladies}
+emph{of color}, and with an extremely strong pushback, in the scientific
+ establishment, against scientific Asian immigration}
 \end_layout
 
 \end_inset
 
-) For us, that means who gets to make science, and who gets credit for their
- work? Which bodies does scientific research think to include? Especially
- since the rise of a social consciousness in the 1960's, the push for more
- 
+In the academic culture of the U.S.
+ and Western Europe, since the rise of a modern social consciousness in
+ the 1960's, the push for more 
 \emph on
-women 
+women
 \emph default
-(although not always men or women of color, and with an extremely strong
- pushback against scientific Asian immigration) in science is one of our
- early introductions to the endemic problems of representation.
+ in science is one of our early introductions to the endemic problems of
+ representation.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{maybe link to next section but hopefully stands alone/cleaner
+ transition}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-The trouble with 'representation'
+The trouble with representation
 \end_layout
 
 \begin_layout Quotation
@@ -524,6 +552,16 @@ He interrupted me.
 
 \begin_layout Quotation
 \align right
+
+\size footnotesize
+\emph on
+We Have Always Fought, 
+\emph default
+Kameron
+\emph on
+ 
+\emph default
+
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Hurley2013"
@@ -534,35 +572,37 @@ key "Hurley2013"
 \end_layout
 
 \begin_layout Standard
-The historical context for representation converstaion -- women have never
- been allowed to participate in XYZ activity -- reduces the erasure by 
+The narratives around the participation of marginalized groups paint a world
+ where those groups have 
+\emph on
+never
+\emph default
+ participated in XYZ activity.
+ This accomplishes the complicated task of burying erasure by 
 \emph on
 our 
 \emph default
-culture into that of a story invisibility and repression by 
+culture in the invisibility and repression perpertrated by 
 \emph on
 their
 \emph default
- culture, the culture of the past or the current times, but outside of 
-\emph on
-us
-\emph default
-, right now.
- To talk about the lack of women in science and technology over the past
- 100 years is to ignore the many who 
+ culture.
+ To talk about the absence of women in science and technology over the past
+ 100 years is a disservice to the exceptional individuals who 
 \emph on
 did
 \emph default
  participate.
- It is not on them, but rather on us, to recognize that our histories elide
- the many and diverse Black, Brown, and White wo/men/of color.
- Women have always fought, and it' not their fault we refuse to count them.
+ It is not on them, but rather on us, to recognize the histories we tell
+ will, without serious work, elide the many and diverse Black, Brown, and
+ White wo/men/of color.
+ Women have always fought, and it's not their fault we refuse to count them.
  
 \end_layout
 
 \begin_layout Standard
-The other issue is more deeply embedded, but fundamental to newer kinds
- of knowledge projects.
+The other trouble is more deeply embedded, but fundamental to more flexible
+ feminist projects.
  We can ask where are the queers, but queer, like woman or black, is not
  an inherently meaningful category.
  Statistical questions about proportions of women and men, minorities to
@@ -571,7 +611,7 @@ The other issue is more deeply embedded, but fundamental to newer kinds
  Women, the political category, did not (one theorist argues) exist until
  just after WWII; class, too, was constructed.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -721,7 +761,7 @@ science
 \begin_inset Quotes erd
 \end_inset
 
- is subsumed to 
+ is representative 
 \begin_inset ERT
 status collapsed
 
@@ -734,16 +774,11 @@ ac{STEM}
 
 \end_inset
 
- fields, with biomedical research as part of 
-\begin_inset Quotes eld
-\end_inset
+ fields, with bio/medical research and clinical work largely the focus.
+\end_layout
 
-science
-\begin_inset Quotes erd
-\end_inset
-
-.
- Part of this derives purely from where meta-research has been done.
+\begin_layout Standard
+Part of this derives purely from where meta-research has been done.
  Clinical trials (and their representation, both in experimenters and in
  subjects) are 
 \begin_inset ERT
@@ -862,7 +897,15 @@ the global south
 \end_layout
 
 \begin_layout Section
-Counting Heads: Bibliometrics
+Measuring Representation
+\end_layout
+
+\begin_layout Standard
+The focus 
+\end_layout
+
+\begin_layout Subsection
+Confounds?
 \end_layout
 
 \begin_layout Standard
@@ -1027,10 +1070,6 @@ graffito{e.g.
 
 , and importance as a filter on the firehose of scholarly literature, an
  interesting and important source of data for bibliometric analysis.
-\begin_inset Newline newline
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1842,7 +1881,7 @@ ac{BRICs} countries
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2005,11 +2044,7 @@ Clinical trials of drugs occur in an approximately inverse way to the medical
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2135,9 +2170,6 @@ heart disease, car crashes
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -2328,15 +2360,12 @@ Many Southern African research projects are small, local projects, confined
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo[inline,backgroundcolor=highegg]{finish this section with a conclusion,
  obviously}
@@ -2349,12 +2378,12 @@ todo[inline,backgroundcolor=highegg]{finish this section with a conclusion,
 
 \begin_layout Standard
 \begin_inset Branch global-science
-status collapsed
+status open
 
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "cnltx,CriticalOpenNeuro"
+bibfiles "CriticalOpenNeuro"
 options "plainnat"
 
 \end_inset
