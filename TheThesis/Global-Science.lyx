@@ -83,7 +83,7 @@
 
 \begin_layout Standard
 \begin_inset Branch global-science
-status collapsed
+status open
 
 \begin_layout Standard
 \begin_inset ERT
@@ -111,7 +111,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 listoftodos
 \end_layout
@@ -119,190 +119,12 @@ listoftodos
 \end_inset
 
 
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Acronyms
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
- Canada
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{RoW}{"Rest of World"}, for what that's worth
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OECD}{Organisation for Economic Co-operation and Development}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
- and scientific powerhouse countries
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IF}{Impact Factor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UB FoH}{University of Botswana, Faculties of Humanities}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UoM FoS}{University of Mauritius, Faculties of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UCT Comm}{University of Cape Town, Commerce}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{STEM}{Science, Technology, Engineering, and Math}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -315,7 +137,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 acro{SCI}{Science Citation Index}
 \end_layout
@@ -331,25 +153,9 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 acro{WoS}{Web of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
 \end_layout
 
 \end_inset
@@ -434,11 +240,12 @@ status collapsed
 
 
 \backslash
-todo[inline]{ this 
+todo[inline]{intro of ~statistics~.
+ This 
 \backslash
 % of women are in science, and this 
 \backslash
-% of burden of disease falls here, probably PAY GAPS}
+% of burden of disease falls here, probably PAY GAPS?}
 \end_layout
 
 \end_inset
@@ -447,9 +254,48 @@ todo[inline]{ this
 \end_layout
 
 \begin_layout Standard
-These are answers of a sort to the classic question of representation.
- How many (white, Latina, black, Asian, indigenous) women and people are
- in the workforce? How many of the Forbes 500 companies are headed by women?
+These are answers to the classic question of representation.
+ How many women and people of color
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Women
+\begin_inset Quotes erd
+\end_inset
+
+ is not meant as just white ciswomen, but is inclusive of those assigned,
+ identifying as, or read as female, of all races.
+ People of color is not just men of color, but the women of color under
+ the 'double-bind' of racism and sexism.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "EditorsoftheHarvardEducationalReview2011"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ are in the workforce?
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{capitalization of different races? which ones?}
+\end_layout
+
+\end_inset
+
+ How many of the Forbes 500 companies are headed by women?
 \begin_inset Foot
 status collapsed
 
@@ -477,23 +323,17 @@ status collapsed
 
 
 \backslash
-graffito{Although not always men and/or women 
-\backslash
-emph{of color}, and with an extremely strong pushback, in the scientific
- establishment, against scientific Asian immigration}
+graffito{Although not always men and/or women of color, and with an extremely
+ strong xenophobic bent in the scientific establishment against the 'yellow
+ peril' of South and East Asian immigration}
 \end_layout
 
 \end_inset
 
-In the academic culture of the U.S.
+In the U.S.
  and Western Europe, since the rise of a modern social consciousness in
- the 1960's, the push for more 
-\emph on
-women
-\emph default
- in science is one of our early introductions to the endemic problems of
- representation.
- 
+ the 1960's, the push for more women in science is one of our early introduction
+s to the endemic problems of representation.
 \end_layout
 
 \begin_layout Standard
@@ -504,8 +344,8 @@ status collapsed
 
 
 \backslash
-todo[inline]{maybe link to next section but hopefully stands alone/cleaner
- transition}
+todo[inline]{maybe link to next section but hopefully stands alone? can
+ be a cleaner transition}
 \end_layout
 
 \end_inset
@@ -582,11 +422,23 @@ never
 \emph on
 our 
 \emph default
-culture in the invisibility and repression perpertrated by 
+culture in the invisibility and repression perpetrated by 
 \emph on
 their
 \emph default
  culture.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{awkward phrasing}
+\end_layout
+
+\end_inset
+
  To talk about the absence of women in science and technology over the past
  100 years is a disservice to the exceptional individuals who 
 \emph on
@@ -601,30 +453,41 @@ did
 \end_layout
 
 \begin_layout Standard
-The other trouble is more deeply embedded, but fundamental to more flexible
+The other trouble is more deeply embedded, but fundamental to more adaptable
  feminist projects.
  We can ask where are the queers, but queer, like woman or black, is not
  an inherently meaningful category.
- Statistical questions about proportions of women and men, minorities to
- White, or tall to small reinstate (re-inscribe?) recently developed social
- relations; race has not always defined us.
- Women, the political category, did not (one theorist argues) exist until
- just after WWII; class, too, was constructed.
+ Statistical questions about proportions of gendered people
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{per cyborg manifesto}
+rewrite{phrasing -- include non-binary.
+ "You." As LJ put it}
 \end_layout
 
 \end_inset
 
- Analyzing on a large scale based on these tropes of natural categories
- presumes their naturalness.
- 
+, minorities to White, or tall to small reinstate (re-inscribe?) recently
+ developed social relations; race has not always defined us.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{social construction of race}
+\end_layout
+
+\end_inset
+
+ Analyzing society on a large scale based on these tropes of natural categories
+ presumes their biological and cultural naturalness, and in Donna Haraway's
+ words, 
 \end_layout
 
 \begin_layout Quote
@@ -632,10 +495,22 @@ findref{per cyborg manifesto}
 \end_inset
 
 There is nothing about being 'female' that naturally binds women.
+\size footnotesize
+
 \begin_inset Quotes erd
 \end_inset
 
  
+\end_layout
+
+\begin_layout Quote
+\align right
+
+\size footnotesize
+\emph on
+A Cyborg Manifesto,
+\emph default
+ Donna 
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Haraway1991"
@@ -646,12 +521,38 @@ key "Haraway1991"
 \end_layout
 
 \begin_layout Standard
-The push for more women on itself also suffers from the delusion that more
- women in science will make a better kind of science.
- Early feminist projects made representation a goal, under the beliefe that
- more equity naturally leads to more holistic and culturally sensitive knowledge.
- To some extent, that's true: researchers who cross gender boundaries might
- be less likely to presume the existence of 
+Her argument in 
+\emph on
+A Cyborg Manifesto
+\emph default
+ for 
+\begin_inset Quotes eld
+\end_inset
+
+building coalitions through affinity, not identity
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Haraway1991"
+
+\end_inset
+
+ is a counterpoint to early feminist beliefs that more women would inherently
+ lead to a more 
+\begin_inset Quotes eld
+\end_inset
+
+feminine
+\begin_inset Quotes erd
+\end_inset
+
+ and responsible science.
+ To some extent, that's true.
+ Researchers who have to cross gender boundaries might be less likely to
+ presume the existence of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -667,17 +568,48 @@ female
 \begin_inset Quotes erd
 \end_inset
 
- hormones, and Black and Brown researchers less likely to assume the default
- of White histories for guiding their research in biological paradigms.
- But the kind of feminist knowledge project that accepts the value-driven
- nature of knowledge does not just 
+ hormones; Black and Brown researchers may be less likely to assume the
+ default of White histories for guiding their research in biological paradigms.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{phrasing -- maybe see Banu, Moored Metamorphoses for guide?}
+\end_layout
+
+\end_inset
+
+ But on the whole, there is a divide between the goals of women 
 \emph on
-happen.
+in
+\emph default
+ science i.e.
+ representation and women 
+\emph on
+and 
+\emph default
+science
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{women in /& and science}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Nonetheless, knowing more about who is making and participating in science
- is a necessary layer to a revised open science.
+ is a necessary layer to a revised open/science.
  The history of science is a line of Great White Men; our current role models
  continue to be Great White Men.
  I am incapable of naming, even now, high-profile women scientists.
@@ -689,14 +621,14 @@ status collapsed
 
 
 \backslash
-graffito{If you're wondering whether this still sucks, yes, it does.}
+graffito{If you're wondering whether this still sucks, why yes! It does.}
 \end_layout
 
 \end_inset
 
  Are there any? Who makes our shit?
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -709,9 +641,6 @@ rewrite{this linking paragraph about why I think rep.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -748,12 +677,54 @@ Women in science are only looking for role models, vs.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+MELANIE
+\end_layout
+
+\begin_layout Plain Layout
+- important to be able to study ourselves, instead of white dudes doing
+ it ourself
+\end_layout
+
+\begin_layout Plain Layout
+look up: photo voice, public health
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
-Some Notes
+Terminology Notes
 \end_layout
 
 \begin_layout Standard
-As a category here, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Terminology matters and I like to be specific, sometimes}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subparagraph
+Science
+\end_layout
+
+\begin_layout Standard
+As the category used here, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -761,7 +732,7 @@ science
 \begin_inset Quotes erd
 \end_inset
 
- is representative 
+ plays representative to the 
 \begin_inset ERT
 status collapsed
 
@@ -774,13 +745,12 @@ ac{STEM}
 
 \end_inset
 
- fields, with bio/medical research and clinical work largely the focus.
+ fields, focusing largely on bio/medical research and clinical applications.
 \end_layout
 
 \begin_layout Standard
-Part of this derives purely from where meta-research has been done.
- Clinical trials (and their representation, both in experimenters and in
- subjects) are 
+This focus derives largely from where meta-research has been done.
+ Clinical trials are 
 \begin_inset ERT
 status collapsed
 
@@ -794,14 +764,27 @@ todo{rephrase}
 \end_inset
 
  prioritized as study objects, plausibly because the effect is more clear
- -- studying a medicine in only men completely ignores 50% of the population
- who might also succumb to a disease.
- That's just good science; clinical research is immediately flawed when
- representation of different bodies isn't taken into account.
+ -- studying a medicine in only men ignores the other 50% of the population
+ who might succumb to a disease.
+ Testing malaria medications in a 
+\begin_inset Quotes eld
+\end_inset
+
+developed
+\begin_inset Quotes erd
+\end_inset
+
+country is clearly not particualrly generalizable to a country with a completely
+ different infrastracture.
+ That's just good science; of 
+\emph on
+course 
+\emph default
+clinical research is flawed when different bodies aren't taken into account.
 \end_layout
 
 \begin_layout Standard
-Clinical trials are also lower on a perceived 
+Clinical trials and biological research are also lower on a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -809,10 +792,20 @@ Hierarchy of Sciences
 \begin_inset Quotes erd
 \end_inset
 
-.
- Biomedical research is thus more susceptible to criticisms based on representat
-ion, unlike a field of high energy physics, where where and who produces
- science shouldn't matter.
+, which predicts that as we move from simple systems (partical dynamics)
+ to complex (human behavior), researchers are less able to reach theoretical
+ and methodological consensus.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2013a"
+
+\end_inset
+
+ Said differently, biomedical research has more factors to manage and is
+ thus more susceptible to social critiques.
+ In high-energy physics, it shouldn't really matter where the research capacity
+ is.
 \begin_inset ERT
 status collapsed
 
@@ -864,7 +857,6 @@ not be the case?
 
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
 Ii you don't have internet access, you can't even do bioinformatics.
  Entire scientific fields are built purely on the internet.
@@ -884,28 +876,141 @@ research{science without internet}
 
 \end_layout
 
-\begin_layout Itemize
-define 
-\begin_inset Quotes eld
-\end_inset
-
-the global south
-\begin_inset Quotes erd
-\end_inset
-
-, and gender? MAYBE IDK MAN
-\end_layout
-
-\begin_layout Section
-Measuring Representation
+\end_deeper
+\begin_layout Subparagraph
+Global divides 
 \end_layout
 
 \begin_layout Standard
-The focus 
+There is a widely-acknowledged economic, and corresponding scientific, gap
+ between areas of the world.
+ During the Soviet era, this was a West-East or First/Second/Third world
+ split.
+ In 1949, Harry Truman used the term 
+\begin_inset Quotes eld
+\end_inset
+
+areas needing development,
+\begin_inset Quotes erd
+\end_inset
+
+ and for many years, the divide was between developed and developing countries.
+ 
+\end_layout
+
+\begin_layout Standard
+While the 
+\begin_inset Quotes eld
+\end_inset
+
+divide
+\begin_inset Quotes erd
+\end_inset
+
+ itself is as porous as any binary
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{too casual a reference to fucking binaries?}
+\end_layout
+
+\end_inset
+
+, and subject to so many exceptions it's hardly a rule at all, we need some
+ term to easily paint a picture of the approximate lines of the scientific
+ divide
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Quotes eld
+\end_inset
+
+Global
+\begin_inset space ~
+\end_inset
+
+South
+\begin_inset Quotes erd
+\end_inset
+
+ divides the globe along the equator into the economically wealthy (North,
+ plus Australia and New Zealand) and poor (South).
+ While less blatantly judgemental and not a terrible choice, 
+\begin_inset Quotes eld
+\end_inset
+
+the South
+\begin_inset Quotes erd
+\end_inset
+
+ eliminates the global poor north of the equator, ignores the immense diversity
+ among countries, and continues to define the scope of the world largely
+ around the the G8 nations of the North.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{G8 - France, Germany, Italy, the United Kingdom, Japan, the United
+ States, Canada, and Russia}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Quotes eld
+\end_inset
+
+Majority
+\begin_inset space ~
+\end_inset
+
+world
+\begin_inset Quotes erd
+\end_inset
+
+ is an alternative was coined by writer and photographer Shahidul Alam.
+ It highlights that the G8 countries making world-shaping decisions actually
+ represent a tiny fraction of humankind.
+\end_layout
+
+\begin_layout Section
+Representation
+\end_layout
+
+\begin_layout Standard
+The areas of representation I'm interested in exploring are both sides of
+ the research experience, i.e.
+ who is doing research, and what topics and people are their objects of
+ study?
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{more on the topics of rep}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Confounds?
+Counting Heads: Are bibliometrics global?
 \end_layout
 
 \begin_layout Standard
@@ -1080,18 +1185,21 @@ That 4% of included journals/country is something to explore a little bit
 \emph on
 If
 \emph default
- all countries were producing equally, indexing 4% of journals would be
- less distressing.
- But in reality, nearly all of the most highly respected journals are published
+ all countries were producing proportionally to their populations, indexing
+ just 4% of journals would be less distressing.
+ You could assume you were catching just the cream of the global intellectual
+ crop.
+ But in reality, nearly all of the most respected journals are published
  from the U.S.
- and the U.K., 
+ and the U.K.
+ 
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "fig:location-of-academic-knowledge"
 
 \end_inset
 
- shows, in terms of raw numbers, the 
+ sho the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1196,7 +1304,7 @@ c, objective means to critically evaluate the world’s leading journals,"
 
 \end_inset
 
- -- the U.S.
+The U.S.
  and U.K produce more 
 \begin_inset ERT
 status collapsed
@@ -1237,12 +1345,16 @@ key "Wagner2012"
 
 \end_inset
 
- than the rest of the world combined; Switzerland dwarfs, by a factor of
- 3, the entire continent of Africa.
- Not only do the formerly-colonized countries fare poorly in quantity, they
- have systematically lower 
+ than the rest of the world combined; Switzerland dwarfs by a factor of
+ 3 the 
+\emph on
+entire
+\emph default
+ continent of Africa.
+ Not only do the formerly-colonized countries of the majority world fare
+ poorly in quantity, their citation rates, as measured by the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1253,9 +1365,30 @@ ac{IF}
 
 \end_inset
 
-s.
- What few journals are included are cited less often and therefore 'contribute
- less' to the global pool of scientific information.
+, are systematically lower.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Graham2011"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{meaning of low impact factor; also cover that if things aren't cited,
+ they can't be seen? maybe this is already clear.
+ but to appear in the SCIE, you have to be cited, even if it's not in a
+ high impact journal}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1350,20 +1483,35 @@ Number of native speakers, in millions
 
 \end_inset
 
-These journals from the global South are further disadvantaged by the Thomson
- Reuters standards for quality.
- Notably, the English language bias/requirement, as well astendency towards
- journals that are 
-\begin_inset Quotes eld
+That isn't so surprising in light of the Thomson-Reuters standards for quality
+ and inclusion in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SCI}
+\end_layout
+
 \end_inset
 
-universally interesting
-\begin_inset Quotes erd
+ indexing, and thus the assignment of an 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
 \end_inset
 
- -- i.e.
- not regionally specific journals.
- Their standards for inclusion on the basis of language:
+.
+ Thomson-Reuters states:
 \end_layout
 
 \begin_layout Quote
@@ -1377,13 +1525,17 @@ English is the universal language of science
 \SpecialChar \ldots{}
 There are many journals covered in Web of Science that publish articles
  with bibliographic information in English and full text in another language.
- However, going forward, 
+ However, going forward, it is clear
 \emph on
-it is clear that the journals most important to the international research
- community will publish full text in English.
- This is especially true in the natural sciences
+ 
 \emph default
-\SpecialChar \ldots{}
+that 
+\emph on
+the journals most important to the international research community will
+ publish full text in English.
+ 
+\emph default
+This is especially true in the natural sciences\SpecialChar \ldots{}
 
 \begin_inset Quotes erd
 \end_inset
@@ -1429,9 +1581,9 @@ Regional journals often target a local rather than an international audience,
 \end_layout
 
 \begin_layout Standard
-So our major metric (the 
+So the major metric (the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1442,13 +1594,47 @@ ac{IF}
 
 \end_inset
 
-), somewhat indicative of what literature is find-able (e.g.
- visible) to researchers using relatively-respected search engines, essentially
- does not include local journals, requires English-language publication,
- and is swamped by journals originating from the U.K.
+), which is linked to the visibility of the literature to authors, essentially
+ does not include locally-specific journals and 
+\emph on
+requires
+\emph default
+ English-language publication.
+ It is swamped by journals originating from the U.K.
  and the U.S.
- With all those extensive caveats in mind, these are still useful aggregates
- of information.
+ by virtue of their language, so the statistics captured by the massive
+ databases used in many bibliometric studies systematically exclude, for
+ example, most of the scholarship emerging from Brazil.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{brazilian scientific productivity}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{transition}
+\end_layout
+
+\end_inset
+
+And now, I think most of our caveats are out of the way.
+ Let's get to numbers! Maybe!
 \begin_inset Note Note
 status collapsed
 
@@ -1495,30 +1681,162 @@ Gender Disparities
 \begin_inset Quotes eld
 \end_inset
 
-Although there are more female than male undergraduate [especially in 
-\begin_inset Quotes eld
-\end_inset
-
-softer
-\begin_inset Quotes erd
-\end_inset
-
- scientific fields
-\begin_inset Quotes erd
-\end_inset
-
- and graduate students in many countries, there are relatively few female
- full professors, and gender inequalities in hiring, earning, funding, satisfact
-ion and patenting persist.
+Although there are more female than male undergraduates and graduate students
+ in many countries, there are relatively few female full professors, and
+ gender inequalities in hiring, earning, funding, satisfaction and patenting
+ persist.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_layout Quote
+\align right
+
+\size footnotesize
+\emph on
+Global gender disparities in science,
+\emph default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Lariviere2013"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-Quantitition of gender disparities in measures of scholarly output and has
- been few and far between -- 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{being a queer in science?}
+\end_layout
+
+\end_inset
+
+Since the 1970s and the establishment of equal rights legislation banning
+ outright discrimination against women and minority groups, the fate of
+ marginalized groups in the sciences has improved.
+ in 2011, women received 54% of molecular biology PhDs.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Leslie}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{women and people have made progress in representation yay!}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Unsurprisingly, most of these statistics vary broadly between fields
+ and subfields
+\end_layout
+
+\end_inset
+
+The scientific establishments still have a long way to go.
+ Although explicit discrimination is borderline culturally unacceptable
+ in much of the world, gender disparities still exist in more subtle, yet
+ meainingful ways.
+ On average, women publish less often than men; the difference is especially
+ marked in fields with a high 
+research expenditures, like molecular biology and physics.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Duch2012"
+
+\end_inset
+
+ 
+\lang english
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{review "vanish box" idea -- women leaving academia for industry? maybe
+ in a longer review?}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+females hold about 16% of faculty positions in chemistry and in material
+ science departments, and about 25% of faculty positions in molecular biology
+ departments.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Duch2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Many of the studies examining gender disparities are 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{mention imp.
+ of author order?}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1526,9 +1844,14 @@ highly localized, mono-disciplinary, and dated
 \begin_inset Quotes erd
 \end_inset
 
-.
- They often take little account of the rise in collaborative research and
- a changing scholarly landscape.
+, and often fail to take into account the changing scholarly landscape of
+ increased collaboration and 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lariviere2013"
+
+\end_inset
+
  
 \begin_inset CommandInset citation
 LatexCommand citet
@@ -1641,6 +1964,10 @@ Also, HUGE points for their methods and reproducibility, e.g.
 \end_layout
 
 \begin_layout Subsection
+Race in the academy
+\end_layout
+
+\begin_layout Subsection
 Where are they from?
 \end_layout
 
@@ -1671,8 +1998,7 @@ key "Sumathipala2004"
 \end_inset
 
  examined the geographic distribution, via the proxy of instituational affiliati
-on, of authors publishing in five major medical journals over 1999 and 2000
- (
+on, of authors in five major medical journals over 1999 and 2000 (
 \emph on
 BMJ
 \emph default
@@ -1881,7 +2207,7 @@ ac{BRICs} countries
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1889,6 +2215,22 @@ status open
 \backslash
 todo[inline]{ geographic disparities with up-to-date info? besides sugimoto
  paper}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{representation by discipline globally?}
 \end_layout
 
 \end_inset
@@ -1910,39 +2252,6 @@ key "Henry2014"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Section
-Is everybody a super sexist xenophobic jerk?
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{probably}
-\end_layout
-
-\end_inset
-
-Many trends are likely not actually markers of overt discrimination against
- women in 
-\emph on
-publishing
-\emph default
-, but rather that women aren't making it to the top ranks of science and
- thus are not in a position to be publishing or collaborating on the most
- important papers.
- Age of the investigator may be 
-\emph on
-the 
-\emph default
-determining role; older investigators have had more time to build careers,
- and had systematic advantages in the past.
 \end_layout
 
 \begin_layout Section
@@ -2102,8 +2411,8 @@ key "Rochon2004"
 
 \begin_layout Standard
 These are largely causes that affect the socioeconomically depressed, which
- also means disproportionately people, specifically women of color, most
- typically on the women in the global South.
+ also means disproportionately people, specifically women of color and those
+ in the majority world.
 \begin_inset Note Note
 status collapsed
 
@@ -2374,6 +2683,47 @@ todo[inline,backgroundcolor=highegg]{finish this section with a conclusion,
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection
+Focus on the minority world
+\end_layout
+
+\begin_layout Standard
+whose problems
+\end_layout
+
+\begin_layout Section
+Is everybody a super sexist xenophobic jerk?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{probably}
+\end_layout
+
+\end_inset
+
+Many trends are likely not actually markers of overt discrimination against
+ women in 
+\emph on
+publishing
+\emph default
+, but rather that women aren't making it to the top ranks of science and
+ thus are not in a position to be publishing or collaborating on the most
+ important papers.
+ Age of the investigator may be 
+\emph on
+the 
+\emph default
+determining role; older investigators have had more time to build careers,
+ and had systematic advantages in the past.
 \end_layout
 
 \begin_layout Standard
