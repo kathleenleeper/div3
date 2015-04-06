@@ -993,8 +993,22 @@ todo[inline]{current goals/what's accomplished w/ publishing}
 \end_layout
 
 \begin_layout Standard
-The modern journal article has multiple origin stories, reasons of funding
- or happenstance.
+Publishing benefits the scientist predominantly in an indirect sense.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The actual scientific study behind modern journal articles has multiple
+ origin stories; papers arise from a variety of both serendipitious and
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -1007,7 +1021,7 @@ an idea, late at night (Otto Loewi, discovery of acetylcholine)
 \end_layout
 
 \begin_layout Itemize
-previously established work by a lab (routine and boring research)
+previously established work by a lab (routine X->Y->Z)
 \end_layout
 
 \begin_layout Itemize
@@ -1140,8 +1154,9 @@ findref{current scholarly system}
 \begin_layout Standard
 Pre-Internet, the cost of the journal was tied to the costs of printing
  and physical distribution.
- With that barrier out of the way, replaced by digital access, it's hard
- to see exactly how worthwhile the services of publishers are.
+ With that barrier out of the way, replaced by digital access, it's harder
+ to see exactly why the major publishers that control the market are still
+ making profit rates between 32%-50%, to the tun
 \end_layout
 
 \begin_layout Section
@@ -1200,7 +1215,7 @@ I've been working from primary scientific literature since my first semester
  searches that I immediately slammed up against pay walls to the papers
  I wanted.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1215,47 +1230,10 @@ emph{1867}.}
 
 \end_inset
 
- So did everyone else I knew.
- I've spent the past four years of my education begging for paper access
- from friends at UMass, in pharma, and at MIT.
+
 \end_layout
 
 \begin_layout Standard
-Let's be clear: If I did not have a very good friend at 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{MIT}
-\end_layout
-
-\end_inset
-
-, the extreme breadth of sources at the bottom of this paper would be reduced
- by at least half.
- 
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Data forthcoming.
-\end_layout
-
-\end_inset
-
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-While Hampshire's paucity of journal access is perhaps extreme, even the
- wealthiest of school librarians call journal prices prohibitive.
- In April of 2012, Harvard University issued a memo in which it stated it
- could not continue to afford the 3.5M in journal subscriptions.
- 
 \begin_inset ERT
 status open
 
@@ -1263,60 +1241,9 @@ status open
 
 
 \backslash
-graffito {presumes internet access; presumes journals are highest repository
- of info; presumes major barrier is dollars, not quality of research}
-\end_layout
-
-\end_inset
-
- From the mere practical standpoint of a consumer, economically unsustainable.
- 
-\end_layout
-
-\end_inset
-
- Even at 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{MIT}
-\end_layout
-
-\end_inset
-
-, there's numerous journals out of reach.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{Data about access 
-\backslash
-& paywalls here}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{A sense of outrage at these monetary barriers to research that
- is (a) publically funded and (b) all of the writing/production is done
- by uncompensated scientists.}
+todo[inline]{Data about access and paywalls; idea of a sense of outrage
+ at these monetary barriers to research that is (a) publically funded and
+ (b) all of the writing/production is done by uncompensated scientists.}
 \end_layout
 
 \end_inset
@@ -1399,9 +1326,6 @@ esearch-notes-from-the-field#sthash.u33Xh9M4.dpuf
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
 name "sub:Reproducibility-and-Retraction:"

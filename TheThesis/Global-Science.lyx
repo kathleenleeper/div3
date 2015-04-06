@@ -593,13 +593,15 @@ and
 \emph default
 science
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-rewrite{women in /& and science}
+rewrite{women in 
+\backslash
+& and science}
 \end_layout
 
 \end_inset
@@ -1018,7 +1020,7 @@ Bibliometrics or scientometrics is the meta analysis of sicentific relationships
 , to tell us something about the state of the field.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1710,7 +1712,7 @@ key "Lariviere2013"
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1742,7 +1744,7 @@ findref{Leslie}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1758,14 +1760,14 @@ todo[inline]{women and people have made progress in representation yay!}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
 graffito{Unsurprisingly, most of these statistics vary broadly between fields
- and subfields
+ and subfields}
 \end_layout
 
 \end_inset
@@ -1775,8 +1777,8 @@ The scientific establishments still have a long way to go.
  in much of the world, gender disparities still exist in more subtle, yet
  meainingful ways.
  On average, women publish less often than men; the difference is especially
- marked in fields with a high 
-research expenditures, like molecular biology and physics.
+ marked in fields with a high research expenditures, like molecular biology
+ and physics.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Duch2012"
@@ -1784,8 +1786,6 @@ key "Duch2012"
 \end_inset
 
  
-\lang english
-
 \begin_inset ERT
 status collapsed
 
