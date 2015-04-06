@@ -154,9 +154,10 @@ ac{OA}
 \end_inset
 
  and open science comes from conversations about software freedoms and technolog
-y my first few weeks on campus; I started with psychedelics because they
- lay so cleanly at the intersection of my personal experiences and what
- biology can answer.
+y my first few weeks on campus.
+ I started with psychedelics because they lay so cleanly at the intersection
+ of my personal experiences and the kinds of questions I thought biology
+ could asnswer.
  I started with feminist theories and ways of (re) constructing the world
  with academic feminism because the disconnect between my labwork and the
  social movements that constitute our lives made a gap so great I thought
@@ -177,9 +178,9 @@ These
 \end_layout
 
 \begin_layout Standard
-This chapter is more of a clean-up than anything new; ideally, the previous
- pages have both informed and consciously shaped that information flow.
- Gender is no longer an additional layer of analysis; it was always there.
+This chapter is ideally more of recollection and a plan to go forward.
+ Gender is no longer an additional layer of analysis tucked at the end of
+ the scientific section; it was always there.
  Access to literature and code were/are fundamental parts of writing this;
  who wrote my software and what choices they made, and what values they
  did/not consider have already shaped the rest of this piece.
@@ -204,7 +205,20 @@ lly significant research
 Talking about the subjective experience of psychedelics seems a slippery
  anecdotal path, unless I'm drawing on the qualitiative interviews and quantitat
 ive brain-imaging studies performed at the Vollenweider lab in Zurich, or
- the accounts of LSD and psilocybin as psychotherapy adjuncts at 
+ the accounts of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ and psilocybin as psychotherapy adjuncts at 
 \begin_inset ERT
 status collapsed
 
@@ -231,9 +245,9 @@ findref{studies}
 \end_inset
 
  To use sources from outside the peer-reviewed literature doesn't just feel
- academically unsound, it cuts at some essential notions I maintain about
- the necessary qualities of controls, peer review, and a sense of separation
- between experimenter and experimentees.
+ academically unsound, it cuts at some essential notions I maintain and
+ struggle to complicate about the necessary qualities of controls, peer
+ review, and a sense of separation between experimenter and experimentees.
 \end_layout
 
 \begin_layout Labeling
@@ -247,9 +261,8 @@ explicitly
 \end_layout
 
 \begin_layout Standard
-In reality, I've learned much more about drug experiences and the communities
- -- and current usage -- that surrounds them from the Erowid vaults, and
- from voluntary stories, and from conversations.
+In reality, I've learned much more about the communities of and around drug
+ experiences them from the Erowid vaults, voluntary stories, and conversations.
  
 \end_layout
 
@@ -308,7 +321,11 @@ me,
 access is an issue -- and knowing that means I am more prone to being critical
  and more qualified to provide counterpoints to statistical arguments with
  observations about behavior about me and my institution.
- An elementary application of standpoint theory, with regards to access.
+ 
+\end_layout
+
+\begin_layout Standard
+An elementary application of standpoint theory, with regards to access.
 \end_layout
 
 \begin_layout Standard
@@ -365,22 +382,16 @@ Cutting to the chase: after that, my friend had flashbacks of a sort, sometimes
 
 \end_inset
 
-But realistically, the underlying drive and much of the underlying research
- with psychedelics 
+But realistically, the underlying drive and psychedelic research 
 \emph on
 isn't
 \emph default
  peer reviewed.
- - I 
+ I 
 \emph on
 know
 \emph default
- that they can induce things, both good and bad, that are life shaping,
- and I 
-\emph on
-know
-\emph default
- that drug-users are still in our world, they're just processing it differently.
+ drug experiences are sometimes deeply meaningful experiences.
  
 \begin_inset Note Note
 status collapsed
@@ -392,10 +403,10 @@ t is a literal different viewpoint.
 
 \end_inset
 
- With that knowledge, gleaned from personal experiences and shared from
- others, is something I bring to case studies, lends support to discussions
- of addictions, means I can draw on flesh-deep knowledge to fill in the
- outlines made by science.
+ That knowledge, gleaned from personal experiences and stories I've heard,
+ is something I bring to case studies, lends support to discussions of addiction
+s, means I can draw on flesh-deep knowledge to fill in the outlines made
+ by science.
  but that's not something I can 
 \emph on
 say
@@ -414,8 +425,24 @@ of psychedelics is also, of course, not something that should enter Scientific
  psychedelic researchers don't just happen upon these drugs.
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{langlitz on the unspoken kinds of knowing in psych research}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subparagraph
-shame
+Shame -- maybe?
 \end_layout
 
 \begin_layout Standard
@@ -437,28 +464,90 @@ ch artists and creatives.
  
 \end_layout
 
+\begin_layout Standard
+If they must study psychedelics, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ is no longer the drug of the 60s communes.
+ It is a highly specific 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2A
+\end_layout
+
+\end_inset
+
+/D
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+1/2
+\end_layout
+
+\end_inset
+
+ antagonist; psilocin isn't the active component of a mushrooms, but a compound
+ to be tagged and tracked in an fMRI scanner.
+\end_layout
+
 \begin_layout Subparagraph
-sharing experiences
+Sharing Experiences
 \end_layout
 
 \begin_layout Standard
-people want to share these experiences.
- Making LSD a primary component of how I introduce my interests has garnered
- incredible stories, of bad trips and good trips and revolutionary life-changing
- experiences.
- My circles are far from devoid of drug users; I do go to Hampshire.
- I regret not formally interviewing people about how they interact with
- drugs and incorporating those stories into this section.
- For better or for worse, drug use -- and psychedelics specifically -- have
- and continue to shape the people and relationships around me.
-\begin_inset Newline newline
-\end_inset
+People want to share their stories.
+ Making 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
 
 
+\backslash
+ac{LSD}
 \end_layout
 
-\begin_layout Subsection
-Hallucinogens
+\end_inset
+
+ and mushrooms a primary component of how I introduce my interests has garnered
+ incredible stories, of yes demons and colors, but also of deep realizations
+ and moments that altered individual perceptions of themselves and their
+ goals.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{how many people use drugs? percentage wise?}
+\end_layout
+
+\end_inset
+
+I regret not formally interviewing people about how they interact with drugs
+ and incorporating those stories into this section.
+ For better or for worse, drug use -- and psychedelics specifically -- have
+ and continue to shape the people and relationships around me.
+\end_layout
+
+\begin_layout Section
+A cultural compound
 \end_layout
 
 \begin_layout Standard
@@ -480,9 +569,22 @@ emph{really} excited about it, and the possibilities for re-envisioning
 
 Psychotropic drugs have a rich and important history of spiritual and mental
  use in nearly every human culture.
- It seems that any and every culture has sought new insights and views with
- the help of native pharmacological agents.
- Although largely reduced now to their chemical structure
+ For most of human history, cultures have sought with the help of native
+ pharmacological agents.
+ Although reduced scientifically to their chemical structure
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+todo{site of reductionism?}
+\end_layout
+
+\end_inset
+
+ in the labs funded by the 
 \begin_inset ERT
 status collapsed
 
@@ -490,13 +592,12 @@ status collapsed
 
 
 \backslash
-todo{site of reductionism?}
+ac{NIH}
 \end_layout
 
 \end_inset
 
- in the labs funded by the NIH, most of the compounds derive from different
- cultural traditions.
+ and Swiss agencies, most of compounds derive from different cultural heritages.
  Peyote (active ingredient: mescaline)
 \begin_inset ERT
 status collapsed
@@ -520,20 +621,7 @@ emph{traditional} methods of harvesting plants -- making them only available
 
  has historically been used by the Native American church, a right they
  successfully fought for in court.
- Ayahuasca (active ingredient: DMT combined with a 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{MAOI}
-\end_layout
-
-\end_inset
-
-) is a traditional South American 
+ 
 \begin_inset ERT
 status collapsed
 
@@ -546,7 +634,33 @@ graffito {Talk to Otto's friend about his experiences? And access?}
 
 \end_inset
 
- drug.
+Ayahuasca (active ingredient: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DMT}
+\end_layout
+
+\end_inset
+
+ combined with a 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{MAOI}
+\end_layout
+
+\end_inset
+
+) is a traditional South American drug.
  
 \begin_inset Note Note
 status collapsed
@@ -574,7 +688,7 @@ status collapsed
 
 
 \backslash
-todo{Source for ergot and historical significance}
+todo[inline]{Source for ergot and historical significance}
 \end_layout
 
 \end_inset
@@ -582,17 +696,42 @@ todo{Source for ergot and historical significance}
 
 \end_layout
 
+\begin_layout Standard
+Psychedelic experiences existed in indigenous cultures globally, the same
+ indigenous cultures threatened by an ever-rising tide of globalized economies
+ and corporate states.
+\end_layout
+
 \begin_layout Subparagraph
-Locating drugs
+including experiences
 \end_layout
 
 \begin_layout Standard
-how presumptuous to take drugs from indigenous cultures and push them into
- the laboratory.
- Is plasticity and all of the signaling mechanisms relevant if the experience
- isn't included? Hallucinogens are notoriously sensitive to situation --
- or rather, individual interpretations of a situation.
- The quality (and thus long term effects) of a psychotropic experience is
+Is plasticity and all of the mechanistically interesting signaling mechanisms
+ relevant if the experience isn't included? 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{in the sense that it teaches about GPCRs and how to target them, yes?}
+\end_layout
+
+\end_inset
+
+ Hallucinogens are notoriously sensitive to situation -- or rather, individual
+ interpretations of a situation.
+ 
+\end_layout
+
+\begin_layout Subparagraph
+translation or transformation
+\end_layout
+
+\begin_layout Standard
+The quality (and thus long term effects) of a psychotropic experience is
  created through the 
 \emph on
 interplay
@@ -710,14 +849,23 @@ women
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Feminist Serotonin Studies(?)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 *****theoretically I think all of this should be included in the...serotonin
  section, bc embedded-ness? Phamarcology of serotonin/depression, 5-HT2a
  is affected by race/gender/socioeconomics/different & localized biologies******
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -985,11 +1133,15 @@ key "Zhang1999"
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Turtles All The Way Down
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -1043,6 +1195,11 @@ interdisciplinary
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Abi-Rached2010"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -1458,19 +1615,6 @@ use
 \emph default
  those drugs than scientists who have never experienced them and treat them
  solely as tools in a molecular toolkit.
-\end_layout
-
-\begin_layout Section
-conclusion
-\end_layout
-
-\begin_layout Standard
-Div is hard but I guess okay in the end, also what will I do with the rest
- of my life?
-\end_layout
-
-\begin_layout Standard
-Sorry, current reader, this doesn't exist yet <3
 \end_layout
 
 \begin_layout Standard
