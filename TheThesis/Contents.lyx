@@ -946,6 +946,22 @@ begin{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CIA}{Central Intelligence Agency}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
@@ -1781,6 +1797,38 @@ status collapsed
 
 \backslash
 acro{HEKs}{human embryonic kidney 293 cells}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GWAS}{Genome Wide Assocation Study}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PTSD}{PostTraumatic Stress Disorder}
 \end_layout
 
 \end_inset
