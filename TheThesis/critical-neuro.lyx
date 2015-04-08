@@ -196,55 +196,43 @@ This chapter is ideally more of recollection and a plan to go forward.
  did/not consider have already shaped the rest of this piece.
 \end_layout
 
+\begin_layout Section
+Values in Molecular/Biological Psych/neuro research
+\end_layout
+
 \begin_layout Standard
-This chapter is three parts
-\end_layout
+Per Latour as in 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Clarke2011"
 
-\begin_layout Enumerate
-understanding the assumptions and values of molecular-biological psychedelic
- neuroscience research
-\end_layout
+\end_inset
 
-\begin_deeper
-\begin_layout Enumerate
-devaluing of knowledges
-\end_layout
+, technoscience means that 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Enumerate
-reductionisms
-\end_layout
+pure
+\begin_inset Quotes erd
+\end_inset
 
-\end_deeper
-\begin_layout Enumerate
-tracing those values into power structures of the
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-present day
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ecological destructions
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-green chemistry
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-biomedicalization of societal problems
+ research -- e.g.
+ psych because they are pharmacologically interesting -- cannot be independent
+ from their practical applications in therapies and on people.
+ Similarly, one might say that research on climate science is intrinsinically
+ interwoven with the planet's residents.
+ Physics research is interwoven with technologies like ultrasounds (an alternate
+ly powerful but gendered and reproductive in/justice tool), or weapons of
+ communication and destruction.
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{western framing of issues}
+graffito{This is f course the central premise of Herb's work under a codified
+ name}
 \end_layout
 
 \end_inset
@@ -252,17 +240,77 @@ todo{western framing of issues}
 
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
-addictions
+\begin_layout Standard
+
+\emph on
+if
+\emph default
+ this is the 
+\begin_inset Quotes eld
+\end_inset
+
+century of biology
+\begin_inset Quotes erd
+\end_inset
+
+ and biology is more realistically molecular biology-- 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo{rat city and addiction and treatment}
+todo{is mol.
+ bio molecules or genetics? does it include molecular-receptor interactions?}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+molecular
+\begin_inset space ~
+\end_inset
+
+biology
+\series default
+ tactics to understand and place organismal-biological complexity at an
+ atomic-molecular level scale; i.e.
+ looking at diseases, cognition, sensations, natural selection, reproduction,
+ organism movement as the product of the central dogma of molecules (proteins,
+ RNA, DNA)
+\end_layout
+
+\begin_layout Standard
+Then the processes of 
+\begin_inset Quotes eld
+\end_inset
+
+technoscientific biomedicalization
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{"...medicalization and biomedicalization need to be complicated.
+ They can refer to "medical miracles" that wondrously alleviate pain and
+ suffering 
+\backslash
+emph{as well as} overpromoting their value." 
+\backslash
+citep{Clarke2011}}
 \end_layout
 
 \end_inset
@@ -270,7 +318,168 @@ todo{rat city and addiction and treatment}
 
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+medicalization
+\series default
+ the process by which aspects of life previously outside the jurisdiction
+ of medicine come to be construed as medical problems
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+biomedicalization 
+\series default
+increasingly biological-scientific aspects of the practices of clinical
+ medicine; that is, technoscientific practices of basic life science (
+\begin_inset Quotes eld
+\end_inset
+
+bio
+\begin_inset Quotes erd
+\end_inset
+
+) are increasingly part of applied clinical medicine
+\end_layout
+
+\begin_layout Standard
+In other words, deviations from the norm is now not just a psychiatric issue
+ of bad morals or childhood influences, as the diagnos but a chemical problem
+ to be solved by chemical means.
+\end_layout
+
+\begin_layout Standard
+Psychedelics, upon their
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{article on the decreasing importance of the DSM and increasing biological
+ explanations for psych}
+\end_layout
+
+\end_inset
+
+ their initial scientific appearance (
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{write about Leary and specific scientifichistories of psychs?}
+\end_layout
+
+\end_inset
+
+Timothy Leary's spiritual explorations, the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{CIA}
+\end_layout
+
+\end_inset
+
+'s mind-control attempts Project MKUltra, early attempts at reducing addictions
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{history of research on addiction treatment}
+\end_layout
+
+\end_inset
+
+) focused on medical-military applications, with the belief that the subjective
+ experience was key to their outcomes.
+ Regardless of their goals, the projects were not molecularly-focused.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{what about chemists? early histories of syntheses}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{increasingly biological-sicentific aspects of clinical medicine,
+ processes by which aspects of life previously outside the jurisdiction
+ of medicine come to be construed as medical problems}
+\end_layout
+
+\end_inset
+
+The biomedicalization of psychedelics (like many drugs) allow psychedelics
+ new clinical/medical configuration and applications.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{despite years of effort, psych.
+ research has only re-emerged after the 'decade of the brain'}
+\end_layout
+
+\end_inset
+
+Most of the serotonergic hallucinogens are Schedule I drugs; the U.S.
+ government's official stance is:
+\end_layout
+
 \begin_layout Enumerate
+The drug or other substance has a high potential for abuse.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The drug or other substance has no currently accepted medical use in treatment
+ in the United States.
+ 
+\end_layout
+
+\begin_layout Enumerate
+There is a lack of accepted safety for use of the drug or other substance
+ under medical supervision.
+ 
+\end_layout
+
+\begin_layout Standard
+The increasing use of these drugs and the revival of psychedelic research
+ is (possibly?) tied to the trends of pharmacologically-mediated interventions
+ into the lives of those with 
 \begin_inset ERT
 status open
 
@@ -283,283 +492,8 @@ ac{PTSD}
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Enumerate
-end of life anxiety
-\end_layout
-
-\begin_layout Enumerate
-depression?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ind.
- rights 
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Native American Church
-\end_layout
-
-\begin_layout Enumerate
-complex indigenous rights -- not the same from one group to another (i.e.
- brazilian shamans & commerce vs spiritual usages in n.
- amer)
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-localization
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-not the same across continents -- only know history of like, Mexico/N.
- America
-\end_layout
-
-\begin_layout Enumerate
-lol what about the swiss?
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Enumerate
-historical
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-colonialism
-\end_layout
-
-\begin_layout Enumerate
-gendered knowledges
-\end_layout
-
-\begin_layout Enumerate
-plurality of cultures
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-devaluing specific, non-scientific knowledges
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-erowid, non-aff.
- drug users; new age spiritualism
-\end_layout
-
-\begin_layout Enumerate
-indigenous knowingssss (see above)
-\backslash
-
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Enumerate
-~new ways forward~?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-doing activism on the side?
-\end_layout
-
-\begin_layout Enumerate
-policy work for systematic solutions
-\end_layout
-
-\begin_layout Enumerate
-scrape/analyze all of erowid
-\end_layout
-
-\begin_layout Enumerate
-gendered/racialized research
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-access to drugs
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-communicate scientific information better?
-\end_layout
-
-\begin_layout Enumerate
-ending D.A.R.E.
-\end_layout
-
-\begin_layout Enumerate
-include cell karyotypes
-\end_layout
-
-\begin_layout Enumerate
-in methods include derivations of drugs? 
-\end_layout
-
-\end_deeper
-\begin_layout Section
-A short and selective history of psychedelic drugs
-\end_layout
-
-\begin_layout Standard
-In molecular neuroscience, per 
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:molecular-psych"
-
-\end_inset
-
-, the classical psychedelics are agonists at the 5-HT
-\begin_inset script subscript
-
-\begin_layout Plain Layout
-2a
-\end_layout
-
-\end_inset
-
-receptor.
- This very deliberately excludes other forms of psychedelics, both designer
- opiates like ketamine and traditional fungi like 
-\emph on
-Amanita muscaria
-\emph default
-, an extremely potent deliriant.
- The boundaries of chemical structure and chemical affinity redraw lines
- around what drugs are studied by what labs.
-\end_layout
-
-\begin_layout Standard
-In molecular neuroscience, the cultural histories of plant complexes, spiritual
- ceremonies, and hallucinogenic experiences is a footnote, a token sentence
- or two.
- In a definitive forty page review in 2004, David 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Nichols2004"
-
-\end_inset
-
- devotes a single paragraph to the long history of drug use:
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Nichols2004"
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{but what would I rather they do?}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quotation
-\begin_inset Quotes eld
-\end_inset
-
-Well-documented and important examples of hallucinogen use in other cultures
- include the 
-\emph on
-soma
-\emph default
- of ancient India,
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- (Wasson & Ingalls, 1971)
-\end_layout
-
-\end_inset
-
- to which numerous Vedic hymns were written, 
-\emph on
-teonanacatl
-\emph default
-, ‘‘god’s flesh’’ used by the Aztec shaman, 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- (Ott & Bigwood, 1978; Schultes & Hofmann, 1979),
-\end_layout
-
-\end_inset
-
- and 
-\emph on
-peyote
-\emph default
- taken as a sacrament during services of the Native American Church
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- (Stewart, 1987
-\end_layout
-
-\end_inset
-
-.
- In Mexico, there were about 40 plants, some of which still remain unidentified,
- that were used ritually or were regarded as sacred
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-(Diaz, 1977)
-\end_layout
-
-\end_inset
-
-.
- In the village of Eleusis in ancient Greece, for more than 2000 years,
- it was a treasured opportunity for any Greek citizen who had not been con-
- victed of murder to participate in the secret all-night ceremony each September
- that involved the drinking of a special potion known as κψκεον.
- Today, we know very little about this ceremony, but reasonable arguments
- have been made that κψκεον was some sort of hallucinogenic brew.
- The ritual was partially described in the 2nd century A.D.: ‘‘.
- .
- .of all the divine things that exist among men, it is both the most awesome
- and the most luminous’’
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-(Wasson et al., 1978)
-\end_layout
-
-\end_inset
-
-.
- Today, in modern Brazil, a respected religion uses 
-\emph on
-ayahuasca
-\emph default
- as a sacrament, a psychoactive plant decoction containing the hallucinogen
- 
+, addictions, and depression.
+ Changing medical boundaries -- what is andla is not 
 \begin_inset ERT
 status open
 
@@ -567,122 +501,612 @@ status open
 
 
 \backslash
-ac{DMT}
+ac{ADHD}
 \end_layout
 
 \end_inset
 
- combined with β-carboline monoamine oxidase inhibitors that confer it with
- oral activity
-\begin_inset Note Note
+, and the increased focus on the mind as a site of intervention -- give
+ psychedelics a new biomedical effect; not for their consciousness-altering
+ properties, 
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
- (McKenna & Towers, 1984; McKenna et al., 1984; Callaway et al., 1996; Grob
- et al., 1996; Riba et al., 2002, 2003; Yritia et al., 2002)
+
+
+\backslash
+todo{why did they THINK psychs would work?}
 \end_layout
 
 \end_inset
 
-.
- Ayahuasca, also known as 
-\emph on
-yage
-\emph default
-́ or 
-\emph on
-hoasca
-\emph default
-, has a long history of ceremonial use by natives in the Amazon valley of
- South America
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- (Dobkin, 1971; Schultes & Hofmann, 1979
-\end_layout
-
+but rather for their specific signalling pathways.
+ The quest is not to cure alocholism through enlighment, but to specifically
+ biomedically mediate the complex interactions of 
+\begin_inset Quotes eld
 \end_inset
 
-.
+natural
 \begin_inset Quotes erd
 \end_inset
 
+ chemical makeup and interactions with alcohol.
+\end_layout
 
+\begin_layout Subparagraph
+personalized and precision medicines
 \end_layout
 
 \begin_layout Standard
-A 22 page review in 2015:
+The new place of psychedelics as chemical rather than psyche manipulations
+ fits nicely in with a growing trend.
+ Personalized medicine relies on genomic information to tailor medical treatment
+s and drug cocktails.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{feminist personalized medicine?}
+\end_layout
+
+\end_inset
+
+Precision medicine, recently announced as a major initiative by President
+ Barack Obama, is
 \end_layout
 
 \begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
-Hallucinogenic drugs have been used by humans for thousands of years, but
- western scientists only became interested in these substances beginning
- in the late 1800s.
- These agents produce profound changes in consciousness.
+\SpecialChar \ldots{}
+an emerging approach for disease treatment and prevention that takes into
+ account individual variability in genes, environment, and lifestyle for
+ each person.
 \begin_inset Quotes erd
 \end_inset
 
-
+ (http://www.nih.gov/precisionmedicine/, accessed 04/08/2015)
 \end_layout
 
 \begin_layout Standard
-We could tell this story very differently if a gendered and post colonial
- lens was applied.
-\end_layout
+Personalized medicine; or personalized neuroscience is still a way of reducing
+ the individual to the cellular and genomic information, without accounting
+ for personhood.
+ Personalized medicine
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Subsection
-Colonialism, Women, and Western Knowledge
-\end_layout
-
-\begin_layout Subparagraph
-Religion/Recreation
-\end_layout
-
-\begin_layout Standard
-Psychedelic use in Mexico was pushed down by the Spanish conquerors; it
- existed in small, isolated villages.
- In the 50s and 60s, the first (white, male, and then white, female) pilgrims
- from the United States made their way to isolated Mexican villages to first
- take drugs in the spiritual shamanic context, and then started using them
- recreationally, for days at time.
+ is not actually personalized; it's genomic.
+ 
 \end_layout
 
 \begin_layout Standard
-Now, ayahuasca experiences can be bought and sold in South America -- which
- turns out to be okay, from an appropriative standpoint, because those services
- were always part of the indigenous economy.
- The Western/Northern feminist trope is to instantly assume indigenous businesse
-s are violations, which seems like another recreation of the noble savage.
+For psychedelics, we might reference the discipline of pharmacogenetics.
 \end_layout
 
-\begin_layout Subparagraph
-Women
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+technoscience indicates explicit move past the conceptual separation of
+ science and technology.
+ We argue that these two domains are co-constitutive; thus challenging the
+ notion of 
+\begin_inset Quotes eld
+\end_inset
+
+pure forms
+\begin_inset Quotes erd
+\end_inset
+
+ of scientific/technolgical research independent from practical applications
 \end_layout
 
-\begin_layout Standard
-As per Londa
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+biomedical features increasingly biological-scientific aspects of the practices
+ of clinical medicine; that is, technoscientific practices of basic life
+ science (
+\begin_inset Quotes eld
+\end_inset
+
+bio
+\begin_inset Quotes erd
+\end_inset
+
+) are increasingly part of applied clinical -- now bio-medicine
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+medicalization the processes through which aspects of life previously outside
+ the jurisdiction of medicine come to be construed as medical problems
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+biomedicalization 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
-key "Schiebinger2004"
+key "Clarke2003"
 
 \end_inset
 
-'s 
+'s term for the 
+\begin_inset Quotes eld
+\end_inset
+
+increasingly complex, multisited, multidirectional processes of medicalization
+ that today are being both extended and reconstituted through the emergent
+ social forms and practices of a highly and increasingly technoscientific
+ biomedicine.
+ We signal with the "bio" in biomedicalization the transformations of both
+ the human and nonhuman made possible by such technoscientific innovations
+ as molecu- lar biology, biotechnologies, genomization, transplant medicine,
+ and new medical tech- nologies.
+ That is, medicalization is intensifying, but in new and complex, usually
+ technoscientifically enmeshed ways.
+\begin_inset Newline newline
+\end_inset
+
+The extension of medical jurisdiction over health itself (in addition to
+ illness, disease, and injury) and the commodification of health are fundamental
+\end_layout
+
+\begin_layout Subparagraph
+inpractice dynamics
+\end_layout
+
+\begin_layout Enumerate
+major political economics shifts
+\end_layout
+
+\begin_layout Enumerate
+new focus on health and risk and surveillance biomedicines
+\end_layout
+
+\begin_layout Enumerate
+technoscientization of biomed
+\end_layout
+
+\begin_layout Enumerate
+transformations of the production, distribution, and consuption of biomed
+ knowledges
+\end_layout
+
+\begin_layout Enumerate
+transfrmations of bodies and identities
+\end_layout
+
+\begin_layout Quote
+he three main areas in which the technoscientization of biomedicine manifest
+ are computerization and data banking; molecularization and geneticization
+ of biomedicine and drug design; and medical technology design, development,
+ and distribution.
+\end_layout
+
+\begin_layout Quote
+Biomedicalization practices emphasize transformations largely through immediate
+ high-tech interventions not only for treatment but increasingly also for
+ health maintenance, enhancement and “optimization” – the growing sense
+ of individual obligation or responsibility to literally “make the best”
+ of oneself
+\end_layout
+
+\begin_layout Quote
+asserts that these constitute the rise of a “culture of life” within which
+ developments in the biological sciences are encouraging the move away from
+ concerns with humans in society and social salvation and toward ideals
+ of individual perfectibility and enhancement.
+ For example, Singh and Rose (2006, pp.
+ 97) ask: “Can individuals resist/access the pharmaceutically powered drive
+ toward perfection; is their personal agency sufficient to resist/access
+ enhancing drugs, especially if they are very young, or poor, an ethnic
+ minority, a convicted felon – or, for that matter, if they are students
+ at elite com- petitive universities?”
+\end_layout
+
+\begin_layout Quote
+Moreover, an array of counter-trends against both medicalization and biomedicali
+zation has gained momentum since World War II.
+ These varied “pushbacks” include ongoing critiques of medicine, medicalization,
+ and biomedicalization; people seeking help from beyond the boundaries of
+ biomedicine, thereby expanding American medical pluralism; understanding
+ patienthood as an increasingly fraught state; the elaboration of health
+ social movements resistant to medicalization and biomedicalization; patient
+ and related movements against specific forms of biomedicalization; a (re)emerge
+nt public discourse that “more (bio)medicine is not necessarily better”;
+ and a growing discourse attempting to articulate “appropriate” levels and
+ forms of biomedical intervention from the beginnings to the end of life
+ (somewhat akin to the “appropriate technology movement”)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+_________________________________________________________________
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Reductionism
+\begin_inset Quotes erd
+\end_inset
+
+ is a bit of a catch all term that I should probably explore more.
+ The Western scientific traditions is entirely focused on reducing systems
+ to their smallest working unit,, with the intention of finding out one
+ 
+\begin_inset Quotes eld
+\end_inset
+
+answer
+\begin_inset Quotes erd
+\end_inset
+
+ and threading it into many other answers to form a kind of tapestry of
+ knowledge.
+ The reduction and simplification of systems roughly correlates with the
+ notion of 
+\begin_inset Quotes eld
+\end_inset
+
+pure
+\begin_inset Quotes erd
+\end_inset
+
+ sciences, pure being perceived as better, 
+\begin_inset Quotes eld
+\end_inset
+
+harder
+\begin_inset Quotes erd
+\end_inset
+
+, and (incidentally, of course) more masculine.
+ In the biological sciences, and in the neurosciences, reductionism is:
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Itemize
+generally a trend in the biological sciences -- maybe due to perception
+ of increased objectivity/hardness (a la physics and chemistry).
+\end_layout
+
+\begin_layout Itemize
+Somewhat inherent to 
+\begin_inset Quotes eld
+\end_inset
+
+neuroscience
+\begin_inset Quotes erd
+\end_inset
+
+, since the ultimate goal is to reduce function/cognition to a set of circuits/c
+ells/meaningful small and completely circumscribed/understood units.
+\end_layout
+
+\begin_layout Itemize
+Where does it come from?
+\end_layout
+
+\begin_layout Itemize
+What goals are there and how does reductionism accomplish them for us? What
+ is good and not good about applications to neuro? Can and should cell studies
+ be used to 
+\begin_inset Quotes eld
+\end_inset
+
+answer
+\begin_inset Quotes erd
+\end_inset
+
+ or explore questions about cognition? What do we lose when we 
+\begin_inset Quotes eld
+\end_inset
+
+solve
+\begin_inset Quotes erd
+\end_inset
+
+ disease in vitro? 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+footnote {"A sensible research strategy (isolationism/reductionism) becomes
+ a metaphysical commitment to a system, where the system is reality." ahhh
+ idk who said this though!! For us, cell lines are indicative of some reality.
+ It's plausible that scientists themselves know their work to be missing
+ enormous sweeps of holistic knowledge, but any written work rarely acknowledges
+ it.
+ Grants and papers imply and argue, point-blank that molecular work is the
+ answer to XYZ -- and not just the answer, but the problem to be studied
+ as well.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Personalized medicine; or personalized neuroscience is still a way of reducing
+ the individual to the cellular and genomic information, without accounting
+ for personhood.
+ Personalized medicine
+\begin_inset Quotes erd
+\end_inset
+
+ is not actually personalized; it's genomic.
+ Relying on genetic information to give meaningful information about health
+ care and responses is hardly specific to an individual's needs and abilities,
+ as we'd like a feminist science to be.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+Joel: Feminist medicine - personal, full, not reduceable
+\end_layout
+
+\begin_layout Plain Layout
+not all white men from Europe
+\end_layout
+
+\begin_layout Plain Layout
+[[I think this is a request for clarificaiton of what feminist medicine
+ would be, but not in the Sandra Harding sense]]
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+De-legitimizing other knowledges
+\end_layout
+
+\begin_layout Standard
+The re-introduction of psychedelics into the clinic/lab seems to go hand-in-hand
+ with a systematic devaluing of recreational users, at least in the formalized
+ literature and the public/media's eyes.
+\end_layout
+
+\begin_layout Standard
+Hallucinogens have amazingly well-documented and supportive informal communities.
+ Taking psychotropics is, for many, a spiritual and deeply-prepared for
+ experience.
+ Users are often hyperaware of the chemical effects, interactions with medical
+ conditions or other drugs, how to set scenes, how to guide their mental
+ state in meaningful ways -- in short, expert and specific knowledge more
+ typically associated with discerning scientists than hippies in the woods.
+ 
+\end_layout
+
+\begin_layout Subparagraph
+Erowid
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.erowid.org
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+The 
+\begin_inset Quotes eld
+\end_inset
+
+non-profit, harm reduction organization
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+documenting the complex relationship between humans and psychoactives
+\begin_inset Quotes erd
+\end_inset
+
+ is likely the number one resource for recreational (and self-medicating)
+ users of psychoactive drugs.
+ They have a dizzying and expansive archive of peer-reviewed scientific
+ literature (marking it paywalled or not), pharmacological information,
+ health risks, well-documented testimonies on drug use (other drugs in use,
+ dosage, time and duration of experience, mental/physical health histories,
+ 
 \emph on
-Feminist history of colonial science
+ad.
+ infinitum
 \emph default
-, women often held botanical and plant knowledge because of the distribution
- of gender roles.
- When colonialism showed up in the Americas and in Africa, the subsequent
- destructin and theft of that knowledge fell/was principally from 
+).
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{Langlitz's post-market pharmacovigilance -- this comes out of obviously
+ deep distrust of the medical system -- every man for himself -- desire
+ to synthesize information oneself and make 
+\backslash
+emph{own} body decisions.}
+\end_layout
+
+\end_inset
+
+ It is a mix of hard scientific information about binding affinities and
+ drug interactions, practical usage and safety information (both pharmacological
+ly and mentally), proposals for chemical syntheses, meditations on spirituality,
+ cultural histories, law and policy suggestions, art pieces and so on; a
+ tremendous resource built by and for psychoactive communities.
+\end_layout
+
+\begin_layout Standard
+Erowid does not, unlike the scientific literature, paint the potential of
+ psychoactives with a one-sided brush.
+ Users post good experiences and bad; some say it is very important to them
+ personally, but with the large and constant caveat of 'mileage may vary'.
+ In many ways, I think the information on Erowid is much more realistically
+ oriented -- towards clinical applications -- than the nominal cutting edge
+ of science.
+ It neither makes grand claims about everybody's experiences nor relegates
+ psychoactives to the realm of the purely dangerous Schedule I.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Perhaps community itself is the most important “lab apparatus” of contemporary
+ psychedelic practice, a large-scale, dissipative structure for the ongoing
+ investigation of the mind.
+ Doyle, Richard M..
+ Darwin's Pharmacy : Sex, Plants, and the Evolution of the Noösphere.
+ Seattle, WA, USA: University of Washington Press, 2011.
+ ProQuest ebrary.
+ Web.
+ 8 April 2015.
+ Copyright © 2011.
+ University of Washington Press.
+ All rights reserved.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+***
+\end_layout
+
+\begin_layout Plain Layout
+TIHKAL and PIHKAL are copyright-free(?)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+But hippies in the woods may know a lot more about how to 
 \emph on
-women
+use
 \emph default
-.
+ those drugs than scientists who have never experienced them and treat them
+ solely as tools in a molecular toolkit.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+indigenous science
+\end_layout
+
+\begin_layout Standard
+Like the dismissal of amateur science -- or at least the non-acknowledgement
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{and thus reinforcement of academic-casual hierarchies}
+\end_layout
+
+\end_inset
+
+, the use, during literally all of recorded human history, is a footnote
+ to the real research.
+ Despite centuries of commerce underlying the shamanistic-therapeutic ayahuasca
+ ceremonies,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Highpine2013"
+
+\end_inset
+
  
 \end_layout
 
@@ -712,11 +1136,11 @@ Cell Lines and Gender
 
 \begin_layout Plain Layout
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo[inline]{Problems -- points of analysis -- come in the form of either
  not enough attention to gender (seatbelts, heart attacks, stem cells) or
@@ -1036,6 +1460,659 @@ key "Abi-Rached2010"
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Values and Power Structures
+\end_layout
+
+\begin_layout Subsection
+Present Day
+\end_layout
+
+\begin_layout Subsubsection
+Ecological destruction
+\end_layout
+
+\begin_layout Standard
+When we say these plants and compounds have cultural histories, what that
+ means is that they literally -- grow or grew some where.
+ To become a major treatment option, those plants either have to be produced
+ on a massive scale (reducing genetic diversity, bringing in issues of labor
+ movements and ethics) or synthesized (bringing in green chem.
+ issues).
+ Moreover, 
+\end_layout
+
+\begin_layout Subparagraph
+Biopiracy
+\end_layout
+
+\begin_layout Standard
+should psychedelics be patentable?
+\end_layout
+
+\begin_layout Subsubsection
+Biomedicalization of social problems
+\end_layout
+
+\begin_layout Standard
+The framing of the problem affects the solution, and vice versa.
+ (Bio)medicalization of mental health can be empowering -- attributing clinical
+ depression to a chemical imbalance can be a helpful way to move forward,
+ instead of blaming theselves.
+\end_layout
+
+\begin_layout Subparagraph
+addiction
+\end_layout
+
+\begin_layout Standard
+Similarly, alcoholism as a disease implies the possibility of healing and
+ the movement of blame from individual choices to a genetic inheritance
+ and accident of environment.
+\end_layout
+
+\begin_layout Standard
+It also, however, reduces a psychological-bio-life-complex of chemical/societal/
+habitual dependency to a one-off treatment.
+ Heroin is one of the most addictive substances, and the most destructive.
+ The standard 
+\begin_inset Quotes eld
+\end_inset
+
+treatment
+\begin_inset Quotes erd
+\end_inset
+
+ is another drug -- methadone, which blocks the same receptors to inhibit
+ cravings.
+ Methadone is equally addictive and in many ways just as destructive; the
+ only difference is that users or their insurance company pay the state
+ instead of cartels.
+ The biomedical disease model of addiction implies a pharmaceutical cure.
+\end_layout
+
+\begin_layout Standard
+If, on the other hand, we frame heroin addiction as a social concern --
+ one that users are driven to by a lack of options and by a lack of satisfying
+ community interactions -- the solution becomes quite different.
+ Like the recidivism rate of prisons in Norway versus the U.S., taking care
+ to place users back into supportive and meaningful environments is often
+ an effective way to help them cope with the psychological toll of addictions.
+\end_layout
+
+\begin_layout Standard
+Even earlier, addiction is often the results of restrictive societal 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+n other words, if you don’t want to quit—and if you don’t have a new life
+ purpose like promoting an addiction cure (!) or at least some social support—ib
+ogaine won’t do much more than any other type of detox.
+ It’s not exactly nothing to have a psychedelic experience and come through
+ detox without suffering physical withdrawal.
+ But that’s not all you need to end most addictions.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+addictions
+\end_layout
+
+\begin_layout Standard
+rat city and addiction and treatment
+\end_layout
+
+\begin_layout Paragraph
+Trauma: PTSD
+\end_layout
+
+\begin_layout Standard
+Resembles stress symptoms categorized in the 50's; largely associated with
+ combat, but also occurs in civilian trauma cases (rape, childhood abuse)
+\end_layout
+
+\begin_layout Paragraph
+end of life anxiety
+\end_layout
+
+\begin_layout Standard
+largely duplicates the experiences religion offers to some people; cultural
+ distrust/fear of death
+\end_layout
+
+\begin_layout Subsubsection
+indigenous rights
+\end_layout
+
+\begin_layout Paragraph
+Native american church
+\end_layout
+
+\begin_layout Paragraph
+complexity of indigenous rights
+\end_layout
+
+\begin_layout Standard
+not the same from one group to another (i.e.
+ brazilian shamans & commerce vs spiritual usages in n.
+ amer)
+\end_layout
+
+\begin_layout Subsubsection
+localization
+\end_layout
+
+\begin_layout Standard
+Not the same across continents -- only know history of like, Mexico/N.
+ America.
+ And what about the swiss?
+\end_layout
+
+\begin_layout Subsection
+historical
+\end_layout
+
+\begin_layout Subsubsection
+colonialism
+\end_layout
+
+\begin_layout Standard
+Psychedelic use in Mexico was pushed down by the Spanish conquerors; it
+ existed in small, isolated villages.
+ In the 50s and 60s, the first (white, male, and then white, female) pilgrims
+ from the United States made their way to isolated Mexican villages to first
+ take drugs in the spiritual shamanic context, and then started using them
+ recreationally, for days at time.
+\end_layout
+
+\begin_layout Standard
+Now, ayahuasca experiences can be bought and sold in South America -- which
+ turns out to be okay, from an appropriative standpoint, because those services
+ were always part of the indigenous economy.
+ The Western/Northern feminist trope is to instantly assume indigenous businesse
+s are violations, which seems like another recreation of the noble savage.
+\end_layout
+
+\begin_layout Subsubsection
+gendered knowledges
+\end_layout
+
+\begin_layout Standard
+As per Londa
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Schiebinger2004"
+
+\end_inset
+
+'s 
+\emph on
+Feminist history of colonial science
+\emph default
+, women often held botanical and plant knowledge because of the distribution
+ of gender roles.
+ When colonialism showed up in the Americas and in Africa, the subsequent
+ destructin and theft of that knowledge fell/was principally from 
+\emph on
+women
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+plurality of cultures (see complexity of rights, above)
+\end_layout
+
+\begin_layout Subsection
+devaluing non scientific knowledges
+\end_layout
+
+\begin_layout Subsubsection
+so what if we don't count erowid?
+\end_layout
+
+\begin_layout Section
+Moving Forward(?)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Enumerate
+understanding the assumPTIONS and values of molecular-biological psychedelic
+ neuroscience research
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+devaluing of knowledges
+\end_layout
+
+\begin_layout Enumerate
+reductionisms
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+tracing those values into power structures of the
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+present day
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ecological destructions
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+green chemistry
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+biomedicalization of societal problems
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{western framing of issues}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+addictions
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PTSD}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+end of life anxiety
+\end_layout
+
+\begin_layout Enumerate
+depression?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ind.
+ rights 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Native American Church
+\end_layout
+
+\begin_layout Enumerate
+complex indigenous rights -- not the same from one group to another (i.e.
+ brazilian shamans & commerce vs spiritual usages in n.
+ amer)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+localization
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+not the same across continents -- only know history of like, Mexico/N.
+ America
+\end_layout
+
+\begin_layout Enumerate
+lol what about the swiss?
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+historical
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+colonialism
+\end_layout
+
+\begin_layout Enumerate
+gendered knowledges
+\end_layout
+
+\begin_layout Enumerate
+plurality of cultures
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+devaluing specific, non-scientific knowledges
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+erowid, non-aff.
+ drug users; new age spiritualism
+\end_layout
+
+\begin_layout Enumerate
+indigenous knowingssss (see above)
+\backslash
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+doing activism on the side?
+\end_layout
+
+\begin_layout Enumerate
+policy work for systematic solutions
+\end_layout
+
+\begin_layout Enumerate
+scrape/analyze all of erowid
+\end_layout
+
+\begin_layout Enumerate
+gendered/racialized research
+\end_layout
+
+\begin_layout Enumerate
+access to drugs
+\end_layout
+
+\begin_layout Enumerate
+communicate scientific information better?
+\end_layout
+
+\begin_layout Enumerate
+ending D.A.R.E.
+\end_layout
+
+\begin_layout Enumerate
+include cell karyotypes
+\end_layout
+
+\begin_layout Enumerate
+in methods include derivations of drugs? 
+\end_layout
+
+\begin_layout Section
+A short and selective history of psychedelic drugs
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In molecular neuroscience, per 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:molecular-psych"
+
+\end_inset
+
+, the classical psychedelics are agonists at the 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a
+\end_layout
+
+\end_inset
+
+receptor.
+ This very deliberately excludes other forms of psychedelics, both designer
+ opiates like ketamine and traditional fungi like 
+\emph on
+Amanita muscaria
+\emph default
+, an extremely potent deliriant.
+ The boundaries of chemical structure and chemical affinity redraw lines
+ around what drugs are studied by what labs.
+\end_layout
+
+\begin_layout Plain Layout
+In molecular neuroscience, the cultural histories of plant complexes, spiritual
+ ceremonies, and hallucinogenic experiences is a footnote, a token sentence
+ or two.
+ In a definitive forty page review in 2004, David 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Nichols2004"
+
+\end_inset
+
+ devotes a single paragraph to the long history of drug use:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2004"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{but what would I rather they do?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+Well-documented and important examples of hallucinogen use in other cultures
+ include the 
+\emph on
+soma
+\emph default
+ of ancient India,
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ (Wasson & Ingalls, 1971)
+\end_layout
+
+\end_inset
+
+ to which numerous Vedic hymns were written, 
+\emph on
+teonanacatl
+\emph default
+, ‘‘god’s flesh’’ used by the Aztec shaman, 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ (Ott & Bigwood, 1978; Schultes & Hofmann, 1979),
+\end_layout
+
+\end_inset
+
+ and 
+\emph on
+peyote
+\emph default
+ taken as a sacrament during services of the Native American Church
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ (Stewart, 1987
+\end_layout
+
+\end_inset
+
+.
+ In Mexico, there were about 40 plants, some of which still remain unidentified,
+ that were used ritually or were regarded as sacred
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+(Diaz, 1977)
+\end_layout
+
+\end_inset
+
+.
+ In the village of Eleusis in ancient Greece, for more than 2000 years,
+ it was a treasured opportunity for any Greek citizen who had not been con-
+ victed of murder to participate in the secret all-night ceremony each September
+ that involved the drinking of a special potion known as κψκεον.
+ Today, we know very little about this ceremony, but reasonable arguments
+ have been made that κψκεον was some sort of hallucinogenic brew.
+ The ritual was partially described in the 2nd century A.D.: ‘‘.
+ .
+ .of all the divine things that exist among men, it is both the most awesome
+ and the most luminous’’
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+(Wasson et al., 1978)
+\end_layout
+
+\end_inset
+
+.
+ Today, in modern Brazil, a respected religion uses 
+\emph on
+ayahuasca
+\emph default
+ as a sacrament, a psychoactive plant decoction containing the hallucinogen
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DMT}
+\end_layout
+
+\end_inset
+
+ combined with β-carboline monoamine oxidase inhibitors that confer it with
+ oral activity
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ (McKenna & Towers, 1984; McKenna et al., 1984; Callaway et al., 1996; Grob
+ et al., 1996; Riba et al., 2002, 2003; Yritia et al., 2002)
+\end_layout
+
+\end_inset
+
+.
+ Ayahuasca, also known as 
+\emph on
+yage
+\emph default
+́ or 
+\emph on
+hoasca
+\emph default
+, has a long history of ceremonial use by natives in the Amazon valley of
+ South America
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ (Dobkin, 1971; Schultes & Hofmann, 1979
+\end_layout
+
+\end_inset
+
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+A 22 page review in 2015:
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Hallucinogenic drugs have been used by humans for thousands of years, but
+ western scientists only became interested in these substances beginning
+ in the late 1800s.
+ These agents produce profound changes in consciousness.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+We could tell this story very differently if a gendered and post colonial
+ lens was applied.
 \end_layout
 
 \end_inset
@@ -1654,11 +2731,15 @@ Anne Fausto-Sterling, and many others, talk about knowledge outside the
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection*
 Interdisciplinary studies
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 In 
 \emph on
 Critical Neuroscience,
@@ -1700,7 +2781,12 @@ Also page numbers.}
 
 \end_inset
 
- (which I recall as being a bad thing) 
+ (which I recall as being a bad thing)
+\end_layout
+
+\end_inset
+
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -1754,7 +2840,11 @@ So cellular and molecular neuroscience is missing a great many things.
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Situating the brain/cognition within a culture is an expanding trend (which
  I should be happy about).
  The large problem is that when 
@@ -1773,7 +2863,7 @@ culture
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 Epigenetics -- the metaphorical and physical incorporation of social effects
  into the genome, is a way of explaining what culture does for human development
 , creating a narrative of 
@@ -1800,6 +2890,11 @@ at risk
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Kirmayer2006,Pickersgill2009"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -1839,230 +2934,6 @@ free market forces
 \end_inset
 
 
-\end_layout
-
-\begin_layout Subsection
-Molecular and genetic reductionism
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Reductionism
-\begin_inset Quotes erd
-\end_inset
-
- is a bit of a catch all term that I should probably explore more.
- The Western scientific traditions is entirely focused on reducing systems
- to their smallest working unit,, with the intention of finding out one
- 
-\begin_inset Quotes eld
-\end_inset
-
-answer
-\begin_inset Quotes erd
-\end_inset
-
- and threading it into many other answers to form a kind of tapestry of
- knowledge.
- The reduction and simplification of systems roughly correlates with the
- notion of 
-\begin_inset Quotes eld
-\end_inset
-
-pure
-\begin_inset Quotes erd
-\end_inset
-
- sciences, pure being perceived as better, 
-\begin_inset Quotes eld
-\end_inset
-
-harder
-\begin_inset Quotes erd
-\end_inset
-
-, and (incidentally, of course) more masculine.
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Float figure
-placement h
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename gfx/xkcd_purity.png
-	width 115col%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Purity
-\begin_inset Quotes erd
-\end_inset
-
-, Randall Munroe, https://xkcd.com/435/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- In the biological sciences, and in the neurosciences, reductionism is:
-\end_layout
-
-\begin_layout Itemize
-generally a trend in the biological sciences -- maybe due to perception
- of increased objectivity/hardness (a la physics and chemistry).
-\end_layout
-
-\begin_layout Itemize
-Somewhat inherent to 
-\begin_inset Quotes eld
-\end_inset
-
-neuroscience
-\begin_inset Quotes erd
-\end_inset
-
-, since the ultimate goal is to reduce function/cognition to a set of circuits/c
-ells/meaningful small and completely circumscribed/understood units.
-\end_layout
-
-\begin_layout Itemize
-Where does it come from?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-What goals are there and how does reductionism accomplish them for us? What
- is good and not good about applications to neuro? Can and should cell studies
- be used to 
-\begin_inset Quotes eld
-\end_inset
-
-answer
-\begin_inset Quotes erd
-\end_inset
-
- or explore questions about cognition? What do we lose when we 
-\begin_inset Quotes eld
-\end_inset
-
-solve
-\begin_inset Quotes erd
-\end_inset
-
- disease in vitro? 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-footnote {"A sensible research strategy (isolationism/reductionism) becomes
- a metaphysical commitment to a system, where the system is reality." For
- us, cell lines are indicative of some reality.
- It's plausible that scientists themselves know their work to be missing
- enormous sweeps of holistic knowledge, but any written work rarely acknowledges
- it.
- Grants and papers imply and argue, point-blank that molecular work is the
- answer to XYZ -- and not just the answer, but the problem to be studied
- as well.}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Personalized medicine; or personalized neuroscience is still a way of reducing
- the individual to the cellular and genomic information, without accounting
- for personhood.
- Personalized medicine
-\begin_inset Quotes erd
-\end_inset
-
- is not actually personalized; it's genomic.
- Relying on genetic information to give meaningful information about health
- care and responses is hardly specific to an individual's needs and abilities,
- as we'd like a feminist science to be.
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-Joel: Feminist medicine - personal, full, not reduceable
-\end_layout
-
-\begin_layout Plain Layout
-not all white men from Europe
-\end_layout
-
-\begin_layout Plain Layout
-[[I think this is a request for clarificaiton of what feminist medicine
- would be, but not in the Sandra Harding sense]]
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Informal and formal knowledges
-\end_layout
-
-\begin_layout Standard
-The re-introduction of psychedelics into the clinic is also paired with
- a systematic devaluing of recreational users, and a low-key but distinct
- disdain for traditional usages (at least in the formalized literature).
-\end_layout
-
-\begin_layout Standard
-In reality, however, hallucinogens have amazingly well-documented and supportive
- informal communities.
- Taking psychotropics is, for many, a spiritual and deeply-prepared for
- experience.
- Users are often hyperaware of the chemical effects, interactions with medical
- conditions or other drugs, how to set scenes, how to guide their mental
- state in meaningful ways -- in short, expert and specific knowledge more
- typically associated with discerning scientists than hippies in the woods.
- 
-\end_layout
-
-\begin_layout Standard
-But hippies in the woods may know a lot more about how to 
-\emph on
-use
-\emph default
- those drugs than scientists who have never experienced them and treat them
- solely as tools in a molecular toolkit.
 \end_layout
 
 \begin_layout Standard
