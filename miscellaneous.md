@@ -1,3 +1,7 @@
+#psyches
+ 1. what makes a good babysitter? basically, having tripped before, or a sort of natural sensitivity. good babysitters are also good people to be around;; a good tripping buddy is also someone who has tripped before, and/or is ready to flow and be flexible. the main thing is giving up your desire for control; both of other people and of yourself -- being a good trip buddy means you do not demand, but ask or suggest and are aware of their mental state without prying. trust them to communicate in one way or another.
+
+
 #what's open access?
  * pubchase has an option to sort by "open access PDFs"
 #racism and the law
