@@ -80,7 +80,7 @@
 
 \begin_layout Standard
 \begin_inset Branch mol-neuro
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset ERT
@@ -539,13 +539,31 @@ end{acronym}
 Psychedelics & Pharmacology
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+psychedelics 
+\begin_inset Quotes eld
+\end_inset
+
+mind manifesting
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+psychedelics serotonin agonists
+\end_layout
+
 \begin_layout Standard
-Culturally significant and an touchstone for identity at my (soon to be)
- alma mater, hallucinogens -- psychedelic hallucinogens, drugs inducing
- a profound qualitative perceptual change -- exist in the public and scientific
- eye as small molecules.
- They entered the modern scientific frame with with Albert Hoffman's 1938
- synthesis of 
+Culturally significant and an touchstone for identity at my soon-to-be alma
+ mater, hallucinogens -- psychedelic hallucinogens, drugs inducing a profound
+ qualitative perceptual change -- exist in the public and scientific eye
+ as small molecules.
+ They entered the modern scientific frame with with Albert Hoffman's accidental
+ ingestion in 1943 of 
 \begin_inset ERT
 status collapsed
 
@@ -558,16 +576,25 @@ ac{LSD}
 
 \end_inset
 
- from ergotamine, a isolated compound from the rye fungus ergot and his
- accidental discovery, some years later, of the compound's ability to induce
- profound psychological effects.
+, synthesized in 1938 from ergotamine.
 \end_layout
 
 \begin_layout Standard
-In the years since Hoffman's synthesis and 'accidental' discovery, the broad
- class of drugs exemplified by 
 \begin_inset ERT
 status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{references for roles f LSD}
+\end_layout
+
+\end_inset
+
+In the years since Hoffman's synthesis and discovery of 
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 
@@ -578,9 +605,11 @@ ac{LSD}
 
 \end_inset
 
- have been, variously: implicated in CIA coverups and brainwashing; a foundation
-al symbol of counter-culture movements; effective treatment for alcoholism,
- 
+, the cultural and scientific relevance of the psychedelic drugs has swung
+ wildly.
+ They have been variously: implicated in CIA coverups and brainwashing;
+ a foundational symbol of counter-culture movements; effective treatment
+ for alcoholism, 
 \begin_inset ERT
 status collapsed
 
@@ -593,11 +622,15 @@ ac{OCD}
 
 \end_inset
 
-, and depression; the inspiration for a number of scientific breakthroughs;
- as a field of battle for the rights of indigenous rights .
+, anxiety, and depression; the inspiration for the discovery of a major
+ neurotransmitter; as a field of battle for the rights of indigenous rights.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 The current shamanistic traditions 
 \begin_inset ERT
 status collapsed
@@ -630,33 +663,82 @@ research{native histories of drugs}
  
 \end_layout
 
-\begin_layout Standard
-The current manifestations represent a lineage of psychedelic use predating
- written history on all inhabitated continents: cave paintings in Europe
- 
+\end_inset
+
+The current scientific space for psychedelics is anticipated by human use
+ predating written history.
+ In Europe, prehistoric cave paintings in Spain depict mushrooms, thought
+ to be of the genus 
+\emph on
+Psilocybe
+\emph default
+
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Akers2011"
 
 \end_inset
 
-, archeological evidence from the desert southwest of what is now Texas
- and Mexico
+.
+ In North America, archeological evidence of mushrom usage and surviving
+ spiritual traditions from the desert southwest of what is now Texas and
+ Mexico abounds
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Bruhn2002,El-Seedi2005"
+key "Bruhn2002,El-Seedi2005,Schultes1998"
 
 \end_inset
 
-, 
+.
+ A Japanese folktale from the 11th century references 
+\begin_inset Quotes eld
+\end_inset
+
+laughing mushrooms
+\begin_inset Quotes erd
+\end_inset
+
+ and the hallucinatory/mood-altering effects after consumption.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sanford1972"
+
+\end_inset
+
+ Recipes for the 
+\begin_inset Quotes eld
+\end_inset
+
+soma
+\begin_inset Quotes erd
+\end_inset
+
+ of the ancient Indo-Aryan Rigveda, the ambrosia of the gods, draw on over
+ one hundred ingredients that produce a concoction of psychoactive alkaloids.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Leonti2014"
+
+\end_inset
+
+ In South America, a thriving ayahuasca-shamanistic tradition in the deep
+ Peruvian rainforests is busy modern commerce
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Highpine2013"
+
+\end_inset
+
+; across the ocean on the western coast of Africa, the Bwiti disciplines
+ in Gabon and Cameroon employ the iboga plant as a center of spiritual practice.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-textcolor{red}{and more evidence woo}
+findref{ibogaine/bwiti}
 \end_layout
 
 \end_inset
@@ -670,7 +752,7 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 textcolor{red}{these drugs have been around a hella long time, and it's
  only just now that Western science/culture is beginning to treat them as
@@ -688,7 +770,7 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 textcolor{red}{In my own experience and those around, they're either positively
  life-changing; or not.
@@ -702,9 +784,6 @@ textcolor{red}{In my own experience and those around, they're either positively
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -758,7 +837,7 @@ Discovered in Switzerland, underwent furious experimentation until they
  in the scientific literature at specific labs.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -772,13 +851,70 @@ rewrite{scientific history of psychedelics}
 
 \end_layout
 
+\begin_layout Standard
+72 years later...
+\end_layout
+
 \begin_layout Subsection
-Consciousness-raising molecules?
+Consciousness-raising molecules
 \end_layout
 
 \begin_layout Standard
-One small piece of the psychedelic puzzle is understanding what happens
- on a molecular level to induce both short and long term perceptual changes.
+In 1942, the neurosciences were still 20 years in the future.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Abi-Rached2010"
+
+\end_inset
+
+ Genetics was in its relative infancy, and would not really start gaining
+ steam until the late 50s and 60s.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Psychiatry, the field to employ psychedelics was increasingly biologized,
+ but only as far as the technology of the time could get it -- which is
+ to say, fields like pharmacogenetics
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Psychedelic research was largely focused on (a) psychological effects, i.e.
+ the use of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ and mescaline as model psychoses, or the potential for serious therapeutic
+ progress or (b) the synthesis of increasingly complex related drugs.
+\end_layout
+
+\begin_layout Standard
+70 years later, biology is very different.
+ We can track very specifically what happens to bodies on molecular- and
+ cellular-levels, enough to understand that the long-term spiritual effects
+ reported by some psychedelic users is likely matched by dendritic spine
+ growth on neurons.
+ 
+\end_layout
+
+\begin_layout Standard
+We can explore more precisely how the consciousness alteration is traced
+ to biological mechanisms of receptors, signalling, and networks.
 \end_layout
 
 \begin_layout Standard
@@ -831,8 +967,8 @@ graffito{For the sake of simplicity, "hallucinogens" here mean serotonergic
 
 \end_inset
 
-Serotonergic hallucinogens are classified according to their chemical structure,
- 
+Serotonergic hallucinogens -- psychedelics -- are classified according to
+ their chemical structure, 
 \begin_inset ERT
 status collapsed
 
@@ -852,56 +988,17 @@ anders, 2001
 
 \end_inset
 
- psychedelic/psycholgical effects (see 
-\begin_inset CommandInset ref
-LatexCommand nameref
-reference "sub:Psychological-Effects"
-
-\end_inset
-
-), addictive potential, lethality or lack thereof, and the ineffable desire
- of humans to classify everything.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{too snarky?}
-\end_layout
-
-\end_inset
-
+ mental effects, binding affinities, addictive potential, lethality or lack
+ thereof.
  They are non-addictive drugs, and users become tolerant after a single
- effective dose, and must wait some weeks before the drugs are effective
- again.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{for clarity}
-\end_layout
-
-\end_inset
-
+ effective dose.
  They are biologically non-lethal, i.e.
- unlike other common recreational drugs methamphetamines or opiates, an
+ unlike other common recreational drugs (methamphetamines or opiates), an
  overdose does not affect critical lower-level biological functions like
  breathing.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{drug lethality}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2004"
 
 \end_inset
 
@@ -909,137 +1006,10 @@ findref{drug lethality}
 \end_layout
 
 \begin_layout Standard
-The drugs that fit these admittedly-fluid criteria are the classical psychedelic
-s, the most well-known perhaps being the synthetic 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{LSD}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-research{popularity of drugs}
-\end_layout
-
-\end_inset
-
-.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{LSD}
-\end_layout
-
-\end_inset
-
- has natural analogues in psilocybin, produced by a genus of mushrooms;
- mescaline, produced in several species of New-World
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{New World?}
-\end_layout
-
-\end_inset
-
- cacti; and 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{for clarity}% DMT is endogenous, and common in plants but needs
- an MAOI to function...%}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{DMT}
-\end_layout
-
-\end_inset
-
-, among others.The chemical analogues are numerous and endlessly permeable;
- while most are used as hyper
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{hyper selective?}
-\end_layout
-
-\end_inset
-
--selective 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-5-HT
-\backslash
-textsubscript{2a}
-\end_layout
-
-\end_inset
-
- agonists, they have also percolated out as recreational drugs
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{should note somewhere that LSD is less popular than ever haha molly
- haha}
-\end_layout
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Chemically, they resemble the endogenous serotonin, and fall into one of
- three main chemotypes.Tthe tryptamines, which closely resemble serotonin,
- ergolines related to LSD, which can be considered to be rigidified tryptamines,
- and the phenethylamines (see 
+Structurally they resemble the endogenous serotonin, and fall into one of
+ three main chemotypes: tryptamines, which most closely resemble serotonin,
+ ergolines which can be considered to be rigidified tryptamines, and the
+ phenethylamines (see 
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "fig:Chemotypes-of-Psychedelics"
@@ -1230,20 +1200,200 @@ key "Nichols2012a"
 
 \end_inset
 
+ Like serotonin, they enact the majority (although not exclusively) of their
+ effects at a specificsubtype of serotonin receptor (
+\begin_inset ERT
+status open
 
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
 \end_layout
-
-\begin_layout Subsubsection
-\begin_inset CommandInset label
-LatexCommand label
-name "sub:Psychological-Effects"
 
 \end_inset
 
-Psychological Effects
+).
 \end_layout
 
 \begin_layout Standard
+The most well-known of these is likely the synthetic ergoline 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+, an ergoline
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{popularity of drugs}
+\end_layout
+
+\end_inset
+
+.
+ The tryptamines psilocin
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{psilocin = metabolized psilocybin}
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DMT}
+\end_layout
+
+\end_inset
+
+ are the active component of the 
+\emph on
+Psilocybe 
+\emph default
+mushroom genus and endogenous to most plants, respectively.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{DMT prevalence}
+\end_layout
+
+\end_inset
+
+ Mescaline, a phenethylamine, is produced in several species of New-World
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{New World?}
+\end_layout
+
+\end_inset
+
+ cacti.
+ The chemical analogues are numerous and endlessly permeable; while most
+ are used as hyper
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{hyper selective?}
+\end_layout
+
+\end_inset
+
+-selective 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ agonists, they have also percolated out as recreational drugs
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{should note somewhere that LSD is less popular than ever haha molly
+ haha}
+\end_layout
+
+\end_inset
+
+.
+ Ibogaine is somewhat of an outlier although it shares the same tryptamine
+ core, ibogaine also has an set of substituents that lend it activity at
+ NMDA receptors as well as 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+5-HT
+\backslash
+textsubscript{2a}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+At the border of the classical psychedelics is 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{MDMA}
+\end_layout
+
+\end_inset
+
+, which shares properties of both mescaline and the sometimes-toxic amphetamines.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Psychological Effects
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -1330,6 +1480,11 @@ ns, traumatic life events)
 but also not always? ~~~~~drugs~~~~
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection
 Why Receptors?
 \end_layout
@@ -1361,6 +1516,11 @@ rewrite{this awkward sentence}
 
 \end_inset
 
+
+\begin_inset Note Greyedout
+status open
+
+\begin_layout Plain Layout
 Biology's point of entry into molecule-body interactions starts with receptors.
  Cell-surface receptors bind the molecule and transmit a signal, or act
  as a channel to allow direct access to the intracellular milieu; alternately,
@@ -1368,6 +1528,10 @@ Biology's point of entry into molecule-body interactions starts with receptors.
 lar receptors.
  Measuring and quantifying molecule-receptor interaction lies at the heart
  of pharmacology.
+\end_layout
+
+\end_inset
+
  
 \begin_inset Note Greyedout
 status collapsed
@@ -1380,6 +1544,17 @@ I know this seems like an obvious statement/paragraph but it'll be cleaned
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
+Classical pharmacology has, for 50 odd years, relied on a model of intrinsic
+ efficacy.
+ Molecule binds, receptor signals.
+ Molecules are either full agonists (maximal
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
