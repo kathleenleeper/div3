@@ -657,8 +657,8 @@ reference "tab:communication-requirements-in"
 \end_inset
 
 ).
- It is impossible to participate in academic-scientific discourse with both
- intellectual and financial access to the communication pathways.
+ It is impossible to participate in academic-scientific discourse without
+ both intellectual and financial access to the communication.
  The blocks along the way are numerous and multi-sited.
 \begin_inset ERT
 status collapsed
@@ -676,7 +676,7 @@ rewrite{transition}
 \end_layout
 
 \begin_layout Standard
-The research cycle itself consists of 4 steps, with interpolations and cross
+The research cycle itself consists of 5 steps, with interpolations and cross
  threads between each.
 \end_layout
 
@@ -1209,11 +1209,7 @@ The publishing cycle
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
+status open
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -1453,8 +1449,8 @@ findref{current scholarly system}
 \end_layout
 
 \begin_layout Standard
-Pre-Internet, the cost of the journal was tied to the costs of printing
- and physical distribution.
+Pre-Internet, publishers also wore the hat of printer; subscription costs
+ were tied printing and physical distribution.
  With that barrier out of the way, replaced by digital access, it's harder
  to see exactly why the major publishers that control the market are still
  making profit rates between 32%-50%, to the tune of 100 million dolla's.
