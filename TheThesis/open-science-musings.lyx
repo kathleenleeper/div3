@@ -145,26 +145,182 @@ Scientific Structures and Incentives
 \end_layout
 
 \begin_layout Standard
-Here's the thing: science doesn't mean anything until you communicate it
- to 
-\emph on
-someone
-\emph default
-.
- Facts only become facts when they're part of a communal decision; more
- practically, if you 
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:ScienticEcosystem"
+
+\end_inset
+
+In the history and sociology and feminism of science, we talk about science
+ as gift economy, or a commons of knowledge.
+ The scientific project 
 \begin_inset Quotes eld
 \end_inset
 
-cure cancer
+builds on the shoulders of giants
 \begin_inset Quotes erd
 \end_inset
 
-, there's not much point unless you get your acclaims, and start pushing
- your therapy out.
- The system that has evolved for scientific dissemination today is a network
- of journals, Internet communications, conferences, emails, and blogs; the
- rate at which scientific information moves within communities and between
+; the intense, methodological, and highly-specific technoscientific answers
+ we seek in scientific inquiry are atoms, if you will, in the molecules
+ of theories.
+ To stand on those shoulders, we need communication -- we collaborate within
+ buildings and between labs, we maintain social ties that influence gifts
+ of stem cell lines and antibodies, we go out to bars at conferences, we
+ track the ever-cresting wave of published academic research.
+ Science is yes, the experiment, but the experiment and information gathered
+ by others goes hand in hand.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+word that implicates scientists in the craetion of science
+\end_layout
+
+\begin_layout Plain Layout
+technoscience bc technologies DO but science IS in the popular imaginary
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Moreover, scientific progress is essentially meaningless unless it's communicate
+d (
+\begin_inset Quotes eld
+\end_inset
+
+success in conveying one's ideas or in evoking understanding in others.
+\begin_inset Quotes erd
+\end_inset
+
+) In the philosophical tradition of Ludwik 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Fleck1981"
+
+\end_inset
+
+'s work, facts only emerge from a community process of discussion and assessment.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fleck1981"
+
+\end_inset
+
+ In a more practical sense, there's no benefit in synthesizing the mythological
+ cure for cancer unless you (a) get community credit for your and/or (b)
+ cancer patients, y'know, receive the magic drug.
+\end_layout
+
+\begin_layout Standard
+\SpecialChar \textcompwordmark{}
+
+\end_layout
+
+\begin_layout Standard
+Science has always been tied to the communication networks of researchers
+ and amateurs, although the altruism of that communication is certainly
+ questionable.
+ The 1665 establishment of the first journal, the
+\emph on
+ Philosophical Transactions of the Royal Society of London
+\emph default
+, 
+\begin_inset Quotes eld
+\end_inset
+
+aimed at creating a 
+\series bold
+public record
+\series default
+ of original contributions to knowledge,
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ not least of all in answer to the complicated question of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IP}
+\end_layout
+
+\end_inset
+
+ rights, a subject still very much contested.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Guedon2001"
+
+\end_inset
+
+ was a bi-annual periodical of 
+\begin_inset Quotes eld
+\end_inset
+
+letter-excerpts, reviews and summaries of recently-published books, and
+ accounts of observations and experiments from European natural philosophers
+\begin_inset Quotes erd
+\end_inset
+
+, a money-losing endeavor until the middle of the 20th century.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fyfe2014"
+
+\end_inset
+
+ That was the 
+\begin_inset Quotes eld
+\end_inset
+
+original
+\begin_inset Quotes erd
+\end_inset
+
+ journal.
+ 
+\end_layout
+
+\begin_layout Standard
+Today, the structures of scientific communication today number over 25,000
+ journals
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+10,675 journals included in Thomson Reuter’s Journal Citation Reports database,
+ of which 8200 are in the Science Edition and 2900 in the Social Sciences
+ Edition: these collectively publish about 1 million articles annually.
+ This subset is important because it contains the most cited journals, that
+ is, (by this measure at least) the core literature.
+ Journals included in the Thomson citation database are also on average
+ substantially larger than those not included (publishing 111 articles per
+ year compared to 26, according to Björk et al., 2009)
+\end_layout
+
+\end_inset
+
+, along with an ever-expanding and specializing network of conferences,
+ blogs, uncountable Internet based communications, and tweets, to name a
+ few.
+ The rate at which scientific information moves within communities and between
  scientists and the 
 \begin_inset Quotes eld
 \end_inset
@@ -174,6 +330,72 @@ public
 \end_inset
 
  has increased dramatically, in both speed and scope.
+ Like most other institutions no longer limited to the mail system and the
+ printing press, the advent of Internet and the increasing role of digital
+ technologies has a transformative effect on communication, and thus science
+ itself.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{the politics of "life itself"}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This communications transformation takes on long-known issues with the new
+ potential for technological solutions.
+ Scientific communication has always been limited, in both the scope and
+ application, and underwritten by concerns about prestige rather than progress.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{what 
+\backslash
+emph{kind} of progress?}
+\end_layout
+
+\end_inset
+
+ Academic scientific work has been constrained by funding issues; an increasingl
+y competitive academic environment where only 1 in 10 PhD recipients will
+ find a stable (i.e.
+ tenured) job in their academic field 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{phd and jobs}
+\end_layout
+
+\end_inset
+
+; outside pressures that lead to data fudging; an increasing amount scientific
+ spin on what an experiment has actually accomplished and a decreasing amount
+ of purely exploratory research.
+\end_layout
+
+\begin_layout Standard
+The criticism of production of knowledge is reaching a fever pitch of excitement
+ about fraud, funding, reproducibility, access, and a flock of other issues.
+ The scientific ecosystem has been metaphorically thrust into the punishing
+ light of the democratizing Internet, and it turns out science isn't the
+ foolproof method our 7th grade biology teachers said it was.
+ And they certainly don't follow the scientific method.
 \end_layout
 
 \begin_layout Standard
@@ -193,376 +415,6 @@ the U.S.
 
 
 \end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}, the founding document of the Free
- Software Movement
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}, a leader in open access publishing
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OKF}{Open Knowledge Foundation}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GMH}{growing misconduct hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{SSH}{'stronger system' hypothesis}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2013"
-key "Fanelli2013"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PPV}{positive predictive value}
-\end_layout
-
-\end_inset
-
- (per 
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2005"
-key "Ioannidis2005"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IF}{Journal Impact Factor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{CNS journals}{
-\backslash
-emph{Cell}, 
-\backslash
-emph{Nature}, and 
-\backslash
-emph{Science}}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GNU}{GNUs Not Unix}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:ScienticEcosystem"
 
 \end_inset
 
@@ -633,6 +485,11 @@ to help
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 The broad sets initiatives under the 
 \begin_inset ERT
 status open
@@ -646,7 +503,7 @@ ac{OS}
 
 \end_inset
 
- umbrella (of which I am a card-carrying member), share a point of view,
+ umbrella (of which I am a card-carrying member), share this point of view
  in which the scientific ecosystem -- that network of funding and publishing
  that underlies the production of knowledge -- is suffering from serious
  problems in dissemination, reproducibility, and efficiency.
@@ -685,7 +542,7 @@ Using web-based tools to facilitate scientific collaboration.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -697,14 +554,7 @@ Depending, of course, on your viewpoint, re-workers of scientific systems
 
 \end_inset
 
-
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:open-science-ecosysemst"
-
-\end_inset
-
- Generally, those solutions and/or goals center around digitizing and opening
+Generally, those solutions and/or goals center around digitizing and opening
  the scientific ecosystem, implementing structures that allow for and incentiviz
 e:
 \end_layout
@@ -734,7 +584,7 @@ lab notebooks - tracing the entire research process with all dead ends and
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 There's also a hundred other subcategories on the fringes of those overarching
  categories new systems of distributed, ongoing, or otherwise 
 \begin_inset Quotes eld
@@ -788,11 +638,434 @@ online journal club
  diverse forms of knowledge transmission.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
-Scientific Communication Woes
+Cycles of Science
 \end_layout
 
 \begin_layout Standard
+At every step of even the canonical research cycle, communication with and
+ from other researchers plays a role (see 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:communication-requirements-in"
+
+\end_inset
+
+).
+ It is impossible to participate in academic-scientific discourse with both
+ intellectual and financial access to the communication pathways.
+ The blocks along the way are numerous and multi-sited.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{transition}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The research cycle itself consists of 4 steps, with interpolations and cross
+ threads between each.
+\end_layout
+
+\begin_layout Enumerate
+The idea; hypothesis generation, asking the question of scientific or funder-dri
+ven interest
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+In New Orleans, an opening for an asthma grant, so my PI applied to research
+ asthma in the context of serotonin signaling
+\end_layout
+
+\begin_layout Itemize
+an idea, late at night (Otto Loewi, discovery of acetylcholine)
+\end_layout
+
+\begin_layout Itemize
+previously established work by a lab (routine X->Y->Z)
+\end_layout
+
+\begin_layout Itemize
+within the context of a greater project by the PI (re: translational neuroscienc
+e lab?)
+\end_layout
+
+\begin_layout Itemize
+a happenstance observation; (see 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Charney2014"
+
+\end_inset
+
+, serendipity generally)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Set up the preliminaries of funding and approval by the relevant boards;
+ obtain laboratory space and/or a grad student
+\end_layout
+
+\begin_layout Enumerate
+Collecting data, running a set of multiply-envisioned on-the-fly experiments.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Make things work
+\begin_inset Quotes erd
+\end_inset
+
+ until there's a meaningful data set; in 
+\begin_inset Quotes eld
+\end_inset
+
+softer
+\begin_inset Quotes erd
+\end_inset
+
+ sciences, enough evidence for an effect (p < 0.05) against the null hypothesis.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Writing and rewriting of the paper -- introduction, background, results,
+ discussions, methods, further directions for research -- and submit it
+ to a journal of your choice.
+\end_layout
+
+\begin_layout Enumerate
+Wait for the inevitable rejection from the Big Journal, re-submit.
+ Eventually, publish.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="40col%">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+toprule
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+tableheadline
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+scientific activity
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+tableheadline
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\end_inset
+
+communication reqs.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+midrule
+\end_layout
+
+\end_inset
+
+ idea discovery
+\end_layout
+
+\begin_layout Plain Layout
+hypothesis generation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+awareness
+\end_layout
+
+\begin_layout Plain Layout
+lit.
+ review
+\end_layout
+
+\begin_layout Plain Layout
+informal discussion
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+midrule{}
+\end_layout
+
+\end_inset
+
+funding/approval
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+lit review
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+midrule{}
+\end_layout
+
+\end_inset
+
+conduct research
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+awareness
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+midrule{}
+\end_layout
+
+\end_inset
+
+disseminate results
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+formal publication
+\end_layout
+
+\begin_layout Plain Layout
+informal dissemination
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+tabularnewline
+\backslash
+bottomrule%
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:communication-requirements-in"
+
+\end_inset
+
+
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+Communication in the research cycle
+\end_layout
+
+\end_inset
+
+communication requirements in research cycle
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -817,6 +1090,11 @@ ac{OS}
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Before we start talking about solutions, it makes sense to identify the
  problems.
  To some extent, the 
@@ -835,7 +1113,17 @@ ac{OS}
  movement takes these as a given, and move straight to proposing the solution.
 \end_layout
 
-\begin_layout Subsection
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The concerns around a scientific transformation travel up along all steps
+ of the research cycle, starting with publishing and journals access.
+\end_layout
+
+\begin_layout Paragraph
 The Publishing Pipeline
 \end_layout
 
@@ -843,7 +1131,7 @@ The Publishing Pipeline
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -861,9 +1149,15 @@ textwidth][c]{
 \end_inset
 
 
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Graphics
-	filename gfx/diagrams/PublishingPipeline.png
-	lyxscale 50
+	filename gfx/Ware-Mabe_publishing-cycle_fig3_2012.png
+	lyxscale 20
 	width 80page%
 
 \end_inset
@@ -898,15 +1192,47 @@ key "Subramaniam2009"
 
 \end_inset
 
-The 
-\begin_inset Quotes eld
+The publishing cycle
+\end_layout
+
 \end_inset
 
-classic
-\begin_inset Quotes erd
+
+\end_layout
+
 \end_inset
 
- current publishing pipeline
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+missingfigure{publishing PIPELINE}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -930,25 +1256,10 @@ fix
 \end_inset
 
  science start.
- The path of research to communication is long, torturous, and winding,
- requiring abridgement, careful scheming, overstatements of effects, prestige
- calculations.
-\begin_inset ERT
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-rewrite{publishing pipeline, history of journals}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
@@ -976,71 +1287,9 @@ key "Parker2013"
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{current goals/what's accomplished w/ publishing}
-\end_layout
-
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Publishing benefits the scientist predominantly in an indirect sense.
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The actual scientific study behind modern journal articles has multiple
- origin stories; papers arise from a variety of both serendipitious and
- 
-\end_layout
-
-\begin_layout Itemize
-In New Orleans, an opening for an asthma grant, so my PI applied to research
- asthma in the context of serotonin signaling
-\end_layout
-
-\begin_layout Itemize
-an idea, late at night (Otto Loewi, discovery of acetylcholine)
-\end_layout
-
-\begin_layout Itemize
-previously established work by a lab (routine X->Y->Z)
-\end_layout
-
-\begin_layout Itemize
-within the context of a greater project by the PI (re: translational neuroscienc
-e lab?)
-\end_layout
-
-\begin_layout Itemize
-a happenstance observation; (see 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Charney2014"
-
-\end_inset
-
-, serendipity generally!)
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -1048,30 +1297,78 @@ status collapsed
 
 
 \backslash
-rewrite{how an idea becomes a paper to be FORMAL}
+todo{current goals/what's accomplished w/ publishing}
 \end_layout
 
 \end_inset
 
-Then, after project initiation, scientists collect data, run a set of multiply-e
-nvisioned on-the-fly experiments.
- They 
-\begin_inset Quotes eld
-\end_inset
 
-make things work
-\begin_inset Quotes erd
-\end_inset
-
- until there's a data set with evidence for an effect (p < 0.05), or that
- they've successfully answered the question, hopefully with a yes.
- 
 \end_layout
 
 \begin_layout Standard
-Presumably, then you write the paper -- introduction, background, results,
- discussions, methods, further directions for research -- and submit it
- to a journal of your choice.
+Publishing benefits the scientist predominantly in an indirect sense, although
+ certainly not an altruistic one:
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+the superficially most important reason given for publishing was to disseminate
+ the results, [but] the underlying drivers were funding and furthering the
+ author’s career.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\SpecialChar \ldots{}
+between 1993 and 2005\SpecialChar \ldots{}
+hardly any differences in author motivations
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Publication also establishes precedence, and therefore scientific respect.
+ Like the public registry provided by Henry Oldenburg's
+\emph on
+ Philosophical Transactions of the Royal Society of London 
+\emph default
+in 1665, researchers in the current day 
+\begin_inset Quotes eld
+\end_inset
+
+treat articles and published journals \SpecialChar \ldots{}
+ as registers of intellectual property
+ whose functions are close to that of a land registry.
+ In effect, journals record the ownership titles (articles) and they define
+ limits and boundaries.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Guedon2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1094,7 +1391,7 @@ todo[inline]{linking}
 Publishers act, although the boundaries are shifting in the digital age,
  as a clearinghouse and 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1115,7 +1412,7 @@ managerial stage.
 \end_layout
 
 \begin_layout Standard
-Authors/labs submit a manuscript (
+Authors/labs submit their manuscript (
 \emph on
 gratis
 \emph default
@@ -1128,16 +1425,20 @@ gratis
 \emph default
 .
  During the months of the process, the submitting author can do nothing
- else with the manuscript (double submissions being verboten).
+ else with the manuscript.
  Peer reviewers send it back with recommendations for publishing, the original
  writer makes revisions, and the journal agrees to publish it.
  The submitting lab pays a per-figure and/or per-page fee, signs away their
  copyright, and the journal takes the final work as its own.
- Then, those submitting and reviewing scientists pay to access the product
+ 
+\end_layout
+
+\begin_layout Standard
+Then, those submitting and reviewing scientists pay to access the product
  of their intellectual labors, having given up the legal right to share
  that knowledge on their own accord.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1156,11 +1457,33 @@ Pre-Internet, the cost of the journal was tied to the costs of printing
  and physical distribution.
  With that barrier out of the way, replaced by digital access, it's harder
  to see exactly why the major publishers that control the market are still
- making profit rates between 32%-50%, to the tun
+ making profit rates between 32%-50%, to the tune of 100 million dolla's.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{ending}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
 Access & Pay Walls
+\end_layout
+
+\end_inset
+
+Access & Pay Walls; or, the story of the Access Crisis
 \end_layout
 
 \begin_layout Quote
@@ -1184,15 +1507,7 @@ key "Shelton2005"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Primary literature
-\begin_inset Quotes erd
-\end_inset
-
- is the holy grail of contemporary knowledge.
- 6 pages of double-column size 10 text in 
+The 6 pages of double-column size 10 text in 
 \emph on
 Nature
 \emph default
@@ -1210,6 +1525,10 @@ Cell
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 I've been working from primary scientific literature since my first semester
  at Hampshire, but it was only a few minutes after my first Google Scholar
  searches that I immediately slammed up against pay walls to the papers
@@ -1233,7 +1552,7 @@ emph{1867}.}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -1244,6 +1563,11 @@ status open
 todo[inline]{Data about access and paywalls; idea of a sense of outrage
  at these monetary barriers to research that is (a) publically funded and
  (b) all of the writing/production is done by uncompensated scientists.}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
