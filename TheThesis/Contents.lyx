@@ -1466,13 +1466,13 @@ acro{FACS}{Fluorescence Activated Cell Sorting}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{GPCRs}{G-protein coupled receptors}
+acro{GPCR}{G-protein coupled receptor}
 \end_layout
 
 \end_inset
@@ -1822,7 +1822,7 @@ acro{GWAS}{Genome Wide Assocation Study}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1838,7 +1838,7 @@ acro{PTSD}{PostTraumatic Stress Disorder}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1854,7 +1854,7 @@ end{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
