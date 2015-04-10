@@ -111,7 +111,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 listoftodos
 \end_layout
@@ -121,42 +121,6 @@ listoftodos
 
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Acronyms
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
 
 \end_inset
 
@@ -179,12 +143,7 @@ name "chap:Bibliometrics-Me"
 
 \end_inset
 
-My own stuff?
-\end_layout
 
-\begin_layout Standard
-I ran bibliometrics (with python, code available at a github repo that I
- haven't totally made yet).
 \begin_inset Float figure
 wide false
 sideways false
@@ -207,9 +166,9 @@ textwidth][c]{
 
 
 \begin_inset Graphics
-	filename /home/feline/Documents/div3/bibliometrics/gender_distr.png
+	filename /home/feline/Documents/Repositories/bibmetrics/gender_distr.png
 	lyxscale 20
-	width 90text%
+	width 110text%
 
 \end_inset
 
@@ -231,29 +190,187 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Gender distribution of all works in this div! META.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Gender-distribution-div"
+
+\end_inset
+
+Gender distribution of the references
 \end_layout
 
 \end_inset
 
 
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I ran bibliometrics on the bibtex file that powers my citations..
+\end_layout
+
+\begin_layout Section
+Methods
+\end_layout
+
+\begin_layout Standard
+The script is a available as a hacky Github repositry, at 
+\begin_inset Flex URL
+status collapsed
 
 \begin_layout Plain Layout
-\begin_inset Caption Standard
+
+https://github.com/kathleenleeper/bibmetrics
+\end_layout
+
+\end_inset
+
+.
+ It is written entirely in Python, version 2.7.5 (
+\begin_inset Flex URL
+status collapsed
 
 \begin_layout Plain Layout
 
+https://www.python.org/download/releases/2.7/
 \end_layout
 
 \end_inset
 
+).
+ It uses a number of packages, all available free of cost and largely of
+ licensing:
+\end_layout
 
+\begin_layout Enumerate
+GenderComputer, a Python library that uses a database of names from different
+ countries to guess gender based on national statistics, licensed under
+ the LGPLv3 (available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/tue-mdse/genderComputer
 \end_layout
 
 \end_inset
 
+)
+\end_layout
 
+\begin_layout Enumerate
+PyZotero, a library that accesses collections from the reference manager
+ Zotero and allows manipulation of the data structures, licensed under the
+ GPLv3 (available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/urschrei/pyzotero
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Enumerate
+Matplotlib, a standard plotting package, licensed to be BSD-compatible and
+ based of the Python Software Foundation license (available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://matplotlib.org/
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+The program (in its current iteration) runs through a .bib file and extracts
+ the title and authors.
+ If no author is found, it prints the title of the entry and the message
+ 
+\begin_inset Quotes eld
+\end_inset
+
+no author available
+\begin_inset Quotes erd
+\end_inset
+
+.
+ If the author cannot be assigned a gender by GenderComputer, it prints
+ the author entry.
+ Typically, these are cases of (1) initials (e.g.
+ (2) organization (e.g.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The PLoS Medicine Editors
+\begin_inset Quotes erd
+\end_inset
+
+) or (3) names that do not appear in the avaible databases, usually those
+ of non-Anglo origin or with non-Latin characters.
+\end_layout
+
+\begin_layout Standard
+The script adds 1 to the appropriate array (man, woman, unisex, unassigned)
+ until it is done running through the database, and then calculates the
+ proportions of each category compared to the whole, generating the chart
+ in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Gender-distribution-div"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Results
+\end_layout
+
+\begin_layout Standard
+Unisex names are a relatively insignificant portion, comprising <2% of the
+ total names.
+ 
+\end_layout
+
+\begin_layout Standard
+Although in an uncleaned database, the 
+\begin_inset Quotes eld
+\end_inset
+
+Not Available
+\begin_inset Quotes erd
+\end_inset
+
+ would hover at closer to 20%, almost all bibliographic entries have full
+ names attached to them.
+ The missing N/A names are largely corporations, non-Anglo names, or solitary
+ initials, and published long enough ago that no bibliographic database
+ retains their full name.
+\end_layout
+
+\begin_layout Standard
+The real heart of the matter is the men and women.
+ ~56% of the authors in my database are assigned male; only 30% female.
+ This divide would change dramatically, I'm sure, if we broke it down by
+ subject matter -- feminist science and philosophy vs the other disciplines
+ in my Division III.
 \end_layout
 
 \begin_layout Standard
