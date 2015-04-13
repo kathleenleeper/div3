@@ -1191,8 +1191,8 @@ If
  just 4% of journals would be less distressing.
  You could assume you were catching just the cream of the global intellectual
  crop.
- But in reality, nearly all of the most respected journals are published
- from the U.S.
+ But in reality, nearly all of the most Thomson-Reuters respected journals
+ are published from the U.S.
  and the U.K.
  
 \begin_inset CommandInset ref
@@ -1391,6 +1391,19 @@ rewrite{meaning of low impact factor; also cover that if things aren't cited,
 \end_inset
 
 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{ref re: production in Brazil, or italy, for example}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1559,7 +1572,11 @@ regional
 
 \begin_layout Quote
 Thomson Reuters is also interested in excellent regional journals and is
- able to include a relatively small proportion of these each year.
+ able to include a 
+\emph on
+relatively small proportion
+\emph default
+ of these each year.
  
 \begin_inset Note Note
 status collapsed
@@ -1675,7 +1692,7 @@ Journal of Public Health Medicine
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Gender Disparities
 \end_layout
 
@@ -1712,7 +1729,7 @@ key "Lariviere2013"
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1724,68 +1741,48 @@ rewrite{being a queer in science?}
 \end_inset
 
 Since the 1970s and the establishment of equal rights legislation banning
- outright discrimination against women and minority groups, the fate of
- marginalized groups in the sciences has improved.
- in 2011, women received 54% of molecular biology PhDs.
-\begin_inset ERT
-status open
+ outright discrimination against women and minority groups, the proportions
+ of marginalized groups in the academic sciences
+\begin_inset Foot
+status collapsed
 
 \begin_layout Plain Layout
+The focus here (and in the literature) is on the academic sciences exclusively,
+ without regard to the women and men who go into industry or other 
+\begin_inset Quotes eld
+\end_inset
 
+non-academic field
+\begin_inset Quotes erd
+\end_inset
 
-\backslash
-findref{Leslie}
+, which to be fair comprise the majority of career paths for scientifically-trai
+ned students
 \end_layout
 
 \end_inset
 
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{women and people have made progress in representation yay!}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Unsurprisingly, most of these statistics vary broadly between fields
- and subfields}
-\end_layout
-
-\end_inset
-
-The scientific establishments still have a long way to go.
- Although explicit discrimination is borderline culturally unacceptable
- in much of the world, gender disparities still exist in more subtle, yet
- meainingful ways.
- On average, women publish less often than men; the difference is especially
- marked in fields with a high research expenditures, like molecular biology
- and physics.
+ has almost equalized, at least in some fields.
+ In 2011, women received 54% of molecular biology and neuroscience PhDs
+ (yay!).
+ In physics and computer science, of course, women were awarded fewer than
+ 20% of physics and computer science degrees.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Duch2012"
+key "Leslie2015"
 
 \end_inset
 
  
+\end_layout
+
+\begin_layout Standard
+The equalizing of representation at entry, although promising, still has
+ a long way to go.
+ While women are even overrepresented in many fields at the time of enrollment,
+ the rate of departure from academe for women and people of color is higher
+ at every stage of the academic-scientific career process, leading to an
+ acadamic landscape where men still dominate most prestigious positions,
 \begin_inset ERT
 status collapsed
 
@@ -1799,7 +1796,108 @@ todo{review "vanish box" idea -- women leaving academia for industry? maybe
 
 \end_inset
 
+ as in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Neubauer_gender-stages-scientific-career"
 
+\end_inset
+
+.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/Neugebauer_Women-in-MolBiopositions.TIF
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Neubauer_gender-stages-scientific-career"
+
+\end_inset
+
+Neubauer et al.
+\series bold
+, Scissors Diagram Showing the Gender Distribution within Career Stages
+ in Biological Sciences at German Universities (2003)
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Percent male and female are shown for enrolling university students through
+ graduation, PhDs awarded, scientific staff (includes post-doctoral fellows,
+ some junior group leaders, and research scientists with university or PhD
+ degrees), Habilitation (awarded for research accomplishments following
+ the PhD as well as teaching experience, often a pre-requisite for university
+ professorships in Germany), and professors (includes independent group
+ leaders roughly equivalent to assistant, associate, and full professors
+ in the American system—C2–C4 scale).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Unsurprisingly, most of these statistics vary broadly between fields
+ and subfields}
+\end_layout
+
+\end_inset
+
+ Although explicit discrimination is largely legally verboten and culturally
+ unacceptable in much of the world, gender disparities propagate in increasingly
+ subtle, yet meaningful, ways.
+ On average, women publish less often than men; the difference is especially
+ marked in fields with a high research expenditures, like molecular biology
+ and physics.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Duch2012"
+
+\end_inset
+
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -1818,11 +1916,10 @@ key "Duch2012"
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
-Many of the studies examining gender disparities are 
 \begin_inset ERT
 status collapsed
 
@@ -1830,13 +1927,20 @@ status collapsed
 
 
 \backslash
-todo{mention imp.
- of author order?}
+rewrite{to be less dickish}
 \end_layout
 
 \end_inset
 
+The authors in 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Duch2012"
 
+\end_inset
+
+ suggest the lower publishing rate is partially rectifed by the overall
+ higher impact of women's publications; but that is a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1844,26 +1948,32 @@ highly localized, mono-disciplinary, and dated
 \begin_inset Quotes erd
 \end_inset
 
-, and often fail to take into account the changing scholarly landscape of
- increased collaboration and 
+ stance.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Lariviere2013"
 
 \end_inset
 
- 
+ Two massive bibliometric studies of citation patterns and publication databases
+ demonstrate the scope of gendered participation in science.
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset citation
-LatexCommand citet
+LatexCommand citeauthor
 key "Lariviere2013"
 
 \end_inset
 
- analyzed the relationship between gender and research output (authorship),
- collaboration extent (co-authorships) and scientific impact of publications
- (citation count according to the 
+ analyzed the relationship between gender and research output (proxy: authorship
+), collaboration extent (proxy: co-authorships) and scientific impact of
+ publications (proxy: citation count) in the 
+ISI 
+\lang english
+
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1874,9 +1984,14 @@ ac{WoS}
 
 \end_inset
 
-).
- The authors analyzed >5 million research papers and reviews with more than
- 27 million involved authors.
+ database.
+ Between 2008 and 2012, this comprised 5,483,841 reseach articles and reviews,
+ with 27,329,915 authorships.
+ In the most productive countries, all articles with women in dominant (first
+ or last) author positions receive fewer citations than those with men.
+ Women's publications tend to be more domestic, and thus do not benefit
+ from the increased citation rate accrued by globally-authored papers.
+ Across all countries represented in 
 \begin_inset ERT
 status collapsed
 
@@ -1884,8 +1999,17 @@ status collapsed
 
 
 \backslash
-graffito{Gender assigned using Social Security databases}
+ac{WoS}
 \end_layout
+
+\end_inset
+
+, women account for <30% of fractionalized authorship, and are outnumbered
+ in first author positions at a 1:1.93 ratio.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lariviere2013"
 
 \end_inset
 
@@ -1893,52 +2017,20 @@ graffito{Gender assigned using Social Security databases}
 \end_layout
 
 \begin_layout Standard
-in the most productive entries, all articles with women in dominant author
- positions receive fewer citations than those with men in the same position.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- Accentuated by domesticity: women benefit less from the extra citations
- accrued by international collaborations
-\end_layout
-
-\end_inset
-
- Globally, women account for <30% of fractionalized authorship, and are
- outnumbered by men in first authorship positions at a 1:1.93 ratio.
- Female authorship is more prevalent in countries or states with lower output.
- And when an woman is in a prominent position (sole, first-, or last- authorship
-), papers attract less citations overall, a trend that holds across state
- and country lines.
-\end_layout
-
-\begin_layout Standard
-Similar trends hold in the JSTOR corpus, in 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "West2013"
 
 \end_inset
 
-'s analysis of gender and author order in the corpus of academic papers
- spanning five centuries and a variety of topics.
+ performed a similar gendered analysis on the JSTOR corpus, an archive of
+ 8.3 million documents, including scientific and humanities articles, stretching
+ from 1545 to 2011.
+ Their results are a positive of indicator of how far the academy has come,
+ but also of how far we have to go.
+ For example, prior to 1990, women were significantly absent from first
+ author positions (<15%), but from 1990-2011 occupy almost 30%.
  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{and their conclusions were
-\backslash
-dots}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -1960,15 +2052,37 @@ Also, HUGE points for their methods and reproducibility, e.g.
 
 \end_inset
 
- 
+ The gap in last author positions has not been as successfully addressed.
+ The gap between total female authors and 
+\emph on
+first
+\emph default
+ female authorships has been less than 2% since the 1960s -- i.e.
+ women, when they're around, are given credit for their contributions.
+ On the other hand, the discrepancy between total and last authorships remains
+ above 5%, reflecting the same high dropout rate of women seen in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Neubauer_gender-stages-scientific-career"
+
+\end_inset
+
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "West2013"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
 Race in the academy
 \end_layout
 
-\begin_layout Subsection
-Where are they from?
+\begin_layout Section
+Geography
 \end_layout
 
 \begin_layout Standard
@@ -2267,8 +2381,8 @@ not critical analysis.
  But the data does, in this case, speak for itself.
  Across the globe, the medical problems most studied are unsurprisingly
  the problems of the most wealthy and the most privileged.
- This holds for between poor and rich countries, which, as usual, is also
- seen along racialized and gendered lines within countries.
+ This holds for between poor and rich countries, which, as usual, also runs
+ along racialized and gendered lines.
  
 \begin_inset ERT
 status collapsed
@@ -2285,54 +2399,45 @@ todo{link to (bio)medicalization of issues?}
 
 \end_layout
 
-\begin_layout Subsection
-The 10/90 problem
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-10/90
-\begin_inset space ~
-\end_inset
-
-gap: less than 10% of global spending on health research is devoted to diseases
- or conditions that account for 90% of the global disease burden.
- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "GlobalForumforHealthResearchOrganization2000"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Health burdens fall differently based on geography, socio-economics, and
- race: 
-\end_layout
-
-\begin_layout Quote
+ race.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
-pneumonia, diarrhoea, tuberculosis and malaria, which together account for
+Pneumonia, diarrhoea, tuberculosis and malaria, which together account for
  more than 20% of the disease burden in the world, receive less than 1%
  of the total public and private funds devoted to health research.
 \begin_inset Quotes erd
 \end_inset
 
  
-\begin_inset ERT
-status collapsed
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rochon2004"
 
-\begin_layout Plain Layout
+\end_inset
 
-
-\backslash
-findref{global burden of disease/this quote}
+ Thus, the:
 \end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+10/90
+\begin_inset space ~
+\end_inset
+
+gap
+\series default
+: less than 10% of global spending on health research is devoted to diseases
+ or conditions that account for 90% of the global disease burden.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "GlobalForumforHealthResearchOrganization2000"
 
 \end_inset
 
@@ -2353,7 +2458,7 @@ Clinical trials of drugs occur in an approximately inverse way to the medical
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2390,8 +2495,8 @@ key "Viergever2013"
 
 \end_inset
 
-In a 2004 analysis of randomized controlled trials, of 286 trials, 43% addressed
- 1 of the 35 
+In a 2004 analysis of 286 randomized controlled trials, 43% addressed 1
+ of the 35 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2399,7 +2504,8 @@ leading causes of the global burden of disease
 \begin_inset Quotes erd
 \end_inset
 
-; almost half of the disease weren't studied at all.
+.
+ Almost half of the diseases weren't studied at all.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Rochon2004"
@@ -2683,14 +2789,6 @@ todo[inline,backgroundcolor=highegg]{finish this section with a conclusion,
 \end_inset
 
 
-\end_layout
-
-\begin_layout Subsection
-Focus on the minority world
-\end_layout
-
-\begin_layout Standard
-whose problems
 \end_layout
 
 \begin_layout Section
