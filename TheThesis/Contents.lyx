@@ -952,6 +952,22 @@ status collapsed
 
 
 \backslash
+acro{FSF}{Free Software Foundation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
 acro{CIA}{Central Intelligence Agency}
 \end_layout
 
@@ -1466,7 +1482,7 @@ acro{FACS}{Fluorescence Activated Cell Sorting}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1489,6 +1505,22 @@ status collapsed
 
 \backslash
 acro{G-protein}{guanine nucleotide-binding proteins}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GRK}{G-protein coupled receptor kinase}
 \end_layout
 
 \end_inset
