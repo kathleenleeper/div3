@@ -665,41 +665,13 @@ public
 \end_layout
 
 \begin_layout Section
-values built into the future?
+Values built into the Future
 \end_layout
 
 \begin_layout Subsection
 Open, not free
 \end_layout
 
-\begin_layout Itemize
-political stance
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{
-\backslash
-emph{why} was open and not free?}
-\end_layout
-
-\end_inset
-
-Avoids political dedication of 
-\emph on
-libre 
-\emph default
-in lieu of open
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 The open science movement is closely affiliated with the 
 \begin_inset ERT
@@ -714,61 +686,11 @@ ac{FLOSS}
 
 \end_inset
 
- movement, and so it's taken as almost a default that the 
-\begin_inset Quotes eld
-\end_inset
+ movement.
 
-free
-\begin_inset Quotes erd
-\end_inset
-
- is free as in the French 
-\emph on
-libre
-\emph default
-, not 
-\emph on
-gratis
-\emph default
- as we want our beer.
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-The terminology of and factions within this movement are complex, but, in
- short, “free software” tends to be associated with the ideology of freedom,
- “open source” with the openness of the development process, and “libre”
- with those concerned about confusion from the previous two.
  
-\begin_inset ERT
-status open
+\lang english
 
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- are used as monikers to refer to all of these meanings.
-\begin_inset Quotes erd
-\end_inset
-
- (
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Reagle2012"
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -793,37 +715,19 @@ specifically in the realm of community-driven creation.
 
 \end_inset
 
- The similarities are non-trivial; since the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
- movement grows out 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- community, it makes sense to start there.
+ The strongest proponents of open science are people who treat software
+ like they want science to be -- intractably frustrating, but open to experiment
+ation and manipulation by anybody who wants to.
+ 
 \end_layout
 
 \begin_layout Standard
-In 
+Correspondingly, I think the nomenclature of 
+\emph on
+open 
+\emph default
+science is telling.
+ In 
 \begin_inset ERT
 status open
 
@@ -836,10 +740,68 @@ ac{FLOSS}
 
 \end_inset
 
- movement, there's a sharp ideological divide between free/libre and open
+ movement, there's a sharp ideological divide between free/
+\emph on
+libre
+\emph default
+ and open/
+\emph on
+gratis
+\emph default
  licenses.
- Advocates of the libre licensing model use many lines of persuasion, but
- their focus is libre software as social imperative.
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+in short, “free software” tends to be associated with the ideology of freedom,
+ “open source” with the openness of the development process, and “libre”
+ with those concerned about confusion from the previous two.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ are used as monikers to refer to all of these meanings.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset Quotes eld
+\end_inset
+
+Free as in sexist?
+\begin_inset Quotes erd
+\end_inset
+
+ Free culture and the gender gap, 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Reagle2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Advocates of the libre licensing focus on free software as social imperative,
+ with the benefits of distributed information a secondhand benefit.
  User freedom, as laid out in the founding document of the Free Software
  movement (the 
 \begin_inset ERT
@@ -854,8 +816,58 @@ ac{GPL}
 
 \end_inset
 
-) is paramount.
+) and the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FSF}
+\end_layout
+
+\end_inset
+
+ logo is paramount.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{FSF slogan: "Our mission is to preserve, protect and promote the
+ freedom to use, study, copy, modify, and redistribute computer software,
+ and to defend the rights of Free Software users."}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The licenses for most software and other practical works are designed to
+ take away your freedom to share and change the works.
+ By contrast, the GNU General Public License is 
+\series bold
+intended to guarantee your freedom
+\series default
+ to share and change all versions of a program--to make sure it remains
+ free software for all its users.
  
+\end_layout
+
+\begin_layout Quote
+When we speak of free software, we are referring to freedom, not price.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -894,7 +906,8 @@ ac{OS}
 
 \end_inset
 
- is a valuable point of entry into the ambivalent aspects of open science.
+ is a valuable point of entry into the ambivalent moral aspects of open
+ science.
  
 \begin_inset ERT
 status collapsed
@@ -908,7 +921,7 @@ ac{OS}
 
 \end_inset
 
- advocates explicitly or implicitly draw on the 
+ advocates draw on the much of the rhetoric of morality underlying the 
 \begin_inset ERT
 status collapsed
 
@@ -921,8 +934,7 @@ ac{FLOSS}
 
 \end_inset
 
- and free culture movements, knowingly or not, but the chosen movement nomenclat
-ure is 
+ and free culture movements, but the chosen movement nomenclature is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -956,8 +968,7 @@ graffito {A lot of the following ideas draw heavily on analyses of the FLOSS
 
 The same disavowal (or maybe just lack of acknowledgment) of social values
  seen in open source is apparent in a lot of the open science movement.
- It's not about science helping (or empowering) people, it's about doing
- 
+ It's not about science helping or empowering people, it's about doing 
 \begin_inset Quotes eld
 \end_inset
 
@@ -965,17 +976,20 @@ better
 \begin_inset Quotes erd
 \end_inset
 
- science -- more reproducible, more reliable, more powerful (disruptive,
- even!).
+ science -- more reproducible, more reliable and more powerful.
  Open science is defined almost entirely by the 
 \emph on
 mechanisms
 \emph default
-, in the same way open source is 
+, in the same way open source is just
 \emph on
-just 
+ 
 \emph default
-focused on production.
+focused on 
+\emph on
+production
+\emph default
+.
  Even projects that pitch themselves as a place for citizen scientists can
  be construed as just a way to shift labor from cheap graduate students
  to even cheaper laypeople.
@@ -1039,6 +1053,10 @@ key "Lisberger2013"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+The crises in communication are
 \end_layout
 
 \begin_layout Subsubsection
@@ -1240,11 +1258,290 @@ The New York Times
 \end_layout
 
 \begin_layout Section
-Who is helped and gets t help?
+Who is helped and gets to help?
+\end_layout
+
+\begin_layout Subsection
+Who Makes it?
+\end_layout
+
+\begin_layout Standard
+Generally, white men.
+ In free software communities, men outnumber women to a much greater degree
+ than in more traditional development structures
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nafus2012"
+
+\end_inset
+
+;
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+JC - so free software is bad?
+\end_layout
+
+\end_inset
+
+ presumably, racial and ethnic minorities fare even more poorly, although
+ there's even less data to support that.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{find data on representation -- see internet blog posts on FLOSS concerns?}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The dismal representation in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ derives in part from a flawed perception that social stratifications and
+ classifications 
+\begin_inset Quotes eld
+\end_inset
+
+don't matter
+\begin_inset Quotes erd
+\end_inset
+
+ on the internet.
+ Code is race- and gender-agnostic (except that, for somewhat obvious reasons,
+ it's 
+\emph on
+not
+\emph default
+).
+ Thus, collaborative, decentralized community structures like those in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{FLOSS}
+\end_layout
+
+\end_inset
+
+ usually fail to include any direct safeguards or rules about what kinds
+ of behavior are acceptable.
+ As a result, misogyny and racism run rampant and unchecked.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+There's really interesting side projects targeted at exactly this issue
+ -- Empowermentors, founded by a Hampshire student, for PoC & queer people
+ in the free software movement; the Ada Initiative, designed to support
+ women in 
+\begin_inset Quotes eld
+\end_inset
+
+open technology and open culture
+\begin_inset Quotes erd
+\end_inset
+
+; 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Whether representation is 
+\emph on
+worse
+\emph default
+ in open science than science at large is something I don't know yet, but
+ it's probably fair to say that open science carries professional risks,
+ and women and minorities in the sciences tend to disproportionately suffer
+ for taking risks.
+\end_layout
+
+\begin_layout Subsection
+Assumptions about MW contribution: development discourse
+\end_layout
+
+\begin_layout Standard
+the discourse around the majority world's need for stuff is 
+\begin_inset Quotes eld
+\end_inset
+
+development
+\begin_inset Quotes erd
+\end_inset
+
+ discourse;
+\end_layout
+
+\begin_layout Standard
+also assumptions that if we MW contribution, will be auto-improved
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Dahdouh-Guebas2003"
+
+\end_inset
+
+ Our era is facing increasing global environmental and societal problems
+ (e.g., climate change, habitat destruction and economic recession), necessitating
+ research cooperation between industrialised and developing countries for
+ certain aspects, as required by funding institutions such as the European
+ Commission, the International Foundation for Science, United Nations Developmen
+t Programme, World Bank, World Health Organisation, United Nations Educational,
+ Scientific and Cultural Organization as well as numerous national institutions.
+ Whether or not such collaboration is a requirement of the funding agencies
+ within the framework of international North-South cooperation, the above-mentio
+ned global importance of scientific publishing places a publishing responsibilit
+y on all research institutes North and South.
+ This responsibility serves not only to disseminate one’s own expertise,
+ but also to justify the research carried out and, most important, to share
+ information.
+ In fact, the citation attractivity of internationally co-authored publications
+ shows that scientific collaboration is advantageous for both developing
+ and industrialised countries (Glänzel et al., 1999).
+ According to Katz & Hicks (1997) and Glänzel & Schubert (2001), the type
+ of collaboration affects the impact of a research publication, with an
+ increase of a factor two of the average citation for collaboration with
+ a foreign research institute as compared to collaboration with a domestic
+ institute.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dahdouh-Guebas2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Haider2007"
+
+\end_inset
+
+ Open access is presented as an issue of moral concern beyond the narrow
+ scope of scholarly communication.
+ Claims are made based on hegemonic discourses that are positioned as a
+ priori and universal.
+ The construction of open access as an issue of unquestionable moral necessity
+ also impedes the problematisation of its own heritage.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Haider2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Flor2013"
+
+\end_inset
+
+he study’s philosophical bases rest upon assumptions held by the open access
+ movement and the open learning philosophy; assumptions not necessarily
+ held by mainstream societies but which are gaining ground with the global
+ adoption of Internet technologies.
+ As a faculty member of an open university, I have long been an advocate
+ of open courseware and open educational resources, adopting the view that
+ knowledge, and thus, content, should be free.
+ For sure, such views run counter to intellectual property rights (IPR)
+ advocates within the academe who spouse an economic cum transactional value
+ to knowledge and content.
+ However, within the current information and com- munication technology
+ environment, the ideal of having all explicit or documented knowledge made
+ available on the Web is now a possibility.
+ Furthermore, the prospect of digitally capturing all tacit or undocumented
+ knowledge and also making these available openly is likewise quite real.
+ Thus, within an open learning environment, the academe may no longer be
+ the repository of knowledge, a position that it has occupied for almost
+ a millennium.
+\begin_inset Newline newline
+\end_inset
+
+xtending this view to indigenous knowledge systems and practices (IKSP),
+ we may likewise argue that, in the spirit of openness, indigenous knowledge,
+ having been the products of generations of practice and are thus steeped
+ in wisdom, may likewise be made available in the Web, at the very least
+ to flatten generational learning curves.
+ This is particularly true in traditional agricultural and folk medicinal
+ knowledge and practices, which have recently become valuable sources of
+ prescriptive technologies for organic agriculture and ethnomedicine, respective
+ly.
+ During the conduct of the study, however, the researcher observed a marked
+ reluctance from organized indigenous people’s groups to participate in
+ the open access initiative.
+ It soon became apparent that interfacing indigenous knowledge with open
+ access concepts held complicated issues
+\end_layout
+
+\begin_layout Subsubsection
+Who is it designed for?
+\end_layout
+
+\begin_layout Itemize
+People with internet access
+\end_layout
+
+\begin_layout Itemize
+technogical knowledge
+\end_layout
+
+\begin_layout Itemize
+hardware access, time to build and fiddle with things
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+/todo[inline]{APCs and publishing}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-Digital Divides
+Globally
 \end_layout
 
 \begin_layout Standard
@@ -1550,167 +1847,15 @@ The data mapped here are some of the world’s most important indicators.
 
 \end_layout
 
-\begin_layout Subsection
-Creation and Representation
-\end_layout
-
-\begin_layout Subsubsection
-Who gets to create?
-\end_layout
-
 \begin_layout Standard
-Generally, white men.
- In free software communities, men outnumber women to a much greater degree
- than in more traditional development structures
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Nafus2012"
-
-\end_inset
-
-;
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-JC - so free software is bad?
-\end_layout
-
-\end_inset
-
- presumably, racial and ethnic minorities fare even more poorly, although
- there's even less data to support that.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{find data on representation -- see internet blog posts on FLOSS concerns}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The dismal representation in 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- derives in part from a flawed perception that social stratifications and
- classifications 
-\begin_inset Quotes eld
-\end_inset
-
-don't matter
-\begin_inset Quotes erd
-\end_inset
-
- on the internet.
- Code is race- and gender-agnostic (except that, for somewhat obvious reasons,
- it's 
-\emph on
-not
-\emph default
-).
- Thus, collaborative, decentralized community structures like those in 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{FLOSS}
-\end_layout
-
-\end_inset
-
- usually fail to include any direct safeguards or rules about what kinds
- of behavior are acceptable.
- As a result, misogyny and racism run rampant and unchecked.
- 
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-There's really interesting side projects targeted at exactly this issue
- -- Empowermentors, founded by a Hampshire student, for PoC & queer people
- in the free software movement; the Ada Initiative, designed to support
- women in 
-\begin_inset Quotes eld
-\end_inset
-
-open technology and open culture
-\begin_inset Quotes erd
-\end_inset
-
-; 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Whether representation is 
-\emph on
-worse
-\emph default
- in open science than science at large is something I don't know yet, but
- it's probably fair to say that open science carries professional risks,
- and women and minorities in the sciences tend to disproportionately suffer
- for taking risks.
-\end_layout
-
-\begin_layout Subsubsection
-Who is it designed for?
-\end_layout
-
-\begin_layout Itemize
-People with internet access
-\end_layout
-
-\begin_layout Itemize
-technogical knowledge
-\end_layout
-
-\begin_layout Itemize
-hardware access, time to build and fiddle with things
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-/todo[inline]{APCs and publishing}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
 Corporate uses of open science
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Open science, by intent, can be used by anybody for anything.
 \begin_inset Note Comment
 status collapsed
@@ -1749,23 +1894,13 @@ ac{GPL}, but with a clause of "only ethical consideration"}
 
  That also means corporate entities can take advantage of the methods, tools,
  and data released into the public sphere.
- 
-\begin_inset Note Note
-status collapsed
+ -------------------------------Delfanti does not, however, draw on explicit
+ feminist analysis of race and gender in the spheres he discusses.
+ The intricacies of who can or will practice (open) science on a social
+ access are almost entirely absent.------------------------------------
+\end_layout
 
 \begin_layout Plain Layout
-Delfanti does not, however, draw on explicit feminist analysis of race and
- gender in the spheres he discusses.
- The intricacies of who can or will practice (open) science on a social
- access are almost entirely absent.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 In the free software world, corporate uses aren't bad -- and here, as well,
  I don't think they're necessarily 
 \emph on
@@ -1784,12 +1919,7 @@ open is good
  line.
  That means any usage of open resources is for the bottom line, and not
  necessarily for whatever heroic potential purpose open data/science advocates
- had in mind.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Government uses of open data
+ had in mind.-------Government uses of open data
 \end_layout
 
 \end_inset
@@ -1876,6 +2006,10 @@ Indigenous sciences and local biologies
 
 \begin_layout Standard
 Local environments: weather systems
+\end_layout
+
+\begin_layout Standard
+Assumes the existence of broadly applicable non-localized research
 \end_layout
 
 \begin_layout Description
