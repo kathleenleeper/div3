@@ -148,6 +148,11 @@ name "chap:Critical-Neuroscience"
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 What I cover -- or have done -- with my year of Division III is specific
  to me.
  My interests in 
@@ -175,7 +180,7 @@ y my first few weeks on campus.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \emph on
 These
@@ -187,13 +192,18 @@ These
  kinds of structural/layered analysis, and specific biological phenomena.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 This chapter is ideally more of recollection and a plan to go forward.
  Gender is no longer an additional layer of analysis tucked at the end of
  the scientific section; it was always there.
  Access to literature and code were/are fundamental parts of writing this;
  who wrote my software and what choices they made, and what values they
  did/not consider have already shaped the rest of this piece.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -1571,6 +1581,16 @@ ogaine won’t do much more than any other type of detox.
  detox without suffering physical withdrawal.
  But that’s not all you need to end most addictions.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+it'll stop your cravings [momentarily] but doesn't matter 
+\end_layout
+
 \end_inset
 
 
