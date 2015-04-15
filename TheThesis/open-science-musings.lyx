@@ -5,6 +5,10 @@
 \textclass scrreprt
 \begin_preamble
 \usepackage{preamble}
+
+  \expandafter\def\expandafter\quote\expandafter{\quote\small}
+
+  \expandafter\def\expandafter\quotation\expandafter{\quotation\small}
 \end_preamble
 \options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super
 \use_default_options false
@@ -80,7 +84,7 @@
 
 \begin_layout Standard
 \begin_inset Branch chapter
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset ERT
@@ -213,11 +217,6 @@ key "Fleck1981"
  In a more practical sense, there's no benefit in synthesizing the mythological
  cure for cancer unless you (a) get community credit for your and/or (b)
  cancer patients, y'know, receive the magic drug.
-\end_layout
-
-\begin_layout Standard
-\SpecialChar \textcompwordmark{}
-
 \end_layout
 
 \begin_layout Standard
@@ -777,7 +776,7 @@ Wait for the inevitable rejection from the Big Journal, re-submit.
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Tabular
@@ -1085,7 +1084,7 @@ communication requirements in research cycle
 
 
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Despite the complexities and contradictions of any movement, 
@@ -1145,8 +1144,105 @@ The concerns around a scientific transformation travel up along all steps
 Access to Knowledge
 \end_layout
 
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+The conventional wisdom among public health authorities is that the Ebola
+ virus, which killed at least 10,000 people in Liberia, Sierra Leone and
+ Guinea, was a new phenomenon, not seen in West Africa before 2013.
+\end_layout
+
+\begin_layout Quotation
+The conventional wisdom is wrong.
+ We were stunned recently when we stumbled across an article by European
+ researchers in 
+\emph on
+Annals of Virology
+\emph default
+: “The results seem to indicate that Liberia has to be included in the Ebola
+ virus endemic zone.
+\begin_inset Quotes erd
+\end_inset
+
+ The paper was published in 1982.
+\end_layout
+
+\begin_layout Quotation
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Bernice Dahn is the chief medical officer of Liberia's Ministry
+ of Health, where Vera Mussah is the director of county health services.
+ Cameron Nutt is the Ebola response adviser to Dr.
+ Paul Farmer at the nonprofit group Partners in Health.}
+\end_layout
+
+\end_inset
+
+There is an adage in public health: “The road to inaction is paved with
+ research papers.”
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size small
+ In a twist of fate, the same laboratory that confirmed the first positive
+ Ebola test results in Guinea last year, the Pasteur Institute, was the
+ publisher of Annals of Virology.
+ Yet the institute’s April 2014 report said, “This subregion was not considered
+ to be an area in which EBOV was endemic.”
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Part of the problem is that none of these articles were co-written by a
+ Liberian scientist.
+ The investigators collected their samples, returned home and published
+ the startling results in European medical journals.
+ Few Liberians were then trained in laboratory or epidemiological methods.
+ Even today, downloading one of the papers would cost a physician here $45,
+ about half a week’s salary.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+\align right
+Bernice Dahn, Vera Mussah, and Cameron Nutt
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Yes, We Were Warned About Ebola
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\emph on
+The
+\emph default
+ 
+\emph on
+New York Times
+\end_layout
+
 \begin_layout Standard
-The 6-10 pages of double-column size 10 text in 
+6-10 pages of double-column size 10 text in 
 \emph on
 Nature
 \emph default
@@ -1158,16 +1254,8 @@ Science
 \emph on
 Cell
 \emph default
- represent the cutting edge of scientific research, or the best overviews
- of a field.
- One such article, 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Vollenweider2010"
-
-\end_inset
-
-, 
+ represent the cutting edge of scientific research.
+ One such article is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1175,32 +1263,96 @@ The neurobiology of psychedelic drugs
 \begin_inset Quotes erd
 \end_inset
 
- was published 5 years ago, in the September 2010 issue of 
+, written by 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Vollenweider2010"
+
+\end_inset
+
+, researchers at a Swiss lab responsible for much of the past and present
+ literature on psychedelic drugs.
+ It was published fiver years ago, in the September 2010 issue of 
 \emph on
 Nature Reviews Neuroscience
 \emph default
 .
  Although no longer cutting edge, it is a comprehensive review bearing directly
  on my research.
- The article costs $18; a year long subscription to 
+ Article access costs $18; a year-long subscription to just
 \emph on
-just Nature Reviews Neuroscience
+ Nature Reviews Neuroscience
 \emph default
  is $265.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{insert data on div!}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Some articles I can access through my college; 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Interlibrary Loans are also an option, but take more time than
+ the digital era really requires, especially for reviews}
+\end_layout
+
+\end_inset
+
+Some journals I can access through institutional subscriptions; 
 \emph on
 Nature Reviews Neuroscience
 \emph default
- is not one of the journals we subscribe to (although we do have access
- to 
+ is not one of them (although we do have access to 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{Nature} is paywalled back to 
+\backslash
+emph
+\backslash
+underline{{1867}}}
+\end_layout
+
+\end_inset
+
+
 \emph on
 Nature
 \emph default
-, the flagshig journal).
- Luckily for me, I have a friend at 
+, the flagship journal).
+ In this case, because the paper is five years out of date, it is now hosted
+ on a variety of other sites.
+ If it was a newer article, however, or a copyright claim 
+\emph on
+Nature
+\emph default
+ pursued more vigorously, my resources would be more or less exhausted.
+\end_layout
+
+\begin_layout Standard
+Luckily for me, I know someone who knows someone affiliated with 
 \begin_inset ERT
 status open
 
@@ -1213,7 +1365,8 @@ ac{MIT}
 
 \end_inset
 
- who (very illegally) allows me to use his 
+.
+ Very illegally but in the tradition of scholarship, gave me his 
 \begin_inset ERT
 status open
 
@@ -1226,7 +1379,21 @@ ac{MIT}
 
 \end_inset
 
- information to access most of the scientific literature I need.
+ information, enabling me to access a significantly wider array of journals
+ than otherwise possible.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{insert data that I made!}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1237,9 +1404,26 @@ ac{MIT}
 \end_layout
 
 \begin_layout Standard
-39% of surveyed academics identified journal articles as their first choice
- for resource improvement.
- 84% of libraries disagreed with 
+Literature access for academic scientists is typically mediated through
+ institutional, library-based journal subscriptions.
+ Surveys of academic researchers, largely those at high-profile and wealthy
+ minority world institutions, report their access to the literature is 
+\begin_inset Quotes eld
+\end_inset
+
+generally good and improving.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Davis2011a"
+
+\end_inset
+
+ However, 84% of librarians, responsible for overseeing fiscal access to
+ scholarly resources, disagreed with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1254,10 +1438,74 @@ key "Ware2015"
 
 \end_inset
 
+ For the non-affiliated researcher or member of the public with Internet
+ access, just 35% of the peer-reviewed literature is freely available, with
+ this figure falling to less than 30% for recently published work.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "White2014"
+
+\end_inset
+
 
 \end_layout
 
+\begin_layout Subsection
+The rights to knowledge
+\end_layout
+
 \begin_layout Standard
+At it's most moral, access to knowledge -- often defined as synonymous with
+ literature -- is a human right.
+ Scientific research is conducted for and funded by the public interest.
+ Advances in medical knowledge can be literally life-saving; if it were
+ for any reason other than profit, denying information about health intervention
+s to nurses and doctors would have already been condemned as a human rights
+ violation.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Yamey2008"
+
+\end_inset
+
+ Developments in ecology and can immediately effect ecosystem management
+ and conservation policy; materials science has implications for building
+ and design.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+OA summaries of recent progress in healthcare translated into 40 local languages
+ would be more beneficial short term to healthcare in poor countries, than
+ giving them full access to research literature (I have no doubts in the
+ longer term that's the way to go).
+\end_layout
+
+\end_inset
+
+ Specifically, in the case of healthcare workers, barriers to accessing
+ scientific literature:
+\end_layout
+
+\begin_layout Enumerate
+Prevent healthcare workers from accessing information
+\end_layout
+
+\begin_layout Enumerate
+Prevent policy makers prevented from accessing info on building better systems
+\end_layout
+
+\begin_layout Enumerate
+Impede research capacity and sustainable country-specific scientific development
+\end_layout
+
+\begin_layout Enumerate
+Clinicians, health policy-makers, and researchers are unable to participate
+ as equals in global science
+\end_layout
+
+\begin_layout Enumerate
 \begin_inset ERT
 status collapsed
 
@@ -1265,87 +1513,300 @@ status collapsed
 
 
 \backslash
-todo[inline]{importance of published lit}
+rewrite{in own words}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Quote
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Publishing in a scientific journal, as the main form of scholarly communication
- for much of modern Western science, is where most attempts to 
-\begin_inset Quotes eld
-\end_inset
-
-fix
-\begin_inset Quotes erd
-\end_inset
-
- science start
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Scholarly journals have been at the heart of academic life since the publication
- of the 
-\emph on
-Journal des sçavans
-\emph default
- and the 
-\emph on
-Philosophical Transactions of the Royal Society
-\emph default
- in the middle of the 17th Century.
-\begin_inset Quotes erd
-\end_inset
-
- -
-\begin_inset CommandInset citation
-LatexCommand citet
-before "2013 "
-key "Parker2013"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- Under the prevailing subscription-based system, commercial publishers own
- a monopoly over the distribution of scientific research.
- They charge authors for the publication of their works, then charge the
- readers subscription, advertising, and online access fees; in addition
- they retain the copyright of the articles they publish.
- 
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Shelton2005"
-
-\end_inset
-
-
+subscription- based medical journals have shown so little interest in raising
+ the profile of health problems in the developing world is that, to remain
+ profitable, these journals are forced to publish materials that will appeal
+ to readers who can pay.
 \end_layout
 
 \begin_layout Standard
+Literature is necessary for scientific progress, and scientists working
+ in more resource-poor areas (i.e.
+ not the G8.
+ Western European nations, and Israel) are still working.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{fleck on journal science}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{intro}
+\end_layout
+
+\end_inset
+
+ Papers are crucial for scientists keeping up to date with new techniques,
+ with writing backgrounds to grants and formulating new research questions.
+ Without very good institutional affiliation, most of the supporting scientific
+ history is out of reach.
+ The lack of access to literature hinders future scientific work from progressin
+g as rapidly and efficiently as it might; it means researchers may be working
+ with outdated tools or concepts.
+\end_layout
+
+\begin_layout Standard
+Access is also about more than money.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ and extends to licesecncing issues.
+\end_layout
+
+\end_inset
+
+ The precipitious increase in the number of scientific publications has
+ led to the 
+\begin_inset Quotes eld
+\end_inset
+
+impossibility of being expert
+\begin_inset Quotes erd
+\end_inset
+
+; the rate of publication is sometims referred to as a 
+\begin_inset Quotes eld
+\end_inset
+
+firehose of information.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fraser2010"
+
+\end_inset
+
+ Tthe advent of machine-readable text and linked networks of scholarly informati
+on opens the possibility of managing the literature with text-mining, annotation
+s, and new forms of communication and proccessing, perhaps making it easier
+ for researchers to stay on top of recent developments.
+ Unfortunately, the paywalled and copywritten scientific literature is both
+ fiscally and legally out of reach for massive semantic processing; scientists
+ cannot employ technology to efficiently manage their reading workflow.
+\end_layout
+
+\begin_layout Standard
+Yet another of the conflicts surrounding literature access are due to the
+ changing collaboration between scientific authors and publishers in the
+ digital age.
+ Essentially, the production of the manuscript is done for free; or rather,
+ on grant money, but the publisher still profits fairly handsomely.
+ A manuscript travels through several stages.
+\end_layout
+
+\begin_layout Enumerate
+Authors/labs submit their manuscript (
+\emph on
+gratis
+\emph default
+)
+\end_layout
+
+\begin_layout Enumerate
+Publishers/editors and editors review the paper.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+They can either reject outright, or submit for peer review
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The journal coordinate the peer review of said manuscript, shipping it out
+ to 1-3 other academics in the field.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Academics review the paper, give feedback and suggestions and send it back
+ to the journal
+\emph on
+ 
+\emph default
+(
+\emph on
+gratis
+\emph default
+).
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+During the months of the process, the submitting author can do nothing else
+ with the manuscript.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Revisions by the original writer, and hopefully the journal agrees to publish
+ it.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Submitting lab pays a per-figure and/or per-page 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{APC}
+\end_layout
+
+\end_inset
+
+ and signs away their 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IP}
+\end_layout
+
+\end_inset
+
+ rights to the journal.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{And then the scientist pays to access similar articles}
+\end_layout
+
+\end_inset
+
+Journal takes the final work as their own and redistribute, typically under
+ restrictive licenses and behind pay-walls.
+\end_layout
+
+\begin_layout Standard
+The author, after 
+\emph on
+doing 
+\emph default
+all the science, receives no monetary kickback.
+ That's reasonable -- introducing financial incentives into the publishing
+ process would only further distort communication.
+ Publishers, on the other hand, post enormous profit margins between 24-54%,
+ to the tune of $1.1 billion dollars profit in 2010 for the largest scholarly
+ publisher, Elsevier-Reed.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Morrison2012"
+
+\end_inset
+
+ There is a clear mismatch between those doing the bulk of the effort and
+ the bulk of the profit.
+\end_layout
+
+\begin_layout Standard
+Profits for the publishers also derive not just from scientific labor, but
+ from scientific funding.
+ Half of all basic research in the U.S.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{CBO funding report}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+And most high-profile research is done in these countries.
+ For more on this, see 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "chap:Representation_Science"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ are at least in part publicly funded.
+ The taxpayer-funded 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NIH}
+\end_layout
+
+\end_inset
+
+ issues sustaining multi-year R01 grants to most researchers; these grants
+ pay for laboratory equipment, publication, and salaries of lab heads and
+ those working under them.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{The 
+\backslash
+ac{NIH} does require funded researchers to deposit a free version of the
+ article after a twelve month embargo.[[NIH Public Access Policy]]}
+\end_layout
+
+\end_inset
+
+ The results of this publicly-funded research are then made inaccessible
+ behind paywalls -- interested readers will have to pay the for-profit publisher
+s to access the research funded by a public institution.
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -1354,23 +1815,6 @@ I've been working from primary scientific literature since my first semester
  at Hampshire, but it was only a few minutes after my first Google Scholar
  searches that I immediately slammed up against pay walls to the papers
  I wanted.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{
-\backslash
-emph{Nature} is paywalled back to 
-\backslash
-emph{1867}.} 
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Plain Layout
@@ -1394,126 +1838,10 @@ todo[inline]{Data about access and paywalls; idea of a sense of outrage
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Most studies in the U.S.
- and U.K (the strongholds of scientific research generally) are publicly
- funded research, in part or in whole.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Taxpayer dollars
-\begin_inset Quotes erd
-\end_inset
-
- fund, via the NIH, much of the high-profile, high-impact research that
- subsequently appears in journals.
- Taxpayers -- your average layperson, or average scientists -- then have
- to pay 
-\emph on
-again
-\emph default
- for access to the produced knowledge, when they paid to fund it.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Shelton2005"
-
-\end_inset
-
- 
-\begin_inset ERT
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-graffito{The 
-\backslash
-ac{NIH} requires funded researchers to deposit after a period of time.}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Most 
-\emph on
-researchers
-\emph default
- claim one of their 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Ware2015"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The cost of accessing journal articles is often prohibitive, not only for
- researchers in the G8 nations but especially for those in low and middle
- income countries.
- Despite the efforts of the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{WHO}
-\end_layout
-
-\end_inset
-
-, the existence of programs like 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{HINARI}
-\end_layout
-
-\end_inset
-
- merely extends access to the literature to major universities in low- and
- middle-income countries; it does not address the needs of practicing clinicians
- in rural or otherwise resource poor areas.
- If access to knowledge is a human right (as per the Universal Declaration
- of Human Rights), then the continued financial barriers to access is a
- violation of human rights.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Yamey2008"
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{hello, high horse}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
 Autar S.
  Paintal, former director general of the Indian Council of Medical Research,
  pointed out that “an Indian [researcher] is often unaware of the latest
@@ -1521,39 +1849,9 @@ Autar S.
  get the top journals.” 19
 \end_layout
 
-\begin_layout Subsubsection
-Consequences for Public Health
-\end_layout
+\end_inset
 
-\begin_layout Enumerate
-Healthcare workers are prevented from accessing information
-\end_layout
 
-\begin_layout Enumerate
-Policy makers prevented from accessing info on building better systems
-\end_layout
-
-\begin_layout Enumerate
-impedes research capacity and sustainable development
-\end_layout
-
-\begin_layout Enumerate
-Clinicians, health policy-makers, and researchers are unable to participate
- as equals in global science
-\end_layout
-
-\begin_layout Enumerate
-subscription- based medical journals have shown so little interest in raising
- the profile of health problems in the develop- ing world is that, to remain
- profitable, these journals are forced to publish materials that will appeal
- to readers who can pay.
-\end_layout
-
-\begin_layout Paragraph
-Publishing Pipeline
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -1778,145 +2076,6 @@ status open
 
 \begin_layout Plain Layout
 
-
-\backslash
-todo[inline]{linking}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Publishing is then a necessary component of sicentific communication, as
- is access.
- 
-\end_layout
-
-\begin_layout Standard
-The process:
-\end_layout
-
-\begin_layout Enumerate
-Authors/labs submit their manuscript (
-\emph on
-gratis
-\emph default
-)
-\end_layout
-
-\begin_layout Enumerate
-Publishers/editors and editors review the paper.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-They can either reject outright, or submit for peer review
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-The journal coordinate the peer review of said manuscript, shipping it out
- to 1-3 other academics in the field.
- 
-\end_layout
-
-\begin_layout Enumerate
-Academics review the paper, give feedback and suggestions and send it back
- to the journal
-\emph on
- 
-\emph default
-(
-\emph on
-gratis
-\emph default
-).
- 
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-During the months of the process, the submitting author can do nothing else
- with the manuscript.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Revisions by the original writer, and hopefully the journal agrees to publish
- it.
- 
-\end_layout
-
-\begin_layout Enumerate
-Submitting lab pays a per-figure and/or per-page 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{APC}
-\end_layout
-
-\end_inset
-
- and signs away their 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IP}
-\end_layout
-
-\end_inset
-
- rights
-\end_layout
-
-\begin_layout Enumerate
-Journal takes the final work as their own and redistribute
-\end_layout
-
-\begin_layout Standard
-Then, those submitting and reviewing scientists (or their libraries, rather)
- pay to access the product of their intellectual labors, having given up
- the legal right to share that knowledge on their own accord.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{current scholarly system}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Pre-Internet, publishers also wore the hat of printer; subscription costs
- were tied printing and physical distribution.
- With that barrier out of the way, replaced by digital access, it's harder
- to see exactly why the major publishers that control the market are still
- making profit rates between 32%-50%, to the tune of 100 million dolla's.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{ending}
 \end_layout
 
 \end_inset
@@ -4574,7 +4733,7 @@ status collapsed
 
 \begin_layout Standard
 \begin_inset Branch chapter
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset CommandInset bibtex
