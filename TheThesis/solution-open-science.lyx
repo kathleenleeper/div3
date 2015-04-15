@@ -364,15 +364,16 @@ research{conflict between different areas of openness}
 \end_layout
 
 \begin_layout Standard
-Science as an institution feels like it's falling apart (from my perspective)
- because what's actually happening is so different from what I thought.
+Science as an institution feels like a shattered mirror.
  Knowledge is limited, disparate, disorganized, and unreliable; it lives
  behind digital paywalls contrived to keep science in the realm of the fiscally
- elite and educationally privileged and tucked into papers full of jargon.
+ elite and educationally privileged, and hides tucked into papers full of
+ jargon.
  Science doesn't replicate well, even when it's purely 1s and 0s: the reliabilit
 y of computer programs (to present stimuli, record data, crunch numbers)
- is limited to the labs that wrote/interact with the program; attempts to
- getting access to the generative programs fail almost every time.
+ is limited to the labs writing the program, and sometimes not even then.
+ Attempts at getting access to the generative programs fail almost every
+ time.
  When scientifically-minded readers try to look deeper into statistical
  manipulations, datasets typically fail to materialize;
 \begin_inset CommandInset citation
@@ -381,7 +382,8 @@ key "Wicherts2011"
 
 \end_inset
 
- when they are available, they're often disorganized and poorly documented.
+ when they are available, they're often disorganized or poorly documented,
+ unusable to the intrepid data miner.
 \end_layout
 
 \begin_layout Standard
@@ -401,8 +403,21 @@ ac{NIH}
 \end_inset
 
 .
- Research between groups at higher levels feels cutthroat; it's no longer
- about the pursuit of truth, but the pursuit of the ability to keep trying.
+ Research between groups at higher levels is no longer about the pursuit
+ of truth
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{Assuming it was ever about truth}
+\end_layout
+
+\end_inset
+
+ but the pursuit of the popularity to keep trying.
  Publishing groups hold an unnatural kind of power, it seems, by determining
  what 
 \emph on
@@ -411,7 +426,7 @@ counts
  as good, interesting, novel science.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -426,30 +441,26 @@ research{rise of commercial publishing groups}
 \end_layout
 
 \begin_layout Standard
-The solutions to this, or the ones I've been taught, rely on the Internet
- and technical know-how, and are geared towards a generation that grew up
- on Napster and the Pirate Bay.
+The solutions pushed to these problems now rely on the Internet and technical
+ know-how, geared towards a generation that grew up on Napster and the Pirate
+ Bay.
  The vision is one of scientific transparency -- making the inner workings
  of science not just visible, but modular, minable, and usable by anyone
  who cares to try.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{think: is open science good or bad? am i just describing or making
- a  moral judgement?}
+ We expect science to be something we can tinker with, when and where we
+ want it.
 \end_layout
 
-\end_inset
-
- I think (of course) that this is the path science 
+\begin_layout Standard
+I think (of course) that this is the path science 
 \emph on
-has 
+must 
 \emph default
-take to fulfill the 
+take to fulfill the dream of Mertonian ethos, based on 
+\begin_inset Quotes eld
+\end_inset
+
+communalism
 \begin_inset ERT
 status collapsed
 
@@ -457,15 +468,14 @@ status collapsed
 
 
 \backslash
-findref{Mertonian ethos}
+findref{CUDOS, merton}
 \end_layout
 
 \end_inset
 
- the high-flying ideals of the Mertonian ethos.
  Open science is not just about using more technology; it's geared towards
  reorienting the whole culture of academic research towards a more sharing-and-c
-aring system, whatever that might mean to individuals.
+aring system, whatever that might mean.
 \end_layout
 
 \begin_layout Standard
@@ -481,9 +491,8 @@ graffito{whoops terrifying myself}
 
 \end_inset
 
-Open science starts at the end of the chain: long-standing initiatives to
- make journal articles, the polished final product of scientific research,
- accessible.
+Open science starts with the end, and a long-standing push to make journal
+ articles accessible to more than just wealthy university subscribers.
  Then, it moves deeper, demanding not just the results the authors choose
  to highlight, but the data powering authorial interprations.
  But wait, how did they acquire the data? If they did it with a program,
@@ -500,24 +509,42 @@ Note
 not all specifications apply to all fields; different norms about data,
  access, code, and process prevail in different areas.
  Physics, of course, has been a leader in accessible publishing since the
- founding of the arxiv; crystallographers have been sharing crystallography
- data since the fields inception.
+ founding of the arxiv
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{The arxiv is a massive repsitory containing almost every pre-print
+ from physics research.}
+\end_layout
+
+\end_inset
+
+; crystallographers have been sharing crystallography data since the field's
+ inception.
  Ecology, on the other hand, is notoriously poor at sharing data (likely
  due to the incentive structure of the field)
 \end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
 
 \begin_layout Section
 Personal Motivations
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The lofty goals of open science have a practical policy implementations.
  In my own scientific practices, those practical nuts-and-bolts of open
  access, open code, open data are something I am hyper-aware of; they have
  directly shaped my own projects and those around me.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Access to literature is immediately applicable -- there's not an academic
  I know who doesn't feel the pinch of journal costs.
  But I want to start with code, actually, because of the surprising and
@@ -529,7 +556,7 @@ do
  code scientifically; or at least, I didn't.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 One of facets of this thesis is a self-bibliometrics; that inspiration draws
  from two papers that examined the gender and geographic distribution of
  the two scholarly databases, 
@@ -599,7 +626,7 @@ entirely
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Journal access is more basic.
  Nearly all of my papers are adorned by an 
 \begin_inset ERT
@@ -621,7 +648,7 @@ ac{MIT}
 eadable literature.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -637,7 +664,7 @@ todo[inline]{relationship w/ data}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -653,7 +680,7 @@ todo[inline]{open notebooks?}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 These scientific issues have been a thorn in my side my entire scientific
  career, 
 \begin_inset ERT
@@ -671,6 +698,11 @@ graffito{granted, a career only ~5 years long}
  so the discovery of a movement that validates my concern and proposes a
  mechanism to solve it is alluring and, despite hurdles, something I firmly
  believe would have changed, for the better, the science I do.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -767,6 +799,30 @@ ac{OA}
 \end_inset
 
  literature has free availability and allows unrestricted (re)use.
+\end_layout
+
+\begin_layout Subsection
+Implementing Open Access
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{implementing open access}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Debates
 \end_layout
 
 \begin_layout Paragraph
@@ -1049,26 +1105,6 @@ Connectivity barriers.
  
 \end_layout
 
-\begin_layout Subsection
-Implementing Open Access
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{implementing open access}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Data
 \end_layout
@@ -1117,24 +1153,10 @@ data
 \end_layout
 
 \begin_layout Standard
-In open science, the publication of data sets goes hand in hand with the
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OA}
-\end_layout
-
-\end_inset
-
-.
- The goals: make data points work harder (i.e.
- in re-use and meta-analyses) and mean more (i.e.
- statistical manipulation and the raw numbers available for double checking).
+In open science, it's expected that publication of data sets is a norm.
+ The goals are make data points work harder, i.e.
+ in re-use and meta-analyses, and mean more, i.e.
+ double checking statistical manipulations for reliability.
 \begin_inset Note Note
 status collapsed
 
@@ -1175,13 +1197,16 @@ idea
 \end_layout
 
 \begin_layout Standard
-'Pure' data points, collected for non-specific purposes, have been historically
- important.
- Mendeleev's proposal for the periodic table of elements was based in part
- on published data on elemental melting points, colors, and densities.
+Not all data sets are deeply meaningful, of course, but the point is to
+ open the information up to the possibilities.
+ In the early 20th century, 'pure' data points, collected for the sake of
+ collecting, were the foundations for Mendeleev's proposal for the periodic
+ table of elements.
+ His initial proposal was based in part on the aggregate published data
+ on elemental melting points, colors, and densities.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Mendeleyev1905"
+key "Murray-Rust2008,Mendeleyev1905"
 
 \end_inset
 
@@ -1199,9 +1224,6 @@ findref{page number in mendeleev's}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -1232,7 +1254,7 @@ status collapsed
 
 
 \backslash
-todo[inline]{Murray-Rust on the unexpected uses of open data}
+todo{Murray-Rust on the unexpected uses of open data}
 \end_layout
 
 \end_inset
@@ -1254,21 +1276,16 @@ data sets can be cited.
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-More recently, the biggest successes of massive data sets in applied science
- have been in biology and astronomy.
+More recently, there have been two notable successes of massive data sets.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Stalzer2015"
 
 \end_inset
 
- The 
+ In biology, the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1279,9 +1296,8 @@ ac{HGP}
 
 \end_inset
 
-, declared complete in 2003, has enabled the discovery of over 1,800 disease-rel
-ated genes.
- The deposition of the initial genomic sequences into the 
+ has enabled the discovery of over 1,800 disease-related genes The deposition
+ of the initial genomic sequences into the 
 \begin_inset ERT
 status open
 
@@ -1375,12 +1391,24 @@ Open data hopes to achieve statistical reliability: your table of aggregate
  numbers becomes much more meaningful when we can manipulate the data ourselves.
 \end_layout
 
-\begin_layout Subsection
-Why We're not doing it
+\begin_layout Subsubsection
+benefits
 \end_layout
 
 \begin_layout Standard
-all from
+campbell et al, 2002Articles for which the underlying data is shared are
+ more frequently cited than articles for which this is not the case.
+ This is substantiated in studies from genetics (Piwowar et al.
+ 2007; Botstein 2010), astronomy (Henneken & Accomazzi 2011; Dorch 2012)
+ and paleoceanography (Sears 2011).
+\end_layout
+
+\begin_layout Subsection
+Issues
+\end_layout
+
+\begin_layout Standard
+all from 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Pampel2014"
@@ -1417,14 +1445,6 @@ n this study that involved about 1,800 life science scientists, they identified
  two central factors that hinder Data Sharing: “Lack of resources and issues
  of scientific priority play an important role in scientists’ decisions
  to withhold data, materials, and information from other academic geneticists.”
-\end_layout
-
-\begin_layout Standard
-Articles for which the underlying data is shared are more frequently cited
- than articles for which this is not the case.
- This is substantiated in studies from genetics (Piwowar et al.
- 2007; Botstein 2010), astronomy (Henneken & Accomazzi 2011; Dorch 2012)
- and paleoceanography (Sears 2011).
 \end_layout
 
 \begin_layout Subsubsection
