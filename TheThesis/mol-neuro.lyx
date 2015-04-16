@@ -1154,19 +1154,20 @@ reference "tab:communication-requirements-in"
 \end_inset
 
 
-\begin_inset Float figure
+\begin_inset Float table
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="5" columns="2">
+<lyxtabular version="3" rows="8" columns="3">
 <features rotate="0" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="45col%">
+<column alignment="left" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="40col%">
 <row>
-<cell alignment="center" valignment="top" usebox="none">
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1178,41 +1179,29 @@ status collapsed
 
 \backslash
 toprule
+\backslash
+tableheadline{Class}
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-tableheadline
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-{
-\end_layout
-
-\end_inset
-
-ligand classification
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-}
+tableheadline{type*}
 \end_layout
 
 \end_inset
@@ -1272,18 +1261,27 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-midrule
+midrule{}
 \end_layout
 
 \end_inset
 
- fulll agonists
+ Agonist
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ full*
 \end_layout
 
 \end_inset
@@ -1299,23 +1297,20 @@ maximal
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status open
 
-\begin_layout Plain Layout
-
-
-\backslash
-midrule{}
 \end_layout
 
 \end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
 
-partial agonists
+\begin_layout Plain Layout
+ partial*
 \end_layout
 
 \end_inset
@@ -1331,23 +1326,20 @@ submaximal r
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" usebox="none">
+<cell multirow="4" alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
 
-\begin_layout Plain Layout
-
-
-\backslash
-midrule{}
 \end_layout
 
 \end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
 
-inverse agonists
+\begin_layout Plain Layout
+ inverse*
 \end_layout
 
 \end_inset
@@ -1363,7 +1355,36 @@ reduction of basal sigalling
 </cell>
 </row>
 <row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ partially selective
+\end_layout
+
+\end_inset
+</cell>
 <cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1379,7 +1400,48 @@ midrule{}
 
 \end_inset
 
-neutral antagonists
+ Selective Modulation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ligand can be agonist or antagonist depending on cell type.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+midrule{}
+\end_layout
+
+\end_inset
+
+ Antagonists
 \end_layout
 
 \end_inset
@@ -1388,7 +1450,47 @@ neutral antagonists
 \begin_inset Text
 
 \begin_layout Plain Layout
-no signalling, occupies the receptor and thus block agonist effects
+competitive (surmountable, neutral*)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+no signalling effects, occupies the receptor and thus blocks agonist effects.
+ Agonist signalling restored with increased concentration
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+non-competitive (insurmountable)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Ligand decreases agonist efficay, but may not reduce potency -- e.g.
+ receptor signalling is permanently modified
 \begin_inset ERT
 status open
 
@@ -1426,10 +1528,17 @@ name "fig:classification-ligands"
 
 \end_inset
 
-the classic classifications of agonists, as described in
+*, 
+\begin_inset Quotes eld
+\end_inset
+
+classic
+\begin_inset Quotes erd
+\end_inset
+
+ ligand types, 
 \begin_inset CommandInset citation
-LatexCommand citealt
-before ", 2007"
+LatexCommand citealp
 key "Urban2007"
 
 \end_inset
@@ -1768,7 +1877,7 @@ todo{actually no evidence that functional selectivity modulates in humans;;
 \end_inset
 
  Intracellular effects are measured by quantities and types of second messenger
- release, transcription factor activation s, rates and amount of receptor
+ release, transcription factor activations, rates and amount of receptor
  de/sensitization, internalization, and recycling, among thers.
 \end_layout
 
@@ -2198,7 +2307,7 @@ The Molecular Site of Action
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2218,7 +2327,7 @@ textsubscript{2a} receptor is implicated.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2378,7 +2487,7 @@ key "Nutt2013,Pollan2015"
 \end_layout
 
 \begin_layout Subsubsection
-in animals
+In animals
 \end_layout
 
 \begin_layout Standard
@@ -2486,7 +2595,7 @@ ac{DOI}
 
 \end_inset
 
-R Structure
+ Receptors: Structure
 \end_layout
 
 \begin_layout Subsection
@@ -2565,7 +2674,7 @@ key "Garland2013"
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2614,7 +2723,7 @@ status open
 
 
 \backslash
-ac{GPCR} 
+ac{GPCR}
 \end_layout
 
 \end_inset
@@ -2677,7 +2786,7 @@ textwidth][c]{
 
 \begin_inset Graphics
 	filename gfx/wikipedia_GPCR-cycle.jpg
-	lyxscale 5
+	lyxscale 30
 	width 60page%
 
 \end_inset
@@ -2842,8 +2951,8 @@ status collapsed
 \end_layout
 
 \begin_layout Standard
-The classical model is complicated by lines of evidence that suggests activation
- can trigger a conformational change without subunit dissociation.
+The classical model is further complicated by lines of evidence that suggests
+ activation can trigger a conformational change without subunit dissociation.
  
 \begin_inset ERT
 status collapsed
@@ -2864,24 +2973,92 @@ rewrite{G-protein complications, also find ref}
 
 \end_layout
 
-\begin_layout Subsection
-5-HT
-\begin_inset script subscript
+\begin_layout Subsubsection
+Pathways
+\end_layout
+
+\begin_layout Itemize
+ga and gby mediated events -- different mech for b-arrestin act?
+\end_layout
+
+\begin_layout Itemize
+beta arrestin
+\end_layout
+
+\begin_layout Standard
+After 
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
-2a
+
+
+\backslash
+ac{GPCR}
 \end_layout
 
 \end_inset
 
- Structure
+ activation, one potential signalling cascade eventually leads to kinase
+ activation.
+ Kinases phosphorylate residues in the now-empty binding area on the receptor.
+ This recruits β-arrestins to the receptor.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{heterologous desensitization}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The large, scaffolding β-arrestin proteins sterically hinder the reassociation
+ of G-proteins, de-sensitizing the receptor by removing the receptor's ability
+ to transmit signals.
+ They also initiate internalization of the receptor into vesicles (endocytosis).
+ Internalized receptors can be de-phosphorylated and returned to the cell
+ membrane, fully functional (
+\begin_inset Quotes eld
+\end_inset
+
+resensitization
+\begin_inset Quotes erd
+\end_inset
+
+), targeted to the lysosomes for degradation (part of down-regulation),
+ or initiate more signalling cascades.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Andresen2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+fter endocytosis and sorting to the endosomal compartment, GPCRs may be
+ rapidly dephosphorylated and recycled back to the plasma membrane (a process
+ termed resensitization) or targeted to lysosomes for degradation (a process
+ involved in down-regulation) 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Paragraph
 α-subunit
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 There are sixteen α-subunit genes, and for much of the research on 
 \begin_inset ERT
 status collapsed
@@ -2983,7 +3160,7 @@ todo[inline]{more here probably, i.e.
 βγ-complex 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The βγ-complex of mammalian G proteins is assembled from a repertoire of
  5 β-subunits and 12 γ-subunits.
 \begin_inset CommandInset citation
@@ -2995,7 +3172,7 @@ key "Cabrera-Vera2003"
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -3141,7 +3318,7 @@ Whenever a G protein is active, both its GTP-bound alpha subunit and its
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -3149,6 +3326,11 @@ In the inactive state, the GDP-bound Gα subunit is associated with the obligate
  Gβγ dimer, which slows the rate of spontaneous GDP release by Gα acting
  as a guanine-nucleotide dissociation inhibitor.
 \begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -3193,7 +3375,7 @@ textwidth][c]{
 
 \begin_inset Graphics
 	filename gfx/Halberstadt2015_2a-signalling-pathways.png
-	lyxscale 20
+	lyxscale 50
 	width 120col%
 
 \end_inset
@@ -3340,14 +3522,10 @@ The 5-HT
 \end_inset
 
 R couples to Gα
-\begin_inset ERT
-status collapsed
+\begin_inset script subscript
 
 \begin_layout Plain Layout
-
-
-\backslash
-textsubscript{q/11}
+q/11
 \end_layout
 
 \end_inset
@@ -3507,7 +3685,16 @@ key "Halberstadt2015"
 \end_layout
 
 \begin_layout Section
-Biased Signalling
+5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2a
+\end_layout
+
+\end_inset
+
+ Receptors: Biased Signalling
 \end_layout
 
 \begin_layout Standard
@@ -3521,9 +3708,19 @@ The weight of evidence for the psychological effects of psychedelics implies
 
 \end_inset
 
- receptor is crucial; that does not explain how or why.
+ receptor is both necessary and sufficient to induce hallucinogenic effects,
+ at least in animal models.
  While other receptors have a sort of tuning effect on the quality, duration,
- and intensity of the drug experience, 2aR activation is the 
+ and intensity of the drug experience, 
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2A
+\end_layout
+
+\end_inset
+
+R activation is the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3532,16 +3729,140 @@ root note
 \end_inset
 
  of a whole chord of potential experiences.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstadt2015"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The interaction of different neurons and receptor activation are and the
+ emergent properties thereof are worth exploring, I'm a molecular biologist,
+ and we focus on single-cell effects.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+An incompletely resolved paradox is that only some 5-HT 2A receptor ago-
+ nists exhibit hallucinogenic activity, whereas structurally related agonists
+ with comparable affinity and activity lack such a psychoactive activity
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Karaki2014"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-While the interaction of different neurons and receptor activation are and
- the emergent properties thereof are worth exploring, I'm a molecular biologist,
- and we focus on single-cell effects.
- Of these, there's evidence that the direct intracellular cascades play
- a role in mediating hallucinogenic effects in the immediate response, in
- the duration of the trip, and in the longer-term psychological changes
- as measured by gene and structural changes.
+Numerous experiments have established that activation of the 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2A
+\end_layout
+
+\end_inset
+
+ receptor is necessary and sufficient for a response in animal models.
+ The effects of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ persist, albeit less strongly, when used in conjunction with antagonists
+ for dopamine and 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+1a
+\end_layout
+
+\end_inset
+
+ to inhibit 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+ binding.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{hallucingens even when blocked by ketanserin etc}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If the 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2A 
+\end_layout
+
+\end_inset
+
+agonism is the determining factor in a hallucinogenic experience, an early
+ question is: what's different?
+\end_layout
+
+\begin_layout Standard
+Of course, on the one hand, drug trips essentially overpopulate the receptors:
+ plausibly they activate the prefrontal cortex in the same fashion, merely
+ to such an extent that the usual regulatory loops cannot keep up.
+\end_layout
+
+\begin_layout Standard
+A more intriguing hypo
+\end_layout
+
+\begin_layout Standard
+What is different about drug signalling a evidence that the direct intracellular
+ cascades play a role in mediating hallucinogenic effects in the immediate
+ response, in the duration of the trip, and in the longer-term psychological
+ changes as measured by gene and structural changes.
 \begin_inset Note Note
 status collapsed
 
@@ -3665,6 +3986,10 @@ todo[inline]{transition to evidence at different levels for biased signalling's
 \end_layout
 
 \begin_layout Quote
+\begin_inset Note Note
+status open
+
+\begin_layout Quote
 The first is at the receptor/effector level.
  It has been demonstrated that some hallucinogens, such as LSD, activate
  different signaling cascades than 5-HT.
@@ -3709,10 +4034,14 @@ Binding Events
 \end_layout
 
 \begin_layout Subsubsection
+de/sensitization
+\end_layout
+
+\begin_layout Subsubsection
 internalization & recycling
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -3784,32 +4113,6 @@ key "Bhattacharyya2002"
 
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-de/sensitization
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Waning responsiveness to continuous or repeated stimulation constitutes
- the phenomenon of desensitization, which pervades biological systems\SpecialChar \ldots{}
- Agonist-in
-duced desensitization involves phosphorylation of G protein-coupled receptors
- by two currently recognized classes of serine/threonine protein kinases\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Quote
-GRK-mediated receptor phosphorylation facilitates the binding of an inhibitory
- arrestin protein to the phosphorylated receptor, an event which substantially
- impairs receptor signaling.
-\begin_inset Quotes erd
 \end_inset
 
 
@@ -3959,10 +4262,6 @@ key "Becamel2004"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Subsection
-Electrophysiological events
 \end_layout
 
 \begin_layout Subsection
@@ -4447,7 +4746,7 @@ key "Gonzalez-Maeso2003"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -4503,7 +4802,7 @@ R and subsequent differential activation of second-messenger intracellular
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -4524,7 +4823,7 @@ todo[inline]{More about this here and specifics (transcription,local events,
 Morphological plasticity
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Activation of the 5-HT
 \begin_inset script subscript
 
@@ -4571,10 +4870,14 @@ key "Jones2009"
 \end_layout
 
 \begin_layout Subsection
-long-er term changes?
+Electrophysiological events
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection
+Longer Term Changes
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -4617,7 +4920,7 @@ iodophenyl)-2-aminopropane HCl (DOI) causes phosphorylation of G ␣ 11 protein
  These results suggest that DOI treatment causes down- regulation of 5-HT
  2A receptors and reductions in G protein- coupled 5-HT 2A receptors.
  In contrast, in cells transfected with the phosphorylation state mimic
- G ␣ 11 S154D, GTP  S-sensitive [ 125 I](theta)-DOI binding was decreased
+ G ␣ 11 S154D, GTP S-sensitive [ 125 I](theta)-DOI binding was decreased
  by 48%; however, there was no significant difference in the K D and B max
  values of [ 125 I](theta)-DOI-labeled receptors.
  
@@ -4692,7 +4995,7 @@ key "Shi2007a"
 gene expression
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Both single-doses and chronic administration lead to long-term changes in
  gene expression and plasticity in the mammalian brain
 \begin_inset CommandInset citation
@@ -4712,6 +5015,11 @@ status collapsed
 todo{I know all the authors on this paper, so maybe an interesting point
  bring up? also I made some of that! i.e.
  qPCR data}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
