@@ -665,118 +665,10 @@ Cycles of Science
 \end_layout
 
 \begin_layout Standard
-At every step of even the canonical research cycle, communication with and
- from other researchers plays a role (see 
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "tab:communication-requirements-in"
-
-\end_inset
-
-).
- It is impossible to participate in academic-scientific discourse without
- both intellectual and financial access to the communication.
- The blocks along the way are numerous and multi-sited.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{transition}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The research cycle itself consists of 5 steps, with interpolations and cross
- threads between each.
-\end_layout
-
-\begin_layout Enumerate
-The idea; hypothesis generation, asking the question of scientific or funder-dri
-ven interest
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-In New Orleans, an opening for an asthma grant, so my PI applied to research
- asthma in the context of serotonin signaling
-\end_layout
-
-\begin_layout Itemize
-an idea, late at night (Otto Loewi, discovery of acetylcholine)
-\end_layout
-
-\begin_layout Itemize
-previously established work by a lab (routine X->Y->Z)
-\end_layout
-
-\begin_layout Itemize
-within the context of a greater project by the PI (re: translational neuroscienc
-e lab?)
-\end_layout
-
-\begin_layout Itemize
-a happenstance observation; (see 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Charney2014"
-
-\end_inset
-
-, serendipity generally)
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Set up the preliminaries of funding and approval by the relevant boards;
- obtain laboratory space and/or a grad student
-\end_layout
-
-\begin_layout Enumerate
-Collecting data, running a set of multiply-envisioned on-the-fly experiments.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Make things work
-\begin_inset Quotes erd
-\end_inset
-
- until there's a meaningful data set; in 
-\begin_inset Quotes eld
-\end_inset
-
-softer
-\begin_inset Quotes erd
-\end_inset
-
- sciences, enough evidence for an effect (p < 0.05) against the null hypothesis.
- 
-\end_layout
-
-\begin_layout Enumerate
-Writing and rewriting of the paper -- introduction, background, results,
- discussions, methods, further directions for research -- and submit it
- to a journal of your choice.
-\end_layout
-
-\begin_layout Enumerate
-Wait for the inevitable rejection from the Big Journal, re-submit.
- Eventually, publish.
-\end_layout
-
-\begin_layout Standard
-\noindent
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Tabular
@@ -1082,9 +974,116 @@ communication requirements in research cycle
 
 \end_inset
 
+At every step of even the canonical research cycle, communication with and
+ from other researchers plays a role (see 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:communication-requirements-in"
 
+\end_inset
+
+).
+ It is impossible to participate in academic-scientific discourse without
+ both intellectual and financial access to the communication.
+ The blocks along the way are numerous and multi-sited.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{transition}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The research cycle itself consists of 5 steps, with interpolations and cross
+ threads between each.
+\end_layout
+
+\begin_layout Enumerate
+The idea; hypothesis generation, asking the question of scientific or funder-dri
+ven interest
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+In New Orleans, an opening for an asthma grant, so my PI applied to research
+ asthma in the context of serotonin signaling
+\end_layout
+
+\begin_layout Itemize
+an idea, late at night (Otto Loewi, discovery of acetylcholine)
+\end_layout
+
+\begin_layout Itemize
+previously established work by a lab (routine X->Y->Z)
+\end_layout
+
+\begin_layout Itemize
+within the context of a greater project by the PI (re: translational neuroscienc
+e lab?)
+\end_layout
+
+\begin_layout Itemize
+a happenstance observation; (see 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Charney2014"
+
+\end_inset
+
+, serendipity generally)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Set up the preliminaries of funding and approval by the relevant boards;
+ obtain laboratory space and/or a grad student
+\end_layout
+
+\begin_layout Enumerate
+Collecting data, running a set of multiply-envisioned on-the-fly experiments.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Make things work
+\begin_inset Quotes erd
+\end_inset
+
+ until there's a meaningful data set; in 
+\begin_inset Quotes eld
+\end_inset
+
+softer
+\begin_inset Quotes erd
+\end_inset
+
+ sciences, enough evidence for an effect (p < 0.05) against the null hypothesis.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Writing and rewriting of the paper -- introduction, background, results,
+ discussions, methods, further directions for research -- and submit it
+ to a journal of your choice.
+\end_layout
+
+\begin_layout Enumerate
+Wait for the inevitable rejection from the Big Journal, re-submit.
+ Eventually, publish.
+\end_layout
+
+\begin_layout Standard
+\noindent
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Despite the complexities and contradictions of any movement, 
@@ -1314,7 +1313,7 @@ graffito{Interlibrary Loans are also an option, but take more time than
 
 \end_inset
 
-Some journals I can access through institutional subscriptions; 
+Some journals I can access through institutional subscription; 
 \emph on
 Nature Reviews Neuroscience
 \emph default
@@ -1448,6 +1447,20 @@ key "White2014"
 \end_inset
 
 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{and when we mean accessible, we mean the PDF version, probably in
+ English, maybe in an OCR format, certainly figure- and mB heavy}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -1468,9 +1481,35 @@ key "Yamey2008"
 
 \end_inset
 
- Developments in ecology and can immediately effect ecosystem management
- and conservation policy; materials science has implications for building
- and design.
+ Developments in ecology can immediately effect ecosystem management and
+ conservation policies
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+when he called conservation biology a crisis discipline, he meant that ours
+ is a mission-oriented science with pressing timelines.
+ He recognized that we must work quickly to address urgent problems such
+ as habitat destruction, invasive species, overharvest, and the many other
+ factors that threaten biodiversity and the very fabric of life on Earth.
+ Conservation biology does not have the luxury of time to slowly and timidly
+ reveal its scientific contributions to the world.
+ We must act quickly if we are to influence species extinction rates, habitat
+ loss, and the human condition.
+ Although this is a formidable task, we have no choice but to succeed, and
+ to succeed quickly.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+; materials science has implications for building and design.
  
 \begin_inset Note Note
 status collapsed
@@ -1599,9 +1638,9 @@ key "Fraser2010"
 
 \end_inset
 
- Tthe advent of machine-readable text and linked networks of scholarly informati
-on opens the possibility of managing the literature with text-mining, annotation
-s, and new forms of communication and proccessing, perhaps making it easier
+ The advent of machine-readable text and linked networks of scholarly informatio
+n opens the possibility of managing the literature with text-mining, annotations
+, and new forms of communication and proccessing, perhaps making it easier
  for researchers to stay on top of recent developments.
  Unfortunately, the paywalled and copywritten scientific literature is both
  fiscally and legally out of reach for massive semantic processing; scientists
@@ -2070,13 +2109,899 @@ key "Guedon2001"
 
 \end_layout
 
+\begin_layout Section
+Meaningful Research
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset Quotes eld
+\end_inset
+
+Does the pressure to publish in prestigious, high-ranking journals contribute
+ to the unreliability of science?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Brembs2013"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
+Citation is the metaphorical currency of science, a way of paying homage
+ to previous work and making sure scientists receive their proper due.
+ It also functions, in a globalized/linked/connected world, as convertible
+ and real currency.
+ Citation counts now function, however, as a proxy for scientific success,
+ first by those outside the academy, and now as a selection metric for researche
+rs engaged in the 
+\begin_inset Quotes eld
+\end_inset
+
+literature deluge
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Figa-Talamanca2007"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nominally, choosing papers to read and base future work on is based on relevance
+ and applicability of the literature.
+ There is, of course, a deluge of literature, and it's nigh-impossible to
+ keep up with the flow of information.
+ One technique employed by scientific audiences in deciding where to invest
+ their reading time is the prestige rank of a journal; similarly, when choosing
+ which journal will be the most beneficial venue for their work, those same
+ rankings come into play.
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Most researchers acknowledge an intrinsic hierarchy in the scholarly journals
+ (“journal rank”) that they submit their work to, adjusting not only their
+ submission but their reading strategies accordingly.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brembs2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The citation game has created distinct hierarchical relationships among
+ journals in different fields.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Young2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Presumably physics and plants as well, but it seems like 
+\backslash
+emph{Nature} mostly does bio? I have literally no idea}
+\end_layout
+
+\end_inset
+
+Qualitatively, the top of the biology journal hierarchy is the 
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
+
+\backslash
+emph{Cell}, 
+\backslash
+emph{Nature}, and 
+\backslash
+emph{Science}
 \end_layout
+
+\end_inset
+
+ triumvirate; journals that are instantaneously recognizable and eminently
+ reputable.
+ To get a
+\emph on
+ Cell 
+\emph default
+paper is to be immediately taken a little more seriously.
+ 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Sources are: my life, everybody's life, a lot of blog posts, general atmosphere.
+ Like, if I see a 
+\emph on
+Nature
+\emph default
+ headliner, I'm more likely to be excited and impressed.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quantitatively, the journal hierarchy is represented by the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+, calculated for journals by 
+\begin_inset Note Greyedout
+status collapsed
+
+\begin_layout Plain Layout
+publishing house?
+\end_layout
+
+\end_inset
+
+ mass-media company Thomson-Reuters, specifically their 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoK}
+\end_layout
+
+\end_inset
+
+ citation network.
+ The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+ was originally proposed as one metric of many to track scientific productivity:
+ a simple mathematical formula reflecting the number of citations of a journal’s
+ material divided by the number of citable materials published by that same
+ journal.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+insert time (2 years) and other data
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kurmis2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+{\displaystyle \text{Impact\,Factor}=}\frac{\text{number\,of\,citations}}{\text{\#\,citable\,materials\,published}}\label{eq:impact-factor}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The original intention for the use of the impact factor was to allow comparison
+ between the citation rates of journals\SpecialChar \ldots{}
+This has proven invaluable for researcher
+s and librarians in the selection and management of journals.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kurmis2003"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+That's all well and good, but like with many metrics, it's applied with
+ a widening and indiscriminatory brush.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+s have evolved from one metrics of citation rates to one approximating journal
+ quality overall, on the premise that a higher citation rate of papers indicates
+ higher quality papers.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Metrics immediately lead to gaming the system.}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kurmis2003"
+
+\end_inset
+
+From there, the journal 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+ sometimes serves as a marker of quality on individual papers and researchers.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smith2006a"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{David adams, ciation analysis AND
+\end_layout
+
+\end_inset
+
+ Eugene Garfield, the first one to describe an 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+ type system, considers these applications an abuse of a simple equation.
+ Likely yes, but it nonetheless has serious consequences for the scientific
+ ecosystem of research, hiring, grantsmanship, and publishing.
+\end_layout
+
+\begin_layout Subparagraph
+Journal Administrators
+\end_layout
+
+\begin_layout Standard
+Journal editors and publishing administrators shape what we see and pay
+ attention to; peer reviewers have to maintain impartiality when reviewing
+ the make-or-break publication of their competitors.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Who thought this would go well?}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+has implications for 
+\begin_inset Quotes eld
+\end_inset
+
+paradigm shifts
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+duplicate results can't be published even if they're temporally simultaneous/ver
+y slightly behind the other
+\end_layout
+
+\begin_layout Quote
+Impact factors are widely adopted as criteria for 
+\begin_inset Quotes eld
+\end_inset
+
+success
+\begin_inset Quotes erd
+\end_inset
+
+, despite whatever qualms have been expressed.
+ [quotes mine]
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+[27–32].
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ha2006,Smith2006,ThePLoSMedicineEditors2006,Rossner2007"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Young2008"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Since journal repubations depend on the popularity of their article, editors
+ make estimates of likely citations for submitted articles to gauge their
+ interest in publication.
+ Thus, higher impact journals select for sexy, exciting, and likely-to-be-cited
+ literature.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep*
+key "Young2008"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Lawrence2003"
+
+\end_inset
+
+ for experiential account of how editors modulate for interest
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Scientists, especially high-profile and competitive ones, choose carefully
+ which journals they'll submit to.
+ It's a game of saying is this research trendy 
+\emph on
+and
+\emph default
+ of high enough quality 
+\emph on
+and
+\emph default
+ an original idea 
+\emph on
+enough
+\emph default
+ to make it in this high-impact journal or another? A manuscript submission
+ takes months and in the intervening time, the manuscript can't be sent
+ out anywhere else.
+ This means choosing a too high impact journal is a loss of months of publicatio
+n time; but publishing in a less-cited journal can have serious consequences
+ on tenure decisions, grant applications, and other administrative gambols.
+s
+\lang english
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{IF in scientific assessment}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+There's a number of sources denying that 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}s
+\end_layout
+
+\end_inset
+
+ are 
+\emph on
+specifically
+\emph default
+ counted in any of these, especially in the U.S.
+ But they're certainly powerful tokens in the scientific imaginary, from
+ which reviewers of any kind are hardly exempt.
+ 
+\end_layout
+
+\end_inset
+
+ It also sets up a choice: should one publish in a high-profile, non-specific
+ journal or a lower-profile, but more relevant subdisciplinary journals?
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{decisions about choosing a journal}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Generally, impact factor trumps audience: while a field-specific journal
+ might make your research more visible to people who could use it, it won't
+ make the same immediate impression as a 
+\emph on
+Cell 
+\emph default
+publication.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+while you're getting submitted, you might get scooped
+\end_layout
+
+\begin_layout Plain Layout
+scientists spend time on this
+\end_layout
+
+\begin_layout Subsubsection
+Concentration of work in specific journals
+\end_layout
+
+\begin_layout Quote
+In scientific fields with many citations, very few leading journals concentrate
+ the top-cited work: in each of the seven large fields to which the life
+ sciences are divided by ISI Essential Indicators (each including several
+ hundreds of journals), six journals account for 68%–94% of the 100 most-cited
+ articles in the last decade 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+life science fields
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+percent of 100-most cited articles held by 6 journals
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+clinical medicine
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+83%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+immunology
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+94
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+biochemistry/biology
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+68
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+molecular biology and genetics
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+85
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+neurosciences
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+72
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+microbiology
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+76
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pharmacology/toxicology
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+72
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Data per young 2008
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+The scientific publishing industry is used for career advancement [36]:
+ publication in specific journals provides scientists with a status signal.
+ 
+\end_layout
+
+\begin_layout Quote
+As with other luxury items intentionally kept in short supply, there is
+ a motivation to restrict access [37,38].
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Young2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Despite a plethora of available journals, the most influential papers are
+ extremely concentrated in few journals, especially in fields with high
+ citation density.
+ Existing multidisciplinary journals publish selectively most-cited papers
+ from fields with high citation density.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2006"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Fraud in High Impact journals
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Sure it's inappropriate - but this section should focus on the
+ ways in which it 
+\backslash
+emph{is} misapplied}
+\end_layout
+
+\end_inset
+
+A fundamental understanding of how the impact factor is derived highlights
+ how inappropriate these applications are.
+ Those who use it in such a manner clearly fail to either understand its
+ true deriva- tion or appreciate
+\end_layout
+
+\begin_layout Quote
+the original intended use 1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+What is obvious from this equation is that the impact factor depends crucially
+ on which article types Thomson Scientific deems as “citable”—the fewer,
+ the better (i.e., the lower the denominator, the higher the impact factor).
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+And because they only take shit in english
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\SpecialChar \ldots{}
+Because a journal’s impact factor is derived from citations to all articles
+ in a journal, this number cannot tell us anything about the quality of
+ any specific research article in that journal, nor of the quality of the
+ work of any specific author.
+ These points become particularly evident by understanding that a journal’s
+ impact factor can be substantially affected by the publication of review
+ articles (which usually acquire more citations than research articles)
+ or the publication of just a few very highly cited research papers.
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2006"
+key "ThePLoSMedicineEditors2006"
 
 \end_inset
 
@@ -2165,24 +3090,14 @@ key "Marcus2012"
 
 \end_inset
 
-The principle of the elusive scientific method is replication and reproducibilit
-y.
+The principle of the elusive scientific method is reproducibility.
  Researchers document their methods and results to such an extent that any
- other researcher is able to reproduce their data independently, or, more
- often, build experiments atop the results of their colleagues (replication).
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{clarify reproducibilty VS replication}
-\end_layout
-
-\end_inset
-
-
+ other researcher is able to replicate their data independently, or, more
+ ideally, build experiments atop the results of their colleagues.
+ With reproducibility, two different labs should produce similar types of
+ results (e.g.
+ protein-protein interactions) with different methods (e.g.
+ protein inhibtors, mutagenesis studies).
 \end_layout
 
 \begin_layout Standard
@@ -2201,24 +3116,15 @@ key "Ioannidis2005"
  Why Most Published Research Findings Are False
 \emph default
 .
- The paper outlined a statistical estimate on the likely false positive
- rate in the published bio-medical literature, an estimate eventually clocking
- in at >50%.
+ The paper proposes a statistical argument that the likely false positive
+ rate in the published bio-medical literature clocks in at >50%.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Ioannidis2005"
 
 \end_inset
 
- The publication caused (understandable) uproar, with a statistical 
-\begin_inset Quotes eld
-\end_inset
-
-battle of the titans
-\begin_inset Quotes erd
-\end_inset
-
- ensuing that continues today.
+ The responses were many and furious,
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Goodman2007,Jager2014"
@@ -2238,22 +3144,9 @@ findref{more citations for battle post-Ionnidis publication}
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{Brief sketch of statistical proof and discussion for falseness}
-\end_layout
-
-\end_inset
-
- Statistical debates aside, the gist of the conversations remans that based
- purely on statistical considerations, one can expect a percentage of the
- medical literature to be a false positive (50% according to 
+ but in the end most contributors concluded, based purely on statistical
+ considerations, one can expect a percentage of the medical literature to
+ be a false positive (50% according to 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Ioannidis2005"
@@ -2336,21 +3229,9 @@ ac{FDA} restrictions}
 
 \begin_layout Standard
 The in-house target validation studies run by most bio-medical companies
- provide a unique data set on the reproducibility of bio-medical research.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Both sets of studies were largely based on oncology-directed data}
-\end_layout
-
-\end_inset
-
-Amgen's researchers
+ provide a unique data set on the reproducibility of bio-medical, cancer-focused
+ research.
+ Amgen's researchers
 \begin_inset Note Note
 status collapsed
 
@@ -2384,7 +3265,7 @@ key "Prinz2011"
  model systems, or journal impact -- it's just that most research could
  not be reproduced at industrial labs.
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 he chal- lenge of reproducibility — even under ideal conditions — has also
@@ -2415,8 +3296,9 @@ graffito{This gets back to local biologies? But in the sense of localized
 
 \end_inset
 
-To temper those sample sizes, two labs (in Berkeley, CA, and Boston, MA)
- collaborating on a 
+To temper those biotech in experiences, the difficulty is sometimes not
+ in the sicence, but in something much smaller.
+ Two labs (in Berkeley, CA, and Boston, MA) collaborating on a 
 \begin_inset ERT
 status collapsed
 
@@ -2456,9 +3338,6 @@ key "Hines2014"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -2490,14 +3369,22 @@ Retraction
 \end_layout
 
 \begin_layout Standard
-Replication troubles are, fortunately or not, pre-publication.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Repr troubles are, fortunately or not, pre-publication.
  Where the literature really gets into trouble is retraction of articles.
+\end_layout
+
+\end_inset
+
  Journals and authors withdrawing published articles, articles that have
  already been deemed acceptable by peer-review and editorial mandate represents
  an enormous reputation cost to both journal and author; retraction often
  leads to firing (or mandatory stepping down) of the editor, and in the
  longer-term, a distinct downward trend in the citation rate of the author's
- former papers.
+ others papers.
 \begin_inset ERT
 status collapsed
 
@@ -2741,7 +3628,7 @@ key "Fanelli2013"
 
 \end_inset
 
-
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -2789,8 +3676,11 @@ Statistics on retractions and findings of misconduct are best used to make
 \end_inset
 
  
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3102,7 +3992,7 @@ l}
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 In part, this editorial dilemma reflects an inherent statis- tical constraint:
@@ -3587,887 +4477,6 @@ ion of studies
 \end_layout
 
 \begin_layout Section
-Impact Factors and Citations 
-\begin_inset CommandInset label
-LatexCommand label
-name "sub:Peer-Review-Impact-Factors"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset Quotes eld
-\end_inset
-
-Does the pressure to publish in prestigious, high-ranking journals contribute
- to the unreliability of science?
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Brembs2013"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Citation is the metaphorical currency of science, a way of paying homage
- to previous work and making sure scientists receive their proper due.
- It also functions, in a globalized/linked/connected world, as convertible
- and real currency.
- Citation counts now function, however, as a proxy for scientific success,
- first by those outside the academy, and now as a selection metric for researche
-rs engaged in the 
-\begin_inset Quotes eld
-\end_inset
-
-literature deluge
-\begin_inset Quotes erd
-\end_inset
-
-.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Figa-Talamanca2007"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Nominally, choosing papers to read and base future work on is based on relevance
- and applicability of the literature.
- There is, of course, a deluge of literature, and it's nigh-impossible to
- keep up with the flow of information.
- One technique employed by scientific audiences in deciding where to invest
- their reading time is the prestige rank of a journal; similarly, when choosing
- which journal will be the most beneficial venue for their work, those same
- rankings come into play.
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Most researchers acknowledge an intrinsic hierarchy in the scholarly journals
- (“journal rank”) that they submit their work to, adjusting not only their
- submission but their reading strategies accordingly.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Brembs2013"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-The citation game has created distinct hierarchical relationships among
- journals in different fields.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Young2008"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Presumably physics and plants as well, but it seems like 
-\backslash
-emph{Nature} mostly does bio? I have literally no idea}
-\end_layout
-
-\end_inset
-
-Qualitatively, the top of the biology journal hierarchy is the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-emph{Cell}, 
-\backslash
-emph{Nature}, and 
-\backslash
-emph{Science}
-\end_layout
-
-\end_inset
-
- triumvirate; journals that are instantaneously recognizable and eminently
- reputable.
- To get a
-\emph on
- Cell 
-\emph default
-paper is to be immediately taken a little more seriously.
- 
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Sources are: my life, everybody's life, a lot of blog posts, general atmosphere.
- Like, if I see a 
-\emph on
-Nature
-\emph default
- headliner, I'm more likely to be excited and impressed.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Quantitatively, the journal hierarchy is represented by the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF}
-\end_layout
-
-\end_inset
-
-, calculated for journals by 
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-publishing house?
-\end_layout
-
-\end_inset
-
- mass-media company Thomson-Reuters, specifically their 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{WoK}
-\end_layout
-
-\end_inset
-
- citation network.
- The 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF}
-\end_layout
-
-\end_inset
-
- was originally proposed as one metric of many to track scientific productivity:
- a simple mathematical formula reflecting the number of citations of a journal’s
- material divided by the number of citable materials published by that same
- journal.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-insert time (2 years) and other data
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kurmis2003"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula 
-\begin{equation}
-{\displaystyle \text{Impact\,Factor}=}\frac{\text{number\,of\,citations}}{\text{\#\,citable\,materials\,published}}\label{eq:impact-factor}
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-The original intention for the use of the impact factor was to allow comparison
- between the citation rates of journals\SpecialChar \ldots{}
-This has proven invaluable for researcher
-s and librarians in the selection and management of journals.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kurmis2003"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-That's all well and good, but like with many metrics, it's applied with
- a widening and indiscriminatory brush.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF}
-\end_layout
-
-\end_inset
-
-s have evolved from one metrics of citation rates to one approximating journal
- quality overall, on the premise that a higher citation rate of papers indicates
- higher quality papers.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Metrics immediately lead to gaming the system.}
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kurmis2003"
-
-\end_inset
-
-From there, the journal 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF}
-\end_layout
-
-\end_inset
-
- serves as a marker of quality on individual papers and researchers.
- Eugene Garfield, the first one to describe an 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF} type system
-\end_layout
-
-\end_inset
-
-, considers these applications an abuse of a simple equation.
- Likely yes, but it nonetheless has serious consequences for the scientific
- ecosystem of research, hiring, grantsmanship, and publishing.
-\end_layout
-
-\begin_layout Subsection
-choose their acceptances
-\end_layout
-
-\begin_layout Quote
-\SpecialChar \ldots{}
-Editors make estimates of likely citations for submitted articles to gauge
- their interest in publication.
- 
-\begin_inset CommandInset citation
-LatexCommand citep*
-key "Young2008"
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Lawrence2003"
-
-\end_inset
-
- for experiential account of how editors modulate for interest
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Journal editors and publishing administrators shape what we see and pay
- attention to; peer reviewers have to maintain impartiality when reviewing
- the make-or-break publication of their competitors.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Who thought this would go well?}
-\end_layout
-
-\end_inset
-
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-has implications for 
-\begin_inset Quotes eld
-\end_inset
-
-paradigm shifts
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-duplicate results can't be published even if they're temporally simultaneous/ver
-y slightly behind the other
-\end_layout
-
-\begin_layout Quote
-Impact factors are widely adopted as criteria for 
-\begin_inset Quotes eld
-\end_inset
-
-success
-\begin_inset Quotes erd
-\end_inset
-
-, despite whatever qualms have been expressed.
- [quotes mine]
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-[27–32].
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Ha2006,Smith2006,ThePLoSMedicineEditors2006,Rossner2007"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Young2008"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Scientists, especially high-profile and competitive ones, choose carefully
- which journals they'll submit to.
- It's a game of saying is this research trendy 
-\emph on
-and
-\emph default
- of high enough quality 
-\emph on
-and
-\emph default
- an original idea 
-\emph on
-enough
-\emph default
- to make it in this high-impact journal or another? A manuscript submission
- takes months and in the intervening time, the manuscript can't be sent
- out anywhere else.
- This means choosing a too high impact journal is a loss of months of publicatio
-n time; but publishing in a less-cited journal can have serious consequences
- on tenure decisions, grant applications, and other administrative gambols.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-There's a number of sources denying that 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF}s
-\end_layout
-
-\end_inset
-
- are specifically counted in any of these.
- But they're certainly powerful tokens in the scientific imaginary, from
- which reviewers of any kind are hardly exempt.
- 
-\end_layout
-
-\end_inset
-
- It also sets up a choice along the lines of relevance: should one publish
- in a high-profile, non-specific journal 
-\end_layout
-
-\begin_layout Quote
-They powerfully discriminate against submission to most journals, restricting
- acceptable outlets for publication.
- 
-\end_layout
-
-\begin_layout Standard
-Moreover, impact factor trumps audience: while a field-specific journal
- might make your research more visible to people who could use it, it won't
- have the same on-paper look as a 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{CNS journals}
-\end_layout
-
-\end_inset
-
- publication.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Greyedout
-status open
-
-\begin_layout Plain Layout
-effects on the kind of research that gets done and accepted
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-while you're getting submitted, you might get scooped
-\end_layout
-
-\begin_layout Plain Layout
-scientists spend time on this
-\end_layout
-
-\begin_layout Subsubsection
-Concentration of work in specific journals
-\end_layout
-
-\begin_layout Quote
-In scientific fields with many citations, very few leading journals concentrate
- the top-cited work: in each of the seven large fields to which the life
- sciences are divided by ISI Essential Indicators (each including several
- hundreds of journals), six journals account for 68%–94% of the 100 most-cited
- articles in the last decade 
-\end_layout
-
-\begin_layout Quote
-\begin_inset Float table
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Tabular
-<lyxtabular version="3" rows="8" columns="2">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-life science fields
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-percent of 100-most cited articles held by 6 journals
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-clinical medicine
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-83%
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-immunology
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-94
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-biochemistry/biology
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-68
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-molecular biology and genetics
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-85
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-neurosciences
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-72
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-microbiology
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-76
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-pharmacology/toxicology
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-72
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Data per young 2008
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-The scientific publishing industry is used for career advancement [36]:
- publication in specific journals provides scientists with a status signal.
- 
-\end_layout
-
-\begin_layout Quote
-As with other luxury items intentionally kept in short supply, there is
- a motivation to restrict access [37,38].
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Young2008"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-Despite a plethora of available journals, the most influential papers are
- extremely concentrated in few journals, especially in fields with high
- citation density.
- Existing multidisciplinary journals publish selectively most-cited papers
- from fields with high citation density.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Ioannidis2006"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Fraud in High Impact journals
-\end_layout
-
-\begin_layout Quote
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Sure it's inappropriate - but this section should focus on the
- ways in which it 
-\backslash
-emph{is} misapplied}
-\end_layout
-
-\end_inset
-
-A fundamental understanding of how the impact factor is derived highlights
- how inappropriate these applications are.
- Those who use it in such a manner clearly fail to either understand its
- true deriva- tion or appreciate
-\end_layout
-
-\begin_layout Quote
-the original intended use 1
-\end_layout
-
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-What is obvious from this equation is that the impact factor depends crucially
- on which article types Thomson Scientific deems as “citable”—the fewer,
- the better (i.e., the lower the denominator, the higher the impact factor).
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-And because they only take shit in english
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\SpecialChar \ldots{}
-Because a journal’s impact factor is derived from citations to all articles
- in a journal, this number cannot tell us anything about the quality of
- any specific research article in that journal, nor of the quality of the
- work of any specific author.
- These points become particularly evident by understanding that a journal’s
- impact factor can be substantially affected by the publication of review
- articles (which usually acquire more citations than research articles)
- or the publication of just a few very highly cited research papers.
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2006"
-key "ThePLoSMedicineEditors2006"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 Summary?
 \end_layout
 
@@ -4597,7 +4606,7 @@ key "Lisberger2013"
 
 
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 so in this sections...should it include who gets included???
@@ -4665,11 +4674,6 @@ status collapsed
 \begin_layout Plain Layout
 
 %public access to knowledge; public empowerment via access to best and brightest
-\end_layout
-
-\begin_layout Plain Layout
-
-%sconcern/feeling that w/o monetary barriers, science would de faster
 \end_layout
 
 \end_inset
