@@ -2596,10 +2596,7 @@ enough
  out anywhere else.
  This means choosing a too high impact journal is a loss of months of publicatio
 n time; but publishing in a less-cited journal can have serious consequences
- on tenure decisions, grant applications, and other administrative gambols.
-s
-\lang english
-
+ on tenure decisions, grant applications, and other administrative gambols.s
 \begin_inset ERT
 status collapsed
 
@@ -3190,9 +3187,17 @@ claim[s] research findings may often be simply accurate measures of the
 \end_layout
 
 \begin_layout Standard
+More than just statistical theorizing, 
+\end_layout
+
+\begin_layout Standard
 This is not just theoretical number-crunching; the 'crisis' has an enormous
  business and opportunity cost.
- Biotech and pharmaceutical companies trying to monetize those discoveries
+ 
+\end_layout
+
+\begin_layout Standard
+Biotech and pharmaceutical companies trying to monetize those discoveries
  demonstrate the practical scope of the problem.
  The rate of effective translation from basic research into clinical drug
  treatments
@@ -3265,7 +3270,7 @@ key "Prinz2011"
  model systems, or journal impact -- it's just that most research could
  not be reproduced at industrial labs.
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 he chal- lenge of reproducibility — even under ideal conditions — has also
@@ -3283,6 +3288,7 @@ ts separated by 5 months), there were substantial variations, as the intra-
 \end_layout
 
 \begin_layout Standard
+To be fair, most researchers know how, well, temperamental science can be.
 \begin_inset ERT
 status collapsed
 
@@ -3296,9 +3302,24 @@ graffito{This gets back to local biologies? But in the sense of localized
 
 \end_inset
 
-To temper those biotech in experiences, the difficulty is sometimes not
- in the sicence, but in something much smaller.
- Two labs (in Berkeley, CA, and Boston, MA) collaborating on a 
+ Scientific works draws on 
+\begin_inset Quotes eld
+\end_inset
+
+tacit knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ of researchers, specific to times and places and not a malicious case of
+ fraud.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Giles2006"
+
+\end_inset
+
+ In one case, a Berkeley, CA lab and Boston, MA lab, collaborating on a
+ 
 \begin_inset ERT
 status collapsed
 
@@ -3311,11 +3332,12 @@ ac{FACS}
 
 \end_inset
 
- project, discovered that even with identical protocols, they had consistently
+ project, discovered that even with identical protocols they had consistently
  different results.
  In a laborious year-long process, the two labs (or rather, the primary
  researchers in both labs) isolated the difference in their experimental
- results to the speed of agitation at one step of the organ isolation process.
+ results to the speed of agitation at an early step of the organ isolation
+ process.
  While the results initially 
 \emph on
 seemed 
@@ -3337,27 +3359,15 @@ key "Hines2014"
 
 \end_inset
 
+ It's not completeley clear when unreplicated turns to unreplicable; as
+ one researcher put it, 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-i would propose this is 
-\emph on
-not
-\emph default
- the norm, and moreover, that kind of data should be...it seems like 
-\emph on
-writing out your protocols
-\emph default
- better would be more plausible.
-\end_layout
-
-\begin_layout Plain Layout
-the scholarly kitchen posts things about water mattering, which is def.
- true.
- solution: IDK
-\end_layout
+most failures to replicate exhibit incompetence.”
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Giles2006"
 
 \end_inset
 
