@@ -447,12 +447,12 @@ The solutions pushed to these problems now rely on the Internet and technical
  The vision is one of scientific transparency -- making the inner workings
  of science not just visible, but modular, minable, and usable by anyone
  who cares to try.
- We expect science to be something we can tinker with, when and where we
- want it.
+ We expect science to be something to tinker with, whenever we have the
+ time or the ideas.
 \end_layout
 
 \begin_layout Standard
-I think (of course) that this is the path science 
+I think (of course) this is the path science 
 \emph on
 must 
 \emph default
@@ -473,9 +473,16 @@ findref{CUDOS, merton}
 
 \end_inset
 
- Open science is not just about using more technology; it's geared towards
- reorienting the whole culture of academic research towards a more sharing-and-c
-aring system, whatever that might mean.
+ Open science is not just about using more technology; at it's best, 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ is geared towards reorienting the whole culture of academic research towards
+ a more sharing-and-caring system, whatever that might mean.
 \end_layout
 
 \begin_layout Standard
@@ -497,8 +504,8 @@ Open science starts with the end, and a long-standing push to make journal
  to highlight, but the data powering authorial interprations.
  But wait, how did they acquire the data? If they did it with a program,
  then we need that too.
- Everything that happens in the academic lab should be like a pharmaceutical
- lab -- tracked, tagged, recorded, and visible.
+ Everything that happens in the academic lab should tracked, tagged, recorded,
+ and machine-readable.
 \end_layout
 
 \begin_layout Subparagraph
@@ -531,7 +538,7 @@ graffito{The arxiv is a massive repsitory containing almost every pre-print
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Section
 Personal Motivations
@@ -1153,10 +1160,35 @@ data
 \end_layout
 
 \begin_layout Standard
-In open science, it's expected that publication of data sets is a norm.
- The goals are make data points work harder, i.e.
- in re-use and meta-analyses, and mean more, i.e.
- double checking statistical manipulations for reliability.
+The call is for scientists to 
+\begin_inset Quotes eld
+\end_inset
+
+free your data
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This addresses numerous issues within communication, mostly statistical
+ unreliability and the speed of research.
+ It also comes from 
+\begin_inset Quotes eld
+\end_inset
+
+the belief that biological data have value beyond the purpose for which
+ they were originally acquired
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Martone2004"
+
+\end_inset
+
+ Data points can be re-used for many different purposes, and be more reliable,
+ in the case of dodgy statisics.
 \begin_inset Note Note
 status collapsed
 
@@ -1193,17 +1225,18 @@ idea
 
 \end_inset
 
-
+ Again, the advent of digital storage and connections has enabled data sets
+ of all shapes, sizes, and kinds to be readily available.
+ While not all data sets are deeply meaningful, the point is to open the
+ information up to the possibilities of the crowd.
 \end_layout
 
 \begin_layout Standard
-Not all data sets are deeply meaningful, of course, but the point is to
- open the information up to the possibilities.
- In the early 20th century, 'pure' data points, collected for the sake of
- collecting, were the foundations for Mendeleev's proposal for the periodic
- table of elements.
- His initial proposal was based in part on the aggregate published data
- on elemental melting points, colors, and densities.
+This is by no means a new concept or activity in scientific communication.
+ In the early 20th century, aggregrated 'pure' data points on elemental
+ melting points, colors, and densities, collected by many scientific workers,
+ were the foundations for Mendeleev's proposal for the periodic table of
+ elements.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Murray-Rust2008,Mendeleyev1905"
@@ -1218,19 +1251,7 @@ status collapsed
 
 
 \backslash
-findref{page number in mendeleev's}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-In many cases, most of the uses of that data were never planned or anticipated,
- but happened when data went free.
- 
+findref{more uses of open data}
 \end_layout
 
 \end_inset
@@ -1242,19 +1263,6 @@ status collapsed
 \begin_layout Plain Layout
 links between software and internet development, and the kent interview
  on the race to patent the genome for freedom!!
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Murray-Rust on the unexpected uses of open data}
 \end_layout
 
 \end_inset
@@ -1276,14 +1284,18 @@ data sets can be cited.
 
 \end_inset
 
-More recently, there have been two notable successes of massive data sets.
+
+\end_layout
+
+\begin_layout Standard
+Open data for the here and now on a massive scale has been notably successful.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Stalzer2015"
 
 \end_inset
 
- In biology, the 
+ As the government was gearing up for the 
 \begin_inset ERT
 status collapsed
 
@@ -1296,10 +1308,9 @@ ac{HGP}
 
 \end_inset
 
- has enabled the discovery of over 1,800 disease-related genes The deposition
- of the initial genomic sequences into the 
+ in 1988, they also founded the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1310,16 +1321,34 @@ ac{NCBI}
 
 \end_inset
 
- databases and the precedent of genomic data-sharing that deposition set
- has allowed 
+, whose entire mission was to 
+\begin_inset Quotes eld
+\end_inset
+
+design, develop, implement, and manage automated systems
+\begin_inset Quotes erd
+\end_inset
+
+ for biomolecular data.
+ Deposition of genetic data by reseacher has been successful, at least in
+ terms of usefulness; in 2013, there are 
+\begin_inset Quotes eld
+\end_inset
+
+3 million visitors daily to its website, [and] approximately 27 terabytes
+ of data downloaded per day.
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-research{fact sheet on usage statistics of NCBI}
+findref{smith2013 history of NCBI}
 \end_layout
 
 \end_inset
@@ -1328,9 +1357,9 @@ research{fact sheet on usage statistics of NCBI}
 \end_layout
 
 \begin_layout Standard
-In astronomy, the 
+Every night in astronomy, the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1341,15 +1370,45 @@ ac{SDSS}
 
 \end_inset
 
+ releases around 200 GB worth of data.
+ Since 2000, the project has collected imaging data of over 35% of the sky,
+ with 
+\begin_inset Quotes eld
+\end_inset
 
+photometric observations of around 500 million objects and spectra for more
+ than 3 million objects
+\begin_inset Quotes erd
+\end_inset
+
+.
+ As of this writing, there 6,333 peer-reviewed papers drawing directly on
+ the data; those papers have been cited more than 280,000 times.
+ 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-research{sloan digital sky survey}
+findref{SDSS data, Zhang2010 scienctomentrics of big science}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{Usage statistics on smaller, scientist-directed data sets}
 \end_layout
 
 \end_inset
@@ -1358,7 +1417,86 @@ research{sloan digital sky survey}
 \end_layout
 
 \begin_layout Subparagraph
+Increased usefulness
+\end_layout
+
+\begin_layout Standard
+Genetic databases allow for the construction of phylogenies and genetic
+ analyses, 
+\end_layout
+
+\begin_layout Subparagraph
+Statistical reliability
+\end_layout
+
+\begin_layout Standard
+If science is, as 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Ioannidis2005a"
+
+\end_inset
+
+ argued, mostly false, one way to address the issue is by providing raw
+ research data.
+ With this, the choices researchers make about data points -- which ones
+ to use or not use, what kind of tests t
+\end_layout
+
+\begin_layout Standard
+Open data hopes to achieve statistical reliability: your table of aggregate
+ numbers becomes much more meaningful when we can manipulate the data ourselves.
+\end_layout
+
+\begin_layout Standard
+****this is b
+\end_layout
+
+\begin_layout Subparagraph
 Meta-analyses
+\end_layout
+
+\begin_layout Standard
+Research is a difficult and highly specific beast, focusing on different
+ measures, different interventions, and conducted over long chunks of time.
+ It's also expensive; 
+\end_layout
+
+\begin_layout Standard
+Picking out the patterns of a rapidly-growing body of literature sometimes
+ requires the use of meta-analyses; collecting and combining datasets for
+ a higher-powered statistical meaning.
+\end_layout
+
+\begin_layout Standard
+Many papers, however, merely report aggregate numbers or proportions
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+faced a problem when conducting a meta-analysis: some trial reports had
+ given summary data for number of events per patient, others had given the
+ proportion of patients who were event-free.
+ I wrote to the PI of one study asking for raw data so that I could convert
+ from event numbers to event incidence.
+ To her credit she said that she "would love to share the data" – this was
+ again a federally funded study at the NIH – however, she was unable to
+ do so because "my biostatistician won't release it".
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vickers2006"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1382,17 +1520,40 @@ ac{NCBI}
  
 \end_layout
 
-\begin_layout Subparagraph
-Statistical reliability
+\begin_layout Subsection
+Implementing Open Data
 \end_layout
 
 \begin_layout Standard
-Open data hopes to achieve statistical reliability: your table of aggregate
- numbers becomes much more meaningful when we can manipulate the data ourselves.
+Many fields already have systems of open data set up.
 \end_layout
 
-\begin_layout Subsubsection
-benefits
+\begin_layout Standard
+In biology, the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NCBI}
+\end_layout
+
+\end_inset
+
+ database is the de facto standard for genetic sequences.
+ Despite statements by top journals on the need for public microarray data
+ accessibility, less than 50% of researchers actually fulfill full data
+ deposition requirements.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Alsheikh-Ali2011"
+
+\end_inset
+
+ In the biomedical literature overall, 45% of gene expression databases
+ made e
 \end_layout
 
 \begin_layout Standard
@@ -1403,8 +1564,19 @@ campbell et al, 2002Articles for which the underlying data is shared are
  and paleoceanography (Sears 2011).
 \end_layout
 
+\begin_layout Standard
+figshare, dryad
+\end_layout
+
 \begin_layout Subsection
-Issues
+Debates
+\end_layout
+
+\begin_layout Standard
+Data is where papers come from.
+ Asking scientists to give up their theoretical ticket to publication is
+ a huge risk, especially in fields like ecology where datasets are extremely
+ hard won and be the basis of many publications.
 \end_layout
 
 \begin_layout Standard
@@ -1449,6 +1621,10 @@ n this study that involved about 1,800 life science scientists, they identified
 
 \begin_layout Subsubsection
 People are bad at statistics
+\end_layout
+
+\begin_layout Subsubsection
+Which data?
 \end_layout
 
 \begin_layout Section
@@ -2286,26 +2462,6 @@ but it's hard and i'm a baby!
 Chemical case study?
 \end_layout
 
-\begin_layout Standard
-\begin_inset Branch open-science
-status open
-
-\begin_layout Standard
-\begin_inset CommandInset bibtex
-LatexCommand bibtex
-bibfiles "CriticalOpenNeuro"
-options "plainnat"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
 Case Study
 \end_layout
@@ -2338,6 +2494,26 @@ ure and our OSCAR toolkits can make a great deal of sense of it.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Murray-Rust2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch open-science
+status open
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "CriticalOpenNeuro"
+options "plainnat"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
