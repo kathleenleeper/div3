@@ -3819,6 +3819,32 @@ rewrite{positive publications bias}
 \end_inset
 
 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+n effect, the author is asked to prove a far-reaching failure to find an
+ effect when a significant effect under any condition would have been considered
+ interesting.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Sara Rockwell}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3994,9 +4020,9 @@ key "Fanelli2010"
 
  This is in large part due to s
 cientific reticence, with authors unwilling to put in the necessary and
- extended effort in attempting to publish a paper with negativae results.
+ extended effort in attempting to publish a paper with negative results
 \lang english
-
+,
 \begin_inset ERT
 status collapsed
 
@@ -4005,6 +4031,27 @@ status collapsed
 
 \backslash
 findref{song et al papers on publicatino bias}
+\end_layout
+
+\end_inset
+
+ instead focusing on 
+\begin_inset Quotes eld
+\end_inset
+
+wonderful
+\begin_inset Quotes erd
+\end_inset
+
+ results.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{calnan 2006}
 \end_layout
 
 \end_inset
@@ -4085,18 +4132,18 @@ findref{Turner and Spilich, 1997}
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
-
+\begin_layout Subparagraph
+File Drawer Effect
 \end_layout
 
 \begin_layout Standard
-One downstream effect of this is the file drawer effect: many studies in
- a given research area may be conducted but never reported, leading to a
- set of journal articles wholly unrepresentative of the actual state of
- affairs.
- An extreme example: if the null hypothesis is 
+Many studies in a given research area may be conducted, but are never reported
+ because of the publication bias.
+ This creates a set of journal articles wholly unrepresentative of the actual
+ conclusions of conducted research.
+ In the extreme case, if the null hypothesis is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4104,14 +4151,21 @@ true
 \begin_inset Quotes erd
 \end_inset
 
-, but the 5% of studies that by 
+ (i.e.
+ the relationship being studied does not exist), but the 5% of studies that
+ by 
 \emph on
 chance 
 \emph default
-show a statistical significance are published while the rest of abandoned
- data stays in a theoretical file drawer, useless to everyone but the carpenter
- ants.
- 
+show statistical significance are published, the rest of abandoned data
+ stays hidden in a researcher's file drawer.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Scargle2000"
+
+\end_inset
+
+ This biases the state of the field, and in 
 \begin_inset Note Note
 status collapsed
 
@@ -4137,47 +4191,7 @@ Wikipedia page on publication bias, re: file drawer effect
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-Readers are less likely to be interested
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-findref{}
-\end_layout
-
-\end_inset
-
-, and funding bodies aren't interested in hearing about therapies that 
-\emph on
-don't
-\emph default
- work
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-findref{}
-\end_layout
-
-\end_inset
-
-.
  
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-In 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
 key "Ioannidis2005"
@@ -4196,7 +4210,70 @@ key "Ioannidis2005"
 
 \end_inset
 
+ More realistically, this has serious consequences for synthesizing the
+ results of a given field, leading to an overestimation of effect sizes
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Button2013"
 
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{levine et al 2009; jennings and van horn 2012}
+\end_layout
+
+\end_inset
+
+ and the continued wasted efforts based on papers that failed to replicate,
+ but never had the failed replication published.
+\end_layout
+
+\begin_layout Subparagraph
+Other forms of dissemination
+\end_layout
+
+\begin_layout Quote
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{other forms of gray publishing and introduced bias}
+\end_layout
+
+\end_inset
+
+In addition to journal papers, study results may be presented at relevant
+ conferences, submitted to medicine regulatory authorities, and in clinical
+ study reports to trial sponsors.
+ 3 Results presented at conferences are usually only available in abstract
+ form.
+ Clinical study reports contain much more detailed information on methodology
+ and a wider selection of outcomes – fuller results.
+ 9 Data submitted to regulatory authorities are also important sources of
+ trial results.
+ However, clinical study reports and data submit- ted to regulatory authorities
+ have limited accessibility, and their use for making evidence-based decisions
+ may not be as straightforward as results published in peer-reviewed journals.
+ Therefore, results of trials that are not published in peer-reviewed journals
+ are conventionally considered as being “unpublished.”
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Song2013 - publication bias: what is it?}
 \end_layout
 
 \end_inset
@@ -4205,6 +4282,10 @@ key "Ioannidis2005"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 According to 
 \begin_inset CommandInset citation
 LatexCommand citeauthor
@@ -4248,7 +4329,9 @@ more teams are involved in a scientific field in chase of statistical significan
 ce
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -4304,14 +4387,9 @@ key "Young2008"
 
 \end_inset
 
-Whatever the reason, the current journal system, the de facto dissemination
- system for scholarly production, is not representative of the research
- that's actually happening.
- Researchers may spend years trying to duplicate results, since the papers
- of failures to replicate weren't published.
- Meta-analyses, papers that use the entirety of collected data in a field
- to compare results, can only draw on the published data, which has a distinct
- bias towards significance.
+Whatever the reason the de facto dissemination system for scholarly production,
+ is not representative of the research that's actually happening, which
+ naturally has consequences for the theories we test going fowards.
  
 \begin_inset Note Note
 status collapsed
@@ -4324,23 +4402,7 @@ l cell lines, in vivo systems or end points, longer or shorter exposure
  times, etc.
  The reviewers may also ask whether different methods of analyzing the data
  might have indicated statistical significance.
- In effect, the author is asked to prove a far-reaching failure to find
- an effect when a significant effect under any condition would have been
- considered interesting.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Sara Rockwell}
-\end_layout
-
-\end_inset
-
-
+ I
 \end_layout
 
 \end_inset
@@ -4351,7 +4413,7 @@ status collapsed
 
 \begin_layout Plain Layout
 this is all solved by study replication, open data, lab notebooks, pre-registrat
-ion of studies
+ion of studies......................right?
 \end_layout
 
 \end_inset
