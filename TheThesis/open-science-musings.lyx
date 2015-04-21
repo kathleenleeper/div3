@@ -178,7 +178,7 @@ builds on the shoulders of giants
 status collapsed
 
 \begin_layout Plain Layout
-word that implicates scientists in the craetion of science
+word that implicates scientists in the creation of science
 \end_layout
 
 \begin_layout Plain Layout
@@ -216,7 +216,7 @@ key "Fleck1981"
 
  In a more practical sense, there's no benefit in synthesizing the mythological
  cure for cancer unless you (a) get community credit for your and/or (b)
- cancer patients, y'know, receive the magic drug.
+ cancer patients actually receive the magic drug.
 \end_layout
 
 \begin_layout Standard
@@ -985,7 +985,7 @@ reference "tab:communication-requirements-in"
 ).
  It is impossible to participate in academic-scientific discourse without
  both intellectual and financial access to the communication.
- The blocks along the way are numerous and multi-sited.
+ The blocks along the way are numerous and multisituated.
 \begin_inset ERT
 status collapsed
 
@@ -1493,7 +1493,7 @@ status collapsed
 when he called conservation biology a crisis discipline, he meant that ours
  is a mission-oriented science with pressing timelines.
  He recognized that we must work quickly to address urgent problems such
- as habitat destruction, invasive species, overharvest, and the many other
+ as habitat destruction, invasive species, over-harvest, and the many other
  factors that threaten biodiversity and the very fabric of life on Earth.
  Conservation biology does not have the luxury of time to slowly and timidly
  reveal its scientific contributions to the world.
@@ -1604,18 +1604,10 @@ g as rapidly and efficiently as it might; it means researchers may be working
 \end_layout
 
 \begin_layout Standard
-Access is also about more than money.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- and extends to licesecncing issues.
-\end_layout
-
-\end_inset
-
- The precipitious increase in the number of scientific publications has
- led to the 
+Access is also about more than money, extending to licensing issues in the
+ digital age.
+ The precipitous increase in the number of scientific publications has led
+ to the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1623,11 +1615,11 @@ impossibility of being expert
 \begin_inset Quotes erd
 \end_inset
 
-; the rate of publication is sometims referred to as a 
+; the rate of publication is sometimes referred to as a 
 \begin_inset Quotes eld
 \end_inset
 
-firehose of information.
+fire hose of information.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1640,11 +1632,12 @@ key "Fraser2010"
 
  The advent of machine-readable text and linked networks of scholarly informatio
 n opens the possibility of managing the literature with text-mining, annotations
-, and new forms of communication and proccessing, perhaps making it easier
+, and new forms of communication and processing, perhaps making it easier
  for researchers to stay on top of recent developments.
- Unfortunately, the paywalled and copywritten scientific literature is both
- fiscally and legally out of reach for massive semantic processing; scientists
- cannot employ technology to efficiently manage their reading workflow.
+ Unfortunately, the pay walled and copy-written scientific literature is
+ both fiscally and legally out of reach for massive semantic processing;
+ scientists cannot employ technology to efficiently manage their reading
+ work flow.
 \end_layout
 
 \begin_layout Standard
@@ -1867,11 +1860,11 @@ ac{NIH} does require funded researchers to deposit a free version of the
 \end_inset
 
  The results of this publicly-funded research are then made inaccessible
- behind paywalls -- interested readers will have to pay the for-profit publisher
-s to access the research funded by a public institution.
+ behind pay walls -- interested readers will have to pay the for-profit
+ publishers to access the research funded by a public institution.
  
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 I've been working from primary scientific literature since my first semester
@@ -1888,7 +1881,7 @@ status open
 
 
 \backslash
-todo[inline]{Data about access and paywalls; idea of a sense of outrage
+todo[inline]{Data about access and pay walls; idea of a sense of outrage
  at these monetary barriers to research that is (a) publically funded and
  (b) all of the writing/production is done by uncompensated scientists.}
 \end_layout
@@ -1902,7 +1895,7 @@ todo[inline]{Data about access and paywalls; idea of a sense of outrage
 
 
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Autar S.
@@ -1916,7 +1909,7 @@ Autar S.
 
 
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Float figure
@@ -2293,6 +2286,10 @@ Nature
 
 \end_layout
 
+\begin_layout Subparagraph
+The Impact Factor
+\end_layout
+
 \begin_layout Standard
 Quantitatively, the journal hierarchy is represented by the 
 \begin_inset ERT
@@ -2367,17 +2364,6 @@ key "Kurmis2003"
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Formula 
-\begin{equation}
-{\displaystyle \text{Impact\,Factor}=}\frac{\text{number\,of\,citations}}{\text{\#\,citable\,materials\,published}}\label{eq:impact-factor}
-\end{equation}
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
@@ -2400,8 +2386,19 @@ key "Kurmis2003"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+{\displaystyle \text{Impact\,Factor}=}\frac{\text{number\,of\,citations}}{\text{\#\,citable\,materials\,published}}\label{eq:impact-factor}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 That's all well and good, but like with many metrics, it's applied with
- a widening and indiscriminatory brush.
+ a widening and undiscriminating brush.
  
 \begin_inset ERT
 status open
@@ -2433,7 +2430,7 @@ graffito{Metrics immediately lead to gaming the system.}
 
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Kurmis2003"
+key "Kurmis2003,ThePLoSMedicineEditors2006"
 
 \end_inset
 
@@ -2459,18 +2456,18 @@ key "Smith2006a"
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{David adams, ciation analysis AND}
+findref{David adam, ciation analysis}
 \end_layout
 
 \end_inset
 
- Eugene Garfield, the first one to describe an 
+ Eugene Garfield, the creator of the 
 \begin_inset ERT
 status open
 
@@ -2483,13 +2480,13 @@ ac{IF}
 
 \end_inset
 
- type system, considers these applications an abuse of a simple equation.
- Likely yes, but it nonetheless has serious consequences for the scientific
- ecosystem of research, hiring, grantsmanship, and publishing.
+ of considers these applications an abuse of a simple equation.
+ it nonetheless has serious consequences for the scientific ecosystem of
+ research, hiring, grantsmanship, and publishing.
 \end_layout
 
 \begin_layout Subparagraph
-Journal Administrators
+Journals
 \end_layout
 
 \begin_layout Standard
@@ -2568,7 +2565,7 @@ key "Young2008"
 
 \end_inset
 
-Since journal repubations depend on the popularity of their article, editors
+Since journal reputations depend on the popularity of their article, editors
  make estimates of likely citations for submitted articles to gauge their
  interest in publication.
  Thus, higher impact journals select for sexy, exciting, and likely-to-be-cited
@@ -2594,6 +2591,35 @@ key "Lawrence2003"
 
  for experiential account of how editors modulate for interest
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+ depends on what article types are deemed citable -- the fewer, the better
+ (i.e.
+ lower denominator, higher impact).
+ Since reviews are included, this means highly-cited reviews or just a few
+ very highly cited publications can skew impact factors
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2006"
+key "ThePLoSMedicineEditors2006"
 
 \end_inset
 
@@ -2664,7 +2690,7 @@ specifically
 \end_inset
 
  It also sets up a choice: should one publish in a high-profile, non-specific
- journal or a lower-profile, but more relevant subdisciplinary journals?
+ journal or a lower-profile, but more relevant sub-disciplinary journals?
 \begin_inset ERT
 status collapsed
 
@@ -2692,7 +2718,7 @@ publication.
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 while you're getting submitted, you might get scooped
@@ -2949,86 +2975,6 @@ key "Ioannidis2006"
 
 \end_layout
 
-\begin_layout Subsection
-Fraud in High Impact journals
-\end_layout
-
-\begin_layout Quote
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Sure it's inappropriate - but this section should focus on the
- ways in which it 
-\backslash
-emph{is} misapplied}
-\end_layout
-
-\end_inset
-
-A fundamental understanding of how the impact factor is derived highlights
- how inappropriate these applications are.
- Those who use it in such a manner clearly fail to either understand its
- true deriva- tion or appreciate
-\end_layout
-
-\begin_layout Quote
-the original intended use 1
-\end_layout
-
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-What is obvious from this equation is that the impact factor depends crucially
- on which article types Thomson Scientific deems as “citable”—the fewer,
- the better (i.e., the lower the denominator, the higher the impact factor).
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-And because they only take shit in english
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\SpecialChar \ldots{}
-Because a journal’s impact factor is derived from citations to all articles
- in a journal, this number cannot tell us anything about the quality of
- any specific research article in that journal, nor of the quality of the
- work of any specific author.
- These points become particularly evident by understanding that a journal’s
- impact factor can be substantially affected by the publication of review
- articles (which usually acquire more citations than research articles)
- or the publication of just a few very highly cited research papers.
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citealt
-before "2006"
-key "ThePLoSMedicineEditors2006"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Reproducibility 
 \end_layout
@@ -3045,7 +2991,7 @@ Reproducibility is not replication.
 \series default
  There’s often honest confusion between the notion of reproducibility and
  what I would call a “full replication”.
- A full replication doesn’t analyze the same dataset, but rather involves
+ A full replication doesn't analyze the same dataset, but rather involves
  an independent investigator collecting an independent dataset conducting
  an independent analysis.
  Full replication has been a fundamental component of science for a long
@@ -3118,7 +3064,7 @@ The principle of the elusive scientific method is reproducibility.
  With reproducibility, two different labs should produce similar types of
  results (e.g.
  protein-protein interactions) with different methods (e.g.
- protein inhibtors, mutagenesis studies).
+ protein inhibitors, mutagenesis studies).
 \end_layout
 
 \begin_layout Standard
@@ -3211,18 +3157,45 @@ claim[s] research findings may often be simply accurate measures of the
 \end_layout
 
 \begin_layout Standard
-More than just statistical theorizing, 
+More than just statistical theorizing, researchers regularly encounter similar
+ hurdles.
+ In a survey, ~50% of respondents responded that they had difficulty reproducing
+ at least one set of published results
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mobley2013"
+
+\end_inset
+
+ One academic lab repeated the exact same genome-scale 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{siRNA}
 \end_layout
 
-\begin_layout Standard
-This is not just theoretical number-crunching; the 'crisis' has an enormous
- business and opportunity cost.
- 
+\end_inset
+
+ gene screening 5 months apart.
+ Reproducibility ranged from 39% to 49% in terms of target hits; this is
+ due in part to the stochastic nature of biology, but also partly to the
+ variety of ways two different data sets responded to the same methodologies.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Barrows2010"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Biotech and pharmaceutical companies trying to monetize those discoveries
- demonstrate the practical scope of the problem.
+ also demonstrate the practical scope of the problem.
  The rate of effective translation from basic research into clinical drug
  treatments
 \begin_inset ERT
@@ -3254,10 +3227,7 @@ ac{FDA} restrictions}
 
  and renewed focus on research reliability has prompted drug companies to
  join the conversation with data.
-\end_layout
-
-\begin_layout Standard
-The in-house target validation studies run by most bio-medical companies
+ The in-house target validation studies run by most bio-medical companies
  provide a unique data set on the reproducibility of bio-medical, cancer-focused
  research.
  Amgen's researchers
@@ -3297,7 +3267,7 @@ key "Prinz2011"
 status collapsed
 
 \begin_layout Plain Layout
-he chal- lenge of reproducibility — even under ideal conditions — has also
+he challenge of reproducibility — even under ideal conditions — has also
  been highlighted, indi- cating that even in an optimal setting (the same
  laboratory, the same people, the same tools and the same assays, with experimen
 ts separated by 5 months), there were substantial variations, as the intra-
@@ -3326,7 +3296,7 @@ graffito{This gets back to local biologies? But in the sense of localized
 
 \end_inset
 
- Scientific works draws on 
+ Scientific work draws on the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3334,8 +3304,8 @@ tacit knowledge
 \begin_inset Quotes erd
 \end_inset
 
- of researchers, specific to times and places and not a malicious case of
- fraud.
+ of researchers, specific to times and places, and failed replicaiton is
+ not usually due to malicious case of fraud.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Giles2006"
@@ -3366,9 +3336,9 @@ ac{FACS}
 \emph on
 seemed 
 \emph default
-irreproducible and incommensurable, their end conclusion was principically
+irreproducible and incommensurable, their end conclusion was principally
  that biological research is at such a level of complexity that even minor
- changes from lab to lab in the microenvironment can 
+ changes from lab to lab in the micro-environment can 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3392,6 +3362,32 @@ most failures to replicate exhibit incompetence.”
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Giles2006"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Thus, the 
+\begin_inset Quotes eld
+\end_inset
+
+crisis
+\begin_inset Quotes erd
+\end_inset
+
+ in reproducibility may not be new to science, and may be in many ways attributa
+ble to both chance and social pressures.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{conclusion to reproducibility issues}
+\end_layout
 
 \end_inset
 
@@ -3424,7 +3420,7 @@ key "Button2013"
 \end_layout
 
 \begin_layout Standard
-One of these is low statistically powered studies -- studies with elow sample
+One of these is low statistically powered studies -- studies with low sample
  size, small effects, or both -- increase the likelihood that a nominally
  statistically significant finding reflects a true effect.
  
@@ -3463,18 +3459,44 @@ power of 20%
 
 \end_deeper
 \begin_layout Enumerate
-low positive predictive value 
+low 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PPV}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-probability that a 'positive' resarch result reflects a true positive; depends
- on prior probability of it being true, the statistical power, and level
- of significance
+probability that a 'positive' research result reflects a true positive;
+ depends on prior probability of it being true, the statistical power, and
+ level of significance
 \end_layout
 
 \begin_layout Enumerate
-the lower the power, the lower the PPV
+the lower the power, the lower the 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PPV}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -3543,7 +3565,7 @@ low-powered studies are more likely to provide a wide range of estimates
 \end_layout
 
 \begin_layout Enumerate
-ublication bias, selective data analysis and selective reporting of outcomes
+publication bias, selective data analysis and selective reporting of outcomes
  are more likely to affect low-powered studies
 \end_layout
 
@@ -3604,12 +3626,6 @@ Make study materials and data available
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-**everybody is bad at statistics, our stuff is underpowered and selective
- etc., we don't report data so we can't actually check how much statistics
- are being done**
-\end_layout
-
 \begin_layout Quote
 
 \emph on
@@ -3915,7 +3931,7 @@ key "Luijendijk2012"
 \end_layout
 
 \begin_layout Standard
-Between 1990-2007, the proportion of papers with prositive results has steadily
+Between 1990-2007, the proportion of papers with positive results has steadily
  increased, starting at 70.2% in 1990 and by 2007, ending at 85.9% in 2007.
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -3956,7 +3972,7 @@ findref{miller2014, understanding publicaiton bias in re-introduction biology}
 , and animal studies
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Sena2010"
+key "Sena2010,Tsilidis2013"
 
 \end_inset
 
@@ -4259,7 +4275,7 @@ In addition to journal papers, study results may be presented at relevant
  form.
  Clinical study reports contain much more detailed information on methodology
  and a wider selection of outcomes – fuller results.
- 9 Data submitted to regulatory authorities are also important sources of
+ Data submitted to regulatory authorities are also important sources of
  trial results.
  However, clinical study reports and data submit- ted to regulatory authorities
  have limited accessibility, and their use for making evidence-based decisions
@@ -4346,7 +4362,7 @@ In the basic biological sciences, statistical considerations are secondary
 \end_layout
 
 \begin_layout Quote
-A signalling benefit from the market—good scientists being identified by
+A signaling benefit from the market—good scientists being identified by
  their positive results—may be more powerful in the basic biological sciences
  than in clinical research, where the consequences of incorrect assessment
  of positive results are more dire.
@@ -4387,9 +4403,13 @@ key "Young2008"
 
 \end_inset
 
-Whatever the reason the de facto dissemination system for scholarly production,
- is not representative of the research that's actually happening, which
- naturally has consequences for the theories we test going fowards.
+Whatever the reason the 
+\emph on
+de facto
+\emph default
+ dissemination system for scholarly production, is not representative of
+ the research that's actually happening, which naturally has consequences
+ for the theories we test going forwards.
  
 \begin_inset Note Note
 status collapsed
@@ -4430,25 +4450,29 @@ Retraction
 status collapsed
 
 \begin_layout Plain Layout
-Repr troubles are, fortunately or not, pre-publication.
+Reproducibility troubles are, fortunately or not, pre-publication.
  Where the literature really gets into trouble is retraction of articles.
 \end_layout
 
 \end_inset
 
+ On the other hand, positive results are sometimes not as positive as they
+ should be.
  Processes of peer-review and editorial jurisdiction are supposed to ensure
  that post-review articles are scientifically sound.
  The retraction of those articles represents an enormous reputation cost
  to both journal and author; retraction often leads to firing (or mandatory
  stepping down) of the editor, and in the longer-term, a drop
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{12.5% over five years post retraction}
+graffito{12.5
+\backslash
+% over five years post retraction}
 \end_layout
 
 \end_inset
@@ -4648,7 +4672,7 @@ key "Fanelli2010"
 
  The other interpretation is merely that flawed manuscripts are being identified
  more successfully, in which case science is perhaps fulfilling its self-correct
-ing ideals of awareness and responsiveness to 
+ing ideals of awareness and responsiveness to false effects.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Cokol2008,Fanelli2013"
@@ -4656,19 +4680,6 @@ key "Cokol2008,Fanelli2013"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-That might not mean the rate of fraud is increasing -- rather, the rising
- retraction rate might actually be due to an increased awareness and responsiven
-ess to misconduct, rather than increased misconduct itself.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fanelli2013"
-
-\end_inset
-
- 
 \begin_inset Note Note
 status collapsed
 
@@ -4753,7 +4764,7 @@ status collapsed
 
 
 \backslash
-todo{clarify these definitions}
+todo{clarify these definitions of retractions}
 \end_layout
 
 \end_inset
@@ -4768,18 +4779,6 @@ todo{clarify these definitions}
 47% 
 \series default
 alleged publishing misconduct
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Peer review and citation RINGS.
- People making up email addresses.
- What a fuckin' world.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -4876,6 +4875,93 @@ key "Grieneisen2012"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{retractions conclusion}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Sure it's inappropriate - but this section should focus on the
+ ways in which it 
+\backslash
+emph{is} misapplied}
+\end_layout
+
+\end_inset
+
+A fundamental understanding of how the impact factor is derived highlights
+ how inappropriate these applications are.
+ Those who use it in such a manner clearly fail to either understand its
+ true deriva- tion or appreciate
+\end_layout
+
+\begin_layout Quote
+the original intended use 1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+The Remains of Retractions
+\end_layout
+
+\begin_layout Standard
+An additional problem remains; once an article has been retracted, that
+ doesn't mean it will cease being cited.
+ In the case of highly controversial papers
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+STAP, everybody!
+\end_layout
+
+\end_inset
+
+, retractions are usually due to high-profile fraud.
+ In less obvious cases, however, retracted papers continue to be cited long
+ after their nominal removal.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{longevity of retracted papers}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Summary
 \end_layout
@@ -4886,22 +4972,19 @@ So the
 validity
 \emph default
  of scientific communications is in questions, largely due to the unit of
- published literature and the pressures o nscientists to create cretain
- specifics 
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Summary re: conflicting evidence ,but there is 
-\emph on
-concern
-\emph default
-, which is more the point.
-\end_layout
-
-\end_inset
-
-
+ published literature and the pressures on scientists to create certain
+ specific kinds of knowledge.
+ There is issues of access to the literature; but even that literature does
+ not fill all the knowledge gaps.
+ It is subject to funding whims, human biases in selection criteria, concerns
+ about prestige, often statistical bunk, occasionally outright fraud that
+ isn't always caught on.
+ Publishing is the outlet for most of these, but the problems run much deeper,
+ into the very beginnings of scientific projects.
+ What kinds of systems could re-create a scientific ecosystem that was not
+ subject to these things, or at least remained flexible enough to continually
+ re-prioritize the accuracy of scientific work and the, ahem, pursuit of
+ truth?
 \end_layout
 
 \begin_layout Standard
@@ -5000,16 +5083,6 @@ key "Lisberger2013"
 \end_inset
 
 
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-so in this sections...should it include who gets included???
 \end_layout
 
 \end_inset
