@@ -1604,43 +1604,6 @@ g as rapidly and efficiently as it might; it means researchers may be working
 \end_layout
 
 \begin_layout Standard
-Access is also about more than money, extending to licensing issues in the
- digital age.
- The precipitous increase in the number of scientific publications has led
- to the 
-\begin_inset Quotes eld
-\end_inset
-
-impossibility of being expert
-\begin_inset Quotes erd
-\end_inset
-
-; the rate of publication is sometimes referred to as a 
-\begin_inset Quotes eld
-\end_inset
-
-fire hose of information.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fraser2010"
-
-\end_inset
-
- The advent of machine-readable text and linked networks of scholarly informatio
-n opens the possibility of managing the literature with text-mining, annotations
-, and new forms of communication and processing, perhaps making it easier
- for researchers to stay on top of recent developments.
- Unfortunately, the pay walled and copy-written scientific literature is
- both fiscally and legally out of reach for massive semantic processing;
- scientists cannot employ technology to efficiently manage their reading
- work flow.
-\end_layout
-
-\begin_layout Standard
 Yet another of the conflicts surrounding literature access are due to the
  changing collaboration between scientific authors and publishers in the
  digital age.
@@ -1863,8 +1826,162 @@ ac{NIH} does require funded researchers to deposit a free version of the
  behind pay walls -- interested readers will have to pay the for-profit
  publishers to access the research funded by a public institution.
  
-\begin_inset Note Note
+\end_layout
+
+\begin_layout Subsection
+The Role of Licensing
+\end_layout
+
+\begin_layout Standard
+Access is also about more than money, extending to licensing issues in the
+ digital age.
+ 
+\end_layout
+
+\begin_layout Standard
+Journal publications are a continuously and overwhelmingly increasing resource.
+ One group estimated 50 million articles by the end of 2008
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jinha2010"
+
+\end_inset
+
+; a different method estimated 114 million documents on the web in 2013.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Madian Khabsa, C.
+ Lee Giles, 2014}
+\end_layout
+
+\end_inset
+
+ The growth rate in the past decade has been between 8-9% on average; dependent
+ on the field.
+\begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Bornmann}
+\end_layout
+
+\end_inset
+
+ While this is consistent with the increases in raw numbers of both journals
+ and publishing authors, that doesn't mean it's any easier to keep up with.
+ While researchers report reading a steadily increasing amount of literature
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ware2015"
+
+\end_inset
+
+, this precipitous increase in the number of scientific publications has
+ led to the 
+\begin_inset Quotes eld
+\end_inset
+
+impossibility of being expert
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fraser2010"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Fraser2010"
+
+\end_inset
+
+ estimated that for a single recruit to 
+\begin_inset Quotes eld
+\end_inset
+
+become expert
+\begin_inset Quotes erd
+\end_inset
+
+ in the subspecialalty echocardiology, i.e.
+ having read all the relevant papers, 
+\begin_inset Quotes eld
+\end_inset
+
+would take 11 years and 124 days, by which time at least 82, 142 more papers
+ would have been added, accounting for another eight years and 78 days.
+\begin_inset Quotes erd
+\end_inset
+
+ To finally catch up, it would take a net total of 40 years and 295 days.
+ And that's if the interested party could read five papers an hour (one
+ every 10 minutes, followed by a break of 10 minutes) for eight hours a
+ day, five days a week, and 50 weeks a year, for a capacity of 10, 000 papers
+ in one year -- and it were still 2010.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fraser2010"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+To estimate the time that it might take a new entrant to the subspecialty
+ to read all the previous literature, we assumed that he or she could read
+ five papers an hour (one every 10 minutes, followed by a break of 10 minutes)
+ for eight hours a day, five days a week, and 50 weeks a year; this gives
+ a capacity of 10 000 papers in one year.
+ Reading all papers referring to echocardiography would take 11 years and
+ 124 days, by which time at least 82, 142 more papers would have been added,
+ accounting for another eight years and 78 days.
+ Before our recruit could catch up and start to read new manuscripts published
+ the same day, he or she would—if still alive and even remotely interested—have
+ read 408, 049 papers and devoted (or served a sentence of) 40 years and
+ 295 days.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The advent of machine-readable text and linked networks of scholarly information
+ opens the possibility of managing the literature with text-mining, annotations,
+ and new forms of communication and processing, perhaps making it easier
+ for researchers to stay on top of recent developments.
+ Unfortunately, the pay walled and copy-written scientific literature is
+ both fiscally and legally out of reach for massive semantic processing;
+ scientists cannot employ technology to efficiently manage their reading
+ work flow.
+\end_layout
+
+\begin_layout Standard
+Thus, the scientific literature remains piecemeal -- single papers demonstrating
+ single results, where over 100,000 possibly-relevant papers (granted, not
+ all of high quality) are available and thus, perhaps, overwhelming.
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
 I've been working from primary scientific literature since my first semester
@@ -1895,7 +2012,7 @@ todo[inline]{Data about access and pay walls; idea of a sense of outrage
 
 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Autar S.
@@ -1909,7 +2026,7 @@ Autar S.
 
 
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Float figure
@@ -2645,8 +2762,10 @@ enough
  takes months and in the intervening time, the manuscript can't be sent
  out anywhere else.
  This means choosing a too high impact journal is a loss of months of publicatio
-n time; but publishing in a less-cited journal can have serious consequences
- on tenure decisions, grant applications, and other administrative gambols.s
+n time, not to mention that while you're waiting on a decision, somebody
+ might publish similar results firsts; but, publishing in a less-cited journal
+ can have serious consequences on tenure decisions, grant applications,
+ and other administrative gambols.
 \begin_inset ERT
 status collapsed
 
@@ -2714,11 +2833,8 @@ Generally, impact factor trumps audience: while a field-specific journal
 Cell 
 \emph default
 publication.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 while you're getting submitted, you might get scooped
@@ -3461,7 +3577,7 @@ power of 20%
 \begin_layout Enumerate
 low 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3485,7 +3601,7 @@ probability that a 'positive' research result reflects a true positive;
 \begin_layout Enumerate
 the lower the power, the lower the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3503,7 +3619,7 @@ ac{PPV}
 \begin_layout Enumerate
 exaggerated estimate of magnitude
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3666,22 +3782,6 @@ key "Wicherts2011"
 Excess Significance
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{file drawer problems, negative results, publication bias}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Quote
 \begin_inset Note Note
 status collapsed
@@ -3698,15 +3798,24 @@ Publication bias occurs when results of published studies are systematically
  different from results of unpublished studies\SpecialChar \ldots{}
 Empirical research consistently
  suggests that published work is more likely to be positive or statistically
- significant (P,0.05) than unpublished research [according to a cited 1993
- study??].
+ significant (P,0.05) than unpublished research.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+according to a cited 1993 study??].
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
 \align right
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Dwan2008,Jones2009a"
+key "Dwan2008,Emerson2010"
 
 \end_inset
 
@@ -3736,7 +3845,7 @@ not
 should 
 \emph default
 work (with regards to the current literature) lays its blame on reagants,
- on the technical skill of those involved, on the time of year
+ on the technical skill of those involved, on the time of year.
 \begin_inset Foot
 status collapsed
 
@@ -3750,11 +3859,11 @@ a meaningful factor, re: Otto Loewi and acetylcholine in frogs
 
 \end_inset
 
-.
  
-\begin_inset Quotes erd
-\end_inset
-
+In many ways, a negative results presents no difference; and without the
+ contrast between background and signal, the signal gets lost.
+ 
+\lang english
 
 \begin_inset ERT
 status collapsed
@@ -4464,7 +4573,7 @@ Reproducibility troubles are, fortunately or not, pre-publication.
  to both journal and author; retraction often leads to firing (or mandatory
  stepping down) of the editor, and in the longer-term, a drop
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4883,7 +4992,8 @@ status collapsed
 
 
 \backslash
-todo[inline]{retractions conclusion}
+todo[inline]{retractions conclusion; also include section on fraud, specifically
+, re: fanelli 2009}
 \end_layout
 
 \end_inset
