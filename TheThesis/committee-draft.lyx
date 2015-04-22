@@ -362,7 +362,7 @@ filename "solution-open-science.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "analysis-publishing.lyx"
+filename "Global-Science.lyx"
 
 \end_inset
 
@@ -392,7 +392,7 @@ myPart{Representation and Its Discontents}
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "Global-Science.lyx"
+filename "analysis-publishing.lyx"
 
 \end_inset
 
