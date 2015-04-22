@@ -148,6 +148,16 @@ Scientific Structures and Incentives
 
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Science,
+\series default
+ an international weekly science journal, published by the American Association
+ for the Advancement of Science; 
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
@@ -166,8 +176,7 @@ builds on the shoulders of giants
 \end_inset
 
 ; the intense, methodological, and highly-specific technoscientific answers
- we seek in scientific inquiry are atoms, if you will, in the molecules
- of theories.
+ we seek in scientific inquiry are building blocks to theories.
  To stand on those shoulders, we need communication -- we collaborate within
  buildings and between labs, we maintain social ties that influence gifts
  of stem cell lines and antibodies, we go out to bars at conferences, we
@@ -1463,8 +1472,50 @@ rewrite{and when we mean accessible, we mean the PDF version, probably in
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+We find that even with the institution-specific discounts re- sulting from
+ bundled purchases, the prices per citation charged to large PhD-granting
+ universities by major commercial publishers are much higher than those
+ charged by major nonprofit publish- ers.
+ Among the commercial publishers in our study, Elsevier’s prices per citation
+ are nearly 3 times those charged by the non- profits, whereas Emerald,
+ Sage, and Taylor & Francis have prices per citation that are roughly 10
+ times those of the nonprofits.
+ For smaller PhD-granting institutions (Carnegie research 2), the price
+ per citation from Elsevier’s big deal bundle was roughly similar to that
+ charged by the average nonprofit publisher, whereas prices per citation
+ from the other for-profits were two to four times as high as those of the
+ nonprofits.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergstrom2014"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 The rights to knowledge
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Engelward2007"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1814,6 +1865,19 @@ status collapsed
 
 
 \backslash
+findref{Larson 2012, effects of NIH variances in research}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
 graffito{The 
 \backslash
 ac{NIH} does require funded researchers to deposit a free version of the
@@ -1829,17 +1893,124 @@ ac{NIH} does require funded researchers to deposit a free version of the
 \end_layout
 
 \begin_layout Subsection
-The Role of Licensing
+The speed of research
+\end_layout
+
+\begin_layout Subsubsection
+Too slow
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{write about the speed of reseach and how fast it occurs}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lyman2011,Sommer2010,Vosshall2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Relative Slowness of Medicinal Practice
+\end_layout
+
+\begin_layout Quote
+By far the most common argument made for open- access by scientists and
+ science funders is one that springs from a widely-held belief that the
+ sharing of data will lead to more rapid scientific progress and a reduc-
+ tion in unnecessary duplication of scientific effort.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Parker2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Pooling together results, it is argued, maximises the chances of spotting
+ significant patterns in the data that are collected, and thus of transforming
+ data into knowledge (OECD 2009, Royal Society 2012).
+ This in turn may improve the quality, accessibility and transparency of
+ research and speed up the rate of scientific discovery.
+ Some scientists even refer to this shift as a new, ‘data-driven’ paradigm
+ of research (Hey et al 2009).
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p3"
+key "Leonelli2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+open source malaria practice\SpecialChar \@.
+
+\end_layout
+
+\begin_layout Plain Layout
+2 Many Boundaries Between Disciplines; Lack of Collaboration; 
+\begin_inset Quotes eld
+\end_inset
+
+Interdisciplinary
+\begin_inset Quotes erd
+\end_inset
+
+ Collabs
+\end_layout
+
+\begin_layout Plain Layout
+Incentivising Science: Funding and Prestige
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Too fast
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pettifer2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Access is also about more than money, extending to licensing issues in the
  digital age.
- 
-\end_layout
-
-\begin_layout Standard
-Journal publications are a continuously and overwhelmingly increasing resource.
+ Journal publications are a continuously and overwhelmingly increasing resource.
  One group estimated 50 million articles by the end of 2008
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1862,7 +2033,7 @@ findref{Madian Khabsa, C.
 \end_inset
 
  The growth rate in the past decade has been between 8-9% on average; dependent
- on the field.
+ on the field;
 \begin_inset ERT
 status open
 
@@ -1875,7 +2046,18 @@ findref{Bornmann}
 
 \end_inset
 
- While this is consistent with the increases in raw numbers of both journals
+ on average, life scientists publish 2 peer-reviewed articles every minute.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pettifer2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While this is consistent with the increases in raw numbers of both journals
  and publishing authors, that doesn't mean it's any easier to keep up with.
  While researchers report reading a steadily increasing amount of literature
 \begin_inset CommandInset citation
@@ -1901,7 +2083,6 @@ key "Fraser2010"
 \end_inset
 
 .
- 
 \end_layout
 
 \begin_layout Standard
@@ -1966,6 +2147,46 @@ To estimate the time that it might take a new entrant to the subspecialty
 \end_layout
 
 \begin_layout Standard
+The rapidly increasing 
+\begin_inset Quotes eld
+\end_inset
+
+data deluge
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hey2003"
+
+\end_inset
+
+ is part and parcel of new technologies, where papers are based on many
+ datapoints, not just a few
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{growth of data point usage in publishing}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Carlson2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 The advent of machine-readable text and linked networks of scholarly information
  opens the possibility of managing the literature with text-mining, annotations,
  and new forms of communication and processing, perhaps making it easier
@@ -1974,6 +2195,13 @@ The advent of machine-readable text and linked networks of scholarly information
  both fiscally and legally out of reach for massive semantic processing;
  scientists cannot employ technology to efficiently manage their reading
  work flow.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pettifer2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2243,6 +2471,36 @@ key "Guedon2001"
 
 \end_layout
 
+\begin_layout Subsection
+Language and jargon
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lawrence2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{scientists can't communicate worth jack}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Meaningful Research
 \end_layout
@@ -2385,6 +2643,12 @@ emph{Science}
  Cell 
 \emph default
 paper is to be immediately taken a little more seriously.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lawrence2003"
+
+\end_inset
+
  
 \begin_inset Foot
 status collapsed
@@ -2598,8 +2862,44 @@ ac{IF}
 \end_inset
 
  of considers these applications an abuse of a simple equation.
- it nonetheless has serious consequences for the scientific ecosystem of
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Metrics and Researcher Assessement
+\end_layout
+
+\begin_layout Quote
+But, he says, “if someone has multiple publications in a higher-impact journal,
+ it’s like getting another set of letters — the peers that reviewed that
+ paper gave it high marks”
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Abbott2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+it nonetheless has serious consequences for the scientific ecosystem of
  research, hiring, grantsmanship, and publishing.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Abbot 2010 on metrics and researcher perception of their use; Adams
+ 2002 on citation analysis and codified usage; Cameron 2005 trends in usage;
+ Casadevall 2014; dong 2005 on the impact factor/usefulness}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subparagraph
@@ -2711,11 +3011,7 @@ key "Lawrence2003"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The 
+ The 
 \begin_inset ERT
 status open
 
@@ -2737,6 +3033,14 @@ ac{IF}
 LatexCommand citealt
 before "2006"
 key "ThePLoSMedicineEditors2006"
+
+\end_inset
+
+ Journals, to maintain the ideal of selectivity and top-notch research,
+ accept a rapidly decreasing number of manuscripts
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wardle2012"
 
 \end_inset
 
@@ -2766,19 +3070,6 @@ n time, not to mention that while you're waiting on a decision, somebody
  might publish similar results firsts; but, publishing in a less-cited journal
  can have serious consequences on tenure decisions, grant applications,
  and other administrative gambols.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{IF in scientific assessment}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Foot
 status collapsed
 
@@ -2808,17 +3099,11 @@ specifically
 
 \end_inset
 
- It also sets up a choice: should one publish in a high-profile, non-specific
+ It sets up a choice: should one publish in a high-profile, non-specific
  journal or a lower-profile, but more relevant sub-disciplinary journals?
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{decisions about choosing a journal}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Salinas2015"
 
 \end_inset
 
@@ -3091,6 +3376,26 @@ key "Ioannidis2006"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+the lack f attention fr many major articles 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Olby2003"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Reproducibility 
 \end_layout
@@ -3273,6 +3578,25 @@ claim[s] research findings may often be simply accurate measures of the
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Moonesinghe2007"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 More than just statistical theorizing, researchers regularly encounter similar
  hurdles.
  In a survey, ~50% of respondents responded that they had difficulty reproducing
@@ -3303,6 +3627,19 @@ ac{siRNA}
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Barrows2010"
+
+\end_inset
+
+ Animal research consisently differes in translation to clinical trials
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{perel 2007}
+\end_layout
 
 \end_inset
 
@@ -3465,7 +3802,7 @@ break
  an experiment.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Hines2014"
+key "Hines2014,Plant2014"
 
 \end_inset
 
@@ -3515,6 +3852,16 @@ Statistical Failures: Underpowered and Badly Analyzed Data Sets
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hardwicke2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Since researchers must publish to succeed, and statistical significant and
  clean results are more likely to be published, researchers have incentives
  to 
@@ -3529,6 +3876,14 @@ engage in research practices that make their findings publishable quickly
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Button2013"
+
+\end_inset
+
+ On the other hand, scientists are bad at statistics, especially those in
+ clinical and biomedical fields.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mavros2013,Vaux2012"
 
 \end_inset
 
@@ -3778,8 +4133,18 @@ key "Wicherts2011"
 )
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Excess Significance
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Timmermans2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
@@ -3859,12 +4224,9 @@ a meaningful factor, re: Otto Loewi and acetylcholine in frogs
 
 \end_inset
 
- 
-In many ways, a negative results presents no difference; and without the
+ In many ways, a negative results presents no difference; and without the
  contrast between background and signal, the signal gets lost.
  
-\lang english
-
 \begin_inset ERT
 status collapsed
 
@@ -4143,11 +4505,9 @@ key "Fanelli2010"
 
 \end_inset
 
- This is in large part due to s
-cientific reticence, with authors unwilling to put in the necessary and
- extended effort in attempting to publish a paper with negative results
-\lang english
-,
+ This is in large part due to scientific reticence, with authors unwilling
+ to put in the necessary and extended effort in attempting to publish a
+ paper with negative results,
 \begin_inset ERT
 status collapsed
 
@@ -4191,13 +4551,14 @@ key "Olson2002a"
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{all citations from Senn2012, misunderstanding publication bias}
+findref{all citations from Senn2012, misunderstanding publication bias,
+ van Lent 2014}
 \end_layout
 
 \end_inset
@@ -4244,8 +4605,15 @@ findref{AnneSophie 2013, citation bias favoring statistically significant
 , and for-profit funders of larger-scale trials have a vested interest in
  specific (positive) results, as in the case of industry-funded nicotine
  and cigarette trials in the 1990s.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lesser2007"
+
+\end_inset
+
+
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -4358,6 +4726,17 @@ findref{levine et al 2009; jennings and van horn 2012}
 
  and the continued wasted efforts based on papers that failed to replicate,
  but never had the failed replication published.
+\end_layout
+
+\begin_layout Standard
+****this also hides the decline effect 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schooler2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subparagraph
@@ -4555,6 +4934,28 @@ Retraction
 \end_layout
 
 \begin_layout Standard
+not usually because of fraud
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+men are more likely to commit
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kaatz2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -4737,6 +5138,26 @@ key "Fang2011"
 \end_inset
 
  This is, of course, concerning for those of 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Additionally, just because a journal is high-impact does not mean it has
+ high statisical standards
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Tressoldi2013"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4924,22 +5345,6 @@ graffito{stack to >100
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-And retracted research doesn't go away, per 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Davis2012"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
 Of the alleged research misconduct, fifteen individuals accounted for >50%
  of the retractions.
  While even in
@@ -5066,6 +5471,17 @@ status collapsed
 \backslash
 findref{longevity of retracted papers}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+*****And retracted research doesn't go away, per 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Davis2012"
 
 \end_inset
 
