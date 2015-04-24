@@ -1902,29 +1902,6 @@ key "Ong2011"
 Gender
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Ceci2011,Jagsi2006,Moss-Racusin2012,Shen2013"
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{sidhu 2009, gender imbalance}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
@@ -1950,6 +1927,29 @@ Global gender disparities in science,
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Lariviere2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ceci2011,Jagsi2006,Moss-Racusin2012,Shen2013"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{sidhu 2009, gender imbalance}
+\end_layout
 
 \end_inset
 
@@ -2309,27 +2309,12 @@ Race
 \end_layout
 
 \begin_layout Standard
+As with gender, minority groups leave academia at a higher rate than their
+ White couterparts at all stages of the academic research
+ environment.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Espinosa2011"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Like with gender, minority groups leave academia at a higher rate than their
- White couterparts at all stages of research
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Garrison 2013}
-\end_layout
+key "Espinosa2011,Garrison2013"
 
 \end_inset
 

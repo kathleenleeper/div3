@@ -870,6 +870,20 @@ key "Morrison2012"
 
 \end_inset
 
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Davis 2013, Public accessibility of biomedical articles from PubMed
+ Central}
+\end_layout
+
+\end_inset
+
  In most industries, this is the barrier to 
 \begin_inset ERT
 status collapsed
@@ -1062,7 +1076,6 @@ Practical concerns
 \end_layout
 
 \begin_layout Standard
-
 \begin_inset ERT
 status collapsed
 
@@ -1075,8 +1088,6 @@ graffito{please help me I'm so bored of saying this}
 
 \end_inset
 
-
-\lang english
 
 \begin_inset ERT
 status collapsed
@@ -1490,7 +1501,7 @@ key "Murray-Rust2008,Mendeleyev1905"
 
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1677,6 +1688,7 @@ key "Wolkovich2012"
 \end_layout
 
 \begin_layout Standard
+***************
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Bisol2014,Butlin2011,Carlson2011,Piwowar2007,Piwowar2011,Lagoze2014,Choudhury2014,Huang2012,Kattge2014,Fecher,Fecher2015,Poole2014,Reichman2011,Rung2013,Savage2009,Teeters2008,Vision2010,Hardwicke2014,Khan2014,Tenopir2011,Carp2012"
@@ -1701,15 +1713,15 @@ key "Piwowar2007"
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
 findref{Piwowar 2013 ---- studies from genetics (Piwowar et al.
- 2007; Botstein 2010), astronomy (Henneken & Accomazzi 2011; Dorch 2012)
- and paleoceanography (Sears 2011).}
+ 2007; Botstein 2010), astronomy (Henneken and Accomazzi 2011; Dorch 2012)
+ and paleoceanography (Sears 2011)}
 \end_layout
 
 \end_inset
@@ -1793,7 +1805,7 @@ status open
 
 
 \backslash
-findref{Wan
+findref{Wan}
 \end_layout
 
 \end_inset
@@ -1839,13 +1851,13 @@ In fields with highly complex and non-repeatable data sets, like archeology
  or ecology, there is both a need to preserve irreplaceable data sets and
  an increased
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{Kannsa
+findref{Kannsa and kansa}
 \end_layout
 
 \end_inset

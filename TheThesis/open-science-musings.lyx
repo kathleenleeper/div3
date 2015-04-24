@@ -1509,19 +1509,15 @@ The rights to knowledge
 \end_layout
 
 \begin_layout Standard
+At it's most moral, access to knowledge -- often defined as synonymous with
+ literature -- is a human right.
+ Scientific research is conducted for and funded by the public interest.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Engelward2007"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-At it's most moral, access to knowledge -- often defined as synonymous with
- literature -- is a human right.
- Scientific research is conducted for and funded by the public interest.
  Advances in medical knowledge can be literally life-saving; if it were
  for any reason other than profit, denying information about health intervention
 s to nurses and doctors would have already been condemned as a human rights
@@ -1998,18 +1994,15 @@ Too fast
 \end_layout
 
 \begin_layout Standard
+Access
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Pettifer2011"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-Access is also about more than money, extending to licensing issues in the
- digital age.
+ is also about more than money, extending to licensing issues in the digital
+ age.
  Journal publications are a continuously and overwhelmingly increasing resource.
  One group estimated 50 million articles by the end of 2008
 \begin_inset CommandInset citation
@@ -2476,6 +2469,7 @@ Language and jargon
 \end_layout
 
 \begin_layout Standard
+languages/jargon
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Lawrence2001"
@@ -4214,16 +4208,6 @@ key "Wicherts2011"
 Publication bias
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Timmermans2011"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Quote
 \begin_inset Note Note
 status collapsed
@@ -4564,6 +4548,17 @@ he cracks will be there, they are just harder to spot because it is harder
  morbidity and mortality).
  --sarewitz, 2012
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+********
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Timmermans2011"
 
 \end_inset
 
