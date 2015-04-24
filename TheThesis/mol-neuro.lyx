@@ -5428,7 +5428,11 @@ Structural Regulation
 PSD-95
 \end_layout
 
-\begin_layout Section
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
 Animal models of drugs
 \end_layout
 
@@ -5436,7 +5440,7 @@ Animal models of drugs
 Drug discrimination
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The most common animal model relies on training rats (and less often, mice
  or monkeys) to discriminate between a known hallucinogenic drug and a vehicle
  control; by pressing one lever or the other, the rat 
@@ -5531,7 +5535,7 @@ key "Halberstadt2015"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Drug discimination is by far the most subtle of the responses; most of the
  rest require much higher doses of drug administration to elicit responses.
 \begin_inset ERT
@@ -5553,7 +5557,7 @@ todo{I know this is true for HTR, but maybe not the rest? research.}
 Head twitch response
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The 
 \begin_inset ERT
 status collapsed
@@ -5738,7 +5742,7 @@ key "Halberstadt2015"
 Interval timing
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Temporal perception is seriously disturbed by hallucinogens, as any recreational
 , spiritual, or lab participant could subjectively inform you.
 \begin_inset ERT
@@ -5824,7 +5828,7 @@ ac{DOI}
 exploratory/investigative behavior
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -5856,7 +5860,7 @@ nutshell:
  antagonists reduce those effects.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -5920,7 +5924,7 @@ todo[inline]{differences in indoleamines and phenethylamine reaction in
 tolerance studies
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \emph on
 nutshell version: 
@@ -5991,7 +5995,7 @@ key "Halberstadt2015"
 Neuroanatomical Distribution
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -6076,7 +6080,7 @@ Stem cells = embryonic cells; hence, knowing and examining the embryonic
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -6123,7 +6127,7 @@ key "Nichols2001"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status open
 
@@ -6245,7 +6249,7 @@ status collapsed
 locus coeruleus
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -6275,7 +6279,7 @@ Prefrontal cortex
 in vitro
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -6583,7 +6587,7 @@ rewrite{with my very own words}
 in vivo
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -6604,7 +6608,7 @@ todo[inline]{write re: fMRI, PET data? human-level science, generally, in
 interactions with other structures
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -6624,7 +6628,7 @@ todo[inline]{write ~~ interactions with other structures?}
 Visual Cortex
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -6641,7 +6645,7 @@ todo[inline]{Visual cortex does stuff because visuals! but I haven't written
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -6684,6 +6688,11 @@ status collapsed
 
 \begin_layout Plain Layout
 Isoforms probably?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
