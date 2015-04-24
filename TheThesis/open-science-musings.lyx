@@ -4999,28 +4999,6 @@ Retraction
 \end_layout
 
 \begin_layout Standard
-not usually because of fraud
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fanelli2009"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-men are more likely to commit
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Kaatz2013"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -5036,8 +5014,9 @@ Reproducibility troubles are, fortunately or not, pre-publication.
  Processes of peer-review and editorial jurisdiction are supposed to ensure
  that post-review articles are scientifically sound.
  The retraction of those articles represents an enormous reputation cost
- to both journal and author; retraction often leads to firing (or mandatory
- stepping down) of the editor, and in the longer-term, a drop
+ to both journal, who earlier lent their seal of approval, and author.
+ In the short term, the author becomes notorious; in the longer-term, there
+ is a distinct and significant drop
 \begin_inset ERT
 status collapsed
 
@@ -5070,7 +5049,7 @@ This is only in cases of non-self-reported retractions; if an author voluntarily
 
 \end_inset
 
- Retraction is not always bad (for reasons discussed momentarily), but it
+ Retraction may nt always bad (for reasons discussed momentarily), but it
  is notable.
  In 2008, 
 \begin_inset CommandInset citation
@@ -5219,14 +5198,17 @@ key "Tressoldi2013"
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
-
+\begin_layout Subsection
+The role of fraud
 \end_layout
 
 \begin_layout Standard
-Some researchers propose the pressure to publish, increasingly important
+Lurking at the outskirts of all of this -- publication bias, reproducibility
+ issues, and rising retraction rates -- is the spectre of scientific misconduct,
+ the wilful perpetration of scientific deception.
+ Some researchers propose the pressure to publish, increasingly important
  to funding and hiring decisions, is enough of push for scientists to produce
  flawed manuscripts at a higher rate.
 \begin_inset CommandInset citation
@@ -5235,39 +5217,42 @@ key "Fanelli2010"
 
 \end_inset
 
+ Some analyses indicate the number of retractions due to research misconduct
+ (i.e fraudulent data) has trended significantly upwards
+,
+\lang english
 
-\begin_inset Note Note
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
- To some extent this is borne out, as 
-\begin_inset Quotes eld
+
+
+\backslash
+findref{Steen2011}
+\end_layout
+
 \end_inset
 
-\SpecialChar \ldots{}
-papers were more likely to support a tested hypothesis if their corresponding
- authors were working in states that, according to NSF data, produced more
- academic papers per capita\SpecialChar \ldots{}
-competitive academic environments increase not
- only scientists' productivity but also their bias.
-\begin_inset Quotes erd
-\end_inset
-
-
+ certainly there have been some extremely high-profile cases of deliberate
+ fraud in the past several years.
+ Scientists report observing misconduct in collegues 5-33% of the time;
+ as a conservative estimate, about 2% of scientists admitted to have fabricated,
+ falsified or modified data or results at least once.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Fanelli2010"
+key "Fanelli2009"
 
 \end_inset
 
 
 \end_layout
 
-\end_inset
-
- The other interpretation is merely that flawed manuscripts are being identified
- more successfully, in which case science is perhaps fulfilling its self-correct
-ing ideals of awareness and responsiveness to false effects.
+\begin_layout Standard
+The other option is that that flawed manuscripts are simply being identified
+ more successfully in processes of post-publication peer review, in which
+ case science is perhaps fulfilling its self-correcting ideals of awareness
+ and responsiveness to false effects.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Cokol2008,Fanelli2013"
@@ -5321,23 +5306,7 @@ Statistics on retractions and findings of misconduct are best used to make
 
 \end_inset
 
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{transition here}
-\end_layout
-
-\end_inset
-
-
+ While the numbers of retractions and proortions
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Grieneisen2012"
@@ -5351,21 +5320,9 @@ why
  articles were being retracted.
  Of the 4,449 retracted articles found in 42 of the largest bibliographic
  databases from 1928-2011, the reasons behind retraction were usually relatively
- benign.
-\begin_inset ERT
+ benign, with only 20% of retractions attributed to alleged misconduct
+\begin_inset Foot
 status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{clarify these definitions of retractions}
-\end_layout
-
-\end_inset
-
-
-\end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
@@ -5392,38 +5349,59 @@ alleged research misconduct
 42%
 \series default
  the usage of questionable data or interpretations 
+\end_layout
+
+\end_inset
+
+.
+ Also hopefully, In both 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-graffito{stack to >100
-\backslash
-% because more than one reason is often cited}
+findref{Steen}
 \end_layout
 
 \end_inset
 
+ and 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "'s"
+key "Grieneisen2012"
 
+\end_inset
+
+ analyses, 
+\begin_inset Quotes eld
+\end_inset
+
+repeat offenders
+\begin_inset Quotes erd
+\end_inset
+
+ accounted for many of the retractions.
+ In one study, fifteen individuals accounted for over 50% of the retractions.
+ Fairly often, uncovering deliberate fraud prompts re-examination and often
+ retraction of the whole cohort of papers they may have worked on.
 \end_layout
 
 \begin_layout Standard
-Of the alleged research misconduct, fifteen individuals accounted for >50%
- of the retractions.
- While even in
+While even in
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Grieneisen2012"
 
 \end_inset
 
-'s data there is a growth in retractions by a factor of 11.36 (excluding
- repeat offenders, adjusting for literature growth), they assert that research
- misconduct of the fraud variety underlie most retractions; i.e.
- the retraction rate is likely due to social factors, not changes in rigor
- or intentional deception.
+'s otherwise-hopeful analysis there is a growth in retractions by a factor
+ of 11.36 (excluding repeat offenders and adjusting for literature growth),
+ the researchers assert that the retraction rate is likely due to social
+ factors, not decreases in peer review rigor or intentional deception on
+ the part of researchers.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Grieneisen2012"
@@ -5452,26 +5430,6 @@ key "Grieneisen2012"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{retractions conclusion; also include section on fraud, specifically
-, re: fanelli 2009}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -5503,7 +5461,9 @@ the original intended use 1
 
 \end_inset
 
-
+ The reproducibility issue isn't really affected by this -- it still exists,
+ even if researcher's are not intentionally deceptive.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -5511,8 +5471,8 @@ The Remains of Retractions
 \end_layout
 
 \begin_layout Standard
-An additional problem remains; once an article has been retracted, that
- doesn't mean it will cease being cited.
+An additional problem remains; once an article has been retracted, there
+ is no reverse dissemination.
  In the case of highly controversial papers
 \begin_inset Foot
 status collapsed
@@ -5528,15 +5488,11 @@ STAP, everybody!
  after their nominal removal.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Davis2012"
+key "Davis2012,Abbott2002"
 
 \end_inset
 
  
-\end_layout
-
-\begin_layout Standard
-*****And retracted research doesn't go away, per 
 \end_layout
 
 \begin_layout Section
