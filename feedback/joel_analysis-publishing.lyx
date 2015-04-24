@@ -69,11 +69,12 @@
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
-\tracking_changes false
+\tracking_changes true
 \output_changes false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\author 1325272512 "laika117" 
 \end_header
 
 \begin_body
@@ -230,6 +231,22 @@ science
 open science
 \bar default
 ?
+\change_inserted 1325272512 1429794289
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429794333
+this with the last paragraph is a beautiful framing
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
 \end_layout
 
 \begin_layout Standard
@@ -517,6 +534,26 @@ We can start to ask our questions here.
  If open science continues on its present course, what values comprise our
  new, open world? What parts of the current open science ethos should we
  strive to keep or work to excise?
+\change_inserted 1325272512 1429794413
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429794467
+excellent.
+ crystal clear presentation of the issue, minus the confusion I had with
+ keys part last night.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
 \end_layout
 
 \begin_layout Section
@@ -614,8 +651,28 @@ specifically in the realm of community-driven creation.
 
  The strongest proponents of open science are people who treat software
  like they want science to be -- intractably frustrating, but open to experiment
-ation and manipulation by anybody who wants to, and driven by the needs
- of the community.
+ation and manipulation by anybody
+\change_inserted 1325272512 1429794730
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429798618
+of course, this is subject to the floss critique as well, where 'anybody'
+ is actually anybody with the time resources knowledge etc.
+ you get at the knowledge aspect in the unfinished prerequisite knowledge,
+ but I don't see explicit mention of time and resources?
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+ who wants to, and driven by the needs of the community.
  Correspondingly, the nomenclature of 
 \emph on
 open 
@@ -814,16 +871,49 @@ Open source
 \end_layout
 
 \begin_layout Standard
-From the outside, this distinction often seems trivial but in the case of
- open science, I think it's telling of the ambivalent moral aspects.
- Open science draws on both rhetorics, maintaing a moral ambiguity.
+From the outside, this distinction often seems trivial -- but bearing in
+ mind that proponents of open science often come from the software world,
+ I think it's telling of the 
+\change_inserted 1325272512 1429795217
+[
+\change_unchanged
+ambivalent moral aspects
+\change_inserted 1325272512 1429795253
+]=vague phrasing
+\change_unchanged
+.
+\change_inserted 1325272512 1429795045
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429795325
+I read you saying that because open science proponents often come from software
+ backgrounds that they're privy to the moral / ethical dilemma at hand.
+ I don't read why I should care? perhaps except implicitly that I should
+ care because they are aware?
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Open science draws on both rhetorics, maintaing a moral ambiguity.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Delfanti2011"
 
 \end_inset
 
- One, the same rhetoric of the morality of freedom -- the 
+ One, the same rhetoric or morality of freedom -- the 
 \emph on
 public has a right to know 
 \emph default
@@ -855,7 +945,11 @@ key "Huff2007"
 
 \begin_layout Standard
 On the other hand, scientists are not altruists, much as we'd like to believe
- we ar.
+ we ar
+\change_inserted 1325272512 1429795398
+e
+\change_unchanged
+.
  Scientific publishing happens yes, to disseminate and spread the good word,
  but also to bolster careers and mark intellectual property boundaries.
 \begin_inset CommandInset citation
@@ -868,32 +962,52 @@ key "Guedon2001"
 \end_layout
 
 \begin_layout Standard
-The intent of open science, like open source, are to modify the 
+The intent of open science, like open source, 
+\change_inserted 1325272512 1429795562
+is
+\change_deleted 1325272512 1429795561
+are
+\change_unchanged
+ to modify the 
 \emph on
 mechanisms
 \emph default
  of production, making more reproducibile, more reliable, and more powerful
  science, without necessarily paying much attention to the content.
- Correspondingly, the open source movement has been co-opted by corporations
- as a way to draw on community labor and then turn the product into a propietary
- and inaccessibly product.
+ Correspondingly, the open source
+\change_inserted 1325272512 1429795593
+ software
+\change_unchanged
+ movement has been co-opted by corporations as a way to draw on community
+ labor and then turn the product into a propietary and inaccessibly product.
  In science, the parallel might be projects that pitch themselves as community-d
 riven citizen science.
  In an alternative construction, they might just be a way to shift labor
  from cheap graduate students to even cheaper laypeople.
  
+\change_inserted 1325272512 1429795626
+
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 1325272512 1429795629
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
-FROM JOEL --- these last three paragraphs are your critical tie of open
- science to open source vs libre, but they feel kind of murky.
+
+\change_inserted 1325272512 1429798064
+these last three paragraphs are your critical tie of open science to open
+ source vs libre, but they feel kind of murky.
  I see that there is an ambiguity in that open science to a degree has elements
  of both sides of the argument -- right to knowledge, as well as modified
  mech of production 
 \end_layout
 
 \begin_layout Plain Layout
+
+\change_inserted 1325272512 1429796126
 because open science isn't split into factions, but its also not a unified
  vision, its hard to say who's fighting for what.
  from reading above, you could naively say that open science fits floss
@@ -905,107 +1019,18 @@ because open science isn't split into factions, but its also not a unified
 \end_layout
 
 \begin_layout Plain Layout
+
+\change_inserted 1325272512 1429796736
 if this didn't make sense, I'd be happy to talk about it on the phone or
  something, cause I think this is a really important part.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-me: good comment on open source science discussed the co-option of open
- source, e.g.
- like chromium --> chrome how that in many ways parallels the current scholarly
- system and making more data accessible is just a big ol' benefit to proprietary
- capital rights which then take scientific knowledge and repackage it as
- patents thereby limiting the flow of info
-\end_layout
-
-\end_inset
-
- Open source has a rich history now of taking community-driven labor and
- spinning it back into 
-\end_layout
-
-\begin_layout Subsubsection
-Global definitions of 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-free
-\begin_inset Quotes erd
-\end_inset
-
+\change_unchanged
 
 \end_layout
 
-\begin_layout Standard
-Free software and open science are built on European/U.S.
- legal, moral, and social codes.
- 
-\end_layout
-
-\begin_layout Standard
-Probably and definitely an issue, especially when 
-\begin_inset Quotes eld
-\end_inset
-
-open science
-\begin_inset Quotes erd
-\end_inset
-
- is supposed to level the playing field but other communities, sciences,
- etc.
- aren't actually consulted in how they would like that leveling to be done
- in the legal sense.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{
-\backslash
-emph{Refs}
-\end_layout
-
 \end_inset
 
 
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
+\change_unchanged
 
 \end_layout
 
@@ -1431,6 +1456,83 @@ The New York Times
  both their success stories.
  The open science narrative was a tool in both of their toolkits used for
  different purposes and different effects.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Global definitions of 
+\begin_inset Quotes eld
+\end_inset
+
+open
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Free software and open science are built on European/U.S.
+ legal, moral, and social codes.
+ 
+\end_layout
+
+\begin_layout Standard
+Probably and definitely an issue, especially when 
+\begin_inset Quotes eld
+\end_inset
+
+open science
+\begin_inset Quotes erd
+\end_inset
+
+ is supposed to level the playing field but other communities, sciences,
+ etc.
+ aren't actually consulted in how they would like that leveling to be done
+ in the legal sense.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{Refs}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Christian2008,Dahdouh-Guebas2003,Gorelick2014,Jolliffe2006"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
 \end_inset
@@ -1899,8 +2001,11 @@ JC - so free software is bad?
 
 \end_inset
 
- based on the rest of , we can likely assume that racial and ethnic minorities
- fare similarly.
+ based on the rest of 
+\change_inserted 1325272512 1429798713
+?
+\change_unchanged
+, we can likely assume that racial and ethnic minorities fare similarly.
 \begin_inset ERT
 status collapsed
 
@@ -1997,14 +2102,20 @@ findref{open worm and women}
 \end_inset
 
 
+\change_inserted 1325272512 1429798785
+ 
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
+
+\change_inserted 1325272512 1429798949
 race might be another matter, due to personal stake in their country's having
  access to the work? seems like lots of south americans / africans have
  investment in open science.
  I thought you had stats on that?
+\change_unchanged
+
 \end_layout
 
 \end_inset
@@ -2102,15 +2213,256 @@ If open science advocates believe it's doing good, what does that entail
  and assume?
 \end_layout
 
+\begin_layout Subsection
+The right kind of knowledge
+\end_layout
+
 \begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{link back to earlier statements about co-option of open science in
+ "open, not free"}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The major scientific problems in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:ScienticEcosystem"
+
+\end_inset
+
+ are all based around outside institutions of restriction -- publishing
+ houses, funding institutes, The State, incentives that prioritize 
+\emph on
+this
+\emph default
+ kind of production on scientific projects.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+science
+\begin_inset Quotes erd
+\end_inset
+
+ itself, the pipetting or data collection, only needs modification to the
+ extent that it should be automated, modified, and modular, and that will
+ make it better
+\change_inserted 1325272512 1429799088
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429799098
+better? feels lazy.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+.
+ In this model, the biggest thing holding science back from solving the
+ world's problems of disease, pollution, and infrastructure is scientists
+ and their culture.
+ Changing the culture to one of sharing and openness would, necessarily,
+ make the science 
+\emph on
+faster 
+\emph default
+and therefore better -- since science is already doing so well
+\emph on
+.
+ 
+\emph default
+The issue is never scientific production itself, but the speed at which
+ and for how many purposes we can use it.
+\end_layout
+
+\begin_layout Standard
+It makes no strides towards more a humane, culturally-engaged science.
+ It offers accessibility as bait, not to anyone in particular, but to the
+ whole world.
+ It puts no focus on collecting different 
+\emph on
+kinds
+\emph default
+ of information 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{no point in OA literature if it doesn't address your disease}
+\end_layout
+
+\end_inset
+
+(feminist karyotypes, or examining neglected tropical diseases), or reshaping
+ the input we accept into the scientific process.
+ Openness still requires the same types of conclusions, the same processes,
+ the same types of intellectual, finanical, and technical resources.
+
+\change_inserted 1325272512 1429799134
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429799171
+excellent point, this could be emphasized/expound/in some way made more
+ prominent.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+The semantic web that will search the scientific literature will not draw
+ on academic feminism, even though that is equally text-minable.
+\change_inserted 1325272512 1429799232
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted 1325272512 1429799257
+??? this feels thrown in
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
+ Semantic web searching to identify high-priority or high-relevance papers
+ relies on the same categories of disciplines, and the same concept of diseases
+ as we build them into the software.
 \begin_inset Note Note
 status collapsed
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Crowdsourcing models encourage inclusivity so that anyone can contribute
+ based on their skills, interests, and motivation.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+ (
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+centerforopenscience.org/involved_participate/
+\end_layout
+
+\end_inset
+
+, accessed 03/25/2015)
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Non-scientists might be wondering what all the fuss is about with regards
+ to the open science debate that has livened up throughout the last few
+ years, because they think these areas do not (directly) relate to them.
+ People might think: “Why should I care about open science? I am not a researche
+r, so this does not affect me.” Not just researchers but also the average
+ person on the street can benefit from open science.
+ Several of the most important consequences for the population include (1)
+ more public scrutiny of research, (2) better research in general and (3)
+ a better foundation for businesses to build their company on.
+ Much research is funded by the public via tax money.
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://onsnetwork.org/chartgerink/2013/06/29/why-open-science-matters/
+\end_layout
+
+\end_inset
+
+, accessed 03/25/2015)
+\end_layout
+
+\begin_layout Plain Layout
+what science studies is 
+\emph on
+not 
+\emph default
+the province of open science advocates; that is, if not beyond recrimination,
+ not the greatest issue.
+\end_layout
+
+\begin_layout Itemize
+assumptions about
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Open science, first, presumes that science has the capability to be 
+\emph on
+better 
+\emph default
+if the 
+\emph on
+culture
+\emph default
+ was better
+\end_layout
+
+\begin_layout Itemize
+Presumes this kind of knowledge is the right kind of knowledge
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\end_layout
 
 \begin_layout Subsection
 Xenophobia
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Much of the open science initiatives are focused on incentivizing science
  as a field for young researchers.
  This belies, however, 
@@ -2142,11 +2494,6 @@ findref{for quotations about all the bad foreign postdocs}
  that all of the good American students are being pushed out, and foreigners
  are taking all of the current post-doc positions.
  
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
@@ -2193,6 +2540,9 @@ kind
  of scientist -- the ones located in the socio-economically lower areas
  of the world.
  This in turn leads to the oft-repeated mantra revolving around the necessity
+\change_deleted 1325272512 1429799331
+f
+\change_unchanged
  of science and technology for the 
 \begin_inset Quotes eld
 \end_inset
@@ -2201,7 +2551,15 @@ development
 \begin_inset Quotes erd
 \end_inset
 
- and betterment of the majority world nations.
+ and betterment of the majority
+\change_inserted 1325272512 1429799353
+ of the
+\change_unchanged
+ world
+\change_inserted 1325272512 1429799356
+'s
+\change_unchanged
+ nations.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Haider2007"
@@ -2466,7 +2824,11 @@ key "Evans2009"
 
 \begin_layout Standard
 This discourse, the need for the majority world to access the minority world's
- knowledge in order to proceed is nearly identical to the 1950s.
+ knowledge in order to proceed
+\change_deleted 1325272512 1429799474
+m
+\change_unchanged
+ is nearly identical to the 1950s.
  The 
 \begin_inset Quotes eld
 \end_inset
@@ -2498,6 +2860,20 @@ key "Hudson2012"
 
 \end_inset
 
+
+\change_inserted 1325272512 1429799431
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\change_unchanged
 
 \end_layout
 
@@ -2818,231 +3194,6 @@ ly.
 \end_layout
 
 \begin_layout Subsection
-The right kind of knowledge
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{link back to earlier statements about co-option of open science in
- "open, not free"}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The major scientific problems in 
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:ScienticEcosystem"
-
-\end_inset
-
- are all based around outside institutions of restriction -- publishing
- houses, funding institutes, The State, incentives that prioritize 
-\emph on
-this
-\emph default
- kind of production on scientific projects.
- The 
-\begin_inset Quotes eld
-\end_inset
-
-science
-\begin_inset Quotes erd
-\end_inset
-
- itself, the pipetting or data collection, only needs modification to the
- extent that it should be automated, modified, and modular, and that will
- make it better.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-joel --- better? feels lazy.
-\end_layout
-
-\end_inset
-
- In this model, the biggest thing holding science back from solving the
- world's problems of disease, pollution, and infrastructure is scientists
- and their culture.
- Changing the culture to one of sharing and openness would, necessarily,
- make the science 
-\emph on
-faster 
-\emph default
-and therefore better -- since science is already doing so well
-\emph on
-.
- 
-\emph default
-The issue is never scientific production itself, but the speed at which
- and for how many purposes we can use it.
-\end_layout
-
-\begin_layout Standard
-It makes no strides towards more a humane, culturally-engaged science.
- It offers accessibility as bait, not to anyone in particular, but to the
- whole world.
- It puts no focus on collecting different 
-\emph on
-kinds
-\emph default
- of information 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{no point in OA literature if it doesn't address your disease}
-\end_layout
-
-\end_inset
-
-(feminist karyotypes, or examining neglected tropical diseases), or reshaping
- the input we accept into the scientific process.
- Openness still requires the same types of conclusions, the same processes,
- the same types of intellectual, finanical, and technical resources.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-JOEL excellent point, this could be emphasized/expound/in some way made
- more prominent.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Text and content mining
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Facts can't be copyrighted.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The semantic web that will search the scientific literature will not draw
- on academic feminism, even though that is equally text-minable.
- Semantic web searching to identify high-priority or high-relevance papers
- relies on the same categories of disciplines, and the same concept of diseases
- as we build them into the software.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Crowdsourcing models encourage inclusivity so that anyone can contribute
- based on their skills, interests, and motivation.
- 
-\begin_inset Quotes eld
-\end_inset
-
- (
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-centerforopenscience.org/involved_participate/
-\end_layout
-
-\end_inset
-
-, accessed 03/25/2015)
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Non-scientists might be wondering what all the fuss is about with regards
- to the open science debate that has livened up throughout the last few
- years, because they think these areas do not (directly) relate to them.
- People might think: “Why should I care about open science? I am not a researche
-r, so this does not affect me.” Not just researchers but also the average
- person on the street can benefit from open science.
- Several of the most important consequences for the population include (1)
- more public scrutiny of research, (2) better research in general and (3)
- a better foundation for businesses to build their company on.
- Much research is funded by the public via tax money.
-\begin_inset Quotes erd
-\end_inset
-
- (
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://onsnetwork.org/chartgerink/2013/06/29/why-open-science-matters/
-\end_layout
-
-\end_inset
-
-, accessed 03/25/2015)
-\end_layout
-
-\begin_layout Plain Layout
-what science studies is 
-\emph on
-not 
-\emph default
-the province of open science advocates; that is, if not beyond recrimination,
- not the greatest issue.
-\end_layout
-
-\begin_layout Itemize
-assumptions about
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Open science, first, presumes that science has the capability to be 
-\emph on
-better 
-\emph default
-if the 
-\emph on
-culture
-\emph default
- was better
-\end_layout
-
-\begin_layout Itemize
-Presumes this kind of knowledge is the right kind of knowledge
-\end_layout
-
-\end_deeper
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
 Indigenous sciences and local biologies
 \end_layout
 
@@ -3098,18 +3249,26 @@ not
 \emph default
  use globalized standardized bits of (scientific) knowledge.
  
+\change_inserted 1325272512 1429799735
+
 \begin_inset Note Note
 status open
 
 \begin_layout Plain Layout
+
+\change_inserted 1325272512 1429799805
 awesome!! conceptually this is really good, a key point of your div.
  I'd like to see the last couple of sections just revised to be a bit more
  cohesive.
  the content is there though!
+\change_unchanged
+
 \end_layout
 
 \end_inset
 
+
+\change_unchanged
 
 \end_layout
 
