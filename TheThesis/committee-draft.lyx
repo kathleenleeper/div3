@@ -8,7 +8,7 @@
 
 \usepackage{todonotes}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super,unsrt
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super,unsrtnat
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -296,6 +296,24 @@ pagenumbering{arabic}
 \end_layout
 
 \begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+myPart{Introductions}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "outline_chapters.lyx"
@@ -384,24 +402,6 @@ filename "good-people.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-myPart{Case Studies}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "mol-neuro.lyx"
@@ -414,39 +414,27 @@ filename "mol-neuro.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "OS-case-study.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "bibliometrics_case-study.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 myPart{Reconstructive Neuroscience}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "OS-case-study.lyx"
 
 \end_inset
 
