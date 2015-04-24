@@ -45,7 +45,7 @@
 \use_package undertilde 1
 \cite_engine natbib
 \cite_engine_type numerical
-\biblio_style plainnat
+\biblio_style 
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -1207,13 +1207,13 @@ why
 \emph default
  they were homosexual.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{o'riordan, gay gene
+findref{o'riordan, gay gene}
 \end_layout
 
 \end_inset
@@ -1728,7 +1728,7 @@ key "Brotherton2013,Emeagwali2014,Hiwasaki2014,Kirmayer2004"
 
 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 

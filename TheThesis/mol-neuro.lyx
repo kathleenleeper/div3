@@ -1185,6 +1185,10 @@ graffito{ignores transport of the drug to the brain, ingested, diluted and
 \end_inset
 
 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset Note Greyedout
 status collapsed
 
@@ -1215,7 +1219,8 @@ I know this seems like an obvious statement/paragraph but it'll be cleaned
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
 Classical pharmacology has, for 50 odd years, relied on a model of characterizin
 g ligands by the functional effects of target interaction.
  The effects are governed by (1) affinity, i.e.
@@ -1601,7 +1606,7 @@ bottomrule%
 \begin_layout Plain Layout
 \begin_inset CommandInset label
 LatexCommand label
-name "fig:classification-ligands"
+name "tab:classification-ligands"
 
 \end_inset
 
@@ -1653,7 +1658,7 @@ Thus, a full exogenous agonist is expected to activate the signalling pathways
  to the same level as the endogenous ligand, and so on, as in 
 \begin_inset CommandInset ref
 LatexCommand nameref
-reference "tab:communication-requirements-in"
+reference "tab:classification-ligands"
 
 \end_inset
 
@@ -1685,19 +1690,27 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{
 \backslash
-emph{intrinsic activity} is the measure of the stimulus per receptor molecule
- produced by a ligand}
+emph{intrinsic activity}: measure of the stimulus, per receptor produced
+ by a ligand}
 \end_layout
 
 \end_inset
 
 intrinsic efficacy underlying the classic model; it is one of the foremost
- examples of a relatively new model of ligand-dependent signalling,known
+ examples of a relatively new model of ligand-dependent signalling, known
  as 
+\begin_inset Quotes eld
+\end_inset
+
+functional selectivity
+\begin_inset Quotes erd
+\end_inset
+
+, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1719,15 +1732,7 @@ biased agonism
 \begin_inset Quotes erd
 \end_inset
 
-, 
-\begin_inset Quotes eld
-\end_inset
-
-functional selectivity
-\begin_inset Quotes erd
-\end_inset
-
- (my choice), and/or 
+, , and/or 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1768,7 +1773,6 @@ key "Urban2007"
  responses.
 \begin_inset CommandInset citation
 LatexCommand citep
-after "(other citations later)"
 key "Glennon1984,Nichols2004,Gonzalez-Maeso2007"
 
 \end_inset
@@ -2074,13 +2078,10 @@ findref{the 100 other studies of these effects}
 \end_layout
 
 \begin_layout Standard
-Because biology focuses on the receptor-ligand interactions as the site
- of action, and downstream effects as the consequence that then leads to
- psychedelic experiences, this is where we pick up.
- Our area of interest becomes very narrow: the elucidation of the intracellular
- signaling pathways activated by the stereoelectronic perturbation and conformat
-ional movement of specific amino acid residues at the shared binding site
- of psychedelic hallucinogens, ideally while maintaining the most 
+Our area of interest thus becomes very narrow: the elucidation of the intracellu
+lar signaling pathways activated by the stereoelectronic perturbation and
+ conformational movement of specific amino acid residues at the shared binding
+ site of psychedelic hallucinogens, ideally while maintaining the most 
 \emph on
 in vivo
 \emph default
@@ -2427,48 +2428,6 @@ ic neurons only.
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{
-\backslash
-emph{Receptors of interest} address the 5-HT
-\backslash
-textsubscript{2c}, 5-HT
-\backslash
-textsubscript{1c} and dopamine involvement}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{Why the 5-HT
-\backslash
-textsubscript{2a} receptor is implicated.
- Also outline the order of this section? 5-ht receptor, localization of
- receptor, animal studies...then neuroanatomy, then biased signalling?}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 5-HT
 \begin_inset script subscript
@@ -2510,6 +2469,28 @@ The interaction of different neurons and receptor activation are and the
  emergent properties thereof are worth exploring, I'm a molecular biologist,
  and we focus on single-cell effects.
  
+\end_layout
+
+\end_inset
+
+ While 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{
+\backslash
+emph{Receptors of interest} address the 5-HT
+\backslash
+textsubscript{2c}, 5-HT
+\backslash
+textsubscript{1c} and dopamine involvement}
 \end_layout
 
 \end_inset
@@ -2668,7 +2649,7 @@ key "Nutt2013,Pollan2015"
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Paragraph
 In animals
 \end_layout
 
@@ -2941,6 +2922,19 @@ ac{DOI}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsubsection
+Selective expression of 5-HT
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+2A
+\end_layout
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -3324,27 +3318,11 @@ key "Robishaw2004"
  their own right.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Dupre2009"
+key "Dupre2009,Khan2013"
 
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Khan}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -3560,9 +3538,6 @@ s may be rapidly dephosphorylated and recycled back to the plasma membrane
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 

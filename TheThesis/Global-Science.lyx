@@ -2181,35 +2181,23 @@ key "Ginther2011"
 
  Underrepresented minority groups comprised 28.5 percent of the national
  population in 2006, yet just 9.1 percent of college-educated Americans in
- science and engineering occupations 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{committee on underrpresented groups 2011}
-\end_layout
+ science and engineering occupations.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "CommitteeonUnderrepresentedGroupsandtheExpansionoftheScienceandEngineeringWorkforcePipelineU.S.2011"
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
 Similarly, Asian Americans represented 23 percent of those holding tenure-track
  positions, they were only 12 percent of those at the tenure or senior scientist
  level.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Ruttiman2009, "bamboo ceiling"}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ruttimann2009"
 
 \end_inset
 
@@ -2456,7 +2444,7 @@ todo{write what this kind of neo colonial science means -- it means they
 .
  The homogenization of the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2518,7 +2506,7 @@ ac{BRICS}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2526,22 +2514,6 @@ status collapsed
 \backslash
 todo[inline]{ geographic disparities with up-to-date info? besides sugimoto
  paper}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{representation by discipline globally?}
 \end_layout
 
 \end_inset
@@ -2566,6 +2538,10 @@ key "Henry2014"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Bioethics researchers have largely not increased in 
 \begin_inset Quotes eld
 \end_inset
@@ -2578,6 +2554,11 @@ developing
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Borry2005"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -2636,10 +2617,6 @@ status open
 
 \begin_layout Subsection
 Globally
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Standard
@@ -2785,6 +2762,13 @@ key "Perel2008,Vetter2003"
 What this means, practically, that the global burden of disease falls more
  heavily on low-income countries, and many fewer economic and intellectual
  resources go towards research on the medical or infrastructural needs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Perel2008"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2793,15 +2777,9 @@ In many ways, of course, this is also an access problem, both to literature
  Much of the majority world diseases are also diseases of poverty; the minority
  world largely n longer suffers from tuberculosis because it was eliminated
  with the use of antibiotics.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Stevens 2004}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stevens2004"
 
 \end_inset
 
@@ -3146,7 +3124,7 @@ status open
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
-options "plainnat"
+options "unsrtnat"
 
 \end_inset
 

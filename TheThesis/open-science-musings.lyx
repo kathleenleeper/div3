@@ -421,7 +421,7 @@ The criticism of production of knowledge is reaching a fever pitch of excitement
  The scientific ecosystem has been metaphorically thrust into the punishing
  light of the democratizing Internet, and it turns out science isn't the
  foolproof method our 7th grade biology teachers said it was.
- And they certainly don't follow the scientific method.
+ And scientists certainly don't follow the Official Scientific Method.
 \end_layout
 
 \begin_layout Standard
@@ -674,6 +674,27 @@ Cycles of Science
 \end_layout
 
 \begin_layout Standard
+At every step of even the canonical research cycle, communication with and
+ from other researchers plays a role.
+ It is impossible to participate in any academic-scientific discourse without
+ both intellectual and financial access to the communication.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+scientific process
+\begin_inset Quotes erd
+\end_inset
+
+ is suffused with cross links and interpolations, but communication is crucial
+ to all of them (summarized in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:communication-requirements-in"
+
+\end_inset
+
+
 \begin_inset Float table
 wide false
 sideways false
@@ -973,46 +994,25 @@ Communication in the research cycle
 
 \end_inset
 
-communication requirements in research cycle
+communication requirements in research cycle (
+\begin_inset CommandInset citation
+LatexCommand citealt*
+key "Ware2015"
+
+\end_inset
+
+)
 \end_layout
 
 \end_inset
 
 
 \end_layout
-
-\end_inset
-
-At every step of even the canonical research cycle, communication with and
- from other researchers plays a role (see 
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "tab:communication-requirements-in"
 
 \end_inset
 
 ).
- It is impossible to participate in academic-scientific discourse without
- both intellectual and financial access to the communication.
- The blocks along the way are numerous and multisituated.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{transition}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The research cycle itself consists of 5 steps, with interpolations and cross
- threads between each.
+ It goes a little like this:
 \end_layout
 
 \begin_layout Enumerate
@@ -1022,27 +1022,52 @@ ven interest
 
 \begin_deeper
 \begin_layout Itemize
-In New Orleans, an opening for an asthma grant, so my PI applied to research
- asthma in the context of serotonin signaling
+In my lab in New Orleans, an opening for an asthma grant.
+ So my PI applied to research asthma in the context of serotonin signaling,
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{asthma, new orleans, inflammation}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-an idea, late at night (Otto Loewi, discovery of acetylcholine)
+An spontaneous idea, late at night 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Otto Loewi}
+\end_layout
+
+\end_inset
+
+(Otto Loewi, discovery of acetylcholine)
 \end_layout
 
 \begin_layout Itemize
-previously established work by a lab (routine X->Y->Z)
+Previously established work by a lab, or within the context of a greater
+ project by the PI 
 \end_layout
 
 \begin_layout Itemize
-within the context of a greater project by the PI (re: translational neuroscienc
-e lab?)
-\end_layout
-
-\begin_layout Itemize
-a happenstance observation; (see 
+A happenstance observation, like finding a dead salamander and putting it
+ under a microscope (e.g.
+ 
 \begin_inset CommandInset citation
-LatexCommand citeauthor
+LatexCommand citealt
 key "Charney2014"
 
 \end_inset
@@ -1140,10 +1165,6 @@ ac{OS}
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 The concerns around a scientific transformation travel up along all steps
  of the research cycle, starting with publishing and journals access.
 \end_layout
@@ -1213,6 +1234,7 @@ status collapsed
 \end_layout
 
 \begin_layout Quotation
+\SpecialChar \ldots{}
 Part of the problem is that none of these articles were co-written by a
  Liberian scientist.
  The investigators collected their samples, returned home and published
@@ -1229,6 +1251,13 @@ Part of the problem is that none of these articles were co-written by a
 \begin_layout Quotation
 \align right
 Bernice Dahn, Vera Mussah, and Cameron Nutt
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mussah2015"
+
+\end_inset
+
+
 \begin_inset Newline newline
 \end_inset
 
@@ -1247,168 +1276,6 @@ The
  
 \emph on
 New York Times
-\end_layout
-
-\begin_layout Standard
-6-10 pages of double-column size 10 text in 
-\emph on
-Nature
-\emph default
-, 
-\emph on
-Science
-\emph default
-, or 
-\emph on
-Cell
-\emph default
- represent the cutting edge of scientific research.
- One such article is 
-\begin_inset Quotes eld
-\end_inset
-
-The neurobiology of psychedelic drugs
-\begin_inset Quotes erd
-\end_inset
-
-, written by 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Vollenweider2010"
-
-\end_inset
-
-, researchers at a Swiss lab responsible for much of the past and present
- literature on psychedelic drugs.
- It was published fiver years ago, in the September 2010 issue of 
-\emph on
-Nature Reviews Neuroscience
-\emph default
-.
- Although no longer cutting edge, it is a comprehensive review bearing directly
- on my research.
- Article access costs $18; a year-long subscription to just
-\emph on
- Nature Reviews Neuroscience
-\emph default
- is $265.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{insert data on div!}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Interlibrary Loans are also an option, but take more time than
- the digital era really requires, especially for reviews}
-\end_layout
-
-\end_inset
-
-Some journals I can access through institutional subscription; 
-\emph on
-Nature Reviews Neuroscience
-\emph default
- is not one of them (although we do have access to 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{
-\backslash
-emph{Nature} is paywalled back to 
-\backslash
-emph
-\backslash
-underline{{1867}}}
-\end_layout
-
-\end_inset
-
-
-\emph on
-Nature
-\emph default
-, the flagship journal).
- In this case, because the paper is five years out of date, it is now hosted
- on a variety of other sites.
- If it was a newer article, however, or a copyright claim 
-\emph on
-Nature
-\emph default
- pursued more vigorously, my resources would be more or less exhausted.
-\end_layout
-
-\begin_layout Standard
-Luckily for me, I know someone who knows someone affiliated with 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{MIT}
-\end_layout
-
-\end_inset
-
-.
- Very illegally but in the tradition of scholarship, gave me his 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{MIT}
-\end_layout
-
-\end_inset
-
- information, enabling me to access a significantly wider array of journals
- than otherwise possible.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{insert data that I made!}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace defskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1463,8 +1330,61 @@ status collapsed
 
 
 \backslash
-rewrite{and when we mean accessible, we mean the PDF version, probably in
- English, maybe in an OCR format, certainly figure- and mB heavy}
+graffito{And by available, I mean the PDF version, probably in English,
+ maybe in an OCR format, certainly figure- and data-heavy}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+I am not a Liberian researcher; I attend a small, relatively resource-poor
+ college.
+ One such article is 
+\begin_inset Quotes eld
+\end_inset
+
+The neurobiology of psychedelic drugs
+\begin_inset Quotes erd
+\end_inset
+
+, written by 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Vollenweider2010"
+
+\end_inset
+
+, researchers at a Swiss lab responsible for much of the past and present
+ literature on psychedelic drugs.
+ It was published fiver years ago, in the September 2010 issue of 
+\emph on
+Nature Reviews Neuroscience
+\emph default
+.
+ Although no longer cutting edge, it is a comprehensive review bearing directly
+ on my research.
+ Article access costs $18; a year-long subscription to just
+\emph on
+ Nature Reviews Neuroscience
+\emph default
+ is $265.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{insert data on div!}
 \end_layout
 
 \end_inset
@@ -1472,9 +1392,107 @@ rewrite{and when we mean accessible, we mean the PDF version, probably in
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Interlibrary Loans are also an option, but take more time than
+ the digital era really requires, especially for reviews}
+\end_layout
+
+\end_inset
+
+Some journals I can access through institutional subscription; 
+\emph on
+Nature Reviews Neuroscience
+\emph default
+ is not one of them (although we do have access to 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{Nature} is paywalled back to 
+\backslash
+emph
+\backslash
+underline{{1867}}}
+\end_layout
+
+\end_inset
+
+
+\emph on
+Nature
+\emph default
+, the flagship journal).
+ In this case, because the paper is five years out of date, it is now hosted
+ on a variety of other sites.
+ If it was a newer article, however, or a copyright claim 
+\emph on
+Nature
+\emph default
+ pursued more vigorously, my resources would be more or less exhausted.
+\end_layout
+
+\begin_layout Plain Layout
+Luckily for me, I know someone who knows someone affiliated with 
+\begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{MIT}
+\end_layout
+
+\end_inset
+
+.
+ Very illegally but in the tradition of scholarship, gave me his 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{MIT}
+\end_layout
+
+\end_inset
+
+ information, enabling me to access a significantly wider array of journals
+ than otherwise possible.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{insert data that I made!}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
 We find that even with the institution-specific discounts re- sulting from
@@ -1518,18 +1536,21 @@ key "Engelward2007"
 
 \end_inset
 
- Advances in medical knowledge can be literally life-saving; if it were
- for any reason other than profit, denying information about health intervention
-s to nurses and doctors would have already been condemned as a human rights
- violation.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Yamey2008"
+ A Developments in ecology can immediately effect ecosystem management and
+ conservation policies
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{important of biology in conservation}
+\end_layout
 
 \end_inset
 
- Developments in ecology can immediately effect ecosystem management and
- conservation policies
+
 \begin_inset Note Note
 status collapsed
 
@@ -1557,6 +1578,18 @@ when he called conservation biology a crisis discipline, he meant that ours
 \end_inset
 
 ; materials science has implications for building and design.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{materials sciences for the world!}
+\end_layout
+
+\end_inset
+
  
 \begin_inset Note Note
 status collapsed
@@ -1570,27 +1603,46 @@ OA summaries of recent progress in healthcare translated into 40 local languages
 
 \end_inset
 
+ dvances in medical knowledge can be literally life-saving; if it were for
+ any reason other than profit, denying information about health interventions
+ to nurses and doctors would have already been condemned as a human rights
+ violation.
  Specifically, in the case of healthcare workers, barriers to accessing
- scientific literature:
+ scientific literature
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Yamey2008"
+
+\end_inset
+
+:
 \end_layout
 
 \begin_layout Enumerate
-Prevent healthcare workers from accessing information
+Prevent healthcare workers from accessing information,
 \end_layout
 
 \begin_layout Enumerate
-Prevent policy makers prevented from accessing info on building better systems
+Prevent policy makers from accessing info on building better systems,
 \end_layout
 
 \begin_layout Enumerate
 Impede research capacity and sustainable country-specific scientific development
+,
 \end_layout
 
 \begin_layout Enumerate
 Clinicians, health policy-makers, and researchers are unable to participate
- as equals in global science
+ as equals in global science, and
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+in a more complicated sense, contributes to the marginalization of Because
+ journals depend on payment from wealthy subscribers, medical journals
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 \begin_inset ERT
 status collapsed
@@ -1604,10 +1656,10 @@ rewrite{in own words}
 
 \end_inset
 
-subscription- based medical journals have shown so little interest in raising
- the profile of health problems in the developing world is that, to remain
- profitable, these journals are forced to publish materials that will appeal
- to readers who can pay.
+Because subscription-based medical journals rely on subscriber money have
+ shown so little interest in raising the profile of health problems in the
+ developing world is that, to remain profitable, these journals are forced
+ to publish materials that will appeal to readers who can pay.
 \end_layout
 
 \begin_layout Standard
@@ -1765,7 +1817,7 @@ doing
 \emph default
 all the science, receives no monetary kickback
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1790,7 +1842,7 @@ That's reasonable -- introducing financial incentives into the publishing
 \end_inset
 
 On the other hand, commercial publishers (which comprise around 50% of publisher
-s
+s, especially the higher-ranking journals
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Ware2012"
@@ -2013,7 +2065,7 @@ key "Jinha2010"
 
 ; a different method estimated 114 million documents on the web in 2013.
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2081,7 +2133,7 @@ key "Fraser2010"
 \begin_layout Standard
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
-key "Fraser2010"
+key "Fraser2010a"
 
 \end_inset
 
@@ -2093,7 +2145,7 @@ become expert
 \begin_inset Quotes erd
 \end_inset
 
- in the subspecialalty echocardiology, i.e.
+ in the subspecialty echocardiology, i.e.
  having read all the relevant papers, 
 \begin_inset Quotes eld
 \end_inset
@@ -2116,7 +2168,7 @@ key "Fraser2010"
 
  
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 To estimate the time that it might take a new entrant to the subspecialty
@@ -2549,37 +2601,25 @@ key "Figa-Talamanca2007a"
 \end_layout
 
 \begin_layout Standard
-Nominally, choosing papers to read and base future work on is based on relevance
- and applicability of the literature.
- There is, of course, a deluge of literature, and it's nigh-impossible to
- keep up with the flow of information.
- One technique employed by scientific audiences in deciding where to invest
- their reading time is the prestige rank of a journal; similarly, when choosing
+Nominally, choosing papers to read and base future work on is based on purely
+ the relevance and applicability of the literature.
+ However, given the nigh-impossibility of keeping up with everything, other
+ techniques come into play.
+ One strategy employed by scientific audiences in deciding where to invest
+ their reading time is the prestige of a journal; similarly, when choosing
  which journal will be the most beneficial venue for their work, those same
  rankings come into play.
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Most researchers acknowledge an intrinsic hierarchy in the scholarly journals
- (“journal rank”) that they submit their work to, adjusting not only their
- submission but their reading strategies accordingly.
-\begin_inset Quotes erd
-\end_inset
-
- 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Brembs2013"
 
 \end_inset
 
+ 
+\begin_inset Note Note
+status collapsed
 
-\end_layout
-
-\begin_layout Quote
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -2592,6 +2632,11 @@ The citation game has created distinct hierarchical relationships among
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Young2008"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -2613,15 +2658,16 @@ emph{Nature} mostly does bio? I have literally no idea}
 
 \end_inset
 
-Qualitatively, the top of the biology journal hierarchy is the 
+Qualitatively, the top of the journal hierarchy for most sciences is the
+ 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-
+biology-focused 
 \backslash
-emph{Cell}, 
+emph{Cell}, and the multidisciplinary 
 \backslash
 emph{Nature}, and 
 \backslash
@@ -2630,8 +2676,14 @@ emph{Science}
 
 \end_inset
 
- triumvirate; journals that are instantaneously recognizable and eminently
- reputable.
+ triumvirate;
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2006"
+
+\end_inset
+
+ journals that are instantaneously recognizable and eminently reputable.
  To get a
 \emph on
  Cell 
@@ -2879,17 +2931,9 @@ key "Abbott2010"
 \begin_layout Standard
 it nonetheless has serious consequences for the scientific ecosystem of
  research, hiring, grantsmanship, and publishing.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Abbot 2010 on metrics and researcher perception of their use; Adams
- 2002 on citation analysis and codified usage; Cameron 2005 trends in usage;
- Casadevall 2014; dong 2005 on the impact factor/usefulness}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Abbott2010,Adam2002,Casadevall2014,Dong2005,Cameron2005"
 
 \end_inset
 
@@ -3391,6 +3435,761 @@ key "Olby2003"
 \end_layout
 
 \begin_layout Section
+Publication bias
+\end_layout
+
+\begin_layout Quote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+negative results are more a result of wanting to be finished and complete;
+ does this protein interact or not? JoNR would act more as a wikipedia or
+ as a tiny reference site (we saw these results) rather than a Paper Publisher.
+\end_layout
+
+\end_inset
+
+Publication bias occurs when results of published studies are systematically
+ different from results of unpublished studies\SpecialChar \ldots{}
+Empirical research consistently
+ suggests that published work is more likely to be positive or statistically
+ significant than unpublished research.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+according to a cited 1993 study??].
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dwan2008,Emerson2010"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+What happens when a scientific project doesn't work? When do we keep pushing,
+ and how do we say 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+This
+\emph default
+ piece of evidence disproves our hypothesis
+\begin_inset Quotes erd
+\end_inset
+
+ and that does not? An experiment that is 
+\emph on
+not
+\emph default
+ working work (with regards to the current literature) lays its blame on
+ reagants, on the technical skill of those involved, on the time of year.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Of course, the time of year 
+\emph on
+is 
+\emph default
+a meaningful factor, re: Otto Loewi and acetylcholine in frogs
+\end_layout
+
+\end_inset
+
+ A negative result presents no signal to pick up on, no difference; without
+ the contrast between background and signal, the signal gets lost.
+ Statisically, we can't 
+\begin_inset Quotes eld
+\end_inset
+
+prove
+\begin_inset Quotes erd
+\end_inset
+
+ the null hypothesis; we can only say 
+\begin_inset Quotes eld
+\end_inset
+
+if it does exist, our methods are not sensitive enough to detect it.
+\begin_inset Quotes erd
+\end_inset
+
+ It's also, quite bluntly, not as exciting.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+graffito{the thing where we can really only see 
+\backslash
+emph{difference} so if we can't literally notice a difference it's not meaningfu
+l}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In part, this editorial dilemma reflects an inherent statis- tical constraint:
+ One can never prove the null hypothesis.
+ One can only say that no effect was observed in the ex- periments as performed.
+ One cannot conclude that effects would never occur under other conditions
+ or in other ex- periments.
+ Authors reporting negative findings should also expect their discussions
+ and conclusions to be read care- fully and critiqued rigorously to ensure
+ that they are not claiming to have proved the null hypothesis.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rockwell2006"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+t's hard for scientists to say 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+this 
+\emph default
+is the reason we're 
+\emph on
+not 
+\emph default
+succeeding
+\begin_inset Quotes erd
+\end_inset
+
+ because there's always more variables.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{positive publications bias}
+\end_layout
+
+\end_inset
+
+ I
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+n effect, the author is asked to prove a far-reaching failure to find an
+ effect when a significant effect under any condition would have been considered
+ interesting.
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Sara Rockwell}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As a result, the literature has a distinct bias towards positive results.
+ A 1991
+\emph on
+ Lancet
+\emph default
+ issue is typically cited as the first large-scale examination of the issue.
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor*
+key "Easterbrook1991"
+
+\end_inset
+
+ reviewed a set of clinical research trials, concluding:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Easterbrook1991"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Studies with statistically significant results were more likely to be published
+ than those finding no difference between the study groups\SpecialChar \ldots{}
+ Studies with
+ significant results were also more likely to lead to a greater number of
+ publications and presentations and to be published in journals with a high
+ citation impact factor.
+ An increased likelihood of publication was also associated with a high
+ rating by the investigator of the importance of the study results, and
+ with increasing sample size.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The tendency is usually referred to as the 
+\begin_inset Quotes eld
+\end_inset
+
+positive publication bias
+\begin_inset Quotes erd
+\end_inset
+
+, but it's might be more accurately described as bias towards 
+\emph on
+interesting 
+\emph default
+results: a high-profile study refuting another high-profile study can be
+ just as exciting as the first positive results were.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Luijendijk2012,Ioannidis2005b,Young2008"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+In clinical trials, there have been numerous initatives to address this
+ (i.e.
+ pre-registration with a promise to publish), but the problem remains.
+ The rest of the scientific literature is not much better.
+ Between 1990-2007, the proportion of papers with positive results has steadily
+ increased, starting at 70.2% in 1990 and ending at 85.9% in 2007.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2012"
+
+\end_inset
+
+ The positive publication bias is not limited to clinical trials or the
+ eternal scapegoat of psychology, although it clusters there.
+ The 'harder' sciences (e.g.
+ ecology
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jennions2002a,Miller2014"
+
+\end_inset
+
+, animal studies
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sena2010,Tsilidis2013"
+
+\end_inset
+
+,physics, molecular biology, and chemistry
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2012"
+
+\end_inset
+
+ show a similar,if decreasingly prevalent, trend.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2010a"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+graffito{Hierarchy of the Sciences: moving from simple and general phenomena
+ [harder] (e.g.
+ particle dynamics) to complex and particular [softer] (e.g.
+ human behaviour), researchers lose ability to reach theoretical and methodologi
+cal consensus.
+ - Fanelli 2013}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+he cracks will be there, they are just harder to spot because it is harder
+ to test research results through direct technological applications (such
+ as drugs) and straightforward indicators of desired outcomes (such as reduced
+ morbidity and mortality).
+ --sarewitz, 2012
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+********
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Timmermans2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Where does this stem from? On the one hand, researchers are likely to choose
+ research practices that lead to positive results, often without realizing
+ it (again, bad at statistics).
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Button2013,Hardwicke2014"
+
+\end_inset
+
+ This is particularly noticeable in fields with flexible and extensive data
+ processing, like 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{fMRI}
+\end_layout
+
+\end_inset
+
+.
+ In 243 papers, researchers chose the analysis method that makes the data
+ work, using almost as many analysis pipelines as there are data sets.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Carp2012"
+
+\end_inset
+
+ This pre-emptively biases scientific results, even before writing a paper.
+\end_layout
+
+\begin_layout Standard
+In additon, papers with negative (non-significant) results are less likely
+ to be published and receive, overall, less citations.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2010"
+
+\end_inset
+
+ This is in large part due to scientific reticence, with authors unwilling
+ to put in the necessary and extended effort in attempting to publish a
+ paper with negative results,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Song2013"
+
+\end_inset
+
+ instead focusing on 
+\begin_inset Quotes eld
+\end_inset
+
+wonderful
+\begin_inset Quotes erd
+\end_inset
+
+ results.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Calnan2006a"
+
+\end_inset
+
+ While journal editors show no bias in their acceptance of negative versus
+ positive results papers
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Olson2002a,Song2013"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{all citations from Senn2012, -- song2009 van Lent 2014}
+\end_layout
+
+\end_inset
+
+, this is perhaps more attributable to the fact that submitted negative
+ papers tend to be of higher quality rather than any editorial high-mindedness.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Senn2012"
+
+\end_inset
+
+ Peer reviewers are more likely to recommend a positive-results paper be
+ published, award positive-results papers better methodological scores,
+ are more critical of and detect more errors in papers with non-significant
+ results, and may request new or different forms of statistical analysis.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Emerson2010,Rockwell2006"
+
+\end_inset
+
+ As measured by citation rates, readers are less interested in negative
+ results papers
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jannot2013"
+
+\end_inset
+
+, and for-profit funders of larger-scale trials have a vested interest in
+ specific (positive) results, as in the case of industry-funded nicotine
+ and cigarette trials in the 1990s.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Turner1997a"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+File Drawer Effect
+\end_layout
+
+\begin_layout Standard
+Many studies in a given research area may be conducted, but are never reported
+ because of the publication bias.
+ This creates a set of journal articles largely unrepresentative of the
+ actual conclusions of conducted research.
+ In the extreme case, if the null hypothesis is 
+\begin_inset Quotes eld
+\end_inset
+
+true
+\begin_inset Quotes erd
+\end_inset
+
+ (i.e.
+ the relationship being studied does not exist), but the 5% of studies that
+ by 
+\emph on
+chance 
+\emph default
+show statistical significance are published, the rest of abandoned data
+ stays hidden in a researcher's file drawer.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Scargle2000"
+
+\end_inset
+
+ This biases the state of the field, and in 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+The file drawer effect, or file drawer problem, is that many studies in
+ a given area of research may be conducted but never reported, and those
+ that are not reported may on average report different results from those
+ that are reported.
+ An extreme scenario is that a given null hypothesis of interest is in fact
+ true, i.e.
+ the association being studied does not exist, but the 5% of studies that
+ by chance show a statistically significant result are published, while
+ the remaining 95% where the null hypothesis was not rejected languish in
+ researchers' file drawers.
+ Even a small number of studies lost "in the file drawer" can result in
+ a significant bias.
+\end_layout
+
+\begin_layout Quote
+\align right
+Wikipedia page on publication bias, re: file drawer effect
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Ioannidis2005"
+
+\end_inset
+
+'s words, 
+\begin_inset Quotes eld
+\end_inset
+
+claimed research findings may often be simply accurate measures of the prevailin
+g bias".
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2005"
+
+\end_inset
+
+ More realistically, this has serious consequences for synthesizing the
+ results of a given field, leading to an overestimation of effect sizes
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Levine2009,Jennings2012"
+
+\end_inset
+
+ and the continued wasted efforts based of researchers on papers that failed
+ to replicate, but never had the failed replication published.
+\end_layout
+
+\begin_layout Standard
+Science is, in theory, self-correcting.
+ Even if the initial conclusions are wrong, subsequent experimentation reveals
+ some of the limits and misinterpretations -- but only if it's published.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Young2008"
+
+\end_inset
+
+ The file drawer effect inteferes with this, by hiding the decline effect.
+ Because the first papers to describe results are often underpowered and
+ thus overexaggerate the magnitude of an effect, subsequent studies often
+ find non-significant results; because these are negatives, they are harder
+ to publish and self-correction takes longer.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schooler2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Other forms of dissemination
+\end_layout
+
+\begin_layout Standard
+Papers from the file drawer might see the light of day in other ways.
+ Results of research may also be presented at conferences, submitted to
+ clinical authorities, or shared privately between researchers; while these
+ count as communication of a sort, they have limited accessibility and reach,
+ and are typicallly not as straightforward as those published in peer-reviewed
+ journals.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Song2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+According to 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Ioannidis2005"
+
+\end_inset
+
+, negative papers are most likely to be suppressed when:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2005,Young2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+studies conducted in a field are smaller 
+\end_layout
+
+\begin_layout Itemize
+effect sizes are smaller 
+\end_layout
+
+\begin_layout Itemize
+there is a greater number and lesser preselection of tested relationships
+\end_layout
+
+\begin_layout Itemize
+there is greater flexibility in designs, definitions, outcomes, and analytical
+ modes 
+\end_layout
+
+\begin_layout Itemize
+there is greater financial and other interest and prejudice 
+\end_layout
+
+\begin_layout Itemize
+more teams are involved in a scientific field in chase of statistical significan
+ce
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+In the basic biological sciences, statistical considerations are secondary
+ or nonexistent, results entirely unpredicted by hypotheses are celebrated,
+ and there are few formal rules for reproducibility\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+A signaling benefit from the market—good scientists being identified by
+ their positive results—may be more powerful in the basic biological sciences
+ than in clinical research, where the consequences of incorrect assessment
+ of positive results are more dire.
+ 
+\end_layout
+
+\begin_layout Quote
+As with clinical research, prominent claims sometimes disappear over time.
+ If a posteriori considerations are met sceptically in clinical research,
+ in basic biology they dominate.
+\end_layout
+
+\begin_layout Quote
+\SpecialChar \ldots{}
+Negative data are not necessarily different than positive results as related
+ to considerations of experimental design, execution, or importance.
+ Much data are never formally refuted in print, but most promising preclinical
+ work eventually fails to translate to clinical benefit\SpecialChar \ldots{}
+Worse, in the course
+ of ongoing experimentation, apparently negative studies are abandoned premature
+ly as wasteful.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Young2008"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+The 
+\emph on
+de facto
+\emph default
+ dissemination system for scholarly production, is not representative of
+ the research that's actually happening, which naturally has consequences
+ for the theories we test going forwards.
+ 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+this is all solved by study replication, open data, lab notebooks, pre-registrat
+ion of studies......................right?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Reproducibility 
 \end_layout
 
@@ -3594,12 +4393,8 @@ key "Moonesinghe2007"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-More than just statistical theorizing, researchers regularly encounter similar
- hurdles.
+ More than just statistical theorizing, researchers regularly encounter
+ similar hurdles.
  In a survey, ~50% of respondents responded that they had difficulty reproducing
  at least one set of published results
 \begin_inset CommandInset citation
@@ -3631,16 +4426,10 @@ key "Barrows2010"
 
 \end_inset
 
- Animal research consisently differes in translation to clinical trials
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{perel 2007}
-\end_layout
+ Animal research consisently differes in translation to clinical trials.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Perel2007"
 
 \end_inset
 
@@ -3672,7 +4461,7 @@ status collapsed
 
 
 \backslash
-graffito{with regard to increasing 
+graffito{Drug developments costs increasing largely due to 
 \backslash
 ac{FDA} restrictions} 
 \end_layout
@@ -3736,7 +4525,8 @@ ts separated by 5 months), there were substantial variations, as the intra-
 \end_layout
 
 \begin_layout Standard
-To be fair, most researchers know how, well, temperamental science can be.
+In many other ways, however, most researchers know how temperamental science
+ can be.
 \begin_inset ERT
 status collapsed
 
@@ -4197,773 +4987,6 @@ key "Wicherts2011"
 \end_inset
 
 )
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Publication bias
-\end_layout
-
-\begin_layout Quote
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-negative results are more a result of wanting to be finished and complete;
- does this protein interact or not? JoNR would act more as a wikipedia or
- as a tiny reference site (we saw these results) rather than a Paper Publisher.
-\end_layout
-
-\end_inset
-
-Publication bias occurs when results of published studies are systematically
- different from results of unpublished studies\SpecialChar \ldots{}
-Empirical research consistently
- suggests that published work is more likely to be positive or statistically
- significant than unpublished research.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-according to a cited 1993 study??].
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Dwan2008,Emerson2010"
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-What happens when a scientific project doesn't work? When do we keep pushing,
- and how do we say 
-\begin_inset Quotes eld
-\end_inset
-
-
-\emph on
-This
-\emph default
- piece of evidence disproves our hypothesis
-\begin_inset Quotes erd
-\end_inset
-
- and that does not? An experiment that is 
-\emph on
-not
-\emph default
- working work (with regards to the current literature) lays its blame on
- reagants, on the technical skill of those involved, on the time of year.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Of course, the time of year 
-\emph on
-is 
-\emph default
-a meaningful factor, re: Otto Loewi and acetylcholine in frogs
-\end_layout
-
-\end_inset
-
- A negative result presents no signal to pick up on, no difference; without
- the contrast between background and signal, the signal gets lost.
- Statisically, we can't 
-\begin_inset Quotes eld
-\end_inset
-
-prove
-\begin_inset Quotes erd
-\end_inset
-
- the null hypothesis; we can only say 
-\begin_inset Quotes eld
-\end_inset
-
-if it does exist, our methods are not sensitive enough to detect it.
-\begin_inset Quotes erd
-\end_inset
-
- It's also, quite bluntly, not as exciting.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-graffito{the thing where we can really only see 
-\backslash
-emph{difference} so if we can't literally notice a difference it's not meaningfu
-l}
-\end_layout
-
-\end_inset
-
- 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-In part, this editorial dilemma reflects an inherent statis- tical constraint:
- One can never prove the null hypothesis.
- One can only say that no effect was observed in the ex- periments as performed.
- One cannot conclude that effects would never occur under other conditions
- or in other ex- periments.
- Authors reporting negative findings should also expect their discussions
- and conclusions to be read care- fully and critiqued rigorously to ensure
- that they are not claiming to have proved the null hypothesis.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Rockwell2006"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-t's hard for scientists to say 
-\begin_inset Quotes eld
-\end_inset
-
-
-\emph on
-this 
-\emph default
-is the reason we're 
-\emph on
-not 
-\emph default
-succeeding
-\begin_inset Quotes erd
-\end_inset
-
- because there's always more variables.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{positive publications bias}
-\end_layout
-
-\end_inset
-
- I
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-n effect, the author is asked to prove a far-reaching failure to find an
- effect when a significant effect under any condition would have been considered
- interesting.
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Sara Rockwell}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-As a result, the literature has a distinct bias towards positive results.
- A 1991
-\emph on
- Lancet
-\emph default
- issue is typically cited as the first large-scale examination of the issue.
- 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Easterbrook1991"
-
-\end_inset
-
- reviewed a set of clinical research trials, concluding:
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Easterbrook1991"
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Studies with statistically significant results were more likely to be published
- than those finding no difference between the study groups\SpecialChar \ldots{}
- Studies with
- significant results were also more likely to lead to a greater number of
- publications and presentations and to be published in journals with a high
- citation impact factor.
- An increased likelihood of publication was also associated with a high
- rating by the investigator of the importance of the study results, and
- with increasing sample size.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The tendency is usually referred to as the 
-\begin_inset Quotes eld
-\end_inset
-
-positive publication bias
-\begin_inset Quotes erd
-\end_inset
-
-, but it's might be more accurately described as bias towards 
-\emph on
-interesting 
-\emph default
-results: a high-profile study refuting another high-profile study can be
- just as exciting as the first positive results were.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Luijendijk2012,Ioannidis2005b,Young2008"
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-In clinical trials, there have been numerous initatives to address this
- (i.e.
- pre-registration with a promise to publish), but the problem remains.
- The rest of the scientific literature is not much better.
- Between 1990-2007, the proportion of papers with positive results has steadily
- increased, starting at 70.2% in 1990 and ending at 85.9% in 2007.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fanelli2012"
-
-\end_inset
-
- The positive publication bias is not limited to clinical trials or the
- eternal scapegoat of psychology, although it clusters there.
- The 'harder' sciences (e.g.
- ecology
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Jennions2002a,Miller2014"
-
-\end_inset
-
-, animal studies
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Sena2010,Tsilidis2013"
-
-\end_inset
-
-,physics, molecular biology, and chemistry
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fanelli2012"
-
-\end_inset
-
- show a similar,if decreasingly prevalent, trend.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fanelli2010a"
-
-\end_inset
-
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-graffito{Hierarchy of the Sciences: moving from simple and general phenomena
- [harder] (e.g.
- particle dynamics) to complex and particular [softer] (e.g.
- human behaviour), researchers lose ability to reach theoretical and methodologi
-cal consensus.
- - Fanelli 2013}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-he cracks will be there, they are just harder to spot because it is harder
- to test research results through direct technological applications (such
- as drugs) and straightforward indicators of desired outcomes (such as reduced
- morbidity and mortality).
- --sarewitz, 2012
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-********
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Timmermans2011"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace defskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Where does this stem from? On the one hand, researchers are likely to choose
- research practices that lead to positive results, often without realizing
- it (again, bad at statistics).
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Button2013,Hardwicke2014"
-
-\end_inset
-
- This is particularly noticeable in fields with flexible and extensive data
- processing pipelines, like 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{fMRI}
-\end_layout
-
-\end_inset
-
-.
- In 243 papers, researchers chose the analysis method that makes the data
- work, leading to almost as many analysis pipelines as there are data sets.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Carp2012"
-
-\end_inset
-
- This pre-emptively biases scientific results, even before writing a paper.
-\end_layout
-
-\begin_layout Standard
-In additon, papers with negative (non-significant) results are less likely
- to be published and receive, overall, less citations.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fanelli2010"
-
-\end_inset
-
- This is in large part due to scientific reticence, with authors unwilling
- to put in the necessary and extended effort in attempting to publish a
- paper with negative results,
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Song2013"
-
-\end_inset
-
- instead focusing on 
-\begin_inset Quotes eld
-\end_inset
-
-wonderful
-\begin_inset Quotes erd
-\end_inset
-
- results.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Calnan2006a"
-
-\end_inset
-
- While journal editors show no bias in their acceptance of negative versus
- positive results papers
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Olson2002a,Song2013"
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{all citations from Senn2012, -- song2009 van Lent 2014}
-\end_layout
-
-\end_inset
-
-, this is perhaps more attributable to the fact that submitted negative
- papers tend to be of higher quality rather than any editorial high-mindedness.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{senn2012, misunderstanding publication bias}
-\end_layout
-
-\end_inset
-
- Peer reviewers are more likely to recommend a positive-results paper be
- published, award positive-results papers better methodological scores,
- are more critical of and detect more errors in papers with non-significant
- results, and may request new or different forms of statistical analysis.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Emerson2010,Rockwell2006"
-
-\end_inset
-
- As measured by citation rates, readers are less interested in negative
- results papers
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Jannot2013"
-
-\end_inset
-
-, and for-profit funders of larger-scale trials have a vested interest in
- specific (positive) results, as in the case of industry-funded nicotine
- and cigarette trials in the 1990s.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Turner1997a"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-File Drawer Effect
-\end_layout
-
-\begin_layout Standard
-Many studies in a given research area may be conducted, but are never reported
- because of the publication bias.
- This creates a set of journal articles largely unrepresentative of the
- actual conclusions of conducted research.
- In the extreme case, if the null hypothesis is 
-\begin_inset Quotes eld
-\end_inset
-
-true
-\begin_inset Quotes erd
-\end_inset
-
- (i.e.
- the relationship being studied does not exist), but the 5% of studies that
- by 
-\emph on
-chance 
-\emph default
-show statistical significance are published, the rest of abandoned data
- stays hidden in a researcher's file drawer.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Scargle2000"
-
-\end_inset
-
- This biases the state of the field, and in 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-The file drawer effect, or file drawer problem, is that many studies in
- a given area of research may be conducted but never reported, and those
- that are not reported may on average report different results from those
- that are reported.
- An extreme scenario is that a given null hypothesis of interest is in fact
- true, i.e.
- the association being studied does not exist, but the 5% of studies that
- by chance show a statistically significant result are published, while
- the remaining 95% where the null hypothesis was not rejected languish in
- researchers' file drawers.
- Even a small number of studies lost "in the file drawer" can result in
- a significant bias.
-\end_layout
-
-\begin_layout Quote
-\align right
-Wikipedia page on publication bias, re: file drawer effect
-\end_layout
-
-\end_inset
-
- 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Ioannidis2005"
-
-\end_inset
-
-'s words, 
-\begin_inset Quotes eld
-\end_inset
-
-claimed research findings may often be simply accurate measures of the prevailin
-g bias".
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Ioannidis2005"
-
-\end_inset
-
- More realistically, this has serious consequences for synthesizing the
- results of a given field, leading to an overestimation of effect sizes
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Levine2009,Jennings2012"
-
-\end_inset
-
- and the continued wasted efforts based of researchers on papers that failed
- to replicate, but never had the failed replication published.
-\end_layout
-
-\begin_layout Standard
-Science is, in theory, self-correcting.
- Even if the initial conclusions are wrong, subsequent experimentation reveals
- some of the limits and misinterpretations -- but only if it's published.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Young2008"
-
-\end_inset
-
- The file drawer effect inteferes with this, by hiding the decline effect.
- Because the first papers to describe results are often underpowered and
- thus overexaggerate the magnitude of an effect, subsequent studies often
- find non-significant results; because these are negatives, they are harder
- to publish and self-correction takes longer.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Schooler2011"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Other forms of dissemination
-\end_layout
-
-\begin_layout Standard
-Papers from the file drawer might see the light of day in other ways.
- Results of research may also be presented at conferences, submitted to
- clinical authorities, or shared privately between researchers; while these
- count as communication of a sort, they have limited accessibility and reach,
- and are typicallly not as straightforward as those published in peer-reviewed
- journals.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Song2013 - publication bias: what is it?}
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-According to 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Ioannidis2005"
-
-\end_inset
-
-, negative papers are most likely to be suppressed when:
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Ioannidis2005,Young2008"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-studies conducted in a field are smaller 
-\end_layout
-
-\begin_layout Itemize
-effect sizes are smaller 
-\end_layout
-
-\begin_layout Itemize
-there is a greater number and lesser preselection of tested relationships
-\end_layout
-
-\begin_layout Itemize
-there is greater flexibility in designs, definitions, outcomes, and analytical
- modes 
-\end_layout
-
-\begin_layout Itemize
-there is greater financial and other interest and prejudice 
-\end_layout
-
-\begin_layout Itemize
-more teams are involved in a scientific field in chase of statistical significan
-ce
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-In the basic biological sciences, statistical considerations are secondary
- or nonexistent, results entirely unpredicted by hypotheses are celebrated,
- and there are few formal rules for reproducibility\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Quote
-A signaling benefit from the market—good scientists being identified by
- their positive results—may be more powerful in the basic biological sciences
- than in clinical research, where the consequences of incorrect assessment
- of positive results are more dire.
- 
-\end_layout
-
-\begin_layout Quote
-As with clinical research, prominent claims sometimes disappear over time.
- If a posteriori considerations are met sceptically in clinical research,
- in basic biology they dominate.
-\end_layout
-
-\begin_layout Quote
-\SpecialChar \ldots{}
-Negative data are not necessarily different than positive results as related
- to considerations of experimental design, execution, or importance.
- Much data are never formally refuted in print, but most promising preclinical
- work eventually fails to translate to clinical benefit\SpecialChar \ldots{}
-Worse, in the course
- of ongoing experimentation, apparently negative studies are abandoned premature
-ly as wasteful.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Young2008"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-The 
-\emph on
-de facto
-\emph default
- dissemination system for scholarly production, is not representative of
- the research that's actually happening, which naturally has consequences
- for the theories we test going forwards.
- 
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-this is all solved by study replication, open data, lab notebooks, pre-registrat
-ion of studies......................right?
 \end_layout
 
 \end_inset
@@ -5503,31 +5526,17 @@ STAP, everybody!
 , retractions are usually due to high-profile fraud.
  In less obvious cases, however, retracted papers continue to be cited long
  after their nominal removal.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{longevity of retracted papers}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-*****And retracted research doesn't go away, per 
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Davis2012"
 
 \end_inset
 
+ 
+\end_layout
 
+\begin_layout Standard
+*****And retracted research doesn't go away, per 
 \end_layout
 
 \begin_layout Section
