@@ -671,24 +671,31 @@ All parties were deeply and irrevocably shaped by the anti-black racism
  in the post-Civil War Jim Crow era that continue, in various forms, into
  the modern day.
  The most critical part of this, for us, is that these researchers genuinely
- believed in what they were doing.
+ believed in what they were doing, and they were backed by the scientific
+ community.
+ After the initiation of the study in 1932, reports were published every
+ two years in 
+\emph on
+JAMA.
+
+\emph default
  
-\begin_inset Note Note
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-The cultural context, the specific moment of 1932, Alabama, tthis was conducted
- with the support of a branch of government and headed by syphilis experts
- of the time; , beliefs that were bolstered and interwoven with the science
- of the times.
+
+
+\backslash
+graffito{JAMA: The Journal of the American Medical Association}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
+ While peer-review may not have been implemented at the time, editors still
+ made the decision to publish.
+ The details of the study were available for the medical community starting
+ in 1936
 \begin_inset ERT
 status open
 
@@ -696,15 +703,26 @@ status open
 
 
 \backslash
-todo[inline]{Reports were also published every two years by JAMA, so like,
- this wasn't HIDDEN.
- Many people saw and discussed this thing.
- Complicity of the scientific establishment}
+findref{Vonderlehr 1936
 \end_layout
 
 \end_inset
 
+, with 10 more by 1964.
+\begin_inset ERT
+status open
 
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Rockwell 1964}
+\end_layout
+
+\end_inset
+
+ This was not hidden to the scientific community, yet it took a whistleblower
+ and a Congressional Hearing to get it stopped.
 \end_layout
 
 \begin_layout Subsection
