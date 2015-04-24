@@ -1046,15 +1046,13 @@ The modern scientific system began in an era of European colonialism, with
 \begin_layout Standard
 The Scientific Revolution was enabled by and allowed the continuing expansion
  of European powers into the rest of the world.
- 
-\end_layout
-
-\begin_layout Standard
-For much of early European missions, malaria proved an insurmountable hurdle
+ Take, for example, malaria.
+ For much of early European missions, malaria proved an insurmountable hurdle
  to the troops of colonial powers.
  The interior of Africa and the swampy Chinese coast were rife with mosquitos
  and their disease; troops died due to disease and infection at a rate many
  times higher than actual warfare.
+ 
 \begin_inset ERT
 status collapsed
 
@@ -1067,24 +1065,20 @@ findref{thatfucking book from the fucking summer}
 
 \end_inset
 
- Those same colonial missions of research, proselytizing, or conquering
- were accompanied by botanical missions.
+ The same colonial missions of research, proselytizing, and conquering were
+ accompanied by botanical missions and collections.
  Eventually, Europeans, via the acquired medical knowledge of Jesuit missionarie
 s in South America, came into contact with the Peruvian bark of the cinchona
- tree, which contains quinine, one of the earliest treatments for malaria.
+ tree.
+ The bark contains quinine, one of the earliest effective treatments for
+ malaria.
  The discovery, classification, and medically-useful malarial treatment
  allowed the penetration of European troops into hitherto inaccessible areas.
- 
-\end_layout
-
-\begin_layout Standard
-The Scientific Revolution enabled and fed on the expansion of European powers
- into new territory.
 \end_layout
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1097,21 +1091,25 @@ research{scientific imperialism, bioprospecting, new forms}
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
 graffito{western expansionism has not stopped, merely transmuted.}
 \end_layout
 
 \end_inset
 
- 
-\end_layout
-
-\begin_layout Standard
+ Closer to home, racism -- the peculiar brand of American racism, derived
+ from slave-owners desperate to justify their brutality of human bondage
+ -- was created through the collusion of science and society, specifically
+ a science that carefully cataloged and characterized the way black men
+ and women differed, and were therefore lesser, than White slaveholders.
+ Darwin's great proposal of evolution let scientists justify the status
+ quo (White men, White Women, Black men, Black women, in that order) as
+ a mere consequence of natural selection.
 \begin_inset ERT
 status collapsed
 
@@ -1119,26 +1117,49 @@ status collapsed
 
 
 \backslash
-todo[inline]{Discovery of the 'cure' for malaria (by indigenous tribes in
- the Amazon, transferred to the Jesuit, and eventually the expanding European
- empires) allowed European nations to make inroads into tropical areas,
- as their soldiers were no longer dying at the prodigious rates.}
+findref{Stepan, 1986}
 \end_layout
 
 \end_inset
 
-Racism -- the peculiar brand of American racism, derived from slave-owners
- desperate to justify their brutality of human bondage -- was created through
- the collusion of science and society, specifically a science that carefully
- cataloged and characterized the way black men and women differed, and were
- therefore lesser, than White slaveholders.
- Darwin's great proposal of evolution let scientists justify the status
- quo (White men, White Women, Black men, Black women, in that order) as
- a mere consequence of natural selection.
+
 \end_layout
 
 \begin_layout Standard
 That was the 40's and 50's -- today, we have genetic surveillance.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{genetic surveillance?}
+\end_layout
+
+\end_inset
+
+ Genetic information is increasingly part of publically accessible medical
+ records.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{collection of medical information and privacy concerns}
+\end_layout
+
+\end_inset
+
+ Police in the some areas of the United States and in the United Kingdown
+ have the legal right to collect blood samples without warrant or permission,
+ not only after a conviction, but after merely an arrest, or in some cases,
+ from the family members of suspected criminals.
+ The disproportionate arrest and imprisonment of black men means that in
+ the U.K, i2006, 77% of black men aged fifteen to thirty-five, compared with
+ only 6% of white men.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Roberts2011"
@@ -1146,19 +1167,6 @@ key "Roberts2011"
 \end_inset
 
  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{genetic surveillance, 1000 genomes project}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1175,9 +1183,7 @@ todo{we can't say it's genetic OR cultural, needs to hold a tension of like
 
 \end_inset
 
- We have the sciences of homosexuality: if being gay is a genetic inheritance,
- then we should be careful to screen our pre-natal children and not allow
- gay men to donate sperm.
+ We have the sciences of homosexuality
 \begin_inset ERT
 status collapsed
 
@@ -1185,12 +1191,14 @@ status collapsed
 
 
 \backslash
-graffito{intentionally focused on gay Men because patriarchy}
+graffito{and a sciences of homosexuality focused on homosexual men, not
+ women, not bisexuals, and not trans folks}
 \end_layout
 
 \end_inset
 
-.
+: if being gay is a genetic inheritance, then we should be careful to screen
+ our pre-natal children and not allow gay men to donate sperm..
  If it's cultural, we should be more careful to police the kind of culture
  we give our children, carefully isolating them in heterosexual spaces.
  We can cure the queers, if only we knew 
@@ -1198,6 +1206,19 @@ graffito{intentionally focused on gay Men because patriarchy}
 why
 \emph default
  they were homosexual.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{o'riordan, gay gene
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -1209,9 +1230,6 @@ to be gay, you must have some mutation frm the norm -- bc heterosexual is
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -1226,8 +1244,12 @@ todo[inline]{Trans bodies have entered the neuroscientific sphere -- brain
 
 \end_inset
 
- The scientific heritage, the accumulated knowledge upon which we build
- our futures, is not exempt from criticism more commonly leveled at explicitly
+
+\end_layout
+
+\begin_layout Standard
+The scientific heritage, the accumulated knowledge upon which we build our
+ futures, is not exempt from criticism more commonly leveled at explicitly
  political institutions.
  At the same time, the undeniable power of science and technology to do
  
@@ -1267,23 +1289,7 @@ basic
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo[inline]{Oppenheimer and physics awakening to responsibility}
-\end_layout
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo[inline]{brain imaging and designing for consent?}
-\end_layout
-
+\begin_inset VSpace defskip
 \end_inset
 
 
@@ -1303,8 +1309,7 @@ Feminist Theory
 \begin_layout Quote
 \align right
 
-\series bold
-\size large
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -1318,7 +1323,7 @@ Questioning representation with a vengeance.
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -1470,7 +1475,7 @@ New ways of knowing overlaps with technology and science studies overlaps
 
 \end_inset
 
-What I now call feminist science studies emerges out of academic feminist
+ What I now call feminist science studies emerges out of academic feminist
  and activists against white supremacy, patriarchy, heteronormativity, and
  ecological destruction working on ways to critique science as a social
  institution, and using that critique to forge new ways of asking and answering
@@ -1498,22 +1503,22 @@ key "Richardson2010"
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-for an a+ overview}
+}
 \end_layout
 
 \end_inset
 
-
+Feminist science studies is then, like most fields, at confluence of many
+ networks.
+ 
 \end_layout
 
 \begin_layout Standard
-Feminist science studies is then, like most fields, at confluence of many
- networks.
- Donna Haraway's 
+Donna Haraway's 
 \emph on
 Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies 
 \emph default
