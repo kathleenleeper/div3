@@ -2595,13 +2595,14 @@ todo[inline]{langlitz on the unspoken kinds of knowing in psych research}
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subparagraph
 Shame -- maybe?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 There's also a distinct feeling of shame, to some extent 
 \begin_inset Quotes eld
 \end_inset
@@ -2620,7 +2621,7 @@ ch artists and creatives.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 If they must study psychedelics, 
 \begin_inset ERT
 status open
@@ -2661,7 +2662,7 @@ ac{LSD}
 Sharing Experiences
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 People want to share their stories.
  Making 
 \begin_inset ERT
@@ -2683,7 +2684,7 @@ ac{LSD}
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -2699,7 +2700,12 @@ todo{how many people use drugs? percentage wise?}
 I regret not formally interviewing people about how they interact with drugs
  and incorporating those stories into this section.
  For better or for worse, drug use -- and psychedelics specifically -- have
- and continue to shape the people and relationships around me.
+ and continue to shape the people and relationships around me.n
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
