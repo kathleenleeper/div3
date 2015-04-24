@@ -358,26 +358,14 @@ bio
 
 \begin_layout Standard
 In other words, deviations from the norm is now not just a psychiatric issue
- of bad morals or childhood influences, as the diagnos but a chemical problem
- to be solved by chemical means.
+ of bad morals or childhood influences, but a chemical problem to be solved
+ by chemical means.
+ This is not all good or all bad, but it is notable.
 \end_layout
 
 \begin_layout Standard
-Psychedelics, upon their
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{article on the decreasing importance of the DSM and increasing biological
- explanations for psych}
-\end_layout
-
-\end_inset
-
- their initial scientific appearance (
+The initial scientific appearance of psychedelics focused on medical-military
+ psychological explorations (
 \begin_inset ERT
 status collapsed
 
@@ -416,8 +404,7 @@ todo{history of research on addiction treatment}
 
 \end_inset
 
-) focused on medical-military applications, with the belief that the subjective
- experience was key to their outcomes.
+), with the belief that the subjective experience was key to their outcomes.
  Regardless of their goals, the projects were not molecularly-focused.
 \begin_inset ERT
 status collapsed
@@ -488,8 +475,8 @@ There is a lack of accepted safety for use of the drug or other substance
 
 \begin_layout Standard
 The increasing use of these drugs and the revival of psychedelic research
- is (possibly?) tied to the trends of pharmacologically-mediated interventions
- into the lives of those with 
+ is tied to the trends of pharmacologically-mediated interventions into
+ the lives of those with 
 \begin_inset ERT
 status open
 
@@ -503,22 +490,10 @@ ac{PTSD}
 \end_inset
 
 , addictions, and depression.
- Changing medical boundaries -- what is andla is not 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{ADHD}
-\end_layout
-
-\end_inset
-
-, and the increased focus on the mind as a site of intervention -- give
- psychedelics a new biomedical effect; not for their consciousness-altering
- properties, 
+ Changing medical boundaries -- what is and is not a molecular problem,
+ and the increased focus on the mind as a site of intervention -- give psychedel
+ics a new biomedical effect, not for their consciousness-altering properties,
+ 
 \begin_inset ERT
 status collapsed
 
@@ -531,7 +506,7 @@ todo{why did they THINK psychs would work?}
 
 \end_inset
 
-but rather for their specific signalling pathways.
+but rather for their specific neuro-molecular effects.
  The quest is not to cure alocholism through enlighment, but to specifically
  biomedically mediate the complex interactions of 
 \begin_inset Quotes eld
@@ -544,13 +519,63 @@ natural
  chemical makeup and interactions with alcohol.
 \end_layout
 
+\begin_layout Subsubsection
+complicating epigenetics
+\end_layout
+
+\begin_layout Quote
+I then illustrate how current research into Alzheimer’s disease uses a reduction
+istic approach, despite epigenetic findings in this field that make the
+ shortcomings of reductionism clear.
+ In order to transcend the somatic reductionism associated with epigenetics,
+ drawing on concepts of local biologies and embedded bodies, anthropologists
+ can carry out research in which epigenetic findings are contextualized
+ in the specific historical, socio=political, and environmental realities
+ of lived experience.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lock2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smith2004"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subparagraph
 personalized and precision medicines
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In fact, if the study is federally funded, in some cases the scientist must
+ share the information.-- re genome data
+\end_layout
+
+\end_inset
+
 The new place of psychedelics as chemical rather than psyche manipulations
- fits nicely in with a growing trend.
+ fits nicely in with the growing trend of 
+\begin_inset Quotes eld
+\end_inset
+
+personalized
+\begin_inset Quotes erd
+\end_inset
+
+ medicine.
  Personalized medicine relies on genomic information to tailor medical treatment
 s and drug cocktails.
 \begin_inset ERT
@@ -580,14 +605,26 @@ an emerging approach for disease treatment and prevention that takes into
 \begin_inset Quotes erd
 \end_inset
 
+
+\begin_inset Newline newline
+\end_inset
+
  (http://www.nih.gov/precisionmedicine/, accessed 04/08/2015)
 \end_layout
 
 \begin_layout Standard
-Personalized medicine; or personalized neuroscience is still a way of reducing
- the individual to the cellular and genomic information, without accounting
- for personhood.
- Personalized medicine
+Personalized medicine; or in some cases personalized neuroscience, is still
+ a way of reducing the individual to the cellular and genomic information,
+ without accounting for personhood.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Personalized
+\emph default
+ medicine
 \begin_inset Quotes erd
 \end_inset
 
@@ -596,7 +633,91 @@ Personalized medicine; or personalized neuroscience is still a way of reducing
 \end_layout
 
 \begin_layout Standard
-For psychedelics, we might reference the discipline of pharmacogenetics.
+For psychedelics, we might reference the discipline of pharmacogenetics
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Winquist2014"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jones2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vrecko2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+biopower/control of bodies 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{cooter stein 2010, cracking biopower}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+complicating medicalizaidon
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fainzang2013,Parens2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+the rise of neuroscience
+\end_layout
+
+\begin_layout Standard
+translationalional research 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brosnan2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Almost 10 years ago, Steven Rose (2005) pointed out that “the global scale
+ of research effort now put into the neurosciences primarily in the US,
+ but closely followed by Europe and Japan, has turned them from classical
+ ‘little sci- ences’, into a major industry engaging large teams of researchers,
+ involving billions of dollars from government.
+ .
+ .and the phar- maceutical industry”
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fitzgerald2014"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
@@ -1039,6 +1160,17 @@ Erowid does not, unlike the scientific literature, paint the potential of
 \end_layout
 
 \begin_layout Standard
+pharmacovigilance 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Langlitz2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -1110,7 +1242,7 @@ todo{and thus reinforcement of academic-casual hierarchies}
 , the use, during literally all of recorded human history, is a footnote
  to the real research.
  Despite centuries of commerce underlying the shamanistic-therapeutic ayahuasca
- ceremonies,
+ ceremonies
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Highpine2013"
@@ -1118,6 +1250,47 @@ key "Highpine2013"
 \end_inset
 
  
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Quotes eld
+\end_inset
+
+Randomized controlled crime
+\begin_inset Quotes erd
+\end_inset
+
+: patents and active ingredients
+\end_layout
+
+\begin_layout Standard
+measuring the efficiccy of traditional medicine;
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Adams2002"
+
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+pharmacetuical medical truth seeking
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+need to pay attention to indigenous plants
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Halberstein2005"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1516,6 +1689,16 @@ The framing of the problem affects the solution, and vice versa.
  (Bio)medicalization of mental health can be empowering -- attributing clinical
  depression to a chemical imbalance can be a helpful way to move forward,
  instead of blaming theselves.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pickersgill2009,Pickersgill2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subparagraph
@@ -2764,6 +2947,38 @@ status collapsed
 Anne Fausto-Sterling, and many others, talk about knowledge outside the
  academy -- communal, social, and indigenous knowledges.
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Therapies
+\end_layout
+
+\begin_layout Subsubsection
+Reviews
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Baumeister2014,Bogenschutz2012,Brandt2012,Fantegrossi2008,Johansen2015,Krebs2012,Krebs2013,Lee2012,Metzner1998,Quesseveur2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Ayahuasca
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Barbosa2012"
 
 \end_inset
 
