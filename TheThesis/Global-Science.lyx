@@ -684,33 +684,8 @@ Science
 \end_layout
 
 \begin_layout Standard
-As the category used here, 
-\begin_inset Quotes eld
-\end_inset
-
-science
-\begin_inset Quotes erd
-\end_inset
-
- plays representative to the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{STEM}
-\end_layout
-
-\end_inset
-
- fields, focusing largely on bio/medical research and clinical applications,
- although not exclusively.
-\end_layout
-
-\begin_layout Standard
-This focus derives largely from where meta-research has been done.
+The focus on biomedical literature in representatino derives largely from
+ where meta-research has been done.
  Clinical trials are 
 \begin_inset ERT
 status collapsed
@@ -736,7 +711,7 @@ developed
 \begin_inset Quotes erd
 \end_inset
 
-country is clearly not particualrly generalizable to a country with a completely
+country is clearly not particularly generalizable to a country with a completely
  different infrastracture.
  That's just good science; of 
 \emph on
@@ -848,159 +823,6 @@ research{science without internet}
 \end_layout
 
 \end_deeper
-\begin_layout Subparagraph
-Global divides 
-\end_layout
-
-\begin_layout Standard
-There is a widely-acknowledged economic, and corresponding scientific, gap
- between areas of the world.
- During the Soviet era, this was a West-East or First/Second/Third world
- split.
- In 1949, Harry Truman used the term 
-\begin_inset Quotes eld
-\end_inset
-
-areas needing development,
-\begin_inset Quotes erd
-\end_inset
-
- and for many years, the divide was between developed and developing countries.
- 
-\end_layout
-
-\begin_layout Standard
-While the 
-\begin_inset Quotes eld
-\end_inset
-
-divide
-\begin_inset Quotes erd
-\end_inset
-
- itself is as porous as any binary
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{too casual a reference to fucking binaries?}
-\end_layout
-
-\end_inset
-
-, and subject to uncountable caveats, we need some term to reference the
- different research capacities.
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-overlooks the highly heterogeneous socio-political, cultural and economic
- diversity within and between countries 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{chan and costa 2005}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-\begin_inset Quotes eld
-\end_inset
-
-Global
-\begin_inset space ~
-\end_inset
-
-South
-\begin_inset Quotes erd
-\end_inset
-
- is the currently used term, without many of the hierarchal connotations
- of 
-\begin_inset Quotes eld
-\end_inset
-
-developing world
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-Third world.
-\begin_inset Quotes erd
-\end_inset
-
- It divides the globe along the equator into the economically wealthy (The
- U.S & Canada, western Europe, plus Australia and New Zealand) and poor (South).
- As a term, it eliminates the global poor north of the equator, ignores
- the immense diversity among countries, and continues to define the scope
- of the world largely around the the G8 nations of the North.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{G8 - France, Germany, Italy, the United Kingdom, Japan, the United
- States, Canada, and Russia}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-\begin_inset Quotes eld
-\end_inset
-
-Majority
-\begin_inset space ~
-\end_inset
-
-world
-\begin_inset Quotes erd
-\end_inset
-
- is an alternative coined by Bengali writer and photographer Shahidul Alam.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Alam, majority world}
-\end_layout
-
-\end_inset
-
- It highlights that the G8 countries making world-shaping decisions actually
- represent a tiny fraction of humankind, and the rest of the world has a
- working and loud voice.
-\end_layout
-
 \begin_layout Section
 Representation
 \end_layout

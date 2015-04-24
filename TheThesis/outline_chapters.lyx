@@ -231,35 +231,6 @@ open
 \end_layout
 
 \begin_layout Standard
-In 
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:values-fixing-publishing"
-
-\end_inset
-
-, we explore the possible implications of 
-\begin_inset Quotes eld
-\end_inset
-
-fixing
-\begin_inset Quotes erd
-\end_inset
-
- science through greater sharing and disseminatin of information.
- This hegemony is not merely theoretical.
- The proposed 'solutions' to the scientific systems's failures have serious
- implications, from a science studies and a feminist point of view, on the
- production and kind of knowledge production.
- It examines the open science movement with a mind to discover and analyze
- the values underlying those efforts.
- Ultimately, I'd propose how a movement hoping to democratize and equalize
- science desperately needs to consider and account for their values from
- a (feminist) different standpoint.
- 
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "chap:Good-People"
@@ -275,13 +246,13 @@ that I want to emulate, and projects that have attempted to wrestle with
 \end_layout
 
 \begin_layout Subsection*
-Doing Science Like a Scientist
+~Science~
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
-reference "chap:Serotonin,-transcription-factors_mol-neuro"
+reference "chap:molecular-psych"
 
 \end_inset
 
@@ -313,6 +284,35 @@ reference "chap:Open-Science_casestudy"
  on a practical implementation level.
 \end_layout
 
+\begin_layout Standard
+In 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:values-fixing-publishing"
+
+\end_inset
+
+, we explore the possible implications of 
+\begin_inset Quotes eld
+\end_inset
+
+fixing
+\begin_inset Quotes erd
+\end_inset
+
+ science through greater sharing and disseminatin of information.
+ This hegemony is not merely theoretical.
+ The proposed 'solutions' to the scientific systems's failures have serious
+ implications, from a science studies and a feminist point of view, on the
+ production and kind of knowledge production.
+ It examines the open science movement with a mind to discover and analyze
+ the values underlying those efforts.
+ Ultimately, I'd propose how a movement hoping to democratize and equalize
+ science desperately needs to consider and account for their values from
+ a (feminist) different standpoint.
+ 
+\end_layout
+
 \begin_layout Subsection*
 Reconstructive Neuroscience
 \end_layout
@@ -331,16 +331,177 @@ reference "chap:Critical-Neuroscience"
  While I don't have answers to any of those questions, asking those questions
  has (already) helped find d a myriad of ways in which social factors are
  fundamental parts of my scientific process and questions.
-\begin_inset Note Greyedout
-status open
+\end_layout
+
+\begin_layout Section
+Terminology Notes
+\end_layout
+
+\begin_layout Subsection
+Global divides 
+\end_layout
+
+\begin_layout Standard
+There is a widely-acknowledged economic, and corresponding scientific, gap
+ between areas of the world.
+ During the Soviet era, this was a West-East or First/Second/Third world
+ split.
+ In 1949, Harry Truman used the term 
+\begin_inset Quotes eld
+\end_inset
+
+areas needing development,
+\begin_inset Quotes erd
+\end_inset
+
+ and for many years, the divide was between developed and developing countries.
+ 
+\end_layout
+
+\begin_layout Standard
+While the 
+\begin_inset Quotes eld
+\end_inset
+
+divide
+\begin_inset Quotes erd
+\end_inset
+
+ itself is as porous as any binary
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
-Then there will be a conclusion when I finish my div!
+
+
+\backslash
+todo{too casual a reference to fucking binaries?}
+\end_layout
+
+\end_inset
+
+, and subject to uncountable caveats, we need some term to reference the
+ different research capacities.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+overlooks the highly heterogeneous socio-political, cultural and economic
+ diversity within and between countries 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{chan and costa 2005}
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Quotes eld
+\end_inset
+
+Global
+\begin_inset space ~
+\end_inset
+
+South
+\begin_inset Quotes erd
+\end_inset
+
+ is the currently used term, without many of the hierarchal connotations
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+developing world
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Third world.
+\begin_inset Quotes erd
+\end_inset
+
+ It divides the globe along the equator into the economically wealthy (The
+ U.S & Canada, western Europe, plus Australia and New Zealand) and poor (South).
+ As a term, it eliminates the global poor north of the equator, ignores
+ the immense diversity among countries, and continues to define the scope
+ of the world largely around the the G8 nations of the North.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{G8 - France, Germany, Italy, the United Kingdom, Japan, the United
+ States, Canada, and Russia}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Quotes eld
+\end_inset
+
+Majority
+\begin_inset space ~
+\end_inset
+
+world
+\begin_inset Quotes erd
+\end_inset
+
+ is an alternative coined by Bengali writer and photographer Shahidul Alam.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Alam2008"
+
+\end_inset
+
+ It highlights that the G8 countries making world-shaping decisions actually
+ represent a tiny fraction of humankind, and the rest of the world has a
+ working and loud voice.
+\end_layout
+
+\begin_layout Subsection
+STEM
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{STEM}
+\end_layout
+
+\end_inset
+
+ is used quasi-interchangeably with science.
 \end_layout
 
 \begin_layout Standard
