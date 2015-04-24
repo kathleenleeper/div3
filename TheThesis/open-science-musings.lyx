@@ -3504,15 +3504,22 @@ key "Ioannidis2005"
  Why Most Published Research Findings Are False
 \emph default
 .
- The paper proposes a statistical argument that the likely false positive
- rate in the published bio-medical literature clocks in at >50%.
+ 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Ioannidis2005"
+
+\end_inset
+
+ proposes a statistical proof that the likely false positive rate in the
+ published bio-medical literature clocks in at >50%.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Ioannidis2005"
 
 \end_inset
 
- The responses were many and furious,
+ The responses were heated and ,
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Goodman2007,Jager2014"
@@ -3609,7 +3616,7 @@ key "Mobley2013"
 
  One academic lab repeated the exact same genome-scale 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3632,7 +3639,7 @@ key "Barrows2010"
 
  Animal research consisently differes in translation to clinical trials
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3847,8 +3854,82 @@ rewrite{conclusion to reproducibility issues}
 
 \end_layout
 
-\begin_layout Section
-Statistical Failures: Underpowered and Badly Analyzed Data Sets
+\begin_layout Subsection
+Statistis 
+\end_layout
+
+\begin_layout Standard
+Part of 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "'"
+key "Ioannidis2005"
+
+\end_inset
+
+ proposal rested on the improper use of statistics in biomedical research.
+ Scientists, as a whole, are just not 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{to be fair, I'm not very good either}
+\end_layout
+
+\end_inset
+
+very good at statistics, in either analyzing their own data or other people's.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mavros2013,Vaux2012"
+
+\end_inset
+
+ As a result of this misunderstanding, along with funding issues (i.e.
+ high powered animal studies are prohibitively expensive) studies are often
+ underpowered (low sample sizes, small effect, or both), leading to unreliable
+ findings.
+ Even when all other research conditions are ideal, underpowered studies
+ have a low probability of discovering 'genuinely true' effects, a low 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{PPV - probability that a positive research results reflects a true
+ positive.
+ Depends on the prior probability of it being true, the statistical power,
+ and the level of significance}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PPV}
+\end_layout
+
+\end_inset
+
+, and typically exaggerate the magnitude of an effect.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Button2013"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3858,10 +3939,6 @@ key "Hardwicke2014"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 Since researchers must publish to succeed, and statistical significant and
  clean results are more likely to be published, researchers have incentives
  to 
@@ -3879,29 +3956,18 @@ key "Button2013"
 
 \end_inset
 
- On the other hand, scientists are bad at statistics, especially those in
- clinical and biomedical fields.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Mavros2013,Vaux2012"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-One of these is low statistically powered studies -- studies with low sample
- size, small effects, or both -- increase the likelihood that a nominally
- statistically significant finding reflects a true effect.
  
 \end_layout
 
-\begin_layout Subparagraph
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Three main problems 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 contribute to unreliable findings in low-powered studies, even when all
  other practices are ideal:
 \end_layout
@@ -4027,8 +4093,14 @@ odds ratio; if we raise the power of studies, which is...unusual
 \end_layout
 
 \end_deeper
-\begin_layout Subparagraph
-low power and other biases
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+****low power and other biases
 \end_layout
 
 \begin_layout Enumerate
@@ -4133,8 +4205,13 @@ key "Wicherts2011"
 )
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
-Excess Significance
+Publication bias
 \end_layout
 
 \begin_layout Standard
@@ -4163,7 +4240,7 @@ Publication bias occurs when results of published studies are systematically
  different from results of unpublished studies\SpecialChar \ldots{}
 Empirical research consistently
  suggests that published work is more likely to be positive or statistically
- significant (P,0.05) than unpublished research.
+ significant than unpublished research.
 \begin_inset Note Note
 status collapsed
 
@@ -4188,8 +4265,8 @@ key "Dwan2008,Emerson2010"
 \end_layout
 
 \begin_layout Standard
-What happens when something doesn't work? When do we keep pushing, and how
- do we say 
+What happens when a scientific project doesn't work? When do we keep pushing,
+ and how do we say 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4197,7 +4274,7 @@ What happens when something doesn't work? When do we keep pushing, and how
 \emph on
 This
 \emph default
- disproves our hypothesis
+ piece of evidence disproves our hypothesis
 \begin_inset Quotes erd
 \end_inset
 
@@ -4205,12 +4282,8 @@ This
 \emph on
 not
 \emph default
- working which 
-\emph on
-should 
-\emph default
-work (with regards to the current literature) lays its blame on reagants,
- on the technical skill of those involved, on the time of year.
+ working work (with regards to the current literature) lays its blame on
+ reagants, on the technical skill of those involved, on the time of year.
 \begin_inset Foot
 status collapsed
 
@@ -4224,8 +4297,25 @@ a meaningful factor, re: Otto Loewi and acetylcholine in frogs
 
 \end_inset
 
- In many ways, a negative results presents no difference; and without the
- contrast between background and signal, the signal gets lost.
+ A negative result presents no signal to pick up on, no difference; without
+ the contrast between background and signal, the signal gets lost.
+ Statisically, we can't 
+\begin_inset Quotes eld
+\end_inset
+
+prove
+\begin_inset Quotes erd
+\end_inset
+
+ the null hypothesis; we can only say 
+\begin_inset Quotes eld
+\end_inset
+
+if it does exist, our methods are not sensitive enough to detect it.
+\begin_inset Quotes erd
+\end_inset
+
+ It's also, quite bluntly, not as exciting.
  
 \begin_inset ERT
 status collapsed
@@ -4335,12 +4425,12 @@ findref{Sara Rockwell}
 \end_layout
 
 \begin_layout Standard
-A 1991
+As a result, the literature has a distinct bias towards positive results.
+ A 1991
 \emph on
  Lancet
 \emph default
- issue is typically cited as the first publication to directly point at
- the issue.
+ issue is typically cited as the first large-scale examination of the issue.
  
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
@@ -4390,11 +4480,11 @@ positive publication bias
 \emph on
 interesting 
 \emph default
-results: a high-profile study refuting another high-profile study in a positive-
-negative loop is just as exciting as the first positive results were.
+results: a high-profile study refuting another high-profile study can be
+ just as exciting as the first positive results were.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Luijendijk2012"
+key "Luijendijk2012,Ioannidis2005b,Young2008"
 
 \end_inset
 
@@ -4402,8 +4492,12 @@ key "Luijendijk2012"
 \end_layout
 
 \begin_layout Standard
-Between 1990-2007, the proportion of papers with positive results has steadily
- increased, starting at 70.2% in 1990 and by 2007, ending at 85.9% in 2007.
+In clinical trials, there have been numerous initatives to address this
+ (i.e.
+ pre-registration with a promise to publish), but the problem remains.
+ The rest of the scientific literature is not much better.
+ Between 1990-2007, the proportion of papers with positive results has steadily
+ increased, starting at 70.2% in 1990 and ending at 85.9% in 2007.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2012"
@@ -4412,49 +4506,29 @@ key "Fanelli2012"
 
  The positive publication bias is not limited to clinical trials or the
  eternal scapegoat of psychology, although it clusters there.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Harder
-\begin_inset Quotes erd
-\end_inset
-
- sciences, specifically ecology
+ The 'harder' sciences (e.g.
+ ecology
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Jennions2002a"
+key "Jennions2002a,Miller2014"
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{miller2014, understanding publicaiton bias in re-introduction biology}
-\end_layout
-
-\end_inset
-
-, and animal studies
+, animal studies
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Sena2010,Tsilidis2013"
 
 \end_inset
 
-, as well as the physical sciences
+,physics, molecular biology, and chemistry
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2012"
 
 \end_inset
 
- show a similar (if decreasingly prevalent) bias.
+ show a similar,if decreasingly prevalent, trend.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2010a"
@@ -4497,8 +4571,51 @@ he cracks will be there, they are just harder to spot because it is harder
 \end_layout
 
 \begin_layout Standard
-Papers with negative (non-significant) results are less likely to be published
- and receive, overall, less citations.
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Where does this stem from? On the one hand, researchers are likely to choose
+ research practices that lead to positive results, often without realizing
+ it (again, bad at statistics).
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Button2013,Hardwicke2014"
+
+\end_inset
+
+ This is particularly noticeable in fields with flexible and extensive data
+ processing pipelines, like 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{fMRI}
+\end_layout
+
+\end_inset
+
+.
+ In 243 papers, researchers chose the analysis method that makes the data
+ work, leading to almost as many analysis pipelines as there are data sets.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Carp2012"
+
+\end_inset
+
+ This pre-emptively biases scientific results, even before writing a paper.
+\end_layout
+
+\begin_layout Standard
+In additon, papers with negative (non-significant) results are less likely
+ to be published and receive, overall, less citations.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2010"
@@ -4508,15 +4625,9 @@ key "Fanelli2010"
  This is in large part due to scientific reticence, with authors unwilling
  to put in the necessary and extended effort in attempting to publish a
  paper with negative results,
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{song et al papers on publicatino bias}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Song2013"
 
 \end_inset
 
@@ -4529,15 +4640,9 @@ wonderful
 \end_inset
 
  results.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{calnan 2006}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Calnan2006a"
 
 \end_inset
 
@@ -4545,26 +4650,25 @@ findref{calnan 2006}
  positive results papers
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Olson2002a"
+key "Olson2002a,Song2013"
 
 \end_inset
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{all citations from Senn2012, misunderstanding publication bias,
- van Lent 2014}
+findref{all citations from Senn2012, -- song2009 van Lent 2014}
 \end_layout
 
 \end_inset
 
 , this is perhaps more attributable to the fact that submitted negative
- papers tend to be of higher quality.
+ papers tend to be of higher quality rather than any editorial high-mindedness.
 \begin_inset ERT
 status collapsed
 
@@ -4579,8 +4683,8 @@ findref{senn2012, misunderstanding publication bias}
 
  Peer reviewers are more likely to recommend a positive-results paper be
  published, award positive-results papers better methodological scores,
- and are more critical of and detect more errors in papers with non-significant
- results.
+ are more critical of and detect more errors in papers with non-significant
+ results, and may request new or different forms of statistical analysis.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Emerson2010,Rockwell2006"
@@ -4589,16 +4693,9 @@ key "Emerson2010,Rockwell2006"
 
  As measured by citation rates, readers are less interested in negative
  results papers
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{AnneSophie 2013, citation bias favoring statistically significant
- studies}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Jannot2013"
 
 \end_inset
 
@@ -4607,35 +4704,22 @@ findref{AnneSophie 2013, citation bias favoring statistically significant
  and cigarette trials in the 1990s.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Lesser2007"
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Turner and Spilich, 1997}
-\end_layout
+key "Turner1997a"
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Subparagraph
+\begin_layout Subsection
 File Drawer Effect
 \end_layout
 
 \begin_layout Standard
 Many studies in a given research area may be conducted, but are never reported
  because of the publication bias.
- This creates a set of journal articles wholly unrepresentative of the actual
- conclusions of conducted research.
+ This creates a set of journal articles largely unrepresentative of the
+ actual conclusions of conducted research.
  In the extreme case, if the null hypothesis is 
 \begin_inset Quotes eld
 \end_inset
@@ -4707,29 +4791,29 @@ key "Ioannidis2005"
  results of a given field, leading to an overestimation of effect sizes
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Button2013"
+key "Levine2009,Jennings2012"
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{levine et al 2009; jennings and van horn 2012}
-\end_layout
-
-\end_inset
-
- and the continued wasted efforts based on papers that failed to replicate,
- but never had the failed replication published.
+ and the continued wasted efforts based of researchers on papers that failed
+ to replicate, but never had the failed replication published.
 \end_layout
 
 \begin_layout Standard
-****this also hides the decline effect 
+Science is, in theory, self-correcting.
+ Even if the initial conclusions are wrong, subsequent experimentation reveals
+ some of the limits and misinterpretations -- but only if it's published.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Young2008"
+
+\end_inset
+
+ The file drawer effect inteferes with this, by hiding the decline effect.
+ Because the first papers to describe results are often underpowered and
+ thus overexaggerate the magnitude of an effect, subsequent studies often
+ find non-significant results; because these are negatives, they are harder
+ to publish and self-correction takes longer.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Schooler2011"
@@ -4739,37 +4823,17 @@ key "Schooler2011"
 
 \end_layout
 
-\begin_layout Subparagraph
+\begin_layout Subsection
 Other forms of dissemination
 \end_layout
 
-\begin_layout Quote
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{other forms of gray publishing and introduced bias}
-\end_layout
-
-\end_inset
-
-In addition to journal papers, study results may be presented at relevant
- conferences, submitted to medicine regulatory authorities, and in clinical
- study reports to trial sponsors.
- 3 Results presented at conferences are usually only available in abstract
- form.
- Clinical study reports contain much more detailed information on methodology
- and a wider selection of outcomes – fuller results.
- Data submitted to regulatory authorities are also important sources of
- trial results.
- However, clinical study reports and data submit- ted to regulatory authorities
- have limited accessibility, and their use for making evidence-based decisions
- may not be as straightforward as results published in peer-reviewed journals.
- Therefore, results of trials that are not published in peer-reviewed journals
- are conventionally considered as being “unpublished.”
+\begin_layout Standard
+Papers from the file drawer might see the light of day in other ways.
+ Results of research may also be presented at conferences, submitted to
+ clinical authorities, or shared privately between researchers; while these
+ count as communication of a sort, they have limited accessibility and reach,
+ and are typicallly not as straightforward as those published in peer-reviewed
+ journals.
 \begin_inset ERT
 status collapsed
 
@@ -4782,7 +4846,7 @@ findref{Song2013 - publication bias: what is it?}
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4891,7 +4955,7 @@ key "Young2008"
 
 \end_inset
 
-Whatever the reason the 
+The 
 \emph on
 de facto
 \emph default
@@ -4899,25 +4963,8 @@ de facto
  the research that's actually happening, which naturally has consequences
  for the theories we test going forwards.
  
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-f no effect is seen, the reviewers often request additional analyses using
- different statistical approaches or additional experiments involving different
- frequencies, different modulation patterns or irradiation parameters, additiona
-l cell lines, in vivo systems or end points, longer or shorter exposure
- times, etc.
- The reviewers may also ask whether different methods of analyzing the data
- might have indicated statistical significance.
- I
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Comment
-status collapsed
+status open
 
 \begin_layout Plain Layout
 this is all solved by study replication, open data, lab notebooks, pre-registrat
