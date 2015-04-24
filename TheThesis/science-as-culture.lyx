@@ -1710,59 +1710,17 @@ All that is merely to impress upon a reader that using the word feminism
 \end_layout
 
 \begin_layout Section
-What does this do in a practical sense?
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-In Practice
-\end_layout
-
-\end_inset
-
-
+Indigenous Sciences/Local biologies
 \end_layout
 
 \begin_layout Standard
-Because I have to at least try to be an Emma Goldman, not Margaret Sanger.
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brotherton2013,Emeagwali2014,Hiwasaki2014,Kirmayer2004"
 
-\begin_layout Subsection
-\begin_inset Quotes eld
-\end_inset
-
-Asking Different Questions
-\begin_inset Quotes erd
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Feminist science studies both allows and demands practicing scientists engagemen
-t with more than 
-\begin_inset Quotes eld
-\end_inset
-
-just
-\begin_inset Quotes erd
-\end_inset
-
- science.
- It lets us ask questions of representation in our labs, our literature,
- and our students: 
-\begin_inset Quotes eld
-\end_inset
-
-Where are the women? 
-\emph on
-Who
-\emph default
- is practicing science, and who is deciding what science is important?
-\begin_inset Quotes erd
-\end_inset
-
- This extends
 \begin_inset ERT
 status collapsed
 
@@ -1770,98 +1728,8 @@ status collapsed
 
 
 \backslash
-graffito{Or 
-\backslash
-emph{should} extend...}
+findref{Krupnick, the world is faster now}
 \end_layout
-
-\end_inset
-
- to questioning not just gender, but about race, physical ability, nationalities
-, and other sociological classifications.
-\end_layout
-
-\begin_layout Standard
-Feminist science studies also lets -- and again, demands -- that we ask
- questions on another level about the nature of the knowledge produced.
- This includes (among many other things),
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Representationally ~weak.}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-an examination of the scientific 
-\emph on
-construction
-\emph default
- of race and gender perpetuated by the perceived objectivity of the sciences
- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fujimura2010,Fausto-Sterling2008,Ellison2007"
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Itemize
-the deep paradoxes involved in the ab/use of women's bodies in pursuit of
- reproductive technologies
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Roberts2009,Beckett2005"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-the shaping of science by gendered and racialized metaphors and languages,
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Keller1995,Martin1991"
-
-\end_inset
-
- and the historical complicity between scientific exploration and colonialism,
- misogyny, and racism (all at once, not as isolated variables)
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Harding2009,Raskin1987,Schiebinger2004"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-challenging the artificial boundaries between 
-\begin_inset Quotes eld
-\end_inset
-
-basic research
-\begin_inset Quotes erd
-\end_inset
-
- and nature/culture to explain a rapidly-growing scientific-industrial complex,
- and then linking basic research to community activism for women's rights
- and environmental movements.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Subramaniam2009"
 
 \end_inset
 
@@ -1869,9 +1737,6 @@ key "Subramaniam2009"
 \end_layout
 
 \begin_layout Standard
-It asks us to look at science as a practice inseparable from culture, and
- what that might mean for knowledge and for scientists as the future producers
- of that knowledge.
 \begin_inset Note Note
 status collapsed
 
@@ -2256,6 +2121,171 @@ On the other hand, the Inuit strongly resist medicalization when they give
 \end_layout
 
 \begin_layout Section
+What does this do in a practical sense?
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+In Practice
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Because I have to at least try to be an Emma Goldman, not Margaret Sanger.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Quotes eld
+\end_inset
+
+Asking Different Questions
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Feminist science studies both allows and demands practicing scientists engagemen
+t with more than 
+\begin_inset Quotes eld
+\end_inset
+
+just
+\begin_inset Quotes erd
+\end_inset
+
+ science.
+ It lets us ask questions of representation in our labs, our literature,
+ and our students: 
+\begin_inset Quotes eld
+\end_inset
+
+Where are the women? 
+\emph on
+Who
+\emph default
+ is practicing science, and who is deciding what science is important?
+\begin_inset Quotes erd
+\end_inset
+
+ This extends
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Or 
+\backslash
+emph{should} extend...}
+\end_layout
+
+\end_inset
+
+ to questioning not just gender, but about race, physical ability, nationalities
+, and other sociological classifications.
+\end_layout
+
+\begin_layout Standard
+Feminist science studies also lets -- and again, demands -- that we ask
+ questions on another level about the nature of the knowledge produced.
+ This includes (among many other things),
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo{Representationally ~weak.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+an examination of the scientific 
+\emph on
+construction
+\emph default
+ of race and gender perpetuated by the perceived objectivity of the sciences
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fujimura2010,Fausto-Sterling2008,Ellison2007"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+the deep paradoxes involved in the ab/use of women's bodies in pursuit of
+ reproductive technologies
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Roberts2009,Beckett2005"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+the shaping of science by gendered and racialized metaphors and languages,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Keller1995,Martin1991"
+
+\end_inset
+
+ and the historical complicity between scientific exploration and colonialism,
+ misogyny, and racism (all at once, not as isolated variables)
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Harding2009,Raskin1987,Schiebinger2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+challenging the artificial boundaries between 
+\begin_inset Quotes eld
+\end_inset
+
+basic research
+\begin_inset Quotes erd
+\end_inset
+
+ and nature/culture to explain a rapidly-growing scientific-industrial complex,
+ and then linking basic research to community activism for women's rights
+ and environmental movements.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Subramaniam2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It asks us to look at science as a practice inseparable from culture, and
+ what that might mean for knowledge and for scientists as the future producers
+ of that knowledge.
+\end_layout
+
+\begin_layout Section
 Why should scientists care?
 \end_layout
 
@@ -2549,6 +2579,40 @@ how
  to apply all of that stuff to everything else I care about: namely, open
  science, open neuroscience, molecular neuroscience and then write about
  what did and did not work.
+\end_layout
+
+\begin_layout Section
+Parting Example: TMT and Mauna Kea[maybe_
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+The Tuskegee Syphilis Experiment is over and done with -- mostly.
+ Scientists agree it's wrong.
+ Conflicts between science and society abound, however, and one extremely
+ contemporary example is the plans for construction of a 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{TMT}
+\end_layout
+
+\end_inset
+
+ on the Hawai'ian island of Mauna Kea.
+ Mauna Kea is a sacred mountain 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
