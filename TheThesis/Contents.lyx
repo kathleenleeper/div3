@@ -1269,14 +1269,14 @@ acro{RoW}{"Rest of World"}, for what that's worth
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
- and scientific powerhouse countries
+acro{BRICS}{Brazil, Russia, India, China, South Africa}, considered the
+ rising economic and scientific powerhouse countries
 \end_layout
 
 \end_inset
@@ -1436,6 +1436,22 @@ status collapsed
 
 
 \backslash
+acro{TMT}{Thirty Meter Telescope}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
 end{acronym}
 \end_layout
 
@@ -1457,6 +1473,22 @@ status collapsed
 
 \backslash
 begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{fMRI}{functional MRI}
 \end_layout
 
 \end_inset
@@ -1514,7 +1546,7 @@ acro{G-protein}{guanine nucleotide-binding proteins}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1861,6 +1893,54 @@ status collapsed
 
 \backslash
 acro{PTSD}{PostTraumatic Stress Disorder}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{ADHD}{Attention Deficit Hyperactivity Disorder}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPV}{Positive Predictive Value}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{siRNA}{small interfering RNA}
 \end_layout
 
 \end_inset

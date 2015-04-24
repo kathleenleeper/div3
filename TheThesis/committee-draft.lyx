@@ -372,24 +372,6 @@ filename "Global-Science.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-myPart{Representation and Its Discontents}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "analysis-publishing.lyx"
