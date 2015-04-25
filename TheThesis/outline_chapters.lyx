@@ -120,7 +120,7 @@ Fun Stuff in the Future
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -140,11 +140,10 @@ reference "chap:feminist-science-cultural-studies"
 
 \end_inset
 
- (aka what you just read) describes the theoretical underpinnings behind
- my Div III, explaining why I believe that science is just as much a cultural
- construct as any other knowledge project, and as a result, why scientists
- have a serious responsibility to consider their work in the greater context
- of social issues.
+ describes the theoretical underpinnings behind my Div III, explaining why
+ I believe that science is just as much a cultural construct as any other
+ knowledge project, and as a result, why scientists have a serious responsibilit
+y to consider their work in the greater context of social issues.
  
 \end_layout
 
@@ -159,20 +158,9 @@ reference "chap:ScienticEcosystem"
 
 \end_inset
 
- starts where most criticisms of science stem from: the scientific ecosystem,
- and the ways in which the current system of reward, funding, and prestige
- distorts the pursuit of truth and knowledge in science.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Representation_Science"
-
-\end_inset
-
- continues on a similar theme considering the question of representation
- within the global scientific community.
+ starts where more general criticisms of science stem from: the scientific
+ ecosystem, and the ways in which the current system of reward, funding,
+ and prestige distorts the pursuit of truth and knowledge in science.
 \end_layout
 
 \begin_layout Standard
@@ -198,55 +186,17 @@ ac{OS}
  advocates, who propose to make science more inclusive, collaborative, and
  useful, largely via the power of the Internet for sharing.
  
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
-\end_layout
-
-\end_inset
-
- is an alluring idea, especially backed with the rhetorical power of 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\begin_inset Quotes erd
-\end_inset
-
-; but 
-\begin_inset Quotes eld
-\end_inset
-
-open
-\begin_inset Quotes erd
-\end_inset
-
- is not by itself a panacea for the hegemony of scientific establishments.
- 
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
-reference "chap:Good-People"
+reference "chap:Representation_Science"
 
 \end_inset
 
- is things I 
-\emph on
-like, 
-\emph default
-that I want to emulate, and projects that have attempted to wrestle with
- all or some of my issues and succeeded in some measure.
-\end_layout
-
-\begin_layout Subsection*
-~Science~
+ continues on a similar theme of scientific production, considering the
+ question of representation within the global scientific community.
 \end_layout
 
 \begin_layout Standard
@@ -265,23 +215,34 @@ purely
 \end_inset
 
  scientific description.
- It describes why I think serotonin systems are important to model and explore,
- why I care about them, and my attempts to create a way to explore hallucinogeni
-c pharmacology by manipulation of a stem cell line.
+ It describes, basically, that I think pharmacology is super cool.
+\end_layout
+
+\begin_layout Subsection*
+Flows of Knowledge
 \end_layout
 
 \begin_layout Standard
+The next three chapters turn to more personal and complex situations.
+\end_layout
+
+\begin_layout Standard
+In
 \begin_inset CommandInset ref
 LatexCommand formatted
-reference "chap:Open-Science_casestudy"
+reference "chap:Bibliometrics-Me"
 
 \end_inset
 
- is the follow up to this -- it's a description of my attempts to implement
- open science proposals into a biological project, and the myriad complications
- and barriers I've surmounted -- or not -- in doing so.
+ is personal, code- and computer-based results.
+ It's a description of my attempts to implement open science proposals into
+ a biological project, and the myriad complications and barriers I've surmounted
+ -- or not -- in doing so.
  It offers a description of what I think the open science movement is missing
  on a practical implementation level.
+ It also offers a small bibliometric analysis, examining gender representation
+ in my work in an attempt to trace how individual researchers perpetuate
+ gendered systems.
 \end_layout
 
 \begin_layout Standard
@@ -292,7 +253,7 @@ reference "chap:values-fixing-publishing"
 
 \end_inset
 
-, we explore the possible implications of 
+, explore the possible implications of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -300,7 +261,7 @@ fixing
 \begin_inset Quotes erd
 \end_inset
 
- science through greater sharing and disseminatin of information.
+ science through greater sharing and dissemination of information.
  This hegemony is not merely theoretical.
  The proposed 'solutions' to the scientific systems's failures have serious
  implications, from a science studies and a feminist point of view, on the
@@ -311,10 +272,6 @@ fixing
  science desperately needs to consider and account for their values from
  a (feminist) different standpoint.
  
-\end_layout
-
-\begin_layout Subsection*
-Reconstructive Neuroscience
 \end_layout
 
 \begin_layout Standard
@@ -330,11 +287,12 @@ reference "chap:Critical-Neuroscience"
  concerns, indigenous rights and colonialism, and race relations.
  While I don't have answers to any of those questions, asking those questions
  has (already) helped find d a myriad of ways in which social factors are
- fundamental parts of my scientific process and questions.
+ fundamental parts of my scientific process and questions, and how control
+ of the flow knowledge continues to shape all kinds of knowledge production.
 \end_layout
 
 \begin_layout Section
-Terminology Notes
+Terminology Note
 \end_layout
 
 \begin_layout Subsection
@@ -386,7 +344,7 @@ todo{too casual a reference to fucking binaries?}
 status collapsed
 
 \begin_layout Plain Layout
-overlooks the highly heterogeneous socio-political, cultural and economic
+overlooks the highly heterogeneous sociopolitical, cultural and economic
  diversity within and between countries 
 \begin_inset ERT
 status collapsed
@@ -421,7 +379,7 @@ South
 \begin_inset Quotes erd
 \end_inset
 
- is the currently used term, without many of the hierarchal connotations
+ is the currently used term, without many of the hierarchical connotations
  of 
 \begin_inset Quotes eld
 \end_inset
@@ -484,24 +442,29 @@ key "Alam2008"
  working and loud voice.
 \end_layout
 
-\begin_layout Subsection
-STEM
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{STEM}
-\end_layout
-
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+minority
+\begin_inset space ~
 \end_inset
 
- is used quasi-interchangeably with science.
+world I use somewhat interchangeably with 
+\begin_inset Quotes eld
+\end_inset
+
+the West
+\begin_inset Quotes erd
+\end_inset
+
+ and the 
+\begin_inset Quotes eld
+\end_inset
+
+North
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
