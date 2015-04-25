@@ -392,18 +392,6 @@ filename "Global-Science.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "good-people.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
 filename "mol-neuro.lyx"
 
 \end_inset
@@ -421,7 +409,7 @@ status open
 
 
 \backslash
-myPart{Reconstructive Neuroscience}
+myPart{Controlling and Making Knowledge}
 \end_layout
 
 \end_inset

@@ -241,7 +241,7 @@ ac{LSD}
 
 , the cultural and scientific relevance of the psychedelic drugs has swung
  wildly.
- They have been variously: implicated in CIA coverups and brainwashing
+ They have been variously: implicated in CIA cover ups and brainwashing
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Turner1977"
@@ -271,15 +271,9 @@ key "Vollenweider2010"
 
 ; a key turning point in the discovery of a major neurotransmitter, and
  indeed the notion of brain chemistry
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{nichols, writing for maps newsletter}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nichols2004"
 
 \end_inset
 
@@ -354,7 +348,7 @@ key "Akers2011"
 \end_inset
 
 .
- In North America, archeological evidence of mushrom usage from the desert
+ In North America, archaeological evidence of mushroom usage from the desert
  southwest of what is now Texas and Mexico abounds
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -630,9 +624,9 @@ findref{Sessa}
 
 \end_inset
 
- More interestingly in the age of biomolecular neuroscience, we can tie
+ More interestingly in the age of bio-molecular neuroscience, we can tie
  the alteration of consciousness to biological mechanisms of receptors,
- signalling, and neural networks.
+ signaling, and neural networks.
  
 \begin_inset Note Note
 status collapsed
@@ -651,8 +645,8 @@ Of course, the single-cell and smaller level changes are only one level
 status collapsed
 
 \begin_layout Plain Layout
-The most interesting aspect of (really all drugs) but specificaly hallucinogens,
- is their binding mechanisms.
+The most interesting aspect of (really all drugs) but specifically hallucinogens
+, is their binding mechanisms.
 \end_layout
 
 \end_inset
@@ -947,7 +941,7 @@ ac{LSD}
 
 \end_inset
 
-, an ergoline
+
 \begin_inset ERT
 status collapsed
 
@@ -1196,8 +1190,8 @@ status collapsed
 Biology's point of entry into molecule-body interactions starts with receptors.
  Cell-surface receptors bind the molecule and transmit a signal, or act
  as a channel to allow direct access to the intracellular milieu; alternately,
- signalling molecules diffuse through the cell membrane and then find intracellu
-lar receptors.
+ signaling molecules diffuse through the cell membrane and then find intracellul
+ar receptors.
  Measuring and quantifying molecule-receptor interaction lies at the heart
  of pharmacology.
 \end_layout
@@ -1225,7 +1219,7 @@ Classical pharmacology has, for 50 odd years, relied on a model of characterizin
 g ligands by the functional effects of target interaction.
  The effects are governed by (1) affinity, i.e.
  the strength of the chemical bond between ligand and receptor and (2) efficacy,
- the propery that allows bound ligands to produce a response.
+ the property that allows bound ligands to produce a response.
 \begin_inset Note Note
 status collapsed
 
@@ -1401,7 +1395,7 @@ maximal
 \begin_inset Text
 
 \begin_layout Plain Layout
-submaximal r
+submaximal response; gradation
 \end_layout
 
 \end_inset
@@ -1430,7 +1424,7 @@ submaximal r
 \begin_inset Text
 
 \begin_layout Plain Layout
-reduction of basal sigalling
+reduction of basal signaling
 \end_layout
 
 \end_inset
@@ -1541,8 +1535,8 @@ competitive (surmountable, neutral*)
 \begin_inset Text
 
 \begin_layout Plain Layout
-no signalling effects, occupies the receptor and thus blocks agonist effects.
- Agonist signalling restored with increased concentration
+no signaling effects, occupies the receptor and thus blocks agonist effects.
+ Agonist signaling restored with increased concentration
 \end_layout
 
 \end_inset
@@ -1572,7 +1566,7 @@ non-competitive (insurmountable)
 
 \begin_layout Plain Layout
 Ligand decreases agonist efficay, but may not reduce potency -- e.g.
- receptor signalling is permanently modified 
+ receptor signaling is permanently modified 
 \begin_inset ERT
 status open
 
@@ -1654,7 +1648,7 @@ key "Urban2007"
 quality.
  
 \emph default
-Thus, a full exogenous agonist is expected to activate the signalling pathways
+Thus, a full exogenous agonist is expected to activate the signaling pathways
  to the same level as the endogenous ligand, and so on, as in 
 \begin_inset CommandInset ref
 LatexCommand nameref
@@ -1683,7 +1677,7 @@ The big reveal: that's an oversimplification.
 
 \end_inset
 
- agonist activity and the resultant signalling pathways don't track with
+ agonist activity and the resultant signaling pathways don't track with
  the notion of 
 \begin_inset ERT
 status collapsed
@@ -1701,7 +1695,7 @@ emph{intrinsic activity}: measure of the stimulus, per receptor produced
 \end_inset
 
 intrinsic efficacy underlying the classic model; it is one of the foremost
- examples of a relatively new model of ligand-dependent signalling, known
+ examples of a relatively new model of ligand-dependent signaling, known
  as 
 \begin_inset Quotes eld
 \end_inset
@@ -1720,7 +1714,7 @@ biased
  
 \series default
 \emph default
-signalling
+signaling
 \begin_inset Quotes erd
 \end_inset
 
@@ -1757,7 +1751,7 @@ key "Urban2007"
 \end_inset
 
  receptor as full or partial agonists, including the endogenous serotonin,
- a number of 'atypical antipsychotics' (which exhibit mixed signalling),
+ a number of 'atypical antipsychotics' (which exhibit mixed signaling),
  and lisuride and ergotamine, but do not induce the behavioral modifications
  associated with psychedelics.
  However, agonism at the 5-HT
@@ -1777,8 +1771,7 @@ key "Glennon1984,Nichols2004,Gonzalez-Maeso2007"
 
 \end_inset
 
- This is seemingly mediated by the ligand-receptor interactions, the specific
- conf
+
 \end_layout
 
 \begin_layout Standard
@@ -1839,7 +1832,7 @@ binding affinities
 
  receptor.
  This affinity across the three chemical classes for a single receptor subtype
- and the subsequent signalling pathway activation is well-established as
+ and the subsequent signaling pathway activation is well-established as
  the essential component of psychedelic signaling.
 \begin_inset Note Note
 status collapsed
@@ -2079,7 +2072,7 @@ findref{the 100 other studies of these effects}
 
 \begin_layout Standard
 Our area of interest thus becomes very narrow: the elucidation of the intracellu
-lar signaling pathways activated by the stereoelectronic perturbation and
+lar signaling pathways activated by the stereo-electronic perturbation and
  conformational movement of specific amino acid residues at the shared binding
  site of psychedelic hallucinogens, ideally while maintaining the most 
 \emph on
@@ -2452,7 +2445,7 @@ The weight of evidence for the psychological effects of psychedelics implies
 
 \end_inset
 
- receptor is both necessary and sufficient to induce pyschedelic effects.
+ receptor is both necessary and sufficient to induce psychedelic effects.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -2512,8 +2505,8 @@ There is an extremely strong correlation between 5-HT
 
 \end_inset
 
- receptor affinity and hallucinogen potentency in humans, as measured by
- subjective reports post-trip.
+ receptor affinity and hallucinogen potency in humans, as measured by subjective
+ reports post-trip.
  
 \begin_inset ERT
 status collapsed
@@ -2563,7 +2556,7 @@ ameliorate
 \end_inset
 
  (reduce, mitigate, dampen, restrain) the subjective psilocybin experience,
- as well as block effects on a variety of neurophysiological measures.
+ as well as block effects on a variety of neuro-physiological measures.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Halberstadt2015"
@@ -2773,7 +2766,7 @@ A more intriguing hypo
 \end_layout
 
 \begin_layout Plain Layout
-What is different about drug signalling a evidence that the direct intracellular
+What is different about drug signaling a evidence that the direct intracellular
  cascades play a role in mediating hallucinogenic effects in the immediate
  response, in the duration of the trip, and in the longer-term psychological
  changes as measured by gene and structural changes.
@@ -2795,7 +2788,7 @@ status collapsed
 
 
 \backslash
-graffito{and signalling biases are what originally drew me}
+graffito{and signaling biases are what originally drew me}
 \end_layout
 
 \end_inset
@@ -2964,7 +2957,7 @@ ac{GPCR}
 
 \end_inset
 
-, one of an extremely diverse class of heptahelical transmembrane signalling
+, one of an extremely diverse class of heptahelical transmembrane signaling
  proteins.
  As a protein class, 
 \begin_inset ERT
@@ -3062,7 +3055,7 @@ ac{GPCR}
 
 \end_inset
 
-s enjoy such a broad range of usage due to their unique signalling capabilities.
+s enjoy such a broad range of usage due to their unique signaling capabilities.
  Ligand binding to the extracellular terminal of a 
 \begin_inset ERT
 status collapsed
@@ -3240,7 +3233,7 @@ ac{GTP}ase
 
 \end_inset
 
- activity of the α-subunit and reassociation of the resulting 
+ activity of the α-subunit and re-association of the resulting 
 \begin_inset ERT
 status collapsed
 
@@ -3314,7 +3307,7 @@ key "Robishaw2004"
 
  Additionally, while the βγ-complex was initially regarded as a more passive
  partner of the G protein α-subunit, perhaps only as a negative regulator,
- it is now clear that βγ-complexes can act as mediators of signalling in
+ it is now clear that βγ-complexes can act as mediators of signaling in
  their own right.
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -3472,7 +3465,7 @@ ac{GPCR}
 
 \end_inset
 
- activation, one potential signalling cascade eventually leads to kinase
+ activation, one potential signaling cascade eventually leads to kinase
  activation.
  Kinases phosphorylate residues in the now-empty binding area on the receptor.
  This recruits β-arrestins to the receptor.
@@ -3506,7 +3499,7 @@ resensitization
 \end_inset
 
 ), targeted to the lysosomes for degradation (part of down-regulation),
- or initiate more signalling cascades.
+ or initiate more signaling cascades.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Andresen2011"
@@ -3689,7 +3682,7 @@ status collapsed
 The βγ-complex was initially regarded as a more passive partner of the G
  protein α-subunit, thought only to act as a negative regulator.
  However, it has become clear that βγ-complexes freed from the G protein
- α-subunit can act as mediators of signalling in their own right.
+ α-subunit can act as mediators of signaling in their own right.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3950,7 +3943,7 @@ This concept has led to the classification of receptor ligands as full agonists,
  Partial agonists possess lower degrees of intrinsic efficacy (leading to
  submaximal responses), whereas inverse agonists reduce constitutive (li-
  gand-independent, basal) receptor signaling.
- Neutral antag- onists possess no intrinsic efficacy but occupy the receptor
+ Neutral antagonists possess no intrinsic efficacy but occupy the receptor
  to block the effects of full, partial, or inverse agonists.
  
 \end_layout
@@ -4014,7 +4007,7 @@ Functional selectivity
 \end_layout
 
 \begin_layout Standard
-pluripotent signalling -- many conformations, not on or off
+pluripotent signaling -- many conformations, not on or off
 \end_layout
 
 \begin_layout Standard
@@ -4027,10 +4020,10 @@ biology: hecka complicated
 \end_inset
 
 .
- In real person terms, it means there are a plethora of ways in which signalling
+ In real person terms, it means there are a plethora of ways in which signaling
  can diverge inside the cell.
  Measuring functional selectivity means many assays at many points in the
- cellular process to get an accurate picture of the receptor-iniated response.
+ cellular process to get an accurate picture of the receptor-initiated response.
 \end_layout
 
 \begin_layout Subsection
@@ -4227,7 +4220,7 @@ i/o
 \end_layout
 
 \begin_layout Standard
-The b-y complex can also initiate certain signalling pathways.
+The b-y complex can also initiate certain signaling pathways.
 \end_layout
 
 \begin_layout Standard
@@ -4832,7 +4825,7 @@ key "Kurrasch-Orbaugh2003"
 \end_layout
 
 \begin_layout Subsubsection
-Transcriptomic signalling
+Transcriptomic signaling
 \end_layout
 
 \begin_layout Quote
@@ -5314,7 +5307,7 @@ Diverging pathways
 \begin_layout Standard
 On a number of metrics, hallucinogens and non-hallucinogens show different
  pathways.
- There is interdrug variability, and the varieties of legalities shaped
+ There is inter-drug variability, and the varieties of legalities shaped
  the kinds of drugs that can be tested -- for example, 
 \begin_inset ERT
 status collapsed
@@ -6743,9 +6736,9 @@ Model Serotonin systems
 status collapsed
 
 \begin_layout Plain Layout
-JC - model systems-->generate model system for 5HT signaling--> see if hallucino
-gens do something different--> only hallucinogens can help us see scientific
- reality unfettered by societal bias.
+john Castorino - model systems-->generate model system for 5HT signaling-->
+ see if hallucinogens do something different--> only hallucinogens can help
+ us see scientific reality unfettered by societal bias.
 \end_layout
 
 \begin_layout Plain Layout
@@ -6821,7 +6814,7 @@ Oocytes with mGlu & 2a receptors: LSD, lisuride, psilocin
 
 \begin_deeper
 \begin_layout Enumerate
-to study signaling & colocalization
+to study signaling & co-localization
 \end_layout
 
 \end_deeper
@@ -7007,7 +7000,7 @@ status open
 
 
 \backslash
-graffito {and my own experience with CHO cells and flaws in studying receptor
+graffito {and my own experience with SO cells and flaws in studying receptor
  internalization}
 \end_layout
 
@@ -7219,29 +7212,6 @@ key "Wei2002"
 
  and they're an established model system for exploring embryonic differentiation
  of neuronal cells.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-RA has also been implicated in the development of vertebrate nervous system
- in vivo.
- RA is involved in the stimulation of axon outgrowth, the migration of neural
- crest cells and the specification of rostrocaudal position in the developing
- central nervous system (Maden and Holder, 1992).
- Studies of RA-induced P19 neural differentiation have led to the discovery
- of a number of genes that are important for neural development in vivo
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Wei2002"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 

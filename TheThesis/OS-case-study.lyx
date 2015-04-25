@@ -95,7 +95,7 @@ Open science was not just an ideal to be thought about -- it was something
 \end_layout
 
 \begin_layout Enumerate
-Representation was also not an ideal -- the undercitation of women is not
+Representation was also not an ideal -- the under-citation of women is not
  just something that happens, but is again, powered by researchers making
  decisions.
  I wondered whether, as someone who tries to be equitable and fair minded,
@@ -608,7 +608,7 @@ Gender distribution of the references
 \end_layout
 
 \begin_layout Standard
-I ran bibliometrics on the bibtex file that powers my citations..
+I ran bibliometrics on the BibTeX file that powers my citations..
 \end_layout
 
 \begin_layout Subsection
@@ -616,7 +616,7 @@ Methods
 \end_layout
 
 \begin_layout Standard
-The script is a available as a hacky Github repositry, at 
+The script is a available as a hacky Github repository, at 
 \begin_inset Flex URL
 status collapsed
 
@@ -719,7 +719,7 @@ The PLoS Medicine Editors
 \begin_inset Quotes erd
 \end_inset
 
-) or (3) names that do not appear in the avaible databases, usually those
+) or (3) names that do not appear in the available databases, usually those
  of non-Anglo origin or with non-Latin characters.
 \end_layout
 

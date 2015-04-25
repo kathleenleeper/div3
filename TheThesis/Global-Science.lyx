@@ -247,7 +247,6 @@ todo[inline]{intro of ~statistics~.
 
 \end_inset
 
-These are answers to the classic question of representation.
  How many women and people of color
 \begin_inset Foot
 status collapsed
@@ -302,6 +301,7 @@ none
 
 \end_inset
 
+ These are classic questions of representation.
  In this work, that means questions about who gets to make science, and
  who gets credit for their work.
  Which kinds of people and bodies does scientific research include, as subjects,
@@ -314,7 +314,7 @@ In the U.S.
  the 1960's, the push for more women in science is one of our early introduction
 s to the endemic problems of representation.
  Where are the women in science? Who is producing knowledge in the scientific
- ecoystem?
+ ecosystem?
 \end_layout
 
 \begin_layout Standard
@@ -454,21 +454,15 @@ rewrite{phrasing -- include non-binary.
 
 , minorities to White, or tall to small reinstate (re-inscribe?) recently
  developed social relations; race has not always defined us.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{social construction of race}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stepan1986"
 
 \end_inset
 
  Analyzing society on a large scale based on these tropes of natural categories
- presumes their biological and cultural naturalness, and in Donna Haraway's
- words, 
+ presumes their biological and cultural naturalness.
+ In Donna Haraway's words, 
 \end_layout
 
 \begin_layout Quote
@@ -581,21 +575,21 @@ science i.e.
 Nonetheless, knowing more about who is making and participating in science
  is a necessary layer.
  The history of science is a line of Great White Men; our current role models
- are usually Great White Men, with the exception of Marie Curie..
+ are usually Great White Men, with the possible exception of Marie Curie.
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{If you're wondering whether this still sucks, why yes! It does.}
 \end_layout
 
 \end_inset
 
- Are there any? Who makes our shit?
+ 
 \begin_inset ERT
 status collapsed
 
@@ -679,12 +673,8 @@ Terminology matters and I like to be specific, sometimes}
 
 \end_layout
 
-\begin_layout Subparagraph
-Science
-\end_layout
-
 \begin_layout Standard
-The focus on biomedical literature in representatino derives largely from
+The focus on biomedical literature and representation derives largely from
  where meta-research has been done.
  Clinical trials are 
 \begin_inset ERT
@@ -712,7 +702,7 @@ developed
 \end_inset
 
 country is clearly not particularly generalizable to a country with a completely
- different infrastracture.
+ different infrastructure.
  That's just good science; of 
 \emph on
 course 
@@ -729,9 +719,9 @@ Hierarchy of Sciences
 \begin_inset Quotes erd
 \end_inset
 
-, which predicts that as we move from simple systems (partical dynamics)
+, which predicts that as we move from simple systems (particle dynamics)
  to complex (human behavior), researchers reach less definite conceptual
- and methedological consensus.
+ and methodological consensus.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Fanelli2013a"
@@ -741,17 +731,7 @@ key "Fanelli2013a"
  Biomedical research has more variable elements -- subjects -- to manage
  and is thus more susceptible to critiques of who those subjects are.
  In high-energy physics, it shouldn't really matter where the research capacity
- is.
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Traweek etc etc
-\end_layout
-
-\end_inset
-
-
+ is, so non-feminist studies don't seem to focus on it as much.
 \begin_inset ERT
 status collapsed
 
@@ -765,7 +745,8 @@ todo{to cite Traweek or not?}
 \end_inset
 
 
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Itemize
 Also, there 
@@ -823,6 +804,11 @@ research{science without internet}
 \end_layout
 
 \end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Representation
 \end_layout
@@ -852,9 +838,9 @@ Are bibliometrics global?
 \end_layout
 
 \begin_layout Standard
-Bibliometrics or scientometrics is the meta analysis of sicentific relationships
+Bibliometrics or scientometrics is the meta analysis of scientific relationships
 , largely expressed through formal networks of citation and references.
- Much of the systematic data on underrepresentation derives from citation
+ Much of the systematic data on under-representation derives from citation
  databases, usually the 
 \begin_inset ERT
 status collapsed
@@ -1605,8 +1591,8 @@ e.g.
 
 .
  White Americans trace ancestry to the British, and later, immigration from
- the Scandavian countries and the rest of Western Europe.
- Black descendents of slavery occupy different social-scientific spheres
+ the Scandinavian countries and the rest of Western Europe.
+ Black descendants of slavery occupy different social-scientific spheres
  than Africans.
 \begin_inset ERT
 status collapsed
@@ -1679,7 +1665,7 @@ key "Barres2006"
 
 , but even then -- if trans men are men, any surveys or other kinds of analysis
  would likely account for them as men.
- Names can be used to reflect gender identites, not race or ethnicisity.
+ Names can be used to reflect gender identities, not race or ethnicity.
 \end_layout
 
 \begin_layout Standard
@@ -1756,21 +1742,17 @@ key "Lariviere2013"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Ceci2011,Jagsi2006,Moss-Racusin2012,Shen2013"
+key "Ceci2011,Jagsi2006,Moss-Racusin2012,Shen2013,Sidhu2009"
 
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{sidhu 2009, gender imbalance}
 \end_layout
 
 \end_inset
@@ -1829,10 +1811,10 @@ key "Leslie2015"
 \begin_layout Standard
 The equalizing of representation at entry, although promising, has not fulfilled
  its promise.
- While women are even overrepresented in many fields at the time of enrollment,
+ While women are even over-represented in many fields at the time of enrollment,
  the rate of departure from academe for women and people of color is higher
  at every stage of the academic-scientific career process, leading to an
- acadamic landscape where men still dominate most prestigious positions,
+ academic landscape where men still dominate most prestigious positions,
 \begin_inset ERT
 status collapsed
 
@@ -1857,7 +1839,7 @@ reference "fig:Neubauer_gender-stages-scientific-career"
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1882,7 +1864,7 @@ name "fig:Neubauer_gender-stages-scientific-career"
 
 
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealt
 key "Neugebauer2006"
 
 \end_inset
@@ -1927,6 +1909,13 @@ Percent male and female are shown for enrolling university students through
 \begin_layout Plain Layout
 
 \end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ceci2011,Jagsi2006,Sidhu2009,Neugebauer2006"
 
 \end_inset
 
@@ -2001,7 +1990,7 @@ key "Duch2012"
 
 \end_inset
 
- suggest the lower publishing rate is partially rectifed by the overall
+ suggest the lower publishing rate is partially rectified by the overall
  higher impact of women's publications, in what another researcher called
  a 
 \begin_inset Quotes eld
@@ -2106,8 +2095,8 @@ Also, HUGE points for their methods and reproducibility, e.g.
 first
 \emph default
  female authorships has been less than 2% since the 1960s -- i.e.
- women, when they're performing labwork, are given credit for their contribution
-s.
+ women, when they're performing lab work, are given credit for their contributio
+ns.
  On the other hand, the discrepancy between total and last authorships remains
  above 5%, reflecting the same high dropout rate of women seen in 
 \begin_inset CommandInset ref
@@ -2132,8 +2121,7 @@ Race
 
 \begin_layout Standard
 As with gender, minority groups leave academia at a higher rate than their
- White couterparts at all stages of the academic research
- environment.
+ White counterparts at all stages of the academic research environment.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Espinosa2011,Garrison2013"
@@ -2210,10 +2198,10 @@ Globally
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
-An effi cient system of research should address health problems of importance
+An efficient system of research should address health problems of importance
  to populations and the interventions and outcomes considered important
  by patients and clinicians.
  However, public funding of research is correlated only modestly with disease
@@ -2249,7 +2237,7 @@ key "Lown2006"
 So why is research that might transform health care and reduce health problems
  not being successfully produced?
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -2310,7 +2298,7 @@ JAMA
 \emph default
 ) came from the continents of Asia, South/Latin America, Eastern Europe,
  and Africa.
- Through the proxy of institional affiliation, 
+ Through the proxy of institutional affiliation, 
 \begin_inset CommandInset citation
 LatexCommand citeauthor*
 key "Sumathipala2004"
@@ -2637,9 +2625,9 @@ todo{link to (bio)medicalization of issues?}
 
  Health burdens fall differently based on geography, socio-economics, and
  race.
- Pneumonia, diarrhoea, tuberculosis and malaria, which together account
- for more than 20% of the disease burden in the world in 2004, received
- less than 1% of the total public and private funds devoted to health research.
+ Pneumonia, diarrhea, tuberculosis and malaria, which together account for
+ more than 20% of the disease burden in the world in 2004, received less
+ than 1% of the total public and private funds devoted to health research.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3001,20 +2989,6 @@ Many Southern African research projects are small, local projects, confined
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo[inline,backgroundcolor=highegg]{finish this section with a conclusion,
- obviously}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Section
@@ -3025,27 +2999,24 @@ Other Forms of Inaccessibility
 *disability
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 *mandatory retirement based on age (or non-inclusion)
 \end_layout
 
 \begin_layout Standard
 *access to lit hampered by technological, language, or physical barriers
  (i.e.
- vision impairments; physical ability in sicence)
+ vision impairments; physical ability in science)
 \end_layout
 
 \begin_layout Section
 Brief, Possible Explanations
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subsection
 The vanish box
 \end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
 
 \begin_layout Plain Layout
 the ‘Vanish Box’ model is a more accurate representation of the gender attrition
@@ -3062,12 +3033,7 @@ key "Etzkowitz2011"
 
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
+\begin_layout Plain Layout
 movement out of spaces
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -3078,8 +3044,9 @@ key "Ochola2009"
 
 \end_layout
 
-\begin_layout Subsection
-a function of time
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3109,11 +3076,11 @@ the
 \emph default
 determining role; older investigators have had more time to build careers,
  and had systematic advantages in the past.
-\end_layout
-
-\begin_layout Standard
-In terms of bodies studied, this is a changing, albeit too slowly, trend.
- 
+ In terms of bodies studied, this is a changing, albeit too slowly, trend.
+ While men and the minority world continue to dominate on certain indices,
+ there is a large and growing body of scientific literature happening beyond
+ the U.S.
+ and U.K.'s research spheres.
 \end_layout
 
 \begin_layout Standard
