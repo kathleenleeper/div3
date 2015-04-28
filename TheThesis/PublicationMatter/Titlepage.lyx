@@ -90,6 +90,13 @@ begin{titlepage}
 \end_layout
 
 \begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \align center
 \begin_inset VSpace vfill
 \end_inset
@@ -135,27 +142,16 @@ status open
 
 \backslash
 spacedallcaps{Mapping Psychedelic Science
+\backslash
+protect
+\backslash
+newline Signaling Pathways and Cultural Spaces}
 \end_layout
 
-\end_inset
-
-
-\begin_inset Newline newline
 \end_inset
 
 
 \size default
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-Signaling Pathways and Cultural Spaces}
-\end_layout
-
-\end_inset
-
 
 \begin_inset ERT
 status collapsed
