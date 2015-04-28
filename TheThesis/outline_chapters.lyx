@@ -115,25 +115,69 @@ filename "Contents.lyx"
 \end_layout
 
 \begin_layout Chapter
-Fun Stuff in the Future
+Introduction
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Sketch of regular book introductions with what chapter is going
- to be about and why.
- Not always updated.}
-\end_layout
-
+Division III is a year long undergraduate thesis project.
+ For me, it's both articulating and creating a way to 
+\begin_inset Quotes eld
 \end_inset
 
+feel okay
+\begin_inset Quotes erd
+\end_inset
 
+ about studying psychedelic drugs when I also see my self/scientific work
+ as enmeshed and entangled in socio-political power struggles.
+\end_layout
+
+\begin_layout Standard
+Three years ago I came to study neuroscience at Hampshire, with a naive
+ and relatively simplistic fascination with 
+\begin_inset Quotes eld
+\end_inset
+
+basic research
+\begin_inset Quotes erd
+\end_inset
+
+ into cellular aspects of cognition and perception.
+ After hitting my first academic pay wall, I discovered the free/
+\emph on
+libre
+\emph default
+ software movement and its scientific sibling, open science.
+ Both movements acknowledge more than just the functionality of science
+ and technology; they include society in their calculations of technology
+ and science.
+ While open science is not explicitly political, it has extremely strong
+ undercurrents of an idealistic moral spirit focused on something greater
+ than just
+\emph on
+ 
+\emph default
+science.
+\end_layout
+
+\begin_layout Standard
+I have since learned or come to believe that my interests, and what I do
+ with those interests, has an impact on the world.
+ This is both self-interest, for otherwise what's the point? and self-recriminat
+ion; my impact on the world is my responsibility, and I need to understand
+ the consequences.
+\end_layout
+
+\begin_layout Standard
+The thread between all of the questions/answers I explore here is: Who should
+ control the flow of knowledge?
+\end_layout
+
+\begin_layout Subsection*
+Cultural Contexts
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "chap:feminist-science-cultural-studies"
@@ -145,6 +189,16 @@ reference "chap:feminist-science-cultural-studies"
  knowledge project, and as a result, why scientists have a serious responsibilit
 y to consider their work in the greater context of social issues.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "part:scientific-ecosystems"
+
+\end_inset
+
+ is?
 \end_layout
 
 \begin_layout Subsection*
