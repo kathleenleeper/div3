@@ -79,7 +79,7 @@
 % Re-usable information
 % ********************************************************************
 \newcommand{\myDegree}{A Division III\xspace}
-\newcommand{\myTitle}{Reconstructive Open Neuroscience\xspace}
+\newcommand{\myTitle}{Mapping Psychedelic Science: Signalling Pathways and Cultural Spaces\xspace}
 \newcommand{\myName}{Kathleen Leeper\xspace}
 \newcommand{\myProf}{John Castorino\xspace}
 \newcommand{\myOtherProf}{Herbert Bernstein\xspace}
@@ -415,7 +415,7 @@
 \definecolor{medegg}{rgb}{0.91, 0.84, 0.42}
 \definecolor{lowegg}{rgb}{0.56, 0.74, 0.56}
 
-\usepackage[disable,colorinlistoftodos,textsize=smaller,backgroundcolor=blue!10,bordercolor=blue!30,linecolor=blue!30]{todonotes}
+\usepackage[colorinlistoftodos,textsize=smaller,backgroundcolor=blue!10,bordercolor=blue!30,linecolor=blue!30]{todonotes}
 
 \newcommand{\findref}[1]{\todo[bordercolor=lowegg,backgroundcolor=lowegg,linecolor=green!20]{find ref for {#1}}}
 
@@ -423,3 +423,8 @@
 \newcommand{\rewrite}[1]{\todo[bordercolor=highegg,linecolor=highegg,backgroundcolor=highegg]{rewrite {#1}}}
 \newcommand{\research}[1]{\todo[noline,bordercolor=medegg,linecolor=yellow,backgroundcolor=medegg]{research {#1}}}
 
+%######
+%wider figures
+%######
+\newlength\largefigure % to create a new length
+\setlength{\largefigure}{\columnwidth+\marginparsep+%\marginparwidth}
