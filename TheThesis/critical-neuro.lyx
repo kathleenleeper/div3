@@ -138,7 +138,7 @@ filename "Contents.lyx"
 \end_layout
 
 \begin_layout Chapter
-Mapping Psychedelic
+Mapping Psychedelics
 \end_layout
 
 \begin_layout Standard
@@ -288,7 +288,7 @@ rs in this?
 \end_layout
 
 \begin_layout Section
-Scientific Stakes
+Scientific Users
 \end_layout
 
 \begin_layout Standard
@@ -1056,16 +1056,10 @@ https://en.wikipedia.org/wiki/Disease_theory_of_alcoholism
  implies the possibility of healing and the movement of blame from individual
  choices to a genetic inheritance and accident of environment.
  It also, however, reduces a psychological-bio-life-complex of chemical/societal
-/habitual dependency to a one-off pharmacological intervention.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Berghmans2009}
-\end_layout
+/habitual dependency to a one-off pharmacological intervention.b
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Berghmans2009"
 
 \end_inset
 
@@ -1140,7 +1134,7 @@ y).
  It must be also paired with something to replace the need for heroin or
  alcohol.
  Thus, a pharmacological cure to addictions (and other psychedelic applications)
- retain a sense and need for the personal.
+ retains a sense and need for the personal.
 \end_layout
 
 \begin_layout Quote
@@ -1367,11 +1361,12 @@ Perhaps community itself is the most important “lab apparatus” of contempora
 
 \emph on
 Darwin's Pharmacy : Sex, Plants, and the Evolution of the Noösphere
-\end_layout
+\emph default
 
-\begin_layout Quote
-\align right
-Richard Doyle
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -1401,6 +1396,26 @@ recreational users with money
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+This means any research conducted has an 
+\emph on
+extremely
+\emph default
+ vested interested in casting psychedelics one way or another; thus, their
+ assays, experimental choices, and conclusions are all prone to fall into
+ one of two camps.
+\end_layout
+
+\begin_layout Standard
+Intriguing as well is the lack of the usual drug developers.
+ Since the compounds are already known, pharmaceutical companies don't stand
+ to make very much money off of already well-known drugs, and so there's
+ little motivation to develop them.
+ At the same time, they are undoubtedly psychologically/scientifically interesti
+ng, and used by enough recreational users to maintain a low level, but constant,
+ stream of well-documented self-experiments.
+\end_layout
+
 \begin_layout Section
 Indigenous science
 \end_layout
@@ -1557,32 +1572,64 @@ todo[inline]{Source for ergot and historical significance}
 
 \end_inset
 
-Psychedelic experiences existed in indigenous cultures globally, the same
+Psychedelic experiences exist in indigenous cultures globally, the same
  indigenous cultures threatened by an ever-rising tide of globalized economies
  and corporate states.
 \end_layout
 
+\begin_layout Standard
+Indigenous knowledge is also under constant threat from not just globalization,
+ but the tendency to prioritize Western styles of thought to the exclusion
+ of all.
+\end_layout
+
 \begin_layout Subsection
-complexity of indigenous rights
+Complexity of indigenous rights
 \end_layout
 
 \begin_layout Standard
-not the same from one group to another (i.e.
- Brazilian shamans & commerce vs spiritual usages in n.
- amer)
+Psychedelics exist in most cultures; it is a classic scientific and U.S.
+ feminist simplification to leave it at that.
+ In reality, indigenous groups are a vastly heterogenous group.
+ 
 \end_layout
+
+\begin_layout Standard
+In South America, ayahuasca ceremonies are relatively large business, but
+ my first instinct was to cry 
+\begin_inset Quotes eld
+\end_inset
+
+cultural appropriation.
+\begin_inset Quotes erd
+\end_inset
+
+ The business aspect is actually consistent with historical precedent, where
+ shamanistic services were always part of the indigenous economy.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Highpine2013"
+
+\end_inset
+
+ On the other hand, the Native American Church practices psychedelic usage
+ as an intensely community-oriented practice; outside participants are rarely
+ invited in, and only on special occasions.
+ So each country, and group, requires specific knowledge and careful intent.
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subsubsection
 localization
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Not the same across continents -- only know history of like, Mexico/N.
  America.
- And what about the swiss?
+ And what about the swiz?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Like the dismissal of amateur science -- or at least the non-acknowledgement
 \begin_inset ERT
 status collapsed
@@ -1609,27 +1656,77 @@ key "Highpine2013"
  
 \end_layout
 
-\begin_layout Subsubsection
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Historical colonialism
+\end_layout
+
+\begin_layout Standard
+Psychedelic use in Mexico was outlawed in by Spanish conquerors in the the
+ 1600s, and stayed alive in small, isolated villages.
+ In the 1950s and 60s, the first (white, male, and then white, female) pilgrims
+ from the United States made their way to isolated Mexican villages to first
+ take drugs in the spiritual shamanic context, and then started using them
+ recreationally.
+\end_layout
+
+\begin_layout Standard
+In addition,, women often held botanical and plant knowledge because of
+ the distribution of gender roles.
+ When colonialism showed up in the Americas and in Africa, the subsequent
+ destruction and theft of botanical knowledge was principally from 
+\emph on
+women
+\emph default
+, not just indigenous groups as a whole.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schiebinger2004"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
 Ecological destruction
 \end_layout
 
 \begin_layout Standard
 When we say these plants and compounds have cultural histories, what that
- means is that they literally -- grow or grew some where.
- To become a major treatment option, those plants either have to be produced
- on a massive scale (reducing genetic diversity, bringing in issues of labor
- movements and ethics) or synthesized (bringing in green chem.
- issues).
- Moreover, 
-\end_layout
-
-\begin_layout Subparagraph
-Biopiracy
+ means is that they literally -- grow or grew somewhere; and growth is not
+ a constant.
 \end_layout
 
 \begin_layout Standard
-should psychedelics be patentable?
+The peyote cactus is, for exampled, endangered; the Native American Church
+ considers it their duty to maintain and cultivate it..
+ The Amazonian rain forest where the 
+\emph on
+Banisteriopsis
+\emph default
+ 
+\emph on
+Caapi 
+\emph default
+and its ayahuasca brew cohorts is under ecological attack, being denuded
+ at a rapid rate (5,000 km2 in 2014, a 20% loss since 1970).
 \end_layout
+
+\begin_layout Standard
+To become a major treatment option, those plants either have to be produced
+ on a massive scale (reducing genetic diversity, bringing in issues of labor
+ movements and ethics, appropriating new farmland) or synthesized (bringing
+ in green chemistry issues), both of which raise issues in and of themselves.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subsubsection
 \begin_inset Quotes eld
@@ -1642,7 +1739,7 @@ Randomized controlled crime
 : patents and active ingredients
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 measuring the efficiency of traditional medicine;
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1661,7 +1758,7 @@ pharmaceutical medical truth seeking
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 need to pay attention to indigenous plants
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1672,7 +1769,9 @@ key "Halberstein2005"
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -2024,17 +2123,14 @@ key "Abi-Rached2010"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Section
-Interactions
-\end_layout
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subsection
 Science's cultural context
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 In molecular neuroscience, the cultural histories of plant complexes, spiritual
  ceremonies, and hallucinogenic experiences is a footnote, a token sentence
  or two.
@@ -2205,7 +2301,7 @@ status collapsed
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 A 22 page review in 2015:
 \end_layout
 
@@ -2223,97 +2319,18 @@ Hallucinogenic drugs have been used by humans for thousands of years, but
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 We could tell this story very differently if a gendered and post colonial
  lens was applied, as not just compounds but as whole spiritual ceremonies.
 \end_layout
 
-\begin_layout Subsection
-Historical cultural context colonialism
-\end_layout
-
-\begin_layout Standard
-Psychedelic use in Mexico was pushed down by the Spanish conquerors; it
- existed in small, isolated villages.
- In the 50s and 60s, the first (white, male, and then white, female) pilgrims
- from the United States made their way to isolated Mexican villages to first
- take drugs in the spiritual shamanic context, and then started using them
- recreationally, for days at time.
-\end_layout
-
-\begin_layout Standard
-Now, ayahuasca experiences can be bought and sold in South America -- which
- turns out to be okay, from an appropriative standpoint, because those services
- were always part of the indigenous economy.
- The Western/Northern feminist trope is to instantly assume indigenous businesse
-s are violations, which seems like another recreation of the noble savage.
-\end_layout
-
-\begin_layout Subsection
-Gendered knowledges
-\end_layout
-
-\begin_layout Standard
-As per Londa
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Schiebinger2004"
-
 \end_inset
 
-'s 
-\emph on
-Feminist history of colonial science
-\emph default
-, women often held botanical and plant knowledge because of the distribution
- of gender roles.
- When colonialism showed up in the Americas and in Africa, the subsequent
- destruction and theft of that knowledge fell/was principally from 
-\emph on
-women
-\emph default
-.
+
 \end_layout
 
 \begin_layout Section
 Resistance to co-option
-\end_layout
-
-\begin_layout Standard
-I like psychedelics, specifically, because they do not lend themselves well
- to wide-spread or easy application.
- While their therapeutic potential 
-\emph on
-may
-\emph default
- not be entangled with their perceptual effects, in the here and now, we
- have not yet synthesized the anti-addictive, non-hallucinogenic counterpart
- to 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{LSD}
-\end_layout
-
-\end_inset
-
-.
- So therapists are stuck with individual experiences.
-\end_layout
-
-\begin_layout Standard
-Part of this is the re-assertion of the individual, and the individual psycholog
-ical experience.
- While setting may not play as much of a role as Timothy Leary argued, it
- is still important to the experience.
-\end_layout
-
-\begin_layout Subsection
-translation or transformation
 \end_layout
 
 \begin_layout Standard
@@ -2322,12 +2339,24 @@ The quality (and thus long term effects) of a psychotropic experience is
 \emph on
 interplay
 \emph default
- between environment and individual; like facts, it doesn't wholly reside
- in either, or even at the mere intersection.
- Trying to pull that out in a lab environment, is, as Fleck describes, not
- just a translation of information from one knowledge realm to another,
- but a full fledged transformation such that the ayahuasca in the lab is
- only nominally related to ayahuasca in (shamanistic) practice.
+ between environment and individual; like Fleck's facts, it doesn't wholly
+ reside in either.g Trying to pull out the environment-person-biological
+ interplay out in a lab environment, is not but a full fledged transformation
+ such that the ayahuasca in the lab is only nominally related to ayahuasca
+ in (shamanistic) practice is related to recreational 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{DMT}
+\end_layout
+
+\end_inset
+
+ usage.
 \begin_inset Note Note
 status collapsed
 
@@ -2365,17 +2394,6 @@ actually
 completely
 \emph default
  different
-\end_layout
-
-\end_inset
-
-
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Anne Fausto-Sterling, and many others, talk about knowledge outside the
- academy -- communal, social, and indigenous knowledges.
 \end_layout
 
 \end_inset
@@ -2432,9 +2450,105 @@ So cellular and molecular neuroscience is missing a great many things.
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+I like psychedelics, specifically, because they do not lend themselves well
+ to wide-spread or easy application.
+ While their therapeutic potential 
+\emph on
+may
+\emph default
+ not be entangled with their perceptual effects, in the here and now, we
+ have not yet synthesized the anti-addictive, non-hallucinogenic counterpart
+ to 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{LSD}
+\end_layout
+
+\end_inset
+
+.
+ So therapists are stuck with the re-assertion of the individual, in combination
+ with biological factors.
+\end_layout
+
+\begin_layout Standard
+I find this particularly intriguing in the case of 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PTSD}.
+\end_layout
+
+\end_inset
+
+ The U.S.
+ military has an interest in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PTSD}
+\end_layout
+
+\end_inset
+
+ cures.
+ It affects many in the service, hindering their continued contribution
+ to the war effort(s), and more importantly, reflects badly on the U.S.
+ government for their abysmal treatment of veteran's.
+ At the same time, the psychedelic 
+\begin_inset Quotes eld
+\end_inset
+
+cure
+\begin_inset Quotes erd
+\end_inset
+
+ for 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PTSD}
+\end_layout
+
+\end_inset
+
+, while effective, is based on deep introspection and psychotherapy; it
+ seems unlikely to help in the production of American citizens re-socialized
+ into being killing machines.
+ So it seems likely, simply by virtue of their 
+\begin_inset Quotes eld
+\end_inset
+
+off target
+\begin_inset Quotes erd
+\end_inset
+
+ effects, that psychedelics cannot be used simply in assisting the U.S.
+ war machine.
 \begin_inset Note Note
 status collapsed
 
@@ -2511,8 +2625,27 @@ free market forces
 
 \end_layout
 
+\begin_layout Subsection
+Bioprospecting
+\end_layout
+
+\begin_layout Standard
+Of concern for many indigenous knowledges is the transformation and patenting
+ of herblore into medicinal compounds by pharmaceutical companies.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shiva2007"
+
+\end_inset
+
+ Bioprospecting relies on patenting plant compounds collectively discovered
+ in biodiverse areas, and patenting and marketing the isolated drug.
+ Many psychedelics, however, are no longer within the time-frame of a patentable
+ drug; legally, they cannot be made into solely profit-generating compounds.
+\end_layout
+
 \begin_layout Section
-Moving Forward(?)
+Moving Forward
 \end_layout
 
 \begin_layout Standard
@@ -2672,43 +2805,132 @@ indigenous knowingssss (see above)
 \end_deeper
 \end_inset
 
+I promised -- or wanted to find out -- who had stakes in knowledge, and
+ who had rights to control it.
+ I still don't know, obviously, but I have a better idea.
+ Open science provides specific solutions to specific scientific problems;
+ it's also a contributor to the potential marginalization of the majority
+ world and does nothing to move away from old narratives of development.
+ 
+\end_layout
 
+\begin_layout Standard
+Psychedelics are pharmacologically fascinating and clinically difficult;
+ the subjectivity of human experience presents frustrations for potential
+ capital projects.
+ They are also emblematic of a constant tug-of-war between spirituality
+ and science, a divide I still fall squarely on the science side of.
+ The most obvious space that I see (or think I see) going forward is the
+ need for me to understand how to continue to link the biological to the
+ subjective, and preserve the essential role of 
+\emph on
+people
+\emph default
+ and ceremonies in the scientific usage of psychedelics.
+ Going forward, questions that I think will shape my work:
 \end_layout
 
 \begin_layout Enumerate
-doing activism on the side?
+Activism on the side, e.g.
+ being aware of the current state of psychedelics 
+\begin_inset Quotes eld
+\end_inset
+
+in nature
+\begin_inset Quotes erd
+\end_inset
+
+ (ecologically) and 
+\begin_inset Quotes eld
+\end_inset
+
+in culture
+\begin_inset Quotes erd
+\end_inset
+
+ (legally, as tools)
 \end_layout
 
 \begin_layout Enumerate
-policy work for systematic solutions
+Communicate 
+\begin_inset Quotes eld
+\end_inset
+
+better
+\begin_inset Quotes erd
+\end_inset
+
+ directly with members of the recreational community.
+ Psychedelics are going to stay, and recreational practitioners use scientific
+ information in ways scientists may not anticipate 
 \end_layout
 
 \begin_layout Enumerate
-scrape/analyze all of Erowid
+Policy work to increase representation of indigenous practitioners as valid
+ members of the scientific community
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+As well as understanding the limits and power of Intellectual Property to
+ protect said knowledge, ideally without placing indigenous knowledge under
+ any boundaries it does not already have.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ending D.A.R.E., the U.S.'s woefully ineffective 
+\begin_inset Quotes eld
+\end_inset
+
+harm prevention
+\begin_inset Quotes erd
+\end_inset
+
+ program, and advocating for healthier, 
+\begin_inset Quotes eld
+\end_inset
+
+well-ness
+\begin_inset Quotes erd
+\end_inset
+
+ oriented programs in school that teach about how to do drugs safely, rather
+ than not at all
 \end_layout
 
 \begin_layout Enumerate
-gendered/racialized research
+Consider the role of gender and race in both the biological subjects that
+ I study and the community at large, and understand which groups 
+\emph on
+cannot
+\emph default
+ participate in psychedelic culture because of 
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-access to drugs
+Employ 
+\begin_inset Quotes eld
+\end_inset
+
+cultural controls
+\begin_inset Quotes erd
+\end_inset
+
+ in research; tailor each scientific psychedelic experiment to the specifics
+ of the situation
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-communicate scientific information better?
-\end_layout
-
-\begin_layout Enumerate
-ending D.A.R.E.
-\end_layout
-
-\begin_layout Enumerate
-include cell karyotypes
-\end_layout
-
-\begin_layout Enumerate
-in methods include derivations of drugs? 
+Understand 
+\emph on
+specific
+\emph default
+ histories in the way the anthropologists or community-story tellers do,
+ not in the offhand secondary way that scientists refer to counter-cultural
+ histories or indigenous traditions.
 \end_layout
 
 \begin_layout Standard

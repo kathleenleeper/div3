@@ -83,8 +83,16 @@ Case Studies in Metrics and Notebooks
 \end_layout
 
 \begin_layout Standard
-Two fundamental ideas powered much of my work.
- 
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Bibliometrics-Me"
+
+\end_inset
+
+As a firm believer in putting (some) ideas into action, it seemed worthwhile
+ to not just talk about open science and representation, but actively engage
+ with the concepts.
+ I came to two conclusions, and subsequent courses of action.
 \end_layout
 
 \begin_layout Enumerate
@@ -95,9 +103,9 @@ Open science was not just an ideal to be thought about -- it was something
 \end_layout
 
 \begin_layout Enumerate
-Representation was also not an ideal -- the under-citation of women is not
- just something that happens, but is again, powered by researchers making
- decisions.
+Representation was also not an ideal to be pined over -- the under-citation
+ of women is not just something that happens, but is again, powered by researche
+rs making decisions.
  I wondered whether, as someone who tries to be equitable and fair minded,
  and who thinks of themself as someone who fights for ~equality~, I was
  doing any better than the vast majority of the literature.
@@ -105,7 +113,7 @@ Representation was also not an ideal -- the under-citation of women is not
 \end_layout
 
 \begin_layout Section
-Open Notebooks in the Wild
+Open Notebook
 \end_layout
 
 \begin_layout Standard
@@ -132,10 +140,7 @@ revolution
 \end_inset
 
  in scientific opportunities.
-\end_layout
-
-\begin_layout Standard
-It's also (I think) the easiest for an undergraduate biologist to implement.
+ It's also (I think) the easiest for an undergraduate biologist to implement.
  I don't publish, yet, so I can't publish any papers open access.
  I don't generate a lot of data or have data sets, so publishing a data
  note for others to analyze is out of the question, and of course, since
@@ -229,15 +234,9 @@ need
 
 \begin_deeper
 \begin_layout Enumerate
-Because paper notes don't translate perfectly to typed text (see 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "enu:This-also-relates"
-
-\end_inset
-
-), it's frustrating and tiring to have to re-type and revisit a protocol
- run just earlier, and translate from paper to digital.
+Because paper notes don't translate perfectly to typed text , it's frustrating
+ and tiring to have to re-type and revisit a protocol run just earlier,
+ and translate from paper to digital.
 \end_layout
 
 \begin_layout Enumerate
@@ -283,21 +282,8 @@ This also relates to the sketching and informal drawing that happens in
 
 \end_deeper
 \begin_layout Enumerate
-Studies
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Can cite this if people feel strongly}
-\end_layout
-
-\end_inset
-
- have shown time again that physically writing notes helps students retain
- knowledge better than typing them.
+Studies have shown time again that physically writing notes helps students
+ retain knowledge better than typing them.
  Similarly, I do more careful checking of protocols and the steps I have
  to follow when I'm writing them, rather than just reading and following
  a protocol from a typed page.
@@ -393,7 +379,7 @@ Version control of files.
 \begin_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -421,21 +407,9 @@ protocols
 \end_deeper
 \begin_layout Enumerate
 Metrics on my lab entries.
- It's very easy to generate maps and time lines of processes; 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Or at least prove to my committee how much work I am or am not doing}
-\end_layout
-
-\end_inset
-
-to see how many times and when my work has been done.
- I can run self-improvement metrics on myself
+ It's very easy to generate maps and time lines of processes; to see how
+ many times and when my work has been done.
+ I can run self-improvement metrics on myself.
 \end_layout
 
 \begin_layout Subsection
@@ -453,36 +427,12 @@ Surmounting Notebook Challenges
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{These might belong in the earlier section? Or the earlier sections
- analyzing OS belongs here}
-\end_layout
-
-\end_inset
-
 Some thoughts: Since being open is 
 \emph on
 not
 \emph default
- the same as being accessible, transparent, or even useful (re: 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Slee2013"
-
-\end_inset
-
-
-\emph on
-, Notes against openness
-\emph default
-); anything that wants to accomplish those goals needs a lot more thought
- and planning.
+ the same as being accessible, transparent, or even useful; anything that
+ wants to accomplish those goals needs a lot more thought and planning.
  I think open notebooks are only a small component of what sharing procedures
  is; said differently, 
 \begin_inset Quotes eld
@@ -511,37 +461,28 @@ I think a more ideal situation is
 \emph on
 not
 \emph default
- a transfer of paper to electronic.
-\end_layout
-
-\begin_layout Standard
-Rather, multiple layers of publication - namely, including methods.
+ a transfer of paper to electronic, but rather, multiple layers of publication
+ - namely, including methods.
  Real protocols, but protocols as you might write them out for someone in
  your lab running an experiment for you, instead of bite-sized uber-simplified
  
 \begin_inset Quotes eld
 \end_inset
 
-Procedures were performed as described previously.
+Procedures were performed as described previously
 \begin_inset Quotes erd
 \end_inset
 
+ typical of scientific papers.
  Following an open lab notebook with nothing else is hard; using it as a
  reference to supplement a larger work sounds like an incredible resource.
 \end_layout
 
 \begin_layout Section
-Bibliometric analyses
+Bibliometrics
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "chap:Bibliometrics-Me"
-
-\end_inset
-
-
 \begin_inset Float figure
 wide false
 sideways false
@@ -565,7 +506,7 @@ textwidth][c]{
 
 \begin_inset Graphics
 	filename /home/feline/Documents/Repositories/bibmetrics/gender_distr.png
-	lyxscale 20
+	lyxscale 50
 	width 110text%
 
 \end_inset
@@ -594,7 +535,7 @@ name "fig:Gender-distribution-div"
 
 \end_inset
 
-Gender distribution of the references
+Gender distribution all potential references
 \end_layout
 
 \end_inset
@@ -604,11 +545,13 @@ Gender distribution of the references
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-I ran bibliometrics on the BibTeX file that powers my citations..
+ I think it's important that when we talk about representation, we don't
+ abstract it to be just numbers.
+ Citation networks, like everything else, are the result of human decisions;
+ I think a program or script analyzing gender in specific fields or reseacher
+ libraries would be a useful tool and yield interesting results.
+ I took preliminary steps towards coding this, making a small script that
+ runs a crude bibliometric analysis on my citation list.
 \end_layout
 
 \begin_layout Subsection
@@ -765,7 +708,8 @@ Not Available
 
 \begin_layout Standard
 The real heart of the matter is the men and women.
- ~56% of the authors in my database are assigned male; only 30% female.
+ Close to 60% of the authors in my database are assigned male; only 30%
+ female.
  This divide would change dramatically, I'm sure, if we broke it down by
  subject matter -- feminist science and philosophy vs the other disciplines
  in my Division III.

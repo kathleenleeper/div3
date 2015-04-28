@@ -957,15 +957,18 @@ your child has diptheria.
 \begin_inset Quotes erd
 \end_inset
 
- None of these are wrong, persay, but they are all necessary simplifications
- for communication between individuals.
+ None of these are wrong, but the fact of needing to 
+\emph on
+communicate
+\emph default
+ requires simplifications for communication between individuals.
  
 \end_layout
 
 \begin_layout Standard
 Those same simplifications and transformations of knowledge-concepts are
  in journal science, the fragmented and idiosyncratic 'cutting-edge' of
- science, as a necessary part of communication.
+ science.
  As journal science is incorporated into 
 \emph on
 vademecum
@@ -984,9 +987,24 @@ graffito{Fleck, p.
 
 \end_inset
 
- the collected working knowledge of a field or discipline, built from a
- mosaic of journal science and communication and personal experience, the
- collective of researchers shapes which facts are included.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{vademecum} "handbook", the collected working knowledge of a field or
+ discipline}
+\end_layout
+
+\end_inset
+
+, built from a mosaic of journal science and communication and personal
+ experience, the collective of researchers shapes which facts are included.
  By the end of it, the 
 \begin_inset Quotes eld
 \end_inset
@@ -1093,6 +1111,13 @@ s in South America, came into contact with the Peruvian bark of the cinchona
  malaria.
  The discovery, classification, and medically-useful malarial treatment
  allowed the penetration of European troops into hitherto inaccessible areas.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Adas1990"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

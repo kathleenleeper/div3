@@ -86,77 +86,9 @@
 status open
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-let
-\backslash
-cleardoublepage
-\backslash
-clearpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-listoftodos
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "Contents.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-acro{SCI}{Science Citation Index}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-acro{WoS}{Web of Science}
-\end_layout
 
 \end_inset
 
@@ -179,7 +111,8 @@ name "chap:Representation_Science"
 
 \end_inset
 
-
+A key question missing from the scientific ecosystem is the classic question
+ of representation.
 \begin_inset Note Note
 status collapsed
 
@@ -229,24 +162,6 @@ place blame on paper and grant reviewers, editors, faculty members, or other
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{intro of ~statistics~.
- This 
-\backslash
-% of women are in science, and this 
-\backslash
-% of burden of disease falls here, probably PAY GAPS?}
-\end_layout
-
-\end_inset
-
  How many women and people of color
 \begin_inset Foot
 status collapsed
@@ -259,7 +174,7 @@ Women
 \begin_inset Quotes erd
 \end_inset
 
- is not meant as just white ciswomen, but is inclusive of those assigned,
+ is not meant as just white cis-women, but is inclusive of those assigned,
  identifying as, or read as female, of all races.
  People of color is not just men of color, but the women of color subject
  to the 'double-bind' of racism and sexism.
@@ -301,11 +216,9 @@ none
 
 \end_inset
 
- These are classic questions of representation.
  In this work, that means questions about who gets to make science, and
  who gets credit for their work.
- Which kinds of people and bodies does scientific research include, as subjects,
- researchers, and audiences? 
+ 
 \end_layout
 
 \begin_layout Standard
@@ -314,24 +227,8 @@ In the U.S.
  the 1960's, the push for more women in science is one of our early introduction
 s to the endemic problems of representation.
  Where are the women in science? Who is producing knowledge in the scientific
- ecosystem?
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{maybe link to next section but hopefully stands alone? can
- be a cleaner transition}
-\end_layout
-
-\end_inset
-
-
+ ecosystem? More generally, which kinds of people and bodies does scientific
+ research include, as subjects, researchers, and audiences? 
 \end_layout
 
 \begin_layout Section
@@ -339,12 +236,16 @@ The trouble with representation
 \end_layout
 
 \begin_layout Quotation
+
+\size small
 When I sat down with one of my senior professors in Durban, South Africa
  to talk about my Master’s thesis, he asked me why I wanted to write about
  women resistance fighters.
 \end_layout
 
 \begin_layout Quotation
+
+\size small
 “Because women made up twenty percent of the ANC’s militant wing!” I gushed.
  “Twenty percent! When I found that out I couldn’t believe it.
  And you know – women have never been part of fighting forces –
@@ -355,15 +256,21 @@ When I sat down with one of my senior professors in Durban, South Africa
 \end_layout
 
 \begin_layout Quotation
+
+\size small
 He interrupted me.
  “Women have always fought,” he said.
 \end_layout
 
 \begin_layout Quotation
+
+\size small
 “What?” I said.
 \end_layout
 
 \begin_layout Quotation
+
+\size small
 “Women have always fought,” he said.
  “Shaka Zulu had an all-female force of fighters.
  Women have been part of every resistance movement.
@@ -408,18 +315,6 @@ culture in the invisibility and repression perpetrated by
 their
 \emph default
  culture.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{awkward phrasing}
-\end_layout
-
-\end_inset
-
  To talk about the absence of women in science and technology over the past
  100 years is a disservice to the exceptional individuals who 
 \emph on
@@ -429,7 +324,7 @@ did
  It is not on them, but rather on us, to recognize the histories we tell
  will, without serious work, elide the many and diverse Black, Brown, and
  White wo/men/of color.
- Women have always fought, and it's not their fault we refuse to count them.
+ Women have always fought; it's not their fault we refuse to count them.
  
 \end_layout
 
@@ -444,7 +339,7 @@ status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 rewrite{phrasing -- include non-binary.
  "You." As LJ put it}
@@ -525,22 +420,8 @@ feminine
 \end_inset
 
  and responsible science.
- To some extent, that's true.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{phrasing -- maybe see Banu, Moored Metamorphoses for guide?}
-\end_layout
-
-\end_inset
-
-Researchers who have to cross gender boundaries might be less likely to
- presume the existence of 
+ To some extent, that's true -- Researchers who have to cross gender boundaries
+ might be less likely to presume the existence of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -556,8 +437,9 @@ female
 \begin_inset Quotes erd
 \end_inset
 
- hormones; Black and Brown researchers may be less likely to assume the
- default of White histories for guiding their research in biological paradigms.
+ hormones.
+ Black and Brown researchers may be less likely to assume the default of
+ White histories for guiding their research in biological paradigms.
  But on the whole, there is a divide between the goals of women 
 \emph on
 in
@@ -568,17 +450,17 @@ in
 and 
 \emph default
 science i.e.
- the gendered nature of knowledge.
+ the gendered and value-driven nature of knowledge.
 \end_layout
 
 \begin_layout Standard
 Nonetheless, knowing more about who is making and participating in science
- is a necessary layer.
+ is a necessary layer; it also helps to complicate .
  The history of science is a line of Great White Men; our current role models
  are usually Great White Men, with the possible exception of Marie Curie.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -676,23 +558,10 @@ Terminology matters and I like to be specific, sometimes}
 \begin_layout Standard
 The focus on biomedical literature and representation derives largely from
  where meta-research has been done.
- Clinical trials are 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{rephrase}
-\end_layout
-
-\end_inset
-
- prioritized as study objects, plausibly because the effect is more clear
- -- studying a medicine in only men blatantly ignores the other 50% of the
- population who might succumb to a disease; studying breast cancer as solely
- a women's problem carries the same issue.
+ Clinical trials are prioritized as study objects, plausibly because the
+ effect is more clear -- studying a medicine in only men blatantly ignores
+ the other 50% of the population who might succumb to a disease; studying
+ breast cancer as solely a women's problem carries the same issue.
  Testing malaria medications in a 
 \begin_inset Quotes eld
 \end_inset
@@ -732,19 +601,6 @@ key "Fanelli2013a"
  and is thus more susceptible to critiques of who those subjects are.
  In high-energy physics, it shouldn't really matter where the research capacity
  is, so non-feminist studies don't seem to focus on it as much.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{to cite Traweek or not?}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -813,11 +669,15 @@ research{science without internet}
 Representation
 \end_layout
 
+\begin_layout Subsection
+Are bibliometrics global?
+\end_layout
+
 \begin_layout Standard
-The areas of representation I'm interested in exploring are both sides of
- the research experience, i.e.
- who is doing research, and what topics and people are their objects of
- study?
+Bibliometrics or scientometrics is the meta analysis of scientific relationships
+, expressed through formal networks of citation and references.
+ Much of the systematic data on under-representation derives from citation
+ databases, 
 \begin_inset ERT
 status collapsed
 
@@ -825,23 +685,13 @@ status collapsed
 
 
 \backslash
-rewrite{more on the topics of rep}
+graffito{gray literature: conference papers, pre-prints, other quasi-published
+ scholarly work}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Subsection
-Are bibliometrics global?
-\end_layout
-
-\begin_layout Standard
-Bibliometrics or scientometrics is the meta analysis of scientific relationships
-, largely expressed through formal networks of citation and references.
- Much of the systematic data on under-representation derives from citation
- databases, usually the 
+usually the 
 \begin_inset ERT
 status collapsed
 
@@ -862,22 +712,8 @@ core
 \begin_inset Quotes erd
 \end_inset
 
- journals curated by Thomson-Reuters.
- but sometimes Google Scholar (100-160 million documents, 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{gray literature: conference papers, pre-prints, other quasi-published
- scholarly work}
-\end_layout
-
-\end_inset
-
-including 
+ journals curated by Thomson-Reuters, but sometimes Google Scholar (100-160
+ million documents, including 
 \begin_inset Quotes eld
 \end_inset
 
@@ -885,7 +721,7 @@ gray literature
 \begin_inset Quotes erd
 \end_inset
 
-), CrossRef (55 million records), Scopus (53 million), Pubmed (>23 million)
+), CrossRef (55 million records), Scopus (53 million), PubMed (>23 million)
  or JSTOR (4.2 million).
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -902,7 +738,7 @@ science
 \begin_inset Quotes erd
 \end_inset
 
-, and some the whole breadth of academic endeavours.
+, and some the whole breadth of academic endeavors.
  
 \end_layout
 
@@ -944,15 +780,14 @@ status collapsed
 
 \backslash
 graffito{e.g.
- WoS includes full author names and institutional affiliation, which will
- become important}
+ WoS includes full author names and institutional affiliation}
 \end_layout
 
 \end_inset
 
  and the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -964,10 +799,14 @@ ac{IF}
 \end_inset
 
 s use as a tool for filtering information, it also provides a good snapshot
- of literature visibility.
+ of literature visibility -- not productivity or quality, but visibility.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 This indexing captures 4% of journals from any given country,
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -1058,8 +897,13 @@ If
  all countries were producing scientific knowledge proportional to their
  populations and national needs and 4% of those were indexed, we might assume
  Thomson-Reuters was catching the cream of the global intellectual crop.
- But in reality, nearly all of the most Thomson-Reuters respected journals
- are published from the U.S.
+ But in reality,
+\end_layout
+
+\end_inset
+
+ Nearly all of the most Thomson-Reuters respected journals are published
+ from the U.S.
  and the U.K., despite rapidly increasing scholarly production from the rest
  of the world.
 \begin_inset CommandInset citation
@@ -1244,42 +1088,11 @@ ac{IF}
 , are systematically lower.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Graham2011"
+key "Graham2011,Meneghini2007"
 
 \end_inset
 
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{meaning of low impact factor; also cover that if things aren't cited,
- they can't be seen? maybe this is already clear.
- but to appear in the SCIE, you have to be cited, even if it's not in a
- high impact journal...also that those 
-\backslash
-emph{are} producing, but are maybe publishing in different countries}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{ref re: production in Brazil, or italy, for example}
-\end_layout
-
-\end_inset
-
-
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1499,31 +1312,9 @@ requires
  and the U.S.,, so the statistics captured by the massive databases used in
  many bibliometric studies systematically exclude, for example, most of
  the scholarship emerging from Brazil.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{brazilian scientific productivity}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{transition}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Meneghini2007"
 
 \end_inset
 
@@ -1572,11 +1363,6 @@ The U.S.
 \end_layout
 
 \begin_layout Standard
-Race and gender are complicated and intersecting issues.
- 
-\end_layout
-
-\begin_layout Standard
 The complexities of race in the U.S., and indeed in any country, are hard
  to overstate and subject to constantly shifting boundaries
 \begin_inset Note Note
@@ -1593,19 +1379,7 @@ e.g.
  White Americans trace ancestry to the British, and later, immigration from
  the Scandinavian countries and the rest of Western Europe.
  Black descendants of slavery occupy different social-scientific spheres
- than Africans.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{africans vs african americans}
-\end_layout
-
-\end_inset
-
+ than recent African immigrants.
  The response to immigrants and descendants of immigrants from East and
  South Asia are routinely discriminated against; the increasing representation
  of Asian and Asian-American immigrants in the sciences hasn't strayed from
@@ -1627,22 +1401,27 @@ model minority
 
  binary since WWII.
  Latinx
-\begin_inset Foot
+\begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
-Latinx - a gender-neutral form of Latino/Latina, referring to not race,
- but merely area-of-origin
+
+
+\backslash
+graffito{
+\backslash
+emph{Latinx} - a gender-neutral form of Latino/Latina, referring to not
+ race, but merely area-of-origin}
 \end_layout
 
 \end_inset
 
- groups from South and Latin America suffer their own unique set of injustices.
- 
+ groups from South and Latin America suffer their own unique set of injustices,
+ while 
 \begin_inset Quotes eld
 \end_inset
 
-Indigenous people
+indigenous people
 \begin_inset Quotes erd
 \end_inset
 
@@ -1653,25 +1432,25 @@ n of the population.
 \end_layout
 
 \begin_layout Standard
-To a large degree, gender is cleaner-cut.
+In many ways, gender is cleaner-cut.
  In the U.S.
- and other dominant countries, there's only two options.
- Trans scientists do, in fact, exist (at least anecdotally)
+ tradition, there's only two options.
+ While trans scientists do in fact exist, at least anecdotally,
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Barres2006"
 
 \end_inset
 
-, but even then -- if trans men are men, any surveys or other kinds of analysis
- would likely account for them as men.
- Names can be used to reflect gender identities, not race or ethnicity.
+, a gendered analysis would account for trans-men as men and trans-women
+ as women.
+ Gender is thus much less heterogeneous, and amenable to large scale analysis.
 \end_layout
 
 \begin_layout Standard
 And, of course, gendered issues are racialized and vice versa.
- In one report, 100% of women of color reported marginalization on gender-
- and race-based grounds.
+ In one small, but in-depth report, 100% of women of color surveyed reported
+ marginalization on gender- and race-based grounds.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Phillips2014"
@@ -1711,6 +1490,8 @@ Gender
 \end_layout
 
 \begin_layout Quote
+
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -1743,7 +1524,7 @@ key "Lariviere2013"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset CommandInset citation
@@ -1753,22 +1534,6 @@ key "Ceci2011,Jagsi2006,Moss-Racusin2012,Shen2013,Sidhu2009"
 \end_inset
 
 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{being a queer in science?}
 \end_layout
 
 \end_inset
@@ -1789,8 +1554,9 @@ non-academic field
 \begin_inset Quotes erd
 \end_inset
 
-, which to be fair comprise the majority of career paths for scientifically-trai
-ned students
+.
+ This is actually a fairly large flaw, since industry and non-academic jobs
+ comprise the majority of career paths for scientifically-trained students
 \end_layout
 
 \end_inset
@@ -1815,19 +1581,6 @@ The equalizing of representation at entry, although promising, has not fulfilled
  the rate of departure from academe for women and people of color is higher
  at every stage of the academic-scientific career process, leading to an
  academic landscape where men still dominate most prestigious positions,
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{review "vanish box" idea -- women leaving academia for industry? maybe
- in a longer review?}
-\end_layout
-
-\end_inset
-
  as in 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -1836,16 +1589,19 @@ reference "fig:Neubauer_gender-stages-scientific-career"
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename gfx/Neugebauer_Women-in-MolBiopositions.TIF
 	lyxscale 20
-	width 100col%
+	width 130col%
 
 \end_inset
 
@@ -1869,12 +1625,12 @@ key "Neugebauer2006"
 
 \end_inset
 
-.
-\series bold
-, Scissors Diagram Showing the Gender Distribution within Career Stages
- in Biological Sciences at German Universities (2003)
-\series default
 
+\series bold
+,
+\series default
+ Scissors Diagram Showing the Gender Distribution within Career Stages in
+ Biological Sciences at German Universities (2003)
 \begin_inset Note Note
 status collapsed
 
@@ -1913,6 +1669,10 @@ Percent male and female are shown for enrolling university students through
 \end_inset
 
 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Ceci2011,Jagsi2006,Sidhu2009,Neugebauer2006"
@@ -1922,7 +1682,9 @@ key "Ceci2011,Jagsi2006,Sidhu2009,Neugebauer2006"
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+
+
 \begin_inset ERT
 status collapsed
 
@@ -1971,19 +1733,6 @@ key "Duch2012"
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{to be less dickish}
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Duch2012"
@@ -2009,8 +1758,8 @@ key "Lariviere2013"
 
  While this may be true at the very high levels, since women who succeed
  are likely to be comparatively exceptional, two massive bibliometric studies
- of citation patterns and publication databases demonstrate the scope of
- gendered participation in science.
+ of citation patterns and publication databases demonstrate a more complicated
+ pattern.
 \end_layout
 
 \begin_layout Standard
@@ -2036,7 +1785,7 @@ ac{WoS}
 \end_inset
 
  database.
- Between 2008 and 2012, this comprised 5,483,841 reseach articles and reviews,
+ Between 2008 and 2012, this comprised 5,483,841 research articles and reviews,
  with 27,329,915 authorships.
  Of these, women account for <30% of fractionalized authorships, and are
  outnumbered in first author positions at a 1:1.93 ratio.
@@ -2120,15 +1869,24 @@ Race
 \end_layout
 
 \begin_layout Standard
-As with gender, minority groups leave academia at a higher rate than their
- White counterparts at all stages of the academic research environment.
+As with gender, minority group members leave academia at a higher rate than
+ their White counterparts at all stages of the academic research environment.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Espinosa2011,Garrison2013"
 
 \end_inset
 
+ Underrepresented minority groups comprised 28.5 percent of the national
+ population in 2006, yet just 9.1 percent of college-educated Americans in
+ science and engineering occupations.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "CommitteeonUnderrepresentedGroupsandtheExpansionoftheScienceandEngineeringWorkforcePipelineU.S.2011"
 
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
@@ -2167,20 +1925,7 @@ key "Ginther2011"
 
 \end_inset
 
- Underrepresented minority groups comprised 28.5 percent of the national
- population in 2006, yet just 9.1 percent of college-educated Americans in
- science and engineering occupations.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "CommitteeonUnderrepresentedGroupsandtheExpansionoftheScienceandEngineeringWorkforcePipelineU.S.2011"
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Standard
-Similarly, Asian Americans represented 23 percent of those holding tenure-track
+ While Asian Americans represented 23 percent of those holding tenure-track
  positions, they were only 12 percent of those at the tenure or senior scientist
  level.
 \begin_inset CommandInset citation
@@ -2193,7 +1938,7 @@ key "Ruttimann2009"
 \end_layout
 
 \begin_layout Section
-Globally
+Global Subjects
 \end_layout
 
 \begin_layout Standard
@@ -2262,7 +2007,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo[inline,backgroundcolor=medegg,bordercolor=medegg]{global population
  percentages (see WHO? OAEC indices? World Bank?.
@@ -2292,7 +2037,7 @@ NEJM
 \emph on
 Annals of Internal Medicin
 \emph default
-e & 
+e, & 
 \emph on
 JAMA
 \emph default
@@ -2300,7 +2045,7 @@ JAMA
  and Africa.
  Through the proxy of institutional affiliation, 
 \begin_inset CommandInset citation
-LatexCommand citeauthor*
+LatexCommand citealt*
 key "Sumathipala2004"
 
 \end_inset
@@ -2355,7 +2100,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo{re: independence -- should look into the developing culture of collaboratio
 n and thus the changing nature of discrimination or not}
@@ -2376,8 +2121,21 @@ graffito {Numbers are boring, but wow, are they depressing.}
 
 \end_inset
 
- Of the 151 articles, 68% included a co-author from a developed country
- in Europe and in North American; 
+ Of the 151 articles 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}-published
+\end_layout
+
+\end_inset
+
+, 68% included a co-author from a developed country in Europe and in North
+ American; 
 \begin_inset Note Comment
 status collapsed
 
@@ -2388,48 +2146,6 @@ is this referring to who is publishing or who is producing or who is included?
 
 \end_inset
 
-15 original papers in the journals used data from 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RoW}
-\end_layout
-
-\end_inset
-
- countries with no 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RoW}
-\end_layout
-
-\end_inset
-
- coauthors
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{write what this kind of neo colonial science means -- it means they
- showed up and/or appropriated data from people/locations, likely paying
- less than ideal rates and with no conn}
-\end_layout
-
-\end_inset
-
-.
  The homogenization of the 
 \begin_inset ERT
 status collapsed
@@ -2490,32 +2206,18 @@ ac{BRICS}
 
  countries.
  
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{ geographic disparities with up-to-date info? besides sugimoto
- paper}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sugimoto2015,Lariviere2013"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-On the whole, while the dynamics are changing, global representation has
- not equalized.
- In southern Africa, despite the rise in absolute terms of published papers,
- it is falling in comparison to other parts of the world -- the research
- capabilities of Northern institutions, as well as China's immense research
- capabilities .
+ The rest of the world, however, has not equalized, especially sub-Saharan
+ Africa.
+ Despite the rise in absolute terms of published papers, it is falling in
+ comparison to other parts of the world, namely the research capabilities
+ of Northern institutions, as well as China's immense research capabilities
+ .
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Henry2014"
@@ -2523,11 +2225,8 @@ key "Henry2014"
 \end_inset
 
  
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Bioethics researchers have largely not increased in 
@@ -2554,22 +2253,101 @@ key "Borry2005"
 \end_layout
 
 \begin_layout Subsection
-Colonial Research
-\end_layout
-
-\begin_layout Section
-Which Bodies Are In Research?
-\end_layout
-
-\begin_layout Subsection
-Gendered
-\end_layout
-
-\begin_layout Subsection
-Age
+Neo-colonial Research
 \end_layout
 
 \begin_layout Standard
+To return to a much earlier quote about literature access, 
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+Part of the problem is that none of these articles were co-written by a
+ Liberian scientist.
+ The investigators collected their samples, returned home and published
+ the startling results in European medical journals.
+ Few Liberians were then trained in laboratory or epidemiological methods.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+\align right
+Bernice Dahn, Vera Mussah, and Cameron Nutt
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mussah2015"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Yes, We Were Warned About Ebola
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\emph on
+The
+\emph default
+ 
+\emph on
+New York Times
+\end_layout
+
+\begin_layout Standard
+This is what 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Sumathipala2004"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Dahdouh-Guebas2003"
+
+\end_inset
+
+ called neo-colonial science, or the distressing tendency for wealthy Northern
+ researchers to show up, collect data, and leave without giving credit to
+ their Southern collaborators.
+ In 2003, publications of research from data acquired in the 
+\begin_inset Quotes eld
+\end_inset
+
+least developed
+\begin_inset Quotes erd
+\end_inset
+
+ countries, do not have co-authorship of local research institutes in 70%
+ of the cases
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dahdouh-Guebas2003"
+
+\end_inset
+
+ In 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Sumathipala2004"
+
+\end_inset
+
+'s examination of major medical journals, 15 papers used 
 \begin_inset ERT
 status collapsed
 
@@ -2577,30 +2355,70 @@ status collapsed
 
 
 \backslash
-rewrite{age in clinical trials
+ac{RoW}
 \end_layout
 
 \end_inset
 
-
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Alvino2014"
-
-\end_inset
-
-
+ data with no accompanying citation.
+ 15 original papers in the journals used data from 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-}
+
+\backslash
+ac{RoW}
 \end_layout
 
 \end_inset
 
+ countries with no 
+\begin_inset ERT
+status collapsed
 
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}
+\end_layout
+
+\end_inset
+
+ coauthors.
+ Researchers in several Amazonian countries have become more prolific, but
+ there has been a concurrent rise in Amazonian data being published under
+ foreign research leaders.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Malhado2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The lack of researchers -- or the lack of acknowledged researchers, rather
+ -- has consequences for local health and infrastructure.
+ It contributes to flawed, non-local data interpretations and limits the
+ capacity of countries to build a research community invested in local issues,
+ since all of the 
+\begin_inset Quotes eld
+\end_inset
+
+good research
+\begin_inset Quotes erd
+\end_inset
+
+ is happening in the U.S.
+ and Western Europe.
+\end_layout
+
+\begin_layout Section
+Which Bodies Are In Research?
 \end_layout
 
 \begin_layout Subsection
@@ -2612,11 +2430,11 @@ Across the globe, the medical problems most studied are, perhaps unsurprisingly,
  largely the the problems of the most wealthy and the most privileged.
   
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 todo{link to (bio)medicalization of issues?}
 \end_layout
@@ -2664,13 +2482,10 @@ key "GlobalForumforHealthResearchOrganization2000"
 \end_layout
 
 \begin_layout Standard
-Clinical trials of drugs occur in an approximately inverse way to the medical
- needs of communities.
- 
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2686,7 +2501,7 @@ status collapsed
 Estimated numbers of trials in the International Clinical Trials Registry
  Platform recruiting participants in low-, lower-middle-, upper-middle-
  and high-income countries, 2012 (Fig 4.
- from
+ from 
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Viergever2013"
@@ -2701,13 +2516,11 @@ key "Viergever2013"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\end_layout
-
 \end_inset
 
-In a 2004 analysis of 286 randomized controlled trials, 43% addressed 1
+Clinical trials of drugs occur in an approximately inverse way to the medical
+ needs of communities.
+ In a 2004 analysis of 286 randomized controlled trials, 43% addressed 1
  of the 35 
 \begin_inset Quotes eld
 \end_inset
@@ -2729,7 +2542,7 @@ key "Rochon2004"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset CommandInset citation
@@ -2743,10 +2556,6 @@ key "Perel2008,Vetter2003"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 What this means, practically, that the global burden of disease falls more
  heavily on low-income countries, and many fewer economic and intellectual
  resources go towards research on the medical or infrastructural needs 
@@ -2756,40 +2565,7 @@ key "Perel2008"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-In many ways, of course, this is also an access problem, both to literature
- and to clinical compounds.
- Much of the majority world diseases are also diseases of poverty; the minority
- world largely n longer suffers from tuberculosis because it was eliminated
- with the use of antibiotics.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Stevens2004"
-
-\end_inset
-
- On the other hand, resistant strains of tuberculosis are emerging in many
- areas, necessitating a new surge of research.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{tuberculosis resistance}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-These are largely causes that affect the socioeconomically depressed, which
+ These are largely causes that affect the socioeconomically depressed, which
  also means disproportionately people, specifically women of color and those
  in the majority world.
 \begin_inset CommandInset citation
@@ -2991,26 +2767,25 @@ Many Southern African research projects are small, local projects, confined
 
 \end_layout
 
-\begin_layout Section
-Other Forms of Inaccessibility
-\end_layout
-
 \begin_layout Standard
-*disability
-\end_layout
+In many ways, this is also an access problem, both to literature and to
+ clinical compounds.
+ Much of the majority world diseases are also diseases of poverty; the minority
+ world largely no longer suffers from tuberculosis because it was eliminated
+ with the use of antibiotics.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stevens2004"
 
-\begin_layout Itemize
-*mandatory retirement based on age (or non-inclusion)
-\end_layout
+\end_inset
 
-\begin_layout Standard
-*access to lit hampered by technological, language, or physical barriers
- (i.e.
- vision impairments; physical ability in science)
+ On the other hand, drug-resistant strains of tuberculosis are emerging
+ in many areas, necessitating a new surge of research and new solutions
+ for the rest of the world.
 \end_layout
 
 \begin_layout Section
-Brief, Possible Explanations
+Hardly anybody's bad
 \begin_inset Note Note
 status collapsed
 
@@ -3050,18 +2825,6 @@ key "Ochola2009"
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{probably}
-\end_layout
-
-\end_inset
-
 Many trends are likely not actually markers of overt discrimination against
  women in 
 \emph on

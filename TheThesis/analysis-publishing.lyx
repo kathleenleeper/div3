@@ -170,7 +170,6 @@ Do we really believe, for instance, that the problem of global injustice
 
 \end_layout
 
-\begin_deeper
 \begin_layout Quote
 
 \size small
@@ -183,7 +182,6 @@ Are we really ready to stand behind the suggestion that recorded information
 
 \end_layout
 
-\end_deeper
 \begin_layout Quote
 \align right
 
@@ -488,9 +486,11 @@ status collapsed
 
 \begin_layout Plain Layout
 
+\size small
 
 \backslash
-rewrite{define climategate}
+graffito{Climategate: a breach of university emails that climate change
+ critics used as proof of scientific conspiracy}
 \end_layout
 
 \end_inset
@@ -697,6 +697,8 @@ open
 \end_layout
 
 \begin_layout Quote
+
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -715,6 +717,8 @@ open
 
 \begin_layout Quote
 \align right
+
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -726,7 +730,11 @@ Free as in sexist?
 \begin_inset Quotes erd
 \end_inset
 
-, Joseph 
+
+\begin_inset Newline newline
+\end_inset
+
+Joseph 
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Reagle2012"
@@ -786,6 +794,8 @@ graffito{FSF slogan: "Our mission is to preserve, protect and promote the
 \end_layout
 
 \begin_layout Quote
+
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -807,6 +817,8 @@ When we speak of free software, we are referring
 
 \begin_layout Quote
 \align right
+
+\size small
 The 
 \begin_inset ERT
 status collapsed
@@ -820,7 +832,14 @@ ac{GPL}
 
 \end_inset
 
-, v3, Richard
+v3 
+\end_layout
+
+\begin_layout Quote
+\align right
+
+\size small
+Richard
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Stallman2007"
@@ -838,9 +857,9 @@ Open source
 \begin_inset Quotes erd
 \end_inset
 
-, on the other term, as a term and in its licensing model, derives from
- an explicit attempt to side-step the social values and ideological connotations
- of the term "free software".
+, on the other term, as a term and a licensing model, derives from an explicit
+ attempt to side-step the social values and ideological connotations of
+ the term "free software".
  It instead has a narrow focus on the access to and production of source
  code - i.e.
  the 'practical' benefits of distributed production.
@@ -848,9 +867,13 @@ Open source
 \end_layout
 
 \begin_layout Standard
-From the outside, this distinction often seems trivial but in the case of
- open science, I think it's telling of the ambivalent moral aspects.
- Open science draws on both rhetorics, maintaining a moral ambiguity.
+From the outside, this distinction often seems trivial.
+ n the case of 
+\emph on
+open
+\emph default
+ science, I think it's telling of the ambivalent moral aspects and the ways
+ open science draws on both rhetorics.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Delfanti2011"
@@ -876,13 +899,10 @@ key "Huff2007"
 
  Allowing more people to access more information is simply the right thing
  to do.
-\end_layout
-
-\begin_layout Standard
-On the other hand, scientists are not altruists, we're just people.
+ On the other hand, scientists are not altruists, we're just people.
  Scientific publishing happens to disseminate and spread the good word of
  knowledge, but it's also used to bolster careers and mark intellectual
- property boundaries,
+ property boundaries; open access publishing can only go well for authors.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Guedon2001"
@@ -901,9 +921,12 @@ mechanisms
  of production, making more reproducible, more reliable, and more powerful
  science.
  It pays no intrinsic attention to content or subject.
- In software, the open source movement has been co-opted by corporations
- as a way to draw on community labor and then turn their freely-donated
- work into a proprietary and often exploitative products.
+ 
+\end_layout
+
+\begin_layout Standard
+In software, open source has a rich history now of taking community-driven
+ labor and spinning it back into commercial and exploitative technologies.
  In science, the parallel might be projects that pitch themselves as community-d
 riven citizen science.
  In an alternative construction, they might just be a way to shift labor
@@ -955,22 +978,11 @@ me: good comment on open source science discussed the co-option of open
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-I have no doubt of the abilities of bio-technologies and pharmaceuticals
- to perform similar machinations on researcher-derived works.
- The removal of price/access barriers and the increasingly connected basic
- research data in all fields is more efficiently translated into military
- and capitalist projects.
-\end_layout
-
-\begin_layout Standard
-Open source has a rich history now of taking community-driven labor and
- spinning it back into commercial and exploitative technologies; I have
- no doubt of the ability of pharmaceuticals and governments to perform a
- similar operation.
+ I have no doubt of the ability of corporations and governments to perform
+ a similar machinations on researcher-derived works; the removal of price
+ and licensing barriers and the work of building knowledge aggregators by
+ scientists is easily translated into more efficient government-military
+ usage.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1004,7 +1016,7 @@ key "Willinsky2005"
 
 .
  The power of the Free Software License comes from its copyleft nature.
- Using the current globally-dominant
+ Using the current globally-dominant 
 \begin_inset ERT
 status collapsed
 
@@ -1030,12 +1042,12 @@ requires
 
 \begin_layout Standard
 Guaranteeing products will be under the minority world's copyright law forces
- those using it to engage and participate in said legal system.This also
- shapes what kinds of (scientific) knowledge 
+ those using it to engage and participate in said legal system.
+ This also shapes what kinds of (scientific) knowledge 
 \emph on
 can
 \emph default
- be copywritten under this.
+ be copy-written under this.
  Notoriously, but not irrelevantly, shamanistic and indigenous plant knowledge
  is 
 \emph on
@@ -1105,6 +1117,8 @@ broken
 \end_layout
 
 \begin_layout Quote
+
+\size small
 I think that fraud has increased since I came into scientific research 40
  years ago, as the challenges\SpecialChar \ldots{}
 have increased.
@@ -1124,6 +1138,7 @@ have increased.
 \begin_layout Quote
 
 \series bold
+\size small
 So what can we do to return to how things once were?
 \series default
 
@@ -1135,6 +1150,8 @@ So what can we do to return to how things once were?
 
 \begin_layout Quote
 \align right
+
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -1195,7 +1212,7 @@ s to share data, information, and knowledge.
 Alessandro 
 \begin_inset CommandInset citation
 LatexCommand citealt
-before ", p. 5"
+after "p. 5"
 key "Delfanti2013"
 
 \end_inset
@@ -1230,15 +1247,9 @@ key "Valsiner2006"
 100 Most Influential Scientists
 \emph default
  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{Simmons, 2000}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Simmons2000"
 
 \end_inset
 
@@ -1924,19 +1935,6 @@ C.
  
 \emph default
 11% of their contributors are women.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{open worm and women}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -1950,6 +1948,13 @@ race might be another matter, due to personal stake in their country's having
 \end_inset
 
  
+\begin_inset CommandInset citation
+LatexCommand citep
+key "OpenWormProject2014"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2162,19 +2167,6 @@ key "Haider2007"
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{BOAI release}
-\end_layout
-
-\end_inset
-
- 
 \end_layout
 
 \begin_layout Standard
@@ -2201,6 +2193,9 @@ public
 \end_inset
 
  may not be equipped or interested.
+ Additionally, while they may be interested, the need for scientific jargon
+ to impress other scientists renders the literature completely incomprehensible\SpecialChar \@.
+
 \end_layout
 
 \begin_layout Subsection
@@ -2489,6 +2484,13 @@ underdevelopment
 This sets up important consequences for consumer-producer dichotomies, legacies
  of neo-colonialist research, the value of different communication forms,
  and the types of knowledge we accept.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hudson2012"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2608,12 +2610,6 @@ science
 \end_layout
 
 \begin_layout Standard
-Positioning the majority world as in need of information does nothing to
- challenge the image of the majority world as consumers, not yet ready to
- produce on their own.
-\end_layout
-
-\begin_layout Standard
 Open science focuses so much on dissemination of already-done-science, and
  much less on the production of science, except insofar as dissemination
  (of literature, data, code) allows for more production -- 
@@ -2625,37 +2621,17 @@ even in resource-poor countries, where they can't collect data
 \end_inset
 
 .
- This forms what 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Dahdouh-Guebas2003"
-
-\end_inset
-
- dubbed 
-\begin_inset Quotes eld
-\end_inset
-
-neo-colonial
-\begin_inset Quotes erd
-\end_inset
-
- science
+ 
 \end_layout
 
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-\SpecialChar \ldots{}
-show that publications of research, carried out in the least developed countries
-, do not have co-authorship of local research institutes in 70% of the cases,
- and that a majority of the papers is published by research institutes from
- the most industrialized countries in the world.
-\begin_inset Quotes erd
-\end_inset
-
-
+\begin_layout Standard
+Positioning the majority world as in need of information does nothing to
+ challenge the image of the majority world as consumers, not yet ready to
+ produce on their own, which only serves to obscure the 
+\emph on
+current
+\emph default
+ research and the actual infrastructural needs to perform more research.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2807,7 +2783,7 @@ ly.
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Indigenous sciences and local biologies
 \end_layout
 
@@ -2826,12 +2802,9 @@ ac{OS}
 
  also relies on the same globalized notions of broadly, unilaterally applicable
  research.
-\end_layout
-
-\begin_layout Standard
 
 \emph on
-If 
+ If 
 \emph default
 indigenous sciences are local sciences, specific to the time and place and
  users involved, then they may not be generalizable to a mythic global community
@@ -2906,10 +2879,6 @@ todo{link back to earlier statements about co-option of open science in
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 The major scientific problems in 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -2934,7 +2903,7 @@ science
  itself, the pipetting or data collection, only needs modification to the
  extent that it should be automated, modified, and modular.
  In this model, the biggest thing holding science back from solving the
- world's problems of disease, pollution, and infrastructure is scienrtists
+ world's problems of disease, pollution, and infrastructure is scientists
  and their culture.
  Changing the culture to one of sharing and openness would, necessarily,
  make the science 
@@ -2966,26 +2935,14 @@ status collapsed
 
 
 \backslash
-graffito{no point in OA literature if it doesn't address your disease}
+graffito{i.e.
+ There's no point in OA literature if it doesn't address your disease}
 \end_layout
 
 \end_inset
 
-(feminist karyotypes
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{feminist karyotypes -- or include elsewhere}
-\end_layout
-
-\end_inset
-
-, or examining neglected tropical diseases), or reshaping the input we accept
- into the scientific process.
+(feminist karyotypes, or examining neglected tropical diseases), or reshaping
+ the input we accept into the scientific process.
  Openness still requires the same types of conclusions, the same processes,
  the same types of intellectual, financial, and technical resources.
 \begin_inset Note Note
@@ -3043,7 +3000,7 @@ Crowdsourcing models encourage inclusivity so that anyone can contribute
 
  (
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -3074,7 +3031,7 @@ r, so this does not affect me.” Not just researchers but also the average
 
  (
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 

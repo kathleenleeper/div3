@@ -191,16 +191,6 @@ y to consider their work in the greater context of social issues.
  
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "part:scientific-ecosystems"
-
-\end_inset
-
- is?
-\end_layout
-
 \begin_layout Subsection*
 Troubling Scientific Systems
 \end_layout
@@ -260,16 +250,10 @@ reference "chap:molecular-psych"
 
 \end_inset
 
- is the background to my work -- a 
-\begin_inset Quotes eld
-\end_inset
-
-purely
-\begin_inset Quotes erd
-\end_inset
-
- scientific description.
- It describes, basically, that I think pharmacology is super cool.
+ is the my own scientific system, and the part that qualifies me as a Natural
+ Science student at Hampshire.
+ It is a quasi-comprehensive review of the evidence that psychedelic effects
+ are mediated 
 \end_layout
 
 \begin_layout Subsection*
@@ -277,11 +261,19 @@ Flows of Knowledge
 \end_layout
 
 \begin_layout Standard
-The next three chapters turn to more personal and complex situations.
+The next three chapters turn to more personal and complex situations, the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+heart
+\begin_inset Quotes erd
+\end_inset
+
+ of my project.
 \end_layout
 
 \begin_layout Standard
-In
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "chap:Bibliometrics-Me"
@@ -307,7 +299,7 @@ reference "chap:values-fixing-publishing"
 
 \end_inset
 
-, explore the possible implications of 
+, I explore the possible implications of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -320,11 +312,6 @@ fixing
  The proposed 'solutions' to the scientific systems's failures have serious
  implications, from a science studies and a feminist point of view, on the
  production and kind of knowledge production.
- It examines the open science movement with a mind to discover and analyze
- the values underlying those efforts.
- Ultimately, I'd propose how a movement hoping to democratize and equalize
- science desperately needs to consider and account for their values from
- a (feminist) different standpoint.
  
 \end_layout
 
@@ -346,11 +333,7 @@ reference "chap:Critical-Neuroscience"
 \end_layout
 
 \begin_layout Section
-Terminology Note
-\end_layout
-
-\begin_layout Subsection
-Global divides 
+Terminology note: global divides
 \end_layout
 
 \begin_layout Standard
@@ -379,21 +362,8 @@ divide
 \begin_inset Quotes erd
 \end_inset
 
- itself is as porous as any binary
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{too casual a reference to fucking binaries?}
-\end_layout
-
-\end_inset
-
-, and subject to uncountable caveats, we need some term to reference the
- different research capacities.
+ itself is as porous as any binary, and subject to uncountable caveats,
+ we need some term to reference the different research capacities.
 \begin_inset Note Note
 status collapsed
 
@@ -494,15 +464,11 @@ key "Alam2008"
  It highlights that the G8 countries making world-shaping decisions actually
  represent a tiny fraction of humankind, and the rest of the world has a
  working and loud voice.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-minority
-\begin_inset space ~
+ 
+\begin_inset Newline newline
 \end_inset
 
-world I use somewhat interchangeably with 
+I use minority world, the counterpart, somewhat interchangeably with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -518,7 +484,7 @@ North
 \begin_inset Quotes erd
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard

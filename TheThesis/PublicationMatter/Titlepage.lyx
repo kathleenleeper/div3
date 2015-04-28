@@ -281,19 +281,6 @@ myUni
 \end_layout
 
 \begin_layout Standard
-\align center
-
-\size large
-\begin_inset Graphics
-	filename gfx/six-principles-open-science.png
-	width 6cm
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset VSpace vfill
 \end_inset
 

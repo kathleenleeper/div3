@@ -346,20 +346,14 @@ emph{kind} of progress?}
  Academic scientific work his constrained by funding issues, an increasingly
  competitive academic environment where only 1 in 10 PhD recipients will
  find a stable (i.e.
- tenured) job in their academic field 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-findref{wadman}
-\end_layout
+ tenured) job in their academic field,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wadman2012"
 
 \end_inset
 
-, outside pressures that lead to data fudging, an increasing amount scientific
+ outside pressures that lead to data fudging, an increasing amount scientific
  spin on what an experiment has actually accomplished, worst of all, and
  a decreasing amount of 
 \begin_inset Quotes eld
@@ -2379,6 +2373,8 @@ Meaningful Research
 
 \begin_layout Quote
 \align right
+
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -2393,7 +2389,8 @@ Does the pressure to publish in prestigious, high-ranking journals contribute
 
 
 \begin_inset CommandInset citation
-LatexCommand citeauthor*
+LatexCommand citealt*
+before "2013"
 key "Brembs2013"
 
 \end_inset
@@ -4885,7 +4882,7 @@ key "Steen2011"
  There have been some extremely high-profile cases of deliberate fraud in
  the past several years.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Tracked at 
