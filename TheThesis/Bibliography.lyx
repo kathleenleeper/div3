@@ -252,7 +252,7 @@ bibname{References}
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "CriticalOpenNeuro"
-options "plainnat"
+options "unsrtnat"
 
 \end_inset
 

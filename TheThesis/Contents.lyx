@@ -57,7 +57,7 @@
 \color #008000
 \end_index
 \secnumdepth 3
-\tocdepth 0
+\tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -548,24 +548,10 @@ Acronyms
 \end_layout
 
 \begin_layout Section*
-Non-science Stuff
+Not Science
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{There'll also be an index of terms, I think, but it's not written
- yet.}
-\end_layout
-
-\end_inset
-
-
 \begin_inset ERT
 status open
 
@@ -574,6 +560,22 @@ status open
 
 \backslash
 begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IP}{Intellectual Property}
 \end_layout
 
 \end_inset
@@ -702,7 +704,23 @@ status open
 
 
 \backslash
-acro{OA}{open access}
+acro{OA}{Open Access}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{APC}{Article Processing Charge}
 \end_layout
 
 \end_inset
@@ -719,6 +737,90 @@ status open
 
 \backslash
 acro{IF}{Journal Impact Factor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{STEM}{Science, Technology, Engineering, and Math}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DIY}{Do It Yourself}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{HGP}{Human Genome Project}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Tools
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
 \end_layout
 
 \end_inset
@@ -752,7 +854,23 @@ status open
 
 
 \backslash
-acro{STEM}{Science, Technology, Engineering, and Math}
+acro{BLAST}{Basic Local Alignment Search Tool}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{SDSS}{Sloan Digital Sky Survey}
 \end_layout
 
 \end_inset
@@ -798,13 +916,29 @@ begin{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{HEW}{Department of Health, Education, and Welfare}
+acro{FSF}{Free Software Foundation}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CIA}{Central Intelligence Agency}
 \end_layout
 
 \end_inset
@@ -820,7 +954,23 @@ status open
 
 
 \backslash
-acro{IRB}{Institutional Review Board}
+acro{NCBI}{National Center for Biotechnology Information}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{HEW}{Department of Health, Education, and Welfare}
 \end_layout
 
 \end_inset
@@ -886,22 +1036,6 @@ status open
 
 \backslash
 acro{OECD}{Organisation for Economic Co-operation and Development}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
 \end_layout
 
 \end_inset
@@ -1011,7 +1145,7 @@ acro{NYU}{New York University}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -1050,8 +1184,8 @@ status collapsed
 
 
 \backslash
-acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
- and scientific powerhouse countries
+acro{BRICS}{Brazil, Russia, India, China, South Africa}, considered the
+ rising economic and scientific powerhouse countries
 \end_layout
 
 \end_inset
@@ -1068,86 +1202,6 @@ status collapsed
 
 \backslash
 acro{RoW}{"Rest of World"}, for what that's worth
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OECD}{Organisation for Economic Co-operation and Development}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UB FoH}{University of Botswana, Faculties of Humanities}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UoM FoS}{University of Mauritius, Faculties of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UCT Comm}{University of Cape Town, Commerce}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
 \end_layout
 
 \end_inset
@@ -1225,7 +1279,23 @@ begin{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{fMRI}{functional MRI}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
 
@@ -1241,109 +1311,13 @@ acro{FACS}{Fluorescence Activated Cell Sorting}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPCRs}{G-protein coupled receptors}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{G-protein}{guanine nucleotide-binding proteins}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{RA}{retinoic acid}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
 acro{5-HT}{5-hydroxytryptamine}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{CNS}{central nervous system}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GDP}{guanosine diphosphate}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GTP}{guanosine triphosphate}
 \end_layout
 
 \end_inset
@@ -1421,13 +1395,13 @@ emph{N}-Dimethyltryptamine}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
+acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
 \end_layout
 
 \end_inset
@@ -1437,13 +1411,29 @@ acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{DOI}{2,5-Dimethoxy-4-iodoamphetamine}
+acro{DOB}{2,5-Dimethoxy-4-bromoamphetamine}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DOM}{2,5-Dimethoxy-4-methylamphetamine}
 \end_layout
 
 \end_inset
@@ -1469,29 +1459,13 @@ acro{STP}{Serenity, Tranquility, Peace}
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-acro{PFC}{prefrontal cortex}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{LC}{locus coeruleus}
+acro{MDMA}{3,4-methylenedioxy-methamphetamine}
 \end_layout
 
 \end_inset
@@ -1523,22 +1497,6 @@ status collapsed
 
 
 \backslash
-acro{HTR}{head twitch response}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
 acro{DEA}{Drug Enforcement Administration}
 \end_layout
 
@@ -1555,22 +1513,6 @@ status collapsed
 
 
 \backslash
-acro{PPI}{pre pulse inhibition}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 acro{MAOI}{monoamine oxidase inhibitor}
 \end_layout
 
@@ -1581,13 +1523,421 @@ acro{MAOI}{monoamine oxidase inhibitor}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{CHO}{Chinese Hamster Ovary}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
 acro{HEKs}{human embryonic kidney 293 cells}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{siRNA}{small interfering RNA}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PTSD}{PostTraumatic Stress Disorder}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PPV}{Positive Predictive Value}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Signalling Pathways
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{acronym}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GPCR}{G-protein coupled receptor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{G-protein}{guanine nucleotide-binding proteins}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GRK}{G-protein coupled receptor kinase}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GDP}{guanosine diphosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{GTP}{guanosine triphosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLC}{phospholipase C}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IP3}[IP
+\backslash
+textsubscript{3}]{inositol triphosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{DAG}{diacylglycerol}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PKC}{protein kinase C}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PKB}{protein kinase B}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{cAMP}{cyclic adenosine monophosphate}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PLA2}[PLA
+\backslash
+textsubscript{2}]{phospholipase A2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{AA}{arachidonic acid}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{IEG}{immediate early genes}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{RSK2}{ribosomal s6 kinase 2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PI3K}{phosphoinositide 3-kinase}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{c-Src}{tyrosine-protein kinase Src}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{PTX}{pertussis toxin}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+acro{MAPK}{Mitogen-activated protein kinase}
 \end_layout
 
 \end_inset
@@ -1613,7 +1963,7 @@ end{acronym}
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 

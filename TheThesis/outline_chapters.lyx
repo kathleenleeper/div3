@@ -115,36 +115,79 @@ filename "Contents.lyx"
 \end_layout
 
 \begin_layout Chapter
-Fun Stuff in the Future
+Introduction
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Sketch of regular book introductions with what chapter is going
- to be about and why.
- Not always updated.}
-\end_layout
-
+Division III is a year long undergraduate thesis project.
+ For me, it's both articulating and creating a way to 
+\begin_inset Quotes eld
 \end_inset
 
+feel okay
+\begin_inset Quotes erd
+\end_inset
 
+ about studying psychedelic drugs when I also see my self/scientific work
+ as enmeshed and entangled in socio-political power struggles.
+\end_layout
+
+\begin_layout Standard
+Three years ago I came to study neuroscience at Hampshire, with a naive
+ and relatively simplistic fascination with 
+\begin_inset Quotes eld
+\end_inset
+
+basic research
+\begin_inset Quotes erd
+\end_inset
+
+ into cellular aspects of cognition and perception.
+ After hitting my first academic pay wall, I discovered the free/
+\emph on
+libre
+\emph default
+ software movement and its scientific sibling, open science.
+ Both movements acknowledge more than just the functionality of science
+ and technology; they include society in their calculations of technology
+ and science.
+ While open science is not explicitly political, it has extremely strong
+ undercurrents of an idealistic moral spirit focused on something greater
+ than just
+\emph on
+ 
+\emph default
+science.
+\end_layout
+
+\begin_layout Standard
+I have since learned or come to believe that my interests, and what I do
+ with those interests, has an impact on the world.
+ This is both self-interest, for otherwise what's the point? and self-recriminat
+ion; my impact on the world is my responsibility, and I need to understand
+ the consequences.
+\end_layout
+
+\begin_layout Standard
+The thread between all of the questions/answers I explore here is: Who should
+ control the flow of knowledge?
+\end_layout
+
+\begin_layout Subsection*
+Cultural Contexts
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "chap:feminist-science-cultural-studies"
 
 \end_inset
 
- (aka what you just read) describes the theoretical underpinnings behind
- my Div III, explaining why I believe that science is just as much a cultural
- construct as any other knowledge project, and as a result, why scientists
- have a serious responsibility to consider their work in the greater context
- of social issues.
+ describes the theoretical underpinnings behind my Div III, explaining why
+ I believe that science is just as much a cultural construct as any other
+ knowledge project, and as a result, why scientists have a serious responsibilit
+y to consider their work in the greater context of social issues.
  
 \end_layout
 
@@ -159,20 +202,9 @@ reference "chap:ScienticEcosystem"
 
 \end_inset
 
- starts where most criticisms of science stem from: the scientific ecosystem,
- and the ways in which the current system of reward, funding, and prestige
- distorts the pursuit of truth and knowledge in science.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Representation_Science"
-
-\end_inset
-
- continues on a similar theme considering the question of representation
- within the global scientific community.
+ starts where more general criticisms of science stem from: the scientific
+ ecosystem, and the ways in which the current system of reward, funding,
+ and prestige distorts the pursuit of truth and knowledge in science.
 \end_layout
 
 \begin_layout Standard
@@ -198,36 +230,65 @@ ac{OS}
  advocates, who propose to make science more inclusive, collaborative, and
  useful, largely via the power of the Internet for sharing.
  
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OS}
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Representation_Science"
+
 \end_inset
 
- is an alluring idea, especially backed with the rhetorical power of 
-\begin_inset Quotes eld
+ continues on a similar theme of scientific production, considering the
+ question of representation within the global scientific community.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:molecular-psych"
+
 \end_inset
 
-open
-\begin_inset Quotes erd
-\end_inset
+ is the my own scientific system, and the part that qualifies me as a Natural
+ Science student at Hampshire.
+ It is a quasi-comprehensive review of the evidence that psychedelic effects
+ are mediated 
+\end_layout
 
-; but 
-\begin_inset Quotes eld
-\end_inset
+\begin_layout Subsection*
+Flows of Knowledge
+\end_layout
 
-open
-\begin_inset Quotes erd
-\end_inset
-
- is not by itself a panacea for the hegemony of scientific establishments.
+\begin_layout Standard
+The next three chapters turn to more personal and complex situations, the
  
+\begin_inset Quotes eld
+\end_inset
+
+heart
+\begin_inset Quotes erd
+\end_inset
+
+ of my project.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "chap:Bibliometrics-Me"
+
+\end_inset
+
+ is personal, code- and computer-based results.
+ It's a description of my attempts to implement open science proposals into
+ a biological project, and the myriad complications and barriers I've surmounted
+ -- or not -- in doing so.
+ It offers a description of what I think the open science movement is missing
+ on a practical implementation level.
+ It also offers a small bibliometric analysis, examining gender representation
+ in my work in an attempt to trace how individual researchers perpetuate
+ gendered systems.
 \end_layout
 
 \begin_layout Standard
@@ -238,7 +299,7 @@ reference "chap:values-fixing-publishing"
 
 \end_inset
 
-, we explore the possible implications of 
+, I explore the possible implications of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -246,75 +307,12 @@ fixing
 \begin_inset Quotes erd
 \end_inset
 
- science through greater sharing and disseminatin of information.
+ science through greater sharing and dissemination of information.
  This hegemony is not merely theoretical.
  The proposed 'solutions' to the scientific systems's failures have serious
  implications, from a science studies and a feminist point of view, on the
  production and kind of knowledge production.
- It examines the open science movement with a mind to discover and analyze
- the values underlying those efforts.
- Ultimately, I'd propose how a movement hoping to democratize and equalize
- science desperately needs to consider and account for their values from
- a (feminist) different standpoint.
  
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Good-People"
-
-\end_inset
-
- is things I 
-\emph on
-like, 
-\emph default
-that I want to emulate, and projects that have attempted to wrestle with
- all or some of my issues and succeeded in some measure.
-\end_layout
-
-\begin_layout Subsection*
-Doing Science Like a Scientist
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Serotonin,-transcription-factors_mol-neuro"
-
-\end_inset
-
- is the background to my work -- a 
-\begin_inset Quotes eld
-\end_inset
-
-purely
-\begin_inset Quotes erd
-\end_inset
-
- scientific description.
- It describes why I think serotonin systems are important to model and explore,
- why I care about them, and my attempts to create a way to explore hallucinogeni
-c pharmacology by manipulation of a stem cell line.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "chap:Open-Science_casestudy"
-
-\end_inset
-
- is the follow up to this -- it's a description of my attempts to implement
- open science proposals into a biological project, and the myriad complications
- and barriers I've surmounted -- or not -- in doing so.
- It offers a description of what I think the open science movement is missing
- on a practical implementation level.
-\end_layout
-
-\begin_layout Subsection*
-Reconstructive Neuroscience
 \end_layout
 
 \begin_layout Standard
@@ -330,17 +328,163 @@ reference "chap:Critical-Neuroscience"
  concerns, indigenous rights and colonialism, and race relations.
  While I don't have answers to any of those questions, asking those questions
  has (already) helped find d a myriad of ways in which social factors are
- fundamental parts of my scientific process and questions.
-\begin_inset Note Greyedout
-status open
+ fundamental parts of my scientific process and questions, and how control
+ of the flow knowledge continues to shape all kinds of knowledge production.
+\end_layout
+
+\begin_layout Section
+Terminology note: global divides
+\end_layout
+
+\begin_layout Standard
+There is a widely-acknowledged economic, and corresponding scientific, gap
+ between areas of the world.
+ During the Soviet era, this was a West-East or First/Second/Third world
+ split.
+ In 1949, Harry Truman used the term 
+\begin_inset Quotes eld
+\end_inset
+
+areas needing development,
+\begin_inset Quotes erd
+\end_inset
+
+ and for many years, the divide was between developed and developing countries.
+ 
+\end_layout
+
+\begin_layout Standard
+While the 
+\begin_inset Quotes eld
+\end_inset
+
+divide
+\begin_inset Quotes erd
+\end_inset
+
+ itself is as porous as any binary, and subject to uncountable caveats,
+ we need some term to reference the different research capacities.
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-Then there will be a conclusion when I finish my div!
+overlooks the highly heterogeneous sociopolitical, cultural and economic
+ diversity within and between countries 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{chan and costa 2005}
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Quotes eld
+\end_inset
+
+Global
+\begin_inset space ~
+\end_inset
+
+South
+\begin_inset Quotes erd
+\end_inset
+
+ is the currently used term, without many of the hierarchical connotations
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+developing world
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Third world.
+\begin_inset Quotes erd
+\end_inset
+
+ It divides the globe along the equator into the economically wealthy (The
+ U.S & Canada, western Europe, plus Australia and New Zealand) and poor (South).
+ As a term, it eliminates the global poor north of the equator, ignores
+ the immense diversity among countries, and continues to define the scope
+ of the world largely around the the G8 nations of the North.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{G8 - France, Germany, Italy, the United Kingdom, Japan, the United
+ States, Canada, and Russia}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Quotes eld
+\end_inset
+
+Majority
+\begin_inset space ~
+\end_inset
+
+world
+\begin_inset Quotes erd
+\end_inset
+
+ is an alternative coined by Bengali writer and photographer Shahidul Alam.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Alam2008"
+
+\end_inset
+
+ It highlights that the G8 countries making world-shaping decisions actually
+ represent a tiny fraction of humankind, and the rest of the world has a
+ working and loud voice.
+ 
+\begin_inset Newline newline
+\end_inset
+
+I use minority world, the counterpart, somewhat interchangeably with 
+\begin_inset Quotes eld
+\end_inset
+
+the West
+\begin_inset Quotes erd
+\end_inset
+
+ and the 
+\begin_inset Quotes eld
+\end_inset
+
+North
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard

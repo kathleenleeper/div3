@@ -141,9 +141,11 @@ status open
 
 
 \backslash
-spacedallcaps{
+spacedallcaps{Mapping Psychedelic Science
 \backslash
-myTitle}
+protect
+\backslash
+newline Signaling Pathways and Cultural Spaces}
 \end_layout
 
 \end_inset
@@ -274,19 +276,6 @@ status open
 \backslash
 myUni
 \end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\align center
-
-\size large
-\begin_inset Graphics
-	filename gfx/six-principles-open-science.png
-	width 6cm
 
 \end_inset
 

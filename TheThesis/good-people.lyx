@@ -83,19 +83,9 @@
 status open
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-let
-\backslash
-cleardoublepage
-\backslash
-clearpage
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -116,126 +106,6 @@ listoftodos
 \end_inset
 
 
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-acronyms
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}, the founding document of the Free
- Software Movement
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}, a leader in open access publishing
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{TReND}{Teaching and Research in (Neuro)science for Development in Africa}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OKF}{Open Knowledge Foundation}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -247,24 +117,10 @@ end{acronym}
 Shit I like
 \end_layout
 
-\begin_layout Subsection*
-Acronyms
-\end_layout
-
 \begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Good-People"
-
-\end_inset
-
-
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \end_inset
 
@@ -290,6 +146,9 @@ ac{TReND}
 \end_inset
 
  organization 
+\end_layout
+
+\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
@@ -308,6 +167,9 @@ run[s] a wide range of educational activities, and support the establishment
 
 \begin_layout Standard
 They believe 
+\end_layout
+
+\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
@@ -325,7 +187,11 @@ scientific education is pivotal to the ability of societies to innovate,
 
 \end_layout
 
-\begin_layout Quote
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -370,6 +236,11 @@ todo{ find out re: availability of 3d printers; also accuracy, and tips?}
  Even our microscope (“RPi-scope“) was home-built.
  
 \begin_inset Quotes eld
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -549,6 +420,10 @@ Open Ephys
 \end_layout
 
 \begin_layout Section
+Green Chemistry
+\end_layout
+
+\begin_layout Section
 Green Neuroscience lab, San Diego
 \end_layout
 
@@ -559,6 +434,14 @@ The Green Neuroscience lab really deserves its own section.
  They believe in neurodiversity and making neuroscience that empowers.
  They work with community members and they take their research with a grain
  of salt.
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+love
+\emph default
+ the Green Neuroscience lab.
 \end_layout
 
 \begin_layout Standard

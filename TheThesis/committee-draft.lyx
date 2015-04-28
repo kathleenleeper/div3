@@ -8,7 +8,7 @@
 
 \usepackage{todonotes}
 \end_preamble
-\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super
+\options twoside,openright,titlepage,fleqn,headinclude,10pt,a4paper,BCOR5mm,footinclude,super,unsrtnat
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -110,7 +110,7 @@
 \color #008000
 \end_index
 \secnumdepth 2
-\tocdepth 0
+\tocdepth 2
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -197,6 +197,18 @@ pagestyle{plain}
 \begin_layout Standard
 
 \lang american
+\begin_inset CommandInset include
+LatexCommand include
+filename "PublicationMatter/Titlepage.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
 \begin_inset ERT
 status collapsed
 
@@ -210,6 +222,11 @@ pagestyle{scrheadings}
 \end_inset
 
  
+\end_layout
+
+\begin_layout Standard
+
+\lang american
 \begin_inset CommandInset include
 LatexCommand include
 filename "Contents.lyx"
@@ -223,7 +240,7 @@ filename "Contents.lyx"
 
 \lang american
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -269,6 +286,24 @@ status collapsed
 
 
 \backslash
+cleardoublepage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang american
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
 pagenumbering{arabic}
 \end_layout
 
@@ -278,18 +313,27 @@ pagenumbering{arabic}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+
+\lang american
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-\begin_inset CommandInset include
-LatexCommand include
-filename "outline_chapters.lyx"
+
+
+\backslash
+myPart{Introductions}
+\end_layout
 
 \end_inset
 
 
 \end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "outline_chapters.lyx"
 
 \end_inset
 
@@ -314,9 +358,9 @@ status open
 
 \begin_layout Plain Layout
 
-%
+
 \backslash
-myPart{Troubling Scientific Ecosystems}
+myPart{Scientific Ecosystems}
 \end_layout
 
 \end_inset
@@ -339,19 +383,6 @@ filename "open-science-musings.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "Global-Science.lyx"
-
-\end_inset
-
-
 \begin_inset CommandInset include
 LatexCommand include
 filename "solution-open-science.lyx"
@@ -361,47 +392,12 @@ filename "solution-open-science.lyx"
 
 \end_layout
 
-\begin_layout Plain Layout
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "analysis-publishing.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\lang american
-\begin_inset CommandInset include
-LatexCommand include
-filename "good-people.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 
 \lang american
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-myPart{Case Studies}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Global-Science.lyx"
 
 \end_inset
 
@@ -423,10 +419,24 @@ filename "mol-neuro.lyx"
 \begin_layout Standard
 
 \lang american
-\begin_inset Note Note
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
+
+
+\backslash
+myPart{Controlling 
+\backslash
+& Making Knowledge}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \lang american
 \begin_inset CommandInset include
@@ -438,35 +448,12 @@ filename "OS-case-study.lyx"
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "bibliometrics_case-study.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang american
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-myPart{Reconstructive Neuroscience}
-\end_layout
+filename "analysis-publishing.lyx"
 
 \end_inset
 

@@ -78,18 +78,48 @@
 
 \begin_body
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Chapter
-Open Science & Serotonin
+Case Studies in Metrics and Notebooks
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset label
 LatexCommand label
-name "chap:Open-Science_casestudy"
+name "chap:Bibliometrics-Me"
+
+\end_inset
+
+As a firm believer in putting (some) ideas into action, it seemed worthwhile
+ to not just talk about open science and representation, but actively engage
+ with the concepts.
+ I came to two conclusions, and subsequent courses of action.
+\end_layout
+
+\begin_layout Enumerate
+Open science was not just an ideal to be thought about -- it was something
+ that I could and should be doing.
+ Thus, an open notebook.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Representation was also not an ideal to be pined over -- the under-citation
+ of women is not just something that happens, but is again, powered by researche
+rs making decisions.
+ I wondered whether, as someone who tries to be equitable and fair minded,
+ and who thinks of themself as someone who fights for ~equality~, I was
+ doing any better than the vast majority of the literature.
+ Hence, bibliometrics on my division III.
+\end_layout
+
+\begin_layout Section
+Open Notebook
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:casestudy"
 
 \end_inset
 
@@ -110,10 +140,7 @@ revolution
 \end_inset
 
  in scientific opportunities.
-\end_layout
-
-\begin_layout Standard
-It's also (I think) the easiest for an undergraduate biologist to implement.
+ It's also (I think) the easiest for an undergraduate biologist to implement.
  I don't publish, yet, so I can't publish any papers open access.
  I don't generate a lot of data or have data sets, so publishing a data
  note for others to analyze is out of the question, and of course, since
@@ -125,83 +152,8 @@ So, starting from scratch, making all of my lab work openly accessible is
  the first and easiest way to implement open science.
  My efforts were inspired and guided by other proponents and practitioners
  of an Open Notebook methods.
-\end_layout
-
-\begin_layout Section
-Open Notebooks in the Wild
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Open notebook science is the practice of making the entire primary record
- of a research project publicly available online as it is recorded.
- This involves placing the personal, or laboratory, notebook of the researcher
- online along with all raw and processed data, and any associated material,
- as this material is generated.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-The first open notebook, and the originator of the term, was Jean Claude-Bradley
-, a chemist, in a blog post in 2006:
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-\SpecialChar \ldots{}
-By this [Open Notebook Science] I mean that there is a URL to a laboratory
- notebook that is freely available and indexed on common search engines.
- It does not necessarily have to look like a paper notebook but it is essential
- that all of the information available to the researchers to make their
- conclusions is equally available to the rest of the world.
- 
-\end_layout
-
-\begin_layout Quote
-\align right
--Jean Claude-Bradley
-\end_layout
-
-\begin_layout Standard
-He maintained, and the group has continued the effort, a project exploring
- synthesis and testing of anti-malarial compounds in the effort to hasten
- the search for an effective cure.
- The group has also added a similar project on HIV.
-\end_layout
-
-\begin_layout Standard
-A second and more technically minded scientist is Carl Boettinger, a mathematica
-l ecologist who's maintained an open lab notebook hosted on Github since
- 2010.
- His work and has been mentioned at least three times in Nature (once in
- 2013, twice in 2014).
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Gewin2013,Mascarelli2014,VanNoorden2013"
-
-\end_inset
-
- His technical model for sharing his scientific progress is one that I emulated
- -- the technicalities are detailed elsewhere, but it relies on minimal
- HTML, CSS, and coding knowledge to produce a reasonably clean and logical
- website, with lab notebook entries and any other relevant pages.
-\end_layout
-
-\begin_layout Standard
-With that, I've been keeping my online notebook more or less in sync with
- my physical lab work since the first entry on July 15, 2014.
+ From June until December of 2013, I kept an online 'notebook' more or less
+ in sync with my physical lab work since the first entry on July 15, 2014.
  All the entries are time stamped and track revisions, and are written in
  human-readable HTML Markdown.
  
@@ -236,7 +188,7 @@ https://github.com/kathleenleeper/workhorse
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Technical Discoveries
 \end_layout
 
@@ -249,7 +201,7 @@ A large part of my goal with documenting my scientific process was to access
  do we gain?
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Frustrations
 \end_layout
 
@@ -282,15 +234,18 @@ need
 
 \begin_deeper
 \begin_layout Enumerate
-Because paper notes don't translate perfectly to typed text (see 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "enu:This-also-relates"
+Because paper notes don't translate perfectly to typed text , it's frustrating
+ and tiring to have to re-type and revisit a protocol run just earlier,
+ and translate from paper to digital.
+\end_layout
 
-\end_inset
-
-), it's frustrating and tiring to have to re-type and revisit a protocol
- run just earlier, and translate from paper to digital.
+\begin_layout Enumerate
+The lack of 
+\emph on
+drawing
+\emph default
+ abilities is a serious hindrance; annotation via text is significantly
+ less effective than writing in red pen next to it
 \end_layout
 
 \begin_layout Enumerate
@@ -305,8 +260,9 @@ useless\SpecialChar \@.
 \emph default
 Trouble shooting procedures is incredibly tedious; having to write up and
  explain your attempt and subsequent failure time and again is far from
- encouraging, and I would venture to say increases the feeling of failure
- upon revisiting the entry.
+ encouraging.
+ I would venture to say the increased feeling of failure upon revisiting
+ the entry is one of the most demoralizing things
 \end_layout
 
 \end_deeper
@@ -319,12 +275,6 @@ While there are tablet and smart phone options, a basic laptop is simply
 
 \begin_deeper
 \begin_layout Enumerate
-\begin_inset CommandInset label
-LatexCommand label
-name "enu:This-also-relates"
-
-\end_inset
-
 This also relates to the sketching and informal drawing that happens in
  lab notebooks -- quick calculations, arrows between protocols, annotations
  of protocols on the fly as you mis-time, forget, or mix up steps.
@@ -332,21 +282,8 @@ This also relates to the sketching and informal drawing that happens in
 
 \end_deeper
 \begin_layout Enumerate
-Studies
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Can cite this if people feel strongly}
-\end_layout
-
-\end_inset
-
- have shown time again that physically writing notes helps students retain
- knowledge better than typing them.
+Studies have shown time again that physically writing notes helps students
+ retain knowledge better than typing them.
  Similarly, I do more careful checking of protocols and the steps I have
  to follow when I'm writing them, rather than just reading and following
  a protocol from a typed page.
@@ -354,7 +291,8 @@ todo{Can cite this if people feel strongly}
 
 \begin_layout Enumerate
 Some advocates claim that knowing your work flow could be examined at any
- time -- an ever-present Potential Big Brother
+ time -- an ever-present Potential Big Brother -- makes you more likely
+ to be careful with your records and scientific choices
 \end_layout
 
 \begin_deeper
@@ -368,7 +306,7 @@ dissemination is not a high priority
 \end_layout
 
 \end_deeper
-\begin_layout Subsection
+\begin_layout Subsubsection
 Celebrations
 \end_layout
 
@@ -401,7 +339,7 @@ It's very easy to share and talk about my project -- because the repository
  the state of my lab work almost anywhere, quickly, efficiently, and with
  a minimum of fuss.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 This is mostly useful when John is upstairs on the 3rd floor and I forget
@@ -441,7 +379,7 @@ Version control of files.
 \begin_deeper
 \begin_layout Enumerate
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -469,24 +407,12 @@ protocols
 \end_deeper
 \begin_layout Enumerate
 Metrics on my lab entries.
- It's very easy to generate maps and time lines of processes; 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Or at least prove to my committee how much work I am or am not doing}
+ It's very easy to generate maps and time lines of processes; to see how
+ many times and when my work has been done.
+ I can run self-improvement metrics on myself.
 \end_layout
 
-\end_inset
-
-to see how many times and when my work has been done.
- I can run self-improvement metrics on myself
-\end_layout
-
-\begin_layout Section
+\begin_layout Subsection
 Suggestions for Surmounting Notebook Challenges
 \begin_inset Argument 1
 status collapsed
@@ -501,36 +427,12 @@ Surmounting Notebook Challenges
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{These might belong in the earlier section? Or the earlier sections
- analyzing OS belongs here}
-\end_layout
-
-\end_inset
-
 Some thoughts: Since being open is 
 \emph on
 not
 \emph default
- the same as being accessible, transparent, or even useful (re: 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Slee2013"
-
-\end_inset
-
-
-\emph on
-, Notes against openness
-\emph default
-); anything that wants to accomplish those goals needs a lot more thought
- and planning.
+ the same as being accessible, transparent, or even useful; anything that
+ wants to accomplish those goals needs a lot more thought and planning.
  I think open notebooks are only a small component of what sharing procedures
  is; said differently, 
 \begin_inset Quotes eld
@@ -559,23 +461,258 @@ I think a more ideal situation is
 \emph on
 not
 \emph default
- a transfer of paper to electronic.
-\end_layout
-
-\begin_layout Standard
-Rather, multiple layers of publication - namely, including methods.
+ a transfer of paper to electronic, but rather, multiple layers of publication
+ - namely, including methods.
  Real protocols, but protocols as you might write them out for someone in
  your lab running an experiment for you, instead of bite-sized uber-simplified
  
 \begin_inset Quotes eld
 \end_inset
 
-Procedures were performed as described previously.
+Procedures were performed as described previously
 \begin_inset Quotes erd
 \end_inset
 
+ typical of scientific papers.
  Following an open lab notebook with nothing else is hard; using it as a
  reference to supplement a larger work sounds like an incredible resource.
+\end_layout
+
+\begin_layout Section
+Bibliometrics
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /home/feline/Documents/Repositories/bibmetrics/gender_distr.png
+	lyxscale 50
+	width 110text%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Gender-distribution-div"
+
+\end_inset
+
+Gender distribution all potential references
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ I think it's important that when we talk about representation, we don't
+ abstract it to be just numbers.
+ Citation networks, like everything else, are the result of human decisions;
+ I think a program or script analyzing gender in specific fields or reseacher
+ libraries would be a useful tool and yield interesting results.
+ I took preliminary steps towards coding this, making a small script that
+ runs a crude bibliometric analysis on my citation list.
+\end_layout
+
+\begin_layout Subsection
+Methods
+\end_layout
+
+\begin_layout Standard
+The script is a available as a hacky Github repository, at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/kathleenleeper/bibmetrics
+\end_layout
+
+\end_inset
+
+.
+ It is written entirely in Python, version 2.7.5 (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.python.org/download/releases/2.7/
+\end_layout
+
+\end_inset
+
+).
+ It uses a number of packages, all available free of cost and largely of
+ licensing:
+\end_layout
+
+\begin_layout Enumerate
+GenderComputer, a Python library that uses a database of names from different
+ countries to guess gender based on national statistics, licensed under
+ the LGPLv3 (available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/tue-mdse/genderComputer
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Enumerate
+PyZotero, a library that accesses collections from the reference manager
+ Zotero and allows manipulation of the data structures, licensed under the
+ GPLv3 (available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/urschrei/pyzotero
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Enumerate
+Matplotlib, a standard plotting package, licensed to be BSD-compatible and
+ based of the Python Software Foundation license (available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://matplotlib.org/
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+The program (in its current iteration) runs through a .bib file and extracts
+ the title and authors.
+ If no author is found, it prints the title of the entry and the message
+ 
+\begin_inset Quotes eld
+\end_inset
+
+no author available
+\begin_inset Quotes erd
+\end_inset
+
+.
+ If the author cannot be assigned a gender by GenderComputer, it prints
+ the author entry.
+ Typically, these are cases of (1) initials (e.g.
+ (2) organization (e.g.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The PLoS Medicine Editors
+\begin_inset Quotes erd
+\end_inset
+
+) or (3) names that do not appear in the available databases, usually those
+ of non-Anglo origin or with non-Latin characters.
+\end_layout
+
+\begin_layout Standard
+The script adds 1 to the appropriate array (man, woman, unisex, unassigned)
+ until it is done running through the database, and then calculates the
+ proportions of each category compared to the whole, generating the chart
+ in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Gender-distribution-div"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Results
+\end_layout
+
+\begin_layout Standard
+Unisex names are a relatively insignificant portion, comprising <2% of the
+ total names.
+ 
+\end_layout
+
+\begin_layout Standard
+Although in an uncleaned database, the 
+\begin_inset Quotes eld
+\end_inset
+
+Not Available
+\begin_inset Quotes erd
+\end_inset
+
+ would hover at closer to 20%, almost all bibliographic entries have full
+ names attached to them.
+ The missing N/A names are largely corporations, non-Anglo names, or solitary
+ initials, and published long enough ago that no bibliographic database
+ retains their full name.
+\end_layout
+
+\begin_layout Standard
+The real heart of the matter is the men and women.
+ Close to 60% of the authors in my database are assigned male; only 30%
+ female.
+ This divide would change dramatically, I'm sure, if we broke it down by
+ subject matter -- feminist science and philosophy vs the other disciplines
+ in my Division III.
 \end_layout
 
 \begin_layout Standard

@@ -62,7 +62,7 @@
 \color #008000
 \end_index
 \secnumdepth 2
-\tocdepth 2
+\tocdepth 5
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
@@ -80,7 +80,7 @@
 
 \begin_layout Standard
 \begin_inset Branch open-science
-status open
+status collapsed
 
 \begin_layout Standard
 \begin_inset ERT
@@ -116,292 +116,16 @@ listoftodos
 \end_inset
 
 
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Acronyms
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{FLOSS}{free/libre open source software}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{GPL}{GNU General Public License}, the founding document of the Free
- Software Movement
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{PLoS}{Public Library of Science}, a leader in open access publishing
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OS}{open science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OKF}{Open Knowledge Foundation}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OA}{Open Access}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IF}{Journal Impact Factor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{CNS}{
-\backslash
-emph{Cell}, 
-\backslash
-emph{Nature}, and 
-\backslash
-emph{Science}}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{NIH}{National Institute of Health}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{NCBI}{National Center for Biotechnology Information}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{LHC}{Large Hadron Collider}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Relative Slowness of Medicinal Practice
-\end_layout
-
-\begin_layout Quote
-By far the most common argument made for open- access by scientists and
- science funders is one that springs from a widely-held belief that the
- sharing of data will lead to more rapid scientific progress and a reduc-
- tion in unnecessary duplication of scientific effort.
- 
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Parker2013"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-Pooling together results, it is argued, maximises the chances of spotting
- significant patterns in the data that are collected, and thus of transforming
- data into knowledge (OECD 2009, Royal Society 2012).
- This in turn may improve the quality, accessibility and transparency of
- research and speed up the rate of scientific discovery.
- Some scientists even refer to this shift as a new, ‘data-driven’ paradigm
- of research (Hey et al 2009).
-\begin_inset CommandInset citation
-LatexCommand citet
-after "p3"
-key "Leonelli2013"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-open source malaria practice\SpecialChar \@.
-
-\end_layout
-
-\begin_layout Plain Layout
-2 Many Boundaries Between Disciplines; Lack of Collaboration; 
-\begin_inset Quotes eld
-\end_inset
-
-Interdisciplinary
-\begin_inset Quotes erd
-\end_inset
-
- Collabs
-\end_layout
-
-\begin_layout Plain Layout
-Incentivising Science: Funding and Prestige
 \end_layout
 
 \end_inset
@@ -410,7 +134,27 @@ Incentivising Science: Funding and Prestige
 \end_layout
 
 \begin_layout Chapter
-Crack it 'Open'? 
+Cracking Science Open
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+open science in practice
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Whyte2011"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
@@ -440,10 +184,10 @@ the U.S.
 
 \end_inset
 
-Science is based on building on, reusing and openly criticising the published
+Science is based on building on, reusing and openly criticizing the published
  body of scientific knowledge\SpecialChar \ldots{}
 For science to effectively function, and for
- society to reap the full benefits from scientific endeavours, it is crucial
+ society to reap the full benefits from scientific endeavors, it is crucial
  that science data be made 
 \emph on
 open
@@ -483,11 +227,13 @@ pantonprinciples.org
 \emph default
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-, 02/16/2015}
+, 
+\backslash
+emph{02/16/2015}}
 \end_layout
 
 \end_inset
@@ -527,11 +273,13 @@ opendefinition.org/od
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-, 02/16/2015}
+, 
+\backslash
+emph{02/16/2015}}
 \end_layout
 
 \end_inset
@@ -555,7 +303,7 @@ reference "chap:ScienticEcosystem"
 
 \end_inset
 
-, open becomes many different but co-existing 
+, open becomes a ragtag team of co-existing, largely collaborative 
 \begin_inset ERT
 status collapsed
 
@@ -568,41 +316,81 @@ research{conflict between different areas of openness}
 
 \end_inset
 
- inititives.
+ initiatives.
 \end_layout
 
 \begin_layout Standard
-Science as an institution feels like it's falling apart (from my perspective)
- because what's actually happening is so different from what I thought.
- Knowledge is limited, disparate, disorganized, and unreliable; it's behind
- digital walls that seem contrived to keep science in the realm of the fiscally
- elite and educationally privileged, in putting up jargon and financial
- barriers.
- It doesn't reproduce well, even when it's purely 1s and 0s: the reliability
- of computer programs (to present stimuli, record data, crunch numbers)
- is limited to the labs that wrote/interact with the program; attempts to
- getting access to the generative programs has failed, repeatedly.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+So the 
+\emph on
+validity
+\emph default
+ of scientific communications is in questions, largely due to the unit of
+ published literature and the pressures on scientists to create certain
+ specific kinds of knowledge.
+ There is issues of access to the literature; but even that literature does
+ not fill all the knowledge gaps.
+ It is subject to funding whims, human biases in selection criteria, concerns
+ about prestige, often statistical bunk, occasionally outright fraud that
+ isn't always caught on.
+ Publishing is the outlet for most of these, but the problems run much deeper,
+ into the very beginnings of scientific projects.
+ What kinds of systems could re-create a scientific ecosystem that was not
+ subject to these things, or at least remained flexible enough to continually
+ re-prioritize the accuracy of scientific work and the, ahem, pursuit of
+ truth?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-When statistics are in question, datasets typically fail to materialize
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{None of this is 
+\backslash
+emph{new} to scientific communication; Fleck observed all of this as merely
+ the sociological nature of science.
+  I tend to agree.}
+\end_layout
+
+\end_inset
+
+Scientific knowledge seems limited, disparate, disorganized, and unreliable;
+ it lives behind digital pay walls contrived to keep science in the realm
+ of the fiscally elite and educationally privileged, and hides tucked into
+ papers full of jargon.
+ Science doesn't replicate well, even when it's purely 1's and 0's: the
+ reliability of computer programs (to present stimuli, record data, crunch
+ numbers) is limited to the labs writing the program, and sometimes not
+ even then.
+ Attempts at getting access to the generative programs fail almost every
+ time.
+ When scientifically-minded readers try to look deeper into statistical
+ manipulations, datasets typically fail to materialize;
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Wicherts2011"
 
 \end_inset
 
-.
- When they are available, they're often disorganized and thus essentially
- un-usable; the published datasets
-\end_layout
-
-\begin_layout Standard
-Fears about tenure, funding, prestige, and scientific sex appeal shape research
- courses and successes; academic research is regularly shuttered by the
- funding whims of the 
+ when they are available, they're often disorganized or poorly documented,
+ unusable to the intrepid data miner.
+ Fears about tenure, funding, prestige, and scientific sex appeal shape
+ research courses and successes, while academic research is regularly shuttered
+ by the funding whims of the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -614,43 +402,51 @@ ac{NIH}
 \end_inset
 
 .
- Research between groups at higher levels feels cutthroat; it's no longer
- about the pursuit of truth, but the pursuit of the ability to keep trying.
-\end_layout
-
-\begin_layout Standard
-Publishing groups, now, hold an unnatural kind of power by determining what
- 
+ Research is no longer about the pursuit of truth, but just trying to keep
+ head above competitive waters.
+ Publishing groups are increasingly commercial and hold an unnatural kind
+ of power by determining what 
 \emph on
 counts
 \emph default
- as good, interesting, novel science.
+ as good, interesting, novel, 
+\emph on
+publishable
+\emph default
+ science.
  
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Morrison2012"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Or at least that what it seems like.
-\end_layout
+The increasingly-popular solution - open science - to these problems relies
+ on the Internet and technical know-how, geared towards a generation that
+ grew up on Napster and the Pirate Bay.
+ The vision is one of scientific transparency -- making the inner workings
+ of science not just visible, but modular, mine-able, and usable by anyone
+ who cares to try.
+ We expect science to be something to tinker with, whenever we have the
+ time or the ideas.
+ 
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Section
-Open Access
-\end_layout
+\begin_layout Plain Layout
+The moral asp this is the path science 
+\emph on
+must 
+\emph default
+take to fulfill dream of a communicable Mertonian ethos, based on 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Standard
-Open access is an exclusively digital invention.
- Paying publishers for access used to mean you(r library) received a hard
- copy, delivered to the doorstep.
- One assumed subscription costs were largely a function of the work involved
- in collation and the physical manufacture and distribution costs; publishers
- also dealt with corralling peer reviewers
-\end_layout
-
-\begin_layout Standard
-However.
-\end_layout
-
-\begin_layout Standard
-Any reputable journal (and many non!)
+communalism
 \begin_inset ERT
 status collapsed
 
@@ -658,33 +454,249 @@ status collapsed
 
 
 \backslash
-graffito{omg can I say this will people know it's a joke?}
+findref{CUDOS, merton}
 \end_layout
 
 \end_inset
 
- is now expected to provide digital access to their publication, rendering
- the paper version far behind.
+
 \end_layout
 
-\begin_layout Subsubsection
-From Peter Suber's 
+\end_inset
+
+ At its best, 
 \begin_inset Quotes eld
 \end_inset
 
-Open Access Overview
+open
 \begin_inset Quotes erd
+\end_inset
+
+ is geared towards reorienting the whole culture of academic research towards
+ a more sharing-and-caring system.
+\end_layout
+
+\begin_layout Standard
+Open science starts with the already published literature, and a long-standing
+ movement to make journal articles accessible to more than just wealthy
+ university subscribers.
+ Then, advocates wade deeper, demanding not just the results the authors
+ choose to highlight, but the data powering authorial interpretation.
+ But how did they acquire the data? If they did it with a program, then
+ we need that too.
+\end_layout
+
+\begin_layout Subparagraph
+Note
+\end_layout
+
+\begin_layout Standard
+Not all specifications apply to all fields; different norms about data,
+ access, code, and process prevail in different areas.
+ Physics has been a leader in accessible publishing since the founding of
+ the arXiv
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{The arXiv is a massive repsitory containing almost every pre-print
+ from physics research.}
+\end_layout
+
+\end_inset
+
+; crystallographers have been sharing crystallography data since the field's
+ inception.
+ Ecology, on the other hand, is notoriously poor at sharing data, likely
+ due to the incentive structure of the field.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Section
+Personal Motivations
+\end_layout
+
+\begin_layout Plain Layout
+The lofty goals of open science have a practical policy implementations.
+ In my own scientific practices, those practical nuts-and-bolts of open
+ access, open code, open data are something I am hyper-aware of; they have
+ directly shaped my own projects and those around me.
+\end_layout
+
+\begin_layout Plain Layout
+Access to literature is immediately applicable -- there's not an academic
+ I know who doesn't feel the pinch of journal costs.
+ But I want to start with code, actually, because of the surprising and
+ constantly frustrating ways it's been a problem for me.
+ Surprising because I don't 
+\emph on
+do
+\emph default
+ code scientifically; or at least, I didn't.
+\end_layout
+
+\begin_layout Plain Layout
+One of facets of this thesis is a self-bibliometrics; that inspiration draws
+ from two papers that examined the gender and geographic distribution of
+ the two scholarly databases, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoK}
+\end_layout
+
+\end_inset
+
+ and JSTOR databases.
+ Both 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "West2013"
+
+\end_inset
+
+'s 
+\emph on
+Role of Gender in Scholarly Authorship
+\emph default
+ and and 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Lariviere2013"
+
+\end_inset
+
+'s 
+\emph on
+Global gender disparities in science
+\emph default
+ have enormous potential to help researchers assess the gender imbalance
+ in their own libraries.
+ To my chagrin, however, despite one paper in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{PLoS}
+\end_layout
+
+\end_inset
+
+, notorious for open policies, and another in 
+\emph on
+Nature,
+\emph default
+ which has recently implemented an open code policy, neither set of authors
+ has released any code, publicly or upon request, despite their results
+ being 
+\emph on
+entirely
+\emph default
+ dependent on digital data manipulation If they had released their (even
+ small bits of it) programming, it would have saved me hours of time, given
+ my work a better base to build off, and let me do more.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Journal access is more basic.
+ Nearly all of my papers are adorned by an 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{MIT}
+\end_layout
+
+\end_inset
+
+ logo, but even then, many humanities and lower-profile scientific journals
+ are behind pay walls.
+ My barriers are largely price-related, but that's only because I'm not
+ proficient enough as a coder to know how to effectively interact with machine-r
+eadable literature.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{relationship w/ data}
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-He, and I, refer largely in this to the unit of scholarly success, the peer-revi
-ewed scholarly journal articles.
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{open notebooks?}
 \end_layout
 
-\begin_layout Quote
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+These scientific issues have been a thorn in my side my entire scientific
+ career, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{granted, a career only ~5 years long}
+\end_layout
+
+\end_inset
+
+ so the discovery of a movement that validates my concern and proposes a
+ mechanism to solve it is alluring and, despite hurdles, something I firmly
+ believe would have changed, for the better, the science I do.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Literature Access
+\end_layout
+
+\begin_layout Standard
+The problem with access is thought to be largely fiscal and partially legal.
+ Open access scholarly publishing addresses the barriers to accessing peer-revie
+wed scholarly journal articles, barriers that are thought to be both a scientifi
+c hindrance and an infringement on moral rights.
+ An exclusively digital invention, 
 \begin_inset ERT
 status collapsed
 
@@ -697,36 +709,51 @@ ac{OA}
 
 \end_inset
 
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{
-\backslash
-emph{licensing} - means the PDF can be downloaded, but also shared, fed
- into text mining attemps, etc}
+ literature is
 \end_layout
 
+\begin_layout Quotation
+\begin_inset Quotes eld
 \end_inset
 
- literature is digital, online, free of charge, and free of most copyright
- and licensing restrictions.
- It removes price barriers (subscriptions, licenscing fees, pay-per-view
- fees, i.e.
+digital, online, free of charge, and free of most copyright and licensing
+ restrictions.
+ Ideally, it removes both removes price barriers (subscriptions, licensing
+ fees, pay-per-view fees, i.e.
  gratis) and permission barriers (copyright and licensing, i.e.
  libre).
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Suber2013"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Quote
-Succinctly, 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Subject, at max, to crediting the proper sources in your scientific
+ remix}
+\end_layout
+
+\end_inset
+
+More succinctly, 
 \begin_inset Quotes eld
 \end_inset
 
-free availability and unrestricted use
+true
 \begin_inset Quotes erd
 \end_inset
 
@@ -738,20 +765,36 @@ status collapsed
 
 
 \backslash
-graffito{as per 
-\backslash
-ac{PLoS}}
+ac{OA}
 \end_layout
 
 \end_inset
 
+ literature has free availability and allows unrestricted (re)use of the
+ text, images, graphs, and supplementary info.
+\end_layout
 
+\begin_layout Subsection
+Implementing Open Access
 \end_layout
 
 \begin_layout Standard
-To adapt Richard Stallman's famous formulation (originally applied to software),
- gratis OA is free as in 'free beer', while libre OA is also free as in
- 'free speech'.
+Implementations of open access are a rapidly growing part of the scientific
+ publishing system.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gargouri2012"
+
+\end_inset
+
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+gold
+\begin_inset Quotes erd
+\end_inset
+
  
 \begin_inset ERT
 status collapsed
@@ -760,30 +803,22 @@ status collapsed
 
 
 \backslash
-todo{where should open vs free be defined?}
+ac{OA}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-legally The legal basis of OA is the consent of the copyright holder (for
- newer literature) or the expiration of copyright (for older literature).
-\end_layout
-
-\begin_layout Standard
-In the 
+ model is followed by journals publishing articles under a share-and-share
+ alike license, typically as freely available digital objects.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-creative
+Green
 \begin_inset Quotes erd
 \end_inset
 
-
+ 
 \begin_inset ERT
 status collapsed
 
@@ -791,58 +826,94 @@ status collapsed
 
 
 \backslash
-graffito{"creative" being a loaded term, of}
+ac{OA}
 \end_layout
 
 \end_inset
 
- industries, copyright is arguably intrinsic to compensating the artist
- for their work, in the sense that musicians, artists, authors and filmmakers
- are paid via royalty or the sale of their work.
+ refers to the deposition, by authors, of some version of their article
+ into either institutionally-managed repositories (e.g.
+ the Div III archive at Hampshire) or centralized ones (PubMed, the arXiv).
+ Both versions allow access to the information by anyone with a sufficiently
+ fast Internet connection and the intellectual wherewithal to read scientific
+ jargon; they also allows text scraping and content mining by automated
+ scripts.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Open also means less profit for scholarly publishers from subscription costs.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Morrison2012,Davis2013"
+
+\end_inset
+
+ In most industries, this is the barrier to 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IP}
+\end_layout
+
+\end_inset
+
+ access.
+ Who has the rights to remix music and movies? What does it mean to re-use
+ characters from published literature in new stories? Is pirating software
+ wrong? It depends on who you ask, but the argument against free culture
+ usually boils down to: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IP}
+\end_layout
+
+\end_inset
+
+ should cost money because the producers need to be paid.
+ Musicians, artists, authors and filmmakers make their living via royalties
+ or direct sale of their work.
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
 Although this is already troubled...fellowships and grants go to the art world
  etc.
+ And to be clear, I don't think
+\emph on
  
+\emph default
+the copyright terms 
+\emph on
+there
+\emph default
+ are really great either.
 \end_layout
 
 \end_inset
 
- Scientists, on the other hand, publish without any expectation of payment
- (
-\begin_inset Quotes eld
-\end_inset
 
-royalty-free literature).
-\end_layout
-
-\begin_layout Quote
-Obviously no one writes royalty-free literature for money.
- Scholars write journal articles because advancing knowledge in their fields
- advances their careers.
- They write for impact, not for money.
- It takes nothing away from a disinterested desire to advance knowledge
- to note that it is accompanied by a strong self-interest in career-building.
- OA does not depend on altruistic volunteerism.
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{OA}
-\end_layout
-
-\end_inset
-
- occurs within this specialized realm where the actual release of knowledge
- is unaccompanied by any direct movement of money into the author's pockets.
+Scientific authors and their publishers, on the other hand, occupy a specialized
+ realm where the actual release of knowledge is unaccompanied by any direct
+ movement of money into the author's pockets.
 \begin_inset Note Note
 status collapsed
 
@@ -867,38 +938,257 @@ The most important royalty-free literature for our purposes is the body
 
 \end_inset
 
+ Scientific authors move forward without any expectation of direct payment
+ (
+\begin_inset Quotes eld
+\end_inset
 
-\end_layout
+royalty-free literature
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Subparagraph
-Open access literature is not 
-\strikeout on
-free
-\strikeout default
+); they write for impact, not for money, and because advancing knowledge
+ in their fields also advances their career.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Suber2013"
+
+\end_inset
+
  
-\emph on
-gratis
-\emph default
- to produce or publish.
- 
-\end_layout
-
-\begin_layout Quote
-"Free is ambiguous.
- We mean free for readers, not free for producers.
- We know that open-access literature is not free (without cost) to produce.
- But that does not foreclose the possibility of making it free of charge
- (without price) for readers and users." 
-\end_layout
-
-\begin_layout Subparagraph
-Open access is not synonymous with universal access.
 \end_layout
 
 \begin_layout Standard
-Even after the implementaion of 
+This puts the debate about open access in a different place than contemporary
+ movements for copyright-free cultural production in other realms; what
+ exactly 
+\emph on
+are
+\emph default
+ subscribers paying for, if not to feed and clothe the producers?
+\end_layout
+
+\begin_layout Standard
+Scholarly journals do provide a number of services -- one list by a publisher
+ at 
+\emph on
+Science
+\emph default
+ listed 82 hats for publishers, from social media outreach to wrangling
+ referees to ensuring articles disclose conflicts of interest.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Anderson2014"
+
+\end_inset
+
+ Publishers 
+\emph on
+also
+\emph default
+ used to provide delivery of a hard copy of the journal to subscribers,
+ giving them ownership.
+ One assumed subscription costs largely went to the paper-and-ink printing
+ costs; paying substantial fees for ownership of the physical product was
+ only reasonable.
+ 
+\end_layout
+
+\begin_layout Standard
+Now, though, what are subscription costs paying for? The physical costs
+ of production are cheaper than they used to be, and libraries have largely
+ downgraded from owning paper copies to leasing digital access.
+ If journal authors, editors, and referees aren't being paid, why are journal
+ publishers still profiting so handsomely?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ If all the 
+\emph on
+other
+\emph default
+ participants
 \begin_inset ERT
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Even things like typesetting are now often passed onto submitting
+ authors in a digital era}
+\end_layout
+
+\end_inset
+
+ -- submitters, publishers, editors -- are doing their share of the work
+ for free, why is the publisher still posting profits of 30-40%, in the
+ realm of $106 million (John Wiley & Sons) and $1.1 billion (Elsevier)?
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Morrison2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ In moral terms, if the goal of publishing is to disseminate information
+ and advance science, why should other other scientists, or potential scientists
+, be barred from the universal pool of knowledge by an artificially-constructed
+ digital profits barrier? 
+\end_layout
+
+\begin_layout Subsubsection
+Practical concerns
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OA}
+\end_layout
+
+\end_inset
+
+ literature is not necessarily different from closed-access literature in
+ any way, except for who's paying the bills.
+ Literature is not free (of cost) to produce; publishers do play a role.
+ This does not foreclose the possibility of making it free of charge for
+ users and readers.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Related
+\begin_inset Quotes erd
+\end_inset
+
+ issues of predatory publishers charging 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{APC}s
+\end_layout
+
+\end_inset
+
+ and fake or sub par peer review
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bohannon2013"
+
+\end_inset
+
+ are issues pervasive to scientific publishing, and not specific to open
+ access models.
+ Open access is a viable financial model; the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OA}
+\end_layout
+
+\end_inset
+
+ literature has grown remarkably over the past 10 years, now comprising
+ 17% of articles published in 2011
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Laakso2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Publishing 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OA}
+\end_layout
+
+\end_inset
+
+ provides benefits to authors, allowing a broader range of individuals to
+ potentially access, use and eventually cite their work.
+ In some analyses, freely available literature correlates with increased
+ citation rates and usage, especially in physics,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{annotated bib of citation advantage 
+\backslash
+url{http://www.istl.org/10-winter/article2.html}}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bjork2012,Wang2013,Aman2013,Gentil-Beccot2009"
+
+\end_inset
+
+, but this not necessarily the case.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Castillo2009,McCabe2013"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+It also allows the recipients of biomedical work to obtain information about
+ drug treatments or promising new therapies, while clinicians in the U.S.
+ and abroad to access information they might not otherwise have access to.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Eyers2002,Ibanez2006,Kim2012,Yamey2008,Chalmers2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Universal v.
+ open 
+\end_layout
+
+\begin_layout Standard
+Even after implementation of 
+\begin_inset ERT
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -910,72 +1200,239 @@ ac{OA}
 \end_inset
 
  policies, access barriers remain.
- Per Murray-Rust:
-\end_layout
-
-\begin_layout Itemize
-Filtering and censorship barriers.
- Many schools, employers, and governments want to limit what you can see.
- 
-\end_layout
-
-\begin_layout Itemize
-Language barriers.
- Most online literature is in English, or just one language, and machine
- translation is very weak.
- 
-\end_layout
-
-\begin_layout Itemize
-Handicap access barriers.
- Most web sites are not yet as accessible to handicapped users as they should
- be.
- 
-\end_layout
-
-\begin_layout Itemize
-Connectivity barriers.
- The digital divide keeps billions of people, including millions of serious
- scholars, offline.
- 
-\end_layout
-
-\begin_layout Section
-Data
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-data a set of values of qualitative or quantitative variables; facts
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{FACTS.}
-\end_layout
+ These include, but are not limited to:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Murray-Rust2008"
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Quote
+\begin_layout Itemize
+filtering and censorship (by governments or service providers)
+\end_layout
+
+\begin_layout Itemize
+language barriers 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+English publishing
+\end_layout
+
+\begin_layout Itemize
+scientific jargon, e.g.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Is it science or alchemy?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lawrence2001"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+handicap access (e.g.
+ not following guidelines for disability access)
+\end_layout
+
+\begin_layout Itemize
+connectivity (the so-called 
+\begin_inset Quotes eld
+\end_inset
+
+digital divide
+\begin_inset Quotes erd
+\end_inset
+
+ of unequal broadband Internet)
+\end_layout
+
+\begin_layout Standard
+Open access then, provides partial solutions to the issues of literature
+ access, and the speed of science.
+ It also, idealistically, opens up science to a broader range of 
+\begin_inset Quotes eld
+\end_inset
+
+curious minds.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Data and code
+\end_layout
+
+\begin_layout Standard
+Code and data are inextricably linked; they rely on each other for usefulness.
+ As the products and basis of scientific conclusions, open data and open
+ code provide a mechanism for encouraging reproducible research and increasing
+ the speed of discovery.
+\end_layout
+
+\begin_layout Standard
+The distribution of data and code is largely argued for in less moral and
+ more practical terms; re-use of data and code has immediate and practical
+ benefits for the speed of science.
+ It introduces a different quality of interdisciplinarity, however.
+ The people producing data (clinicians, ecologists, biologists, anthropologists)
+ may not be the same people using it in analyses.
+ Thus, while sharing data does not necessarily benefit one's own work, it
+ does promote the progress of 
+\begin_inset Quotes eld
+\end_inset
+
+science
+\begin_inset Quotes erd
+\end_inset
+
+ overall.
+\end_layout
+
+\begin_layout Subsection
+Open data
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-open clinical data vs open basic research data?
+per rust, more important that publishers take this upon themselves;; scientists
+ aren't great @ cyberscholarship, and likeyl open data isn't being used
+ 
+\emph on
+in the same fields
+\emph default
+ so of coures the people 
+\emph on
+generating 
+\emph default
+the data don't interact withi s
 \end_layout
 
 \end_inset
 
-Open science data is a type of open data focused on publishing observations
- and results of scientific activities available for anyone to analyze and
- reuse.
+Data is the heart and soul of science;
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bisol2014,Butlin2011,Carlson2011,Piwowar2007,Piwowar2011,Lagoze2014,Choudhury2014,Huang2012,Kattge2014,Fecher,Fecher2015,Poole2014,Reichman2011,Rung2013,Savage2009,Teeters2008,Vision2010,Hardwicke2014,Khan2014,Tenopir2011,Carp2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
  
+\begin_inset Quotes eld
+\end_inset
+
+let the data speak
+\begin_inset Quotes erd
+\end_inset
+
+ is the clarion call in any argument where you just want the 
+\emph on
+facts.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+data
+\series default
+ a set of values of qualitative or quantitative variables collected during
+ scientific activities
+\end_layout
+
+\begin_layout Standard
+The call is for scientists to 
+\begin_inset Quotes eld
+\end_inset
+
+free your data
+\begin_inset Quotes erd
+\end_inset
+
+, meaning release not just aggregated data analyses, but the full data set
+ that conclusions are based on.
+ It comes from 
+\begin_inset Quotes eld
+\end_inset
+
+the belief that biological data have value beyond the purpose for which
+ they were originally acquired.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Martone2004"
+
+\end_inset
+
+ The broad availability of 
+\begin_inset Quotes eld
+\end_inset
+
+raw
+\begin_inset Quotes erd
+\end_inset
+
+ data can be used in addressing the statistical unreliability of science
+ and in accelerating the rate of discovery by computational/data-based methods.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Molloy2011"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+open clinical data vs open basic research data? metni
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Open science data is a type of open data focused on publishing observations
+ and results of scientific activities, for anyone to analyze and reuse.
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -991,88 +1448,30 @@ idea
 
 \end_inset
 
+ Again, the advent of digital storage and connections has enabled data sets
+ of all shapes, sizes, and kinds to be readily available.
+ While not all data sets are deeply meaningful, the point is to open the
+ information up to the possibilities of the crowd.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Murray-Rust2008"
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Standard
-It's a broad concept that does not
-\emph on
- 
-\emph default
-just apply to research data, but to government and institutional data.
- The goals are similar: make data points work harder and mean more.
- 
-\end_layout
-
-\begin_layout Standard
-Open data is the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{NCBI}
-\end_layout
+This is by no means a new concept or activity in scientific communication.
+ In the early 20th century, aggregated 'pure' data points on elemental melting
+ points, colors, and densities, collected by many scientific workers, were
+ the foundations for Mendeleev's proposal for the periodic table of elements.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mendeleyev1905,Murray-Rust2008"
 
 \end_inset
 
- genetic databases; open data is the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{LHC}
-\end_layout
-
-\end_inset
-
- publishing terabytes of information.
- Open data ideally means 
-\emph on
-libre
-\emph default
-, but practically is often merely 
-\emph on
-gratis
-\emph default
-.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{NCBI licensing?}
-\end_layout
-
-\end_inset
-
-.
- The sequencing of the genome (of many genomes, actually) and subsequent
- publishing has enabled both basic biological research (primer design, anybody?)
- and fields like bio-informatics to move forwards by leaps and bounds.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-research{how many people access that data daily?}
-\end_layout
-
-\end_inset
-
- Most of the uses of that data were never planned or anticipated, but happened
- when data went free.
  
 \begin_inset Note Note
 status collapsed
@@ -1080,19 +1479,6 @@ status collapsed
 \begin_layout Plain Layout
 links between software and internet development, and the kent interview
  on the race to patent the genome for freedom!!
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{Murray-Rust on the unexpected uses of open data}
 \end_layout
 
 \end_inset
@@ -1118,14 +1504,27 @@ data sets can be cited.
 \end_layout
 
 \begin_layout Standard
-Open data hopes to achieve stastistical reliability: your table of aggregate
- numbers isn't meaningful unless we can see how you've manipulated (or not)
- the original data.
+Open data in the here and now on a massive scale has been notably successful.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stalzer2015"
+
+\end_inset
+
+ As the government was gearing up for the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HGP}
 \end_layout
 
-\begin_layout Standard
-Open data could extend the useful life of data collections by combining
- and manipulating datasets, like bio-informatians using the 
+\end_inset
+
+ in 1988, they also founded the 
 \begin_inset ERT
 status collapsed
 
@@ -1138,83 +1537,45 @@ ac{NCBI}
 
 \end_inset
 
- datasets to generate phylogenies and genetic analyses.
- Aggregating datasets allows for more thorough and meaningful meta-analyses
- (when the appropriate controls are in place, of course).
-\end_layout
+, whose entire mission was to 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Subsubsection
-regulations and principles
-\end_layout
+design, develop, implement, and manage automated systems
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Standard
-organizations demanding sharing!
-\end_layout
+ for bio-molecular data.
+ Deposition of genetic data by researcher has been successful, at least
+ in terms of usefulness; in 2013, there are 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Subsubsection
-incentives for data sharing
-\end_layout
-
-\begin_layout Standard
-funders ask for it, but hard to actually d
-\end_layout
-
-\begin_layout Subsubsection
-credit for data publication
-\end_layout
-
-\begin_layout Subsection
-practical issues in data sharing
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-which
-\emph default
- data, 
-\emph on
-when
-\emph default
-, and in what format? (re: conversations @ plos open data).
- Not easily answerable questions, but maybe part of that holding contradictions
- -- TT's issues with sharing cuttlefish data (who can host, is it worth
- hosting?).
-\end_layout
-
-\begin_layout Subsection
-Methods
-\end_layout
-
-\begin_layout Standard
-actual reproducibility is...let's be honest, not great with the way methods
- are currently presented in papers.
- even in supplemental data (only available online, although typically as
- a gratis addition).
-\end_layout
-
-\begin_layout Standard
-If methods are supposed to aid in reproducibility, there's some breakdown
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
+3 million visitors daily to its website, [and] approximately 27 terabytes
+ of data downloaded per day.
+\begin_inset Quotes erd
+\end_inset
 
 
-\backslash
-research{method sharing}
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smith2013"
+
+\end_inset
+
+ Genomic data deposition, while not at 100% for researchers, is not unusual
+ or unexpected, and is reused on a massive scale.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rung2013"
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Section
-Code and Hardware
-\end_layout
-
-\begin_layout Quote
+\begin_layout Standard
+Every night in astronomy, the 
 \begin_inset ERT
 status collapsed
 
@@ -1222,24 +1583,451 @@ status collapsed
 
 
 \backslash
-rewrite{open code section.
- It's weird and hard to parse..
- Isn't this also related to...over work, expectations of productivity etc.
- And hard not to get carried away and whine about abolishing all copyright.}
+ac{SDSS}
 \end_layout
 
 \end_inset
 
-To make sense of scientific data they must be analysed.
- In all but the simplest cases, this is done by software.
- The extensive use of software poses problems for the reproducibility of
- research.
- To keep research reproducible, it is necessary to publish not only all
- data, but also the source code of all software used, and all the parametrizatio
-n used in running this software.
+ releases around 200 GB worth of data.
+ Since 2000, the project has collected imaging data of over 35% of the sky,
+ with 
+\begin_inset Quotes eld
+\end_inset
+
+photometric observations of around 500 million objects and spectra for more
+ than 3 million objects
+\begin_inset Quotes erd
+\end_inset
+
+.
+ As of this writing, there 6,333 peer-reviewed papers drawing directly on
+ the data; those papers have been collectively cited more than 280,000 times.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Zhang2010"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+Open data initiatives, of course, are not just aimed at enormous public
+ works projects like the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HGP}
+\end_layout
+
+\end_inset
+
+.
+ It requires 
+\begin_inset Quotes eld
+\end_inset
+
+individual scientists and laboratories [to] embrace a culture of archiving
+ and sharing
+\begin_inset Quotes erd
+\end_inset
+
+ for the full benefits.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wolkovich2012"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+***************
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bisol2014,Butlin2011,Carlson2011,Piwowar2007,Piwowar2011,Lagoze2014,Choudhury2014,Huang2012,Kattge2014,Fecher,Fecher2015,Poole2014,Reichman2011,Rung2013,Savage2009,Teeters2008,Vision2010,Hardwicke2014,Khan2014,Tenopir2011,Carp2012"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Open code
+\end_layout
+
+\begin_layout Standard
+Programs and scripts control how and when information is collected, what
+ kinds of metadata we track how we parse, smooth, and manipulate data, the
+ final presentation of data on our screens and the figures we submit to
+ journals.
+ From computational biology scripts to psychology stimuli, from graphing
+ ecology datasets to standardizing microscope exposures and image processing,
+ code, in a very real way, 
+\emph on
+is
+\emph default
+ the science.
+ 
+\end_layout
+
+\begin_layout Standard
+The use of software poses both problem and solution to reproducibility.
+ if a scientific paper relies largely on computer programs to generate results,
+ 
+\emph on
+not
+\emph default
+ releasing the program source code raises needless and confusing roadblocks.
+ If, on the other hand, code is released, it potentially saves time and
+ effort for other researchers, and can pinpoint errors in scientific results
+ much more specifically.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ince2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Benefits
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+Making data freely available will certainly allow others to attempt to replicate
+ the published results using the stated analysis pipeline given the same
+ data.
+ (cmment on
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Stokes2013"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Quote
+connect code to what code generatesi in terms of data -- Rust on presenting
+ NMR spectra as direct output, not graphical
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Reliability and reproducibility
+\end_layout
+
+\begin_layout Paragraph
+Data
+\end_layout
+
+\begin_layout Standard
+Sharing data and code improves the reliability of scientific evidence.
+ In If some proportion of the scientific literature is, as 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Ioannidis2005a"
+
+\end_inset
+
+ argued, mostly false, one way to address the issue is by providing raw
+ research data.
+ With this, the choices researchers make about data points that could potentiall
+y lead to biases -- which ones to use or not use, what kind of tests to
+ run, when to stop collecting data -- are exposed in the data.
+ Since willingness to participate in informal data sharing is correlated
+ with the strength of statistics in a paper,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wicherts2011"
+
+\end_inset
+
+ it also seems reasonable to assume that mandatory data deposition would
+ lead to stronger statistical choices.
+ In the case of questionable or surprising results, re-analysis of full
+ data could help verify conclusions -- thus both protecting researchers
+ from accusations of fraudulent data and lending credence to 'paradigm-shifting'
+ results.
+\end_layout
+
+\begin_layout Standard
+Meta-analyses, as well, would benefit from raw data deposition.
+ Instead of relying on aggregated numbers generated by a variety of methods,
+ writers of systematic reviews and meta-analyses could compute their own
+ results, ultimately increasing the statistical power of their conclusions
+ and providing a measure of confidence in the results.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wan2007"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Paragraph
+Code
+\end_layout
+
+\begin_layout Standard
+Even if code is described perfectly in precise formal terms, the actual
+ code always has errors, at a rate of 1-10 errors per 1000 lines of code.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ince2012"
+
+\end_inset
+
+ Especially damaging to scientific purposes is the insidious semantic errors.
+ Not all coding errors manifest with outward syntactic issues where the
+ code won't actually produce anything.
+ Instead, bugs are type errors, or misplaced loops: semantic errors can
+ systematically and insidiously warp results.
+ Debugging, perhaps in science especially, is non-random and biased towards
+ seeking positive, confirmatory results.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stokes2013,Poldrack2013,Ince2012"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+As I mentioned in response to Chris, I think the problem is not so much
+ how to debug code (there are lots of great and clever tricks), but how
+ to be systematic in debugging code that produces good or bad results.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+I completely agree about code replication.
+ It's amazing how easy it is to catch errors that go in the wrong direction
+ (that decrease your results) and how hard it is to catch those that go
+ in the right direction.
+ Double-entry (recoding from scratch) really seems like the gold standard.
+ - comment on poldrack
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+e.g.
+ if you use an int type number in Python, python will round the results.
+ This error will produce approximately accurate results -- but certainly
+ not with the calculated specificity, and might introduce other small-but-meanin
+gful errors.
+\end_layout
+
+\end_inset
+
+ These issues might only appear when the same code is used on a different
+ data set.
+\end_layout
+
+\begin_layout Standard
+Additionally, code is not subject to peer-review; not that it necessarily
+ should be.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{A mistake you don't make after using Linux}
+\end_layout
+
+\end_inset
+
+ However, many scientists treat code and software as infallible tools.
+ Code than exists as a trusted 
+\begin_inset Quotes eld
+\end_inset
+
+black box
+\begin_inset Quotes erd
+\end_inset
+
+ of processing, rather than a step in the research process that can and
+ does change outcomes.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Morin2012,Joppa2013"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsubsection
+The public good
+\end_layout
+
+\begin_layout Standard
+Open data and open code is a 
+\begin_inset Quotes eld
+\end_inset
+
+research accelerator.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Woelfle2011"
+
+\end_inset
+
+ Data-driven discovery and synthesis plays an increasing role in many fields:
+ machine learning, the improvement of classical statistical methods (based
+ on large data sets),
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stalzer2015"
+
+\end_inset
+
+ the neurosciences
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wan2007,VanHorn2013,Poline2012"
+
+\end_inset
+
+ Bio-informatics as a field exists only because of large-scale data collection.
+ All of the fields that draw on data also draw on computer code to handle
+ increasingly massive data sets.
+\end_layout
+
+\begin_layout Standard
+Open data extends the useful life of data collections.
+ In genomics, most researchers re-use datasets and publish within 2 years;
+ third-party users continue to do so for at least six years.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Piwowar2013"
+
+\end_inset
+
+ In fields with highly complex and non-repeatable data sets, like archaeology
+ or ecology, there is both a need to preserve irreplaceable data sets and
+ an increased need to share them.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kansa2014a"
+
+\end_inset
+
+ And last, as with open access, if data is created by taxpayer funding,
+ shouldn't taxpayers have access?
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+faced a problem when conducting a meta-analysis: some trial reports had
+ given summary data for number of events per patient, others had given the
+ proportion of patients who were event-free.
+ I wrote to the PI of one study asking for raw data so that I could convert
+ from event numbers to event incidence.
+ To her credit she said that she "would love to share the data" – this was
+ again a federally funded study at the NIH – however, she was unable to
+ do so because "my biostatistician won't release it".
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vickers2006"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In code, we know the relative speed of science is slow; the speed of a single
+ researcher is even slower.
+ While re-using the code of others can be a risky proposition, it can also
+ be an important stepping stone to bigger and more advanced project, or
+ a teaching tool.
+ While not all code is meant to be reused (and that's okay!), seeing how
+ other researchers approached a computation problem can be a guide.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Barnes2010"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsubsection
+Just because it's hard isn't a free pass
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Quote
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Easterbrook2014,Shamir2013"
+
+\end_inset
+
+
+\series bold
+challenges are no excuse
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 Computers and machines
 \begin_inset ERT
 status collapsed
@@ -1255,162 +2043,950 @@ graffito{cyborgs!!}
 
  are indispensable.
  Statistics, the objective ruler of experimental results, is the result
- of code in various languages -- R,Matlab, Python, or SPSS (to name a few).
+ of code in various languages -- R, Matlab, Python, or SPSS (to name a few).
  Hey, there are entire papers and journals dedicated to computational biology
  -- code that takes the aforementioned open data and pulls more facts out.
- What we do with our computers is fundamental to the execution of science,
- if not the actual thoughts.
- 
+ What we do with our computers is fundamental to the execution of science.
+ To those who don't primarily work with bytes
 \end_layout
 
-\begin_layout Subparagraph
-Code is prone to errors.
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Dissection and understanding of open code would improve the chances of both
+ direct and indirect reproducibility.
+ Direct reproducibility refers to the recompilation and rerunning of the
+ code on, say, a different combination of hardware and systems software,
+ to detect the sort of numerical computation11, 12 and interpretation13
+ problems found in programming languages, which we discuss later.
+ Without code, direct reproducibility is impossible.
+ Indirect reproducibility refers to independent efforts to validate something
+ other than the entire code package, for example a subset of equations or
+ a particular code module.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ince2012"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+On their own, finer computational grids, longer and more complex computations
+ and larger data sets—although highly attractive to scientific researchers—do
+ not resolve underlying computational uncertainties of proven intransigence
+ and may even exacerbate them.
+\end_layout
+
+\begin_layout Quote
+it is symptomatic of a wider problem: the scientific community places more
+ faith in computation than is justified.
+ As we outline below and in two case studies (Boxes 1 and 2), ambiguity
+ in its many forms and numerical errors render natural language descriptions
+ insufficient and, in many cases, unintentionally misleading.
+\end_layout
+
+\begin_layout Quote
+\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+even if code is described perfectly
+\end_layout
+
+\begin_layout Quote
+First, there are programming errors.
+ Over the years, researchers have quantified the occurrence rate of such
+ defects to be approximately one to ten errors per thousand lines of source
+ code
+\begin_inset Newline newline
+\end_inset
+
+Second, there are errors associated with the numerical properties of scientific
+ software.
+ The execution of a program that manipulates the floating point numbers
+ used by scientists is dependent on many factors outside the consideration
+ of a program as a mathematical object22.
+ Rounding errors can occur when numerous computations are repeatedly executed,
+ as in weather forecasting23.
+ Although there is considerable research in this area, for example in arithmetic
+ and floating point calculations24, 25, 26, 27, algorithms28, verification29
+ and fundamental practice30, much of it is published in outlets not routinely
+ accessed by scientists in generic journals, such as Computers & Mathematics
+ with Applications, Mathematics in Computer Science and the SIAM Journal
+ on Scientific Computing.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Debates
+\end_layout
+
+\begin_layout Subsubsection
+Implementing open data and code
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
+Like with open access literature, the sharing of data is associated with
+ an increased citation rate to papers in a variety of disciplines
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Piwowar2007"
 
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{"Talk is cheap.
- Show me the code." -Linus}
-\end_layout
-
-\end_inset
-
-As per Eric Raymond in 
-\emph on
-The Cathedral and the Bazaar
-\emph default
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Given enough eyeballs, all bugs are shallow.
-\begin_inset Quotes erd
 \end_inset
 
 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 %
 \backslash
-graffito{OK, Raymond.}
+findref{Piwowar 2013 ---- studies from genetics (Piwowar et al.
+ 2007; Botstein 2010), astronomy (Henneken and Accomazzi 2011; Dorch 2012)
+ and paleoceanography (Sears 2011)}
 \end_layout
 
 \end_inset
 
- Like with software development, in the generation and analysis of data
- using computer code, not all bugs manifest with outward syntactic issues
- where the code won't 
-\emph on
-run
-\emph default
-.
- Instead, bugs are type errors, or misplaced loops: semantic errors that
- systematically and insidiously warp results.
  
+\end_layout
+
+\begin_layout Standard
+Even while other reformers push for more flexible and realistic assessments
+ of scholarly contributions, open science modes cans still be slotted into
+ current incentive structures.
+ Code and data can be cited; hosting repositories like 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+Figshare
+\end_layout
+
+\end_inset
+
+
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-findref{coding errors and analysis}
+graffito{figshare.com}
+\end_layout
+
+\end_inset
+
+ or 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+Dryad
 \end_layout
 
 \end_inset
 
 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{dryad.com}
+\end_layout
+
+\end_inset
+
+ provide Digital Object Identifiers
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-I.e.
- if you use an int type number in Python, python will round the results.
- This error will produce approximately accurate results -- but certainly
- not with the calculated specificity, and might introduce other small-but-meanin
-gful errors.
+A digital object identifer acts as a permanent short URL for easy and reliable
+ web access; reliable access on the web is, of course, 
+\emph on
+extremely 
+\emph default
+tenuous, even for nominally archived and maintained piece of scholarly work.
 \end_layout
 
 \end_inset
 
+ for uploaded information and instructions on how to incorporate data citation
+ in a variety of formats.
+\begin_inset ERT
+status collapsed
 
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Although intriguingly, not as a dominant feature in even open-source
+ citation managers and citation files}
 \end_layout
 
-\begin_layout Standard
-IF you generate numbers with code (which ,realistically, you do), that code
- should be open so it can be checked for accuracy.
-\end_layout
+\end_inset
 
-\begin_layout Subparagraph
-Code can and 
-\emph on
-is
-\emph default
- re-used.
-\end_layout
-
-\begin_layout Standard
-As demonstrated by my desperate attempts to build and extend the work of
  
 \begin_inset CommandInset citation
-LatexCommand citealt
-key "West2013"
+LatexCommand citep
+key "Standards2013"
 
 \end_inset
 
- and 
-\begin_inset CommandInset citation
-LatexCommand citealt
-key "Lariviere2013"
 
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset Quotes eld
 \end_inset
 
-in a bibliometric analysis of gender in publications and I 
+Not good enough
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One of the biggest reasons cited to 
 \emph on
-can't
+not 
 \emph default
- because they don't 
+publish data and code is that it's not good enough for the public eye, not
+ well-documented, or disorganized.
+ But if you used it, it's probably good enough.
+ Not all software 
 \emph on
-share their fucking code.
+needs 
+\emph default
+to be re-used; collecting and annotating datasets with metadate should be
+ a part of the research pipeline anyway.
+ It's 
+\begin_inset Quotes eld
+\end_inset
+
+good enough
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Barnes2010"
+
+\end_inset
+
+ Curation is a necessary part of research, but shouldn't take an enormous
+ amount of time in a well-designed scientific work flow.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Boulton2012"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+It's not good enough
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Barnes2010"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{not sharing because of fear -- same as code "it's good enough"}
+\end_layout
+
+\end_inset
+
+ If your data was good enough for you to analyse it, it's good enough to
+ publish.
+ While some repositories have stringent metadata standards (which realistically,
+ one should be formatting anyway), others (i.e.
+ figshare) have extremely low requirements.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wicherts2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+I don't have time!
+\begin_inset Quotes erd
+\end_inset
+
+ See above.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+I won't get credit
+\begin_inset Quotes erd
+\end_inset
+
+ - new systems;; again, figshare makes it citable, datasets are citable
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+typically code is published along with a paper; especially if it's a tool
+ paper, there is a citation that goes along with code and if everyone's
+ citing properly you'll get just as much credit
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Paragraph
+Pre existing
+\end_layout
+
+\begin_layout Plain Layout
+Many fields already have systems of open data set up, and.
+ In chemistry, crystallography datahas been widely distributed for many
+ years.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+In scientific communication, scientists have always expressed a willingness
+ to share datasets on a case-by-case basis.
+ In practice, however, 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Despite statements by top journals on the need for public microarray data
+ accessibility, less than 50% of researchers actually fulfill full data
+ deposition requirements.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Alsheikh-Ali2011"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+_____
+\end_layout
+
+\begin_layout Plain Layout
+high throughput biolgy
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bornigen2015"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+c____________________________-
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsubsection
+
+\series bold
+potential code barriers/solutions
+\end_layout
+
+\begin_layout Itemize
+shortage of tools to package code/data
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+shortage of central repositories etc
+\end_layout
+
+\begin_layout Itemize
+lack of perception of the computational problems with scientific code, leading
+ to the faulty assumption that program descriptions are adequate
+\end_layout
+
+\begin_layout Itemize
+development of program code is a subsidiary activity in the scientific effort.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+but it's not -- in the sense that there is interplay between computational
+ and wet lab biologists; comp relies on biology data, biology 
+\emph on
+could 
+\emph default
+rely more on comp.
+ results;
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+intellectual property rights
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+patent or copyright pending for commercial use -- flag paper as 
+\begin_inset Quotes eld
+\end_inset
+
+no source code
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+limited access to programs
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+We suggest that this would not be a problem for most researchers: their
+ institutions would normally provide such software.
+ I
+\begin_inset Quotes erd
+\end_inset
+
+ DIRTY LIES
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+logistics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+sourceforge, github, linux-kernel-it
+\end_layout
+
+\begin_layout Itemize
+latex/sweave for documents
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+steps to implementation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+funding bodies commissioning research/tool development to be integrated
+ w/other elements
+\end_layout
+
+\begin_layout Itemize
+metadata repositories
+\end_layout
+
+\begin_layout Itemize
+referees appraising software
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+ourses on statistics, programming and experimental method could be easily
+ expanded and combined to include the concept of reproducibility.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Practical Issues
+\end_layout
+
+\begin_layout Paragraph
+Which data?
+\end_layout
+
+\begin_layout Standard
+A PhD student at the Champlimaud Neuroscience Institute studies cuttlefish
+ feeding habits.
+ As part of her dissertation, she's collected hundreds of hours of video
+ of cuttlefish trials; so far, the raw data occupies two terabytes of hard
+ drive space.
+ While she's interested in sharing her data, both to outsource data analysis
+ and to promote reproducibility, it's not technically feasible.
+ More broadly:
+\emph on
+ which
+\emph default
+ data, 
+\emph on
+when
+\emph default
+, and in what format? It's on a case-by-case basis, right now, because of
+ the vast heterogeneity of research results.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+(re: conversations @ plos open data)
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+Data is also a sociological challenge for scientists.
+ Asking researchers to give up their theoretical ticket to publication is
+ a huge risk, especially in fields like ecology where datasets are extremely
+ hard won and be the basis of many publications.
+ While the risks of being scooped are in fact relatively low, concerns about
+ data appropriation still run high.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pampel2014"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Paragraph
+Data confidentiality
+\end_layout
+
+\begin_layout Standard
+Especially for clinical trials, who does data belong to?
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vickers2006"
+
+\end_inset
+
+ For sensitive information (biomedical data, interviews, location of rare
+ bird or plant species, etc.), there are additional concerns that might 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Paragraph
+Legal issues
+\end_layout
+
+\begin_layout Plain Layout
+Who owns patents? who owns data?
+\end_layout
+
+\begin_layout Subsubsection
+Data Specific
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+all from 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Pampel2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+“legal issues”, 
+\end_layout
+
+\begin_layout Enumerate
+“misuse of data” and 
+\end_layout
+
+\begin_layout Enumerate
+“incompatible data types” (Kuipers & Hoeven 2009)
+\end_layout
+
+\begin_layout Enumerate
+“insufficient time” and “lack of funding” (Tenopir et al.
+ 2011).
+ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+campbell et al, 2002
+\end_layout
+
+\begin_layout Plain Layout
+n this study that involved about 1,800 life science scientists, they identified
+ two central factors that hinder Data Sharing: “Lack of resources and issues
+ of scientific priority play an important role in scientists’ decisions
+ to withhold data, materials, and information from other academic geneticists
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-Issues
+Open Notebook Science
 \end_layout
 
-\begin_layout Subsection
-Credit
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Open notebook science is the practice of making the entire primary record
+ of a research project publicly available online as it is recorded.
+ This involves placing the personal, or laboratory, notebook of the researcher
+ online along with all raw and processed data, and any associated material,
+ as this material is generated.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+-Jean Claude-Bradley
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bradley2011"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Code can be cited.
- Data can be cited.
- If you can't think of other ways to award credit, be more inventive.
-\end_layout
-
-\begin_layout Subsection
-Confidentiality of Data
-\end_layout
-
-\begin_layout Standard
-Right ok whatever.
-\end_layout
-
-\begin_layout Subsection
-Which Data do you share?
+Notebooks are, plausibly, the closest thing to heart and spine of the scientific
+ process.
+ In addition to computer collected data, a good lab notebook tracks the
+ experimenter.
+ Researchers capture their in-progress thoughts, the reasons behind experiments,
+ their day-to-day protocol adjustments, notes on dropped tubes or hastily
+ drawn sketches of experiments.
+ Notebooks are ground zero for wet lab science.
 \end_layout
 
 \begin_layout Standard
-IDK SOME OF IT
+All of the elements so far of 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{OS}
+\end_layout
+
+\end_inset
+
+ -- data, methods, conclusion, code -- are (theoretically) documented and
+ organized somewhere, in some combination of paper and digital record-keeping.
+ The simplest solution might just be to make notebooks open from the start.
+ In an ideal world, this would tracks not only eventually successful projects,
+ but shows other researchers where failure likely lies.
+ A documented and constantly updating notebook makes it easy to trace the
+ more realistic scientific process, one of fits and starts and ad hoc modificati
+ons, why 
+\emph on
+this
+\emph default
+ Taq was used instead of 
+\emph on
+that
+\emph default
+ one, a process where sometimes a single step takes 25 tries.
+\end_layout
+
+\begin_layout Standard
+An accessible scientific notebook complicates the eventual scientific paper,
+ giving future researchers a better idea of how reliable results might actually
+ be.
+ To some extent, open notebook science precludes the possibility of the
+ file drawer problem; it's much harder to tuck results away if they're already
+ online.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Open Notebooks in the Wild
+\end_layout
+
+\begin_layout Plain Layout
+The first open notebook, and the originator of the term, was Jean Claude-Bradley
+, a chemist, in a blog post in 2006.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+By this [Open Notebook Science] I mean that there is a URL to a laboratory
+ notebook that is freely available and indexed on common search engines.
+ It does not necessarily have to look like a paper notebook but it is essential
+ that all of the information available to the researchers to make their
+ conclusions is equally available to the rest of the world.
+ 
+\end_layout
+
+\begin_layout Quote
+\align right
+-Jean Claude-Bradley
+\end_layout
+
+\end_inset
+
+He started a project called UsefulChem, a project exploring synthesis and
+ testing of anti-malarial compounds in the effort to hasten the search for
+ an effective cure.
+ A paper published out of the project included, as a supplemental material,
+ the entire lab notebook of the project.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{open notebooks as supplementary material}
+\end_layout
+
+\end_inset
+
+ The group has also added a similar project on HIV.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+rewrite{Claude-Bradley, implementatons and origins of ONS}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+A more recent high-profile open notebook scientist Carl Boettinger, a mathematic
+al ecologist who's maintained an open lab notebook, hosted on Github, since
+ 2010.
+ His work has been written up three times in 
+\emph on
+Nature
+\emph default
+ alone (once in 2013, twice in 2014).
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gewin2013,Mascarelli2014,VanNoorden2013"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+ His technical model for sharing his scientific progress is one that relies
+ on minimal HTML, CSS, and coding knowledge to produce a reasonably clean
+ and logical website, with lab notebook entries and any other relevant pages;
+ he is, of coures, a mathematically- and code- minded open science practictioner.
+ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Implementations
+\end_layout
+
+\begin_layout Itemize
+github
+\end_layout
+
+\begin_layout Itemize
+wikis
+\end_layout
+
+\begin_layout Itemize
+open wetware
+\end_layout
+
+\begin_layout Itemize
+OSF
+\end_layout
+
+\begin_layout Itemize
+zappy lab stuff?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Methods
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[inline]{open source lab reagants? because we buy them for ease of use,
+ not necessarily because we 
+\backslash
+emph{couldn't} make them ourselves.
+ we'd still buy clean up kits because they're CONVENIENT}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+actual reproducibility is...let's be honest, not great with the way methods
+ are currently presented in papers.
+ even in supplemental data (only available online, although typically as
+ a gratis addition).
+\end_layout
+
+\begin_layout Plain Layout
+If methods are supposed to aid in reproducibility, there's some breakdown
+ b
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+research{method sharing}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1420,7 +2996,7 @@ status open
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "open-science,CriticalOpenNeuro"
+bibfiles "CriticalOpenNeuro"
 options "plainnat"
 
 \end_inset

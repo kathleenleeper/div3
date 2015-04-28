@@ -169,7 +169,7 @@ filename "DirtyTitlepage.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "Titlepage.lyx"
+filename "PublicationMatter/Titlepage.lyx"
 
 \end_inset
 
@@ -181,7 +181,7 @@ filename "Titlepage.lyx"
 \lang american
 \begin_inset CommandInset include
 LatexCommand include
-filename "Titleback.lyx"
+filename "PublicationMatter/Titleback.lyx"
 
 \end_inset
 

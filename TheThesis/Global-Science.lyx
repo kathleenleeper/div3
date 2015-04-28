@@ -83,274 +83,12 @@
 
 \begin_layout Standard
 \begin_inset Branch global-science
-status collapsed
-
-\begin_layout Standard
-\begin_inset ERT
 status open
 
-\begin_layout Plain Layout
-
-
-\backslash
-let
-\backslash
-cleardoublepage
-\backslash
-clearpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-listoftodos
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Acronyms
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{acronym}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OEAC}{Other Euro-American Countries}, including Australia, NZ, and
- Canada
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{RoW}{"Rest of World"}, for what that's worth
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{OECD}{Organisation for Economic Co-operation and Development}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{BRICs}{Brazil, Russia, India, China}, considered the rising economic
- and scientific powerhouse countries
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{IF}{Impact Factor}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UB FoH}{University of Botswana, Faculties of Humanities}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UoM FoS}{University of Mauritius, Faculties of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UCT Comm}{University of Cape Town, Commerce}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{UNAM FHSS}{University of Namibia, Humanities and Social Sciences}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{STEM}{Science, Technology, Engineering, and Math}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{SCI}{Science Citation Index}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-acro{WoS}{Web of Science}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{acronym}
-\end_layout
+\begin_inset CommandInset include
+LatexCommand include
+filename "Contents.lyx"
 
 \end_inset
 
@@ -363,28 +101,18 @@ end{acronym}
 \end_layout
 
 \begin_layout Chapter
-Representation & Science
+Representation and its discontents
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-summarizing JC here -- use numbers, explain papers more, generally more
- detail about the excplciit findings
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset label
 LatexCommand label
 name "chap:Representation_Science"
 
 \end_inset
 
-
+A key question missing from the scientific ecosystem is the classic question
+ of representation.
 \begin_inset Note Note
 status collapsed
 
@@ -434,61 +162,34 @@ place blame on paper and grant reviewers, editors, faculty members, or other
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
+ How many women and people of color
+\begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-I've broken this into three sections -- geography/localities, gender, and
- gender-localities, because that is how the literature is broken down and
- I'm not doing a meta-analysis\SpecialChar \@.
-
-\end_layout
-
-\end_inset
-
-
-\emph on
-Who gets to make science, and who gets credit?
-\end_layout
-
-\begin_layout Section
 \begin_inset Quotes eld
 \end_inset
 
-Women have always fought
+Women
 \begin_inset Quotes erd
 \end_inset
 
-: the trouble with 'representation'
-\end_layout
+ is not meant as just white cis-women, but is inclusive of those assigned,
+ identifying as, or read as female, of all races.
+ People of color is not just men of color, but the women of color subject
+ to the 'double-bind' of racism and sexism.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ong2011"
 
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-The trouble with [representation] is,
-\end_layout
-
-\begin_layout Quotation
-it always tries to teach the wrong lesson.
-\begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-We can ask where are the queers, but queer, like woman or black, is not
- an inherently meaningful category.
- Statistical questions about proportions of women and men, minorities to
- White, or tall to small reinstate (re-inscribe?) recently developed relations;
- race has not always defined us.
- Women, the political category, did not (one theorist argues) exist until
- just after WWII; class, too, was constructed.
+\end_inset
+
+ are in the workforce? 
 \begin_inset ERT
 status collapsed
 
@@ -496,14 +197,167 @@ status collapsed
 
 
 \backslash
-findref{per cyborg manifesto}
+rewrite{capitalization of different races? which ones?}
 \end_layout
 
 \end_inset
 
- Analyzing on a large scale based on these tropes of natural categories
- presumes their naturalness.
+ How many of the Forbes 500 companies are headed by women?
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+24, for a whopping total of 4.8%; and only 1% are black, and 
+\emph on
+none
+\emph default
+ are openly gay
+\end_layout
+
+\end_inset
+
+ In this work, that means questions about who gets to make science, and
+ who gets credit for their work.
  
+\end_layout
+
+\begin_layout Standard
+In the U.S.
+ and Western Europe, since the rise of a modern social consciousness in
+ the 1960's, the push for more women in science is one of our early introduction
+s to the endemic problems of representation.
+ Where are the women in science? Who is producing knowledge in the scientific
+ ecosystem? More generally, which kinds of people and bodies does scientific
+ research include, as subjects, researchers, and audiences? 
+\end_layout
+
+\begin_layout Section
+The trouble with representation
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+When I sat down with one of my senior professors in Durban, South Africa
+ to talk about my Master’s thesis, he asked me why I wanted to write about
+ women resistance fighters.
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+“Because women made up twenty percent of the ANC’s militant wing!” I gushed.
+ “Twenty percent! When I found that out I couldn’t believe it.
+ And you know – women have never been part of fighting forces –
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+He interrupted me.
+ “Women have always fought,” he said.
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+“What?” I said.
+\end_layout
+
+\begin_layout Quotation
+
+\size small
+“Women have always fought,” he said.
+ “Shaka Zulu had an all-female force of fighters.
+ Women have been part of every resistance movement.
+ Women dressed as men and went to war, went to sea, and participated actively
+ in combat for as long as there have been people.”
+\end_layout
+
+\begin_layout Quotation
+\align right
+
+\size footnotesize
+\emph on
+We Have Always Fought, 
+\emph default
+Kameron
+\emph on
+ 
+\emph default
+
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Hurley2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The narratives around the participation of marginalized groups paint a world
+ where those groups have 
+\emph on
+never
+\emph default
+ participated in XYZ activity.
+ This accomplishes the complicated task of burying erasure by 
+\emph on
+our 
+\emph default
+culture in the invisibility and repression perpetrated by 
+\emph on
+their
+\emph default
+ culture.
+ To talk about the absence of women in science and technology over the past
+ 100 years is a disservice to the exceptional individuals who 
+\emph on
+did
+\emph default
+ participate.
+ It is not on them, but rather on us, to recognize the histories we tell
+ will, without serious work, elide the many and diverse Black, Brown, and
+ White wo/men/of color.
+ Women have always fought; it's not their fault we refuse to count them.
+ 
+\end_layout
+
+\begin_layout Standard
+The other trouble is more deeply embedded, but fundamental to more adaptable
+ feminist projects.
+ We can ask where are the queers, but queer, like woman or black, is not
+ an inherently meaningful category.
+ Statistical questions about proportions of gendered people
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+rewrite{phrasing -- include non-binary.
+ "You." As LJ put it}
+\end_layout
+
+\end_inset
+
+, minorities to White, or tall to small reinstate (re-inscribe?) recently
+ developed social relations; race has not always defined us.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stepan1986"
+
+\end_inset
+
+ Analyzing society on a large scale based on these tropes of natural categories
+ presumes their biological and cultural naturalness.
+ In Donna Haraway's words, 
 \end_layout
 
 \begin_layout Quote
@@ -511,10 +365,22 @@ findref{per cyborg manifesto}
 \end_inset
 
 There is nothing about being 'female' that naturally binds women.
+\size footnotesize
+
 \begin_inset Quotes erd
 \end_inset
 
  
+\end_layout
+
+\begin_layout Quote
+\align right
+
+\size footnotesize
+\emph on
+A Cyborg Manifesto,
+\emph default
+ Donna 
 \begin_inset CommandInset citation
 LatexCommand citealt
 key "Haraway1991"
@@ -525,11 +391,37 @@ key "Haraway1991"
 \end_layout
 
 \begin_layout Standard
-It also presumes that having more women in science will make a more critically-c
-apable science, or that having more equity will also guarantee more holistic
- and culturally sensitive knowledge.
- To some extent, that's true: researchers who cross gender boundaries might
- be less likely to presume the existence of 
+Her argument in 
+\emph on
+A Cyborg Manifesto
+\emph default
+ for 
+\begin_inset Quotes eld
+\end_inset
+
+building coalitions through affinity, not identity
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Haraway1991"
+
+\end_inset
+
+ is a counterpoint to early feminist beliefs that more women would inherently
+ lead to a more 
+\begin_inset Quotes eld
+\end_inset
+
+feminine
+\begin_inset Quotes erd
+\end_inset
+
+ and responsible science.
+ To some extent, that's true -- Researchers who have to cross gender boundaries
+ might be less likely to presume the existence of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -545,86 +437,55 @@ female
 \begin_inset Quotes erd
 \end_inset
 
- hormones, and Black and Brown researchers less likely to assume the default
- of White histories for guiding their research in biological paradigms.
- 
+ hormones.
+ Black and Brown researchers may be less likely to assume the default of
+ White histories for guiding their research in biological paradigms.
+ But on the whole, there is a divide between the goals of women 
+\emph on
+in
+\emph default
+ science i.e.
+ representation and women 
+\emph on
+and 
+\emph default
+science i.e.
+ the gendered and value-driven nature of knowledge.
 \end_layout
 
 \begin_layout Standard
-Representation does play a role in certainly my life, and many of my peers.
+Nonetheless, knowing more about who is making and participating in science
+ is a necessary layer; it also helps to complicate .
  The history of science is a line of Great White Men; our current role models
- continue to be Great White Men.
- I am incapable of naming, even now, high-profile women scientists.
+ are usually Great White Men, with the possible exception of Marie Curie.
  
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
-graffito{If you're wondering whether this still sucks, yes, it does.}
+graffito{If you're wondering whether this still sucks, why yes! It does.}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
+ 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo[inline]{This section has been bugging me because of exactly this; homogeniz
-ing and talking about "Women of Color" as a united group just doesn't....it
- doesn't work.
- So, yay, figured that out.
- It's still valuable though.}
+rewrite{linking paragraph about why rep.
+ is still imp}
 \end_layout
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Moreover, representation reduces a story of erasure by 
-\emph on
-our 
-\emph default
-culture into that of invisibility and repression by 
-\emph on
-their
-\emph default
- culture, the culture of the past or current, but outside of 
-\emph on
-us
-\emph default
-.
- To talk about the lack of women in science and technology over the past
- 100 years is to ignore the many who 
-\emph on
-did
-\emph default
- participate.
- It is not on them, but rather on us, to recognize that our histories elide
- the many and diverse Black, Brown, and White wo/men/of color; as one history
- professor put it, 
-\begin_inset Quotes eld
-\end_inset
-
-Women have always fought.
-\begin_inset Quotes erd
-\end_inset
-
- It's not their fault we refuse to count them.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -659,106 +520,89 @@ Women in science are only looking for role models, vs.
 \end_inset
 
 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+MELANIE
+\end_layout
+
+\begin_layout Plain Layout
+- important to be able to study ourselves, instead of white dudes doing
+ it ourself
+\end_layout
+
+\begin_layout Plain Layout
+look up: photo voice, public health
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
-Some Notes
-\end_layout
-
-\begin_layout Standard
-As a category here, 
-\begin_inset Quotes eld
-\end_inset
-
-science
-\begin_inset Quotes erd
-\end_inset
-
- is subsumed to 
-\begin_inset ERT
+Notes
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-ac{STEM}
+Terminology matters and I like to be specific, sometimes}
 \end_layout
 
 \end_inset
 
-, with medicine as part of 
-\begin_inset Quotes eld
-\end_inset
 
-science
-\begin_inset Quotes erd
-\end_inset
-
-.
- Part of this derives purely from where meta-research has been done.
- Clinical trials (and their representation, both in experimenters and in
- subjects) seem to be 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{rephrase}
-\end_layout
-
-\end_inset
-
- prioritized as study objects, because the effect is more clear -- studying
- a medicine in only men completely ignores 50% of the population who might
- also succumb to a disease.
- That's just good science; clinical research is immediately flawed when
- representation of different bodies isn't taken into account.
 \end_layout
 
 \begin_layout Standard
-It's also plausible the bias towards clinical trials as an analytic range
- stems partially from a pervading belief in the 
+The focus on biomedical literature and representation derives largely from
+ where meta-research has been done.
+ Clinical trials are prioritized as study objects, plausibly because the
+ effect is more clear -- studying a medicine in only men blatantly ignores
+ the other 50% of the population who might succumb to a disease; studying
+ breast cancer as solely a women's problem carries the same issue.
+ Testing malaria medications in a 
 \begin_inset Quotes eld
 \end_inset
 
-hardness
+developed
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-define{hardness}
+country is clearly not particularly generalizable to a country with a completely
+ different infrastructure.
+ That's just good science; of 
+\emph on
+course 
+\emph default
+clinical research is flawed when different bodies aren't taken into account.
 \end_layout
+
+\begin_layout Standard
+Clinical trials and biological research are also lower on a 
+\begin_inset Quotes eld
+\end_inset
+
+Hierarchy of Sciences
+\begin_inset Quotes erd
+\end_inset
+
+, which predicts that as we move from simple systems (particle dynamics)
+ to complex (human behavior), researchers reach less definite conceptual
+ and methodological consensus.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fanelli2013a"
 
 \end_inset
 
- of a field like high-energy physics, where notions of representation shouldn't,
- according to traditional notions of objectivity, matter much; thus, there's
- no functional purpose in questioning representation because all it does
- is cater to the feminists.
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{this whole section}
-\end_layout
-
-\end_inset
-
-
-\end_layout
+ Biomedical research has more variable elements -- subjects -- to manage
+ and is thus more susceptible to critiques of who those subjects are.
+ In high-energy physics, it shouldn't really matter where the research capacity
+ is, so non-feminist studies don't seem to focus on it as much.
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Itemize
 Also, there 
@@ -779,8 +623,7 @@ harder
 \end_inset
 
  fields simply don't have the capacity to create and be a part of data productio
-n at the LHC.
- 
+n at the LHC? 
 \begin_inset Foot
 status collapsed
 
@@ -797,7 +640,6 @@ not be the case?
 
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
 Ii you don't have internet access, you can't even do bioinformatics.
  Entire scientific fields are built purely on the internet.
@@ -817,11 +659,162 @@ research{science without internet}
 
 \end_layout
 
+\end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
-Counting Heads: Bibliometrics
+Representation
+\end_layout
+
+\begin_layout Subsection
+Are bibliometrics global?
 \end_layout
 
 \begin_layout Standard
+Bibliometrics or scientometrics is the meta analysis of scientific relationships
+, expressed through formal networks of citation and references.
+ Much of the systematic data on under-representation derives from citation
+ databases, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{gray literature: conference papers, pre-prints, other quasi-published
+ scholarly work}
+\end_layout
+
+\end_inset
+
+usually the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoS}
+\end_layout
+
+\end_inset
+
+ database of 10,900 
+\begin_inset Quotes eld
+\end_inset
+
+core
+\begin_inset Quotes erd
+\end_inset
+
+ journals curated by Thomson-Reuters, but sometimes Google Scholar (100-160
+ million documents, including 
+\begin_inset Quotes eld
+\end_inset
+
+gray literature
+\begin_inset Quotes erd
+\end_inset
+
+), CrossRef (55 million records), Scopus (53 million), PubMed (>23 million)
+ or JSTOR (4.2 million).
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ware2015"
+
+\end_inset
+
+ Each database provides a different depth and purpose; some include largely
+ biomedical, some all fields of 
+\begin_inset Quotes eld
+\end_inset
+
+science
+\begin_inset Quotes erd
+\end_inset
+
+, and some the whole breadth of academic endeavors.
+ 
+\end_layout
+
+\begin_layout Standard
+The Thomson-Reuters database, the generator of the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+, is the most commonly used database for bibliometric analyses.
+ It indexes around 10,900 journals
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ware2015"
+
+\end_inset
+
+, capturing the vast majority of highly cited literature.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ioannidis2006"
+
+\end_inset
+
+ Because of its comparative breadth of information
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{e.g.
+ WoS includes full author names and institutional affiliation}
+\end_layout
+
+\end_inset
+
+ and the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+s use as a tool for filtering information, it also provides a good snapshot
+ of literature visibility -- not productivity or quality, but visibility.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+This indexing captures 4% of journals from any given country,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wagner2012"
+
+\end_inset
+
+ 
 \begin_inset Note Note
 status collapsed
 
@@ -837,22 +830,12 @@ key "Evans2009,GlobalForumforHealthResearchOrganization2000,Godlee2000,Harle,Kin
 
 \end_inset
 
-When the 
-\begin_inset ERT
-status open
+
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-ac{IF}
-\end_layout
-
-\end_inset
-
- came up before, it was only in the context of effects -- what happens to
- the scientific system when single metrics start to dominate.
- To be indexed -- or rather, to have a paper a published in an indexed journal,
+To be indexed -- or rather, to have a paper a published in an indexed journal,
  is the start towards credit.
  
 \begin_inset ERT
@@ -863,26 +846,6 @@ status collapsed
 
 \backslash
 graffito{Since it's not done until it's published.}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-In 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sub:Peer-Review-Impact-Factors"
-
-\end_inset
-
-, we discussed impact factors generally, and relative disaster that the
- impact factor's valuing wreaks on scientific research.
- Taking the global South into account adds an entirely new dimension to
- that.
 \end_layout
 
 \end_inset
@@ -925,180 +888,50 @@ met
 .
 \end_layout
 
-\begin_layout Standard
-When talking about representation, the large scale of papers necessary means
- the necessity of database involvement.
- The 
-\begin_inset ERT
-status open
+\end_inset
 
-\begin_layout Plain Layout
-
-
-\backslash
-ac{SCI}
+ 
+\emph on
+If
+\emph default
+ all countries were producing scientific knowledge proportional to their
+ populations and national needs and 4% of those were indexed, we might assume
+ Thomson-Reuters was catching the cream of the global intellectual crop.
+ But in reality,
 \end_layout
 
 \end_inset
 
- provides this cataloging, as does the JSTOR catalog, but that's less science.
- But the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{SCI}
-\end_layout
-
-\end_inset
-
- doesn't categorize every journal; in fact, it only catalogs about 4% of
- journals from any given country.
+ Nearly all of the most Thomson-Reuters respected journals are published
+ from the U.S.
+ and the U.K., despite rapidly increasing scholarly production from the rest
+ of the world.
 \begin_inset CommandInset citation
 LatexCommand citep
-key "Wagner2012"
+key "Ware2015"
 
 \end_inset
 
- The semi-strict inclusion criteria predispose us to poor representation;
- what counts as 
-\begin_inset Quotes eld
-\end_inset
-
-quality
-\begin_inset Quotes erd
-\end_inset
-
- is somewhat ethereal but grounded in practical explanations.
- Thomson-Reuters explains:
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Many factors are taken into account when evaluating journals for coverage
- in Web of Science, ranging from the qualitative to the quantitative.
- The journal's basic publishing standards, its editorial content, the internatio
-nal diversity of its authorship, and the citation data associated with it
- are all considered.
- No one factor is considered in isolation, but by combination and interrelation
- of data, the Thomson Reuters editor is able to determine the journal's
- overall strengths and weaknesses.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Okay, Thomson Reuters.
- What are your pre-reqs? (emphases mine)
-\end_layout
-
-\begin_layout Quote
-
-\emph on
-\begin_inset Quotes eld
-\end_inset
-
-English is the universal language of science.
-
-\emph default
- For this reason Thomson Reuters focuses on journals that publish full text
- in English, or at very least, bibliographic information in English.
- There are many journals covered in Web of Science that publish articles
- with bibliographic information in English and full text in another language.
- However, going forward, 
-\emph on
-it is clear that the journals most important to the international research
- community will publish full text in English.
- This is especially true in the natural sciences
-\emph default
-\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-In terms of 
-\begin_inset Quotes eld
-\end_inset
-
-regional
-\begin_inset Quotes erd
-\end_inset
-
- journals
-\end_layout
-
-\begin_layout Quote
-Thomson Reuters is also interested in excellent regional journals and is
- able to include a relatively small proportion of these each year.
- Regional journals often target a local rather than an international audience,
- requiring less emphasis on extensive international diversity.
- Citation analyses may also play a different role in the evaluation of regional
- journals whose citation impact is usually modest.
- Otherwise, the selection criteria for regional journals are the same as
- for international journals.
- The importance of the regional journal would be measured more in terms
- of the specificity of its content.
- Will it enrich our coverage of a particular subject or provide studies
- with a specific regional perspective? All regional journals selected must
- be publishing on time, have English-language bibliographic information
- (title, abstract, keywords), and be peer reviewed.
-\end_layout
-
-\begin_layout Standard
-So our major metric (the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IF}
-\end_layout
-
-\end_inset
-
-), andindicative of what literature is find-able (e.g.
- visible) to researchers using relatively-highly respected search engines
- -- essentially does not include local journals, requires English-language
- publication, and is swamped by journals originating from the U.K.
- and the U.S.
-\end_layout
-
-\begin_layout Standard
-Nearly all of the most highly respected journals come from the U.S.
- and the U.K., both in terms of sheer number and proportionally.
- 
+ In
 \begin_inset CommandInset ref
 LatexCommand formatted
 reference "fig:location-of-academic-knowledge"
 
 \end_inset
 
- shows, in terms of raw numbers, the 
+, a 2011 analysis of the 
 \begin_inset Quotes eld
 \end_inset
 
-location of academic knowledge.
+location of academic knowledge
 \begin_inset Quotes erd
 \end_inset
 
- 
+, 
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -1119,7 +952,7 @@ textwidth][c]{
 \begin_inset Graphics
 	filename gfx/GeoWorldKnowledge_location-academic-knowledge.png
 	lyxscale 25
-	width 90page%
+	width 95page%
 
 \end_inset
 
@@ -1148,10 +981,6 @@ name "fig:location-of-academic-knowledge"
 \end_inset
 
 The location of academic knowledge
-\begin_inset Newline newline
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -1186,10 +1015,6 @@ c, objective means to critically evaluate the world’s leading journals,"
 \end_inset
 
 
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -1199,7 +1024,7 @@ c, objective means to critically evaluate the world’s leading journals,"
 
 \end_inset
 
- -- the U.S.
+the U.S.
  and U.K produce more 
 \begin_inset ERT
 status collapsed
@@ -1240,19 +1065,260 @@ key "Wagner2012"
 
 \end_inset
 
- than the rest of the world combined; Switzerland dwarfs, by a factor of
- 3, the entire continent of Africa.
- Not only do the formerly-colonized countries fare well by the numbers,
- they have systematic lower rankings.
- Those journals are cited less often and therefore 'contribute less' to
- the global pool of scientific information.
+ than the rest of the world combined; Switzerland dwarfs by a factor of
+ 3 the 
+\emph on
+entire
+\emph default
+ continent of Africa.
+ Not only do the formerly-colonized countries of the majority world fare
+ poorly in quantity, their citation rates, as measured by the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+, are systematically lower.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Graham2011,Meneghini2007"
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
-More practically, despite all their demonstrated sure-to-be-problematic
- flaws, these are still useful aggregates of information.
- When we use high-level catalogs like Web of Science or JSTOR to tell us
- about representation, what can we find?
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/journals_by_language_OII-convoco.png
+	lyxscale 50
+	width 45page%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+language of 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoS}
+\end_layout
+
+\end_inset
+
+ journals
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/number_of_speakers-OII-convoco.png
+	lyxscale 50
+	width 45page%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Number of native speakers, in millions 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+2011 data language comparison 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+This is less surprising in light of the Thomson-Reuters standards for quality
+ and inclusion in 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{SCI}
+\end_layout
+
+\end_inset
+
+ indexing, and thus the assignment of an 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+.
+ Thomson-Reuters states:
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+English is the universal language of science
+\emph default
+\SpecialChar \ldots{}
+There are many journals covered in Web of Science that publish articles
+ with bibliographic information in English and full text in another language.
+ However, going forward, it is clear
+\emph on
+ 
+\emph default
+that 
+\emph on
+the journals most important to the international research community will
+ publish full text in English.
+ 
+\emph default
+This is especially true in the natural sciences\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+ [emphasis mine]
+\end_layout
+
+\begin_layout Standard
+In terms of 
+\begin_inset Quotes eld
+\end_inset
+
+regional
+\begin_inset Quotes erd
+\end_inset
+
+ journals:
+\end_layout
+
+\begin_layout Quote
+Thomson Reuters is also interested in excellent regional journals and is
+ able to include a 
+\emph on
+relatively small proportion
+\emph default
+ of these each year.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Regional journals often target a local rather than an international audience,
+ requiring less emphasis on extensive international diversity.
+ Citation analyses may also play a different role in the evaluation of regional
+ journals whose citation impact is usually modest.
+ Otherwise, the selection criteria for regional journals are the same as
+ for international journals.
+ The importance of the regional journal would be measured more in terms
+ of the specificity of its content.
+ Will it enrich our coverage of a particular subject or provide studies
+ with a specific regional perspective? 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So a major metric, the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{IF}
+\end_layout
+
+\end_inset
+
+, which is linked to the visibility of literature to other scientists, essential
+ly does not include locally-specific journals and 
+\emph on
+requires
+\emph default
+ English-language publication.
+ It is swamped by journals originating from the U.K.
+ and the U.S.,, so the statistics captured by the massive databases used in
+ many bibliometric studies systematically exclude, for example, most of
+ the scholarship emerging from Brazil.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Meneghini2007"
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -1291,20 +1357,697 @@ Journal of Public Health Medicine
 
 \end_layout
 
-\begin_layout Subsection
-Where are they from?
+\begin_layout Section
+The U.S.
+ and Western Europe
 \end_layout
 
 \begin_layout Standard
-In 2004, 
-\begin_inset CommandInset citation
-LatexCommand citeauthor*
-key "Sumathipala2004"
+The complexities of race in the U.S., and indeed in any country, are hard
+ to overstate and subject to constantly shifting boundaries
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+e.g.
+ Zimmerman -- latino or white? It fucking depends
+\end_layout
 
 \end_inset
 
- examined the geographic distribution (via instituation affiliation) of
- authors in 5 of major medical journals over 1999 and 2000 (
+.
+ White Americans trace ancestry to the British, and later, immigration from
+ the Scandinavian countries and the rest of Western Europe.
+ Black descendants of slavery occupy different social-scientific spheres
+ than recent African immigrants.
+ The response to immigrants and descendants of immigrants from East and
+ South Asia are routinely discriminated against; the increasing representation
+ of Asian and Asian-American immigrants in the sciences hasn't strayed from
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+yellow peril
+\begin_inset Quotes erd
+\end_inset
+
+/
+\begin_inset Quotes erd
+\end_inset
+
+model minority
+\begin_inset Quotes erd
+\end_inset
+
+ binary since WWII.
+ Latinx
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{Latinx} - a gender-neutral form of Latino/Latina, referring to not
+ race, but merely area-of-origin}
+\end_layout
+
+\end_inset
+
+ groups from South and Latin America suffer their own unique set of injustices,
+ while 
+\begin_inset Quotes eld
+\end_inset
+
+indigenous people
+\begin_inset Quotes erd
+\end_inset
+
+ comprise a dizzying array of historically different tribal histories on
+ a global and country level scale.
+ That's without accounting for mixed-race individuals, an ever-growing proportio
+n of the population.
+\end_layout
+
+\begin_layout Standard
+In many ways, gender is cleaner-cut.
+ In the U.S.
+ tradition, there's only two options.
+ While trans scientists do in fact exist, at least anecdotally,
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Barres2006"
+
+\end_inset
+
+, a gendered analysis would account for trans-men as men and trans-women
+ as women.
+ Gender is thus much less heterogeneous, and amenable to large scale analysis.
+\end_layout
+
+\begin_layout Standard
+And, of course, gendered issues are racialized and vice versa.
+ In one small, but in-depth report, 100% of women of color surveyed reported
+ marginalization on gender- and race-based grounds.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Phillips2014"
+
+\end_inset
+
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+double-bind
+\begin_inset Quotes erd
+\end_inset
+
+ of women of color is relatively well-documented; the reality of representationa
+l interventions is that 
+\begin_inset Quotes eld
+\end_inset
+
+programs intended to serve women disproportionately benefit White women,
+ and programs intended to serve minorities mainly benefit minority males.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ong2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Gender
+\end_layout
+
+\begin_layout Quote
+
+\size small
+\begin_inset Quotes eld
+\end_inset
+
+Although there are more female than male undergraduates and graduate students
+ in many countries, there are relatively few female full professors, and
+ gender inequalities in hiring, earning, funding, satisfaction and patenting
+ persist.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+
+\size footnotesize
+\emph on
+Global gender disparities in science,
+\emph default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Lariviere2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ceci2011,Jagsi2006,Moss-Racusin2012,Shen2013,Sidhu2009"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Since the 1970s and the establishment of equal rights legislation banning
+ outright discrimination against women and minority groups, the proportions
+ of marginalized groups in the academic sciences
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The focus here (and in the literature) is on the academic sciences exclusively,
+ without regard to the women and men who go into industry or other 
+\begin_inset Quotes eld
+\end_inset
+
+non-academic field
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This is actually a fairly large flaw, since industry and non-academic jobs
+ comprise the majority of career paths for scientifically-trained students
+\end_layout
+
+\end_inset
+
+ has almost equalized, at least in some fields.
+ In 2011, women received 54% of molecular biology and neuroscience PhDs.
+ In physics and computer science women were awarded fewer than 20% of physics
+ and computer science degrees.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Leslie2015"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+The equalizing of representation at entry, although promising, has not fulfilled
+ its promise.
+ While women are even over-represented in many fields at the time of enrollment,
+ the rate of departure from academe for women and people of color is higher
+ at every stage of the academic-scientific career process, leading to an
+ academic landscape where men still dominate most prestigious positions,
+ as in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Neubauer_gender-stages-scientific-career"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+makebox[
+\backslash
+textwidth][c]{ 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename gfx/Neugebauer_Women-in-MolBiopositions.TIF
+	lyxscale 20
+	width 130col%
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Neubauer_gender-stages-scientific-career"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Neugebauer2006"
+
+\end_inset
+
+
+\series bold
+,
+\series default
+ Scissors Diagram Showing the Gender Distribution within Career Stages in
+ Biological Sciences at German Universities (2003)
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Percent male and female are shown for enrolling university students through
+ graduation, PhDs awarded, scientific staff (includes post-doctoral fellows,
+ some junior group leaders, and research scientists with university or PhD
+ degrees), Habilitation (awarded for research accomplishments following
+ the PhD as well as teaching experience, often a pre-requisite for university
+ professorships in Germany), and professors (includes independent group
+ leaders roughly equivalent to assistant, associate, and full professors
+ in the American system—C2–C4 scale).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ceci2011,Jagsi2006,Sidhu2009,Neugebauer2006"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Unsurprisingly, most of these statistics vary broadly between fields
+ and subfields}
+\end_layout
+
+\end_inset
+
+ Although explicit discrimination is largely legally verboten and culturally
+ unacceptable in much of the world, gender disparities propagate in increasingly
+ subtle, yet meaningful, ways.
+ On average, women publish less often than men; the difference is especially
+ marked in fields with a high research expenditures, like molecular biology
+ and physics.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Duch2012"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+females hold about 16% of faculty positions in chemistry and in material
+ science departments, and about 25% of faculty positions in molecular biology
+ departments.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Duch2012"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Duch2012"
+
+\end_inset
+
+ suggest the lower publishing rate is partially rectified by the overall
+ higher impact of women's publications, in what another researcher called
+ a 
+\begin_inset Quotes eld
+\end_inset
+
+highly localized, mono-disciplinary, and dated
+\begin_inset Quotes erd
+\end_inset
+
+ stance.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lariviere2013"
+
+\end_inset
+
+ While this may be true at the very high levels, since women who succeed
+ are likely to be comparatively exceptional, two massive bibliometric studies
+ of citation patterns and publication databases demonstrate a more complicated
+ pattern.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Lariviere2013"
+
+\end_inset
+
+ analyzed the relationship between gender and research output (proxy: authorship
+), collaboration extent (proxy: co-authorships) and scientific impact of
+ publications (proxy: citation count) in the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{WoS}
+\end_layout
+
+\end_inset
+
+ database.
+ Between 2008 and 2012, this comprised 5,483,841 research articles and reviews,
+ with 27,329,915 authorships.
+ Of these, women account for <30% of fractionalized authorships, and are
+ outnumbered in first author positions at a 1:1.93 ratio.
+ In the most productive countries, all articles with women in dominant (first
+ or last) author positions receive fewer citations than those with men.
+ Women's publications tend to be more domestic, and thus do not benefit
+ from the increased citation rate accrued by globally-authored papers.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lariviere2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "West2013"
+
+\end_inset
+
+ performed a similar gendered analysis on the JSTOR corpus, an archive of
+ 8.3 million scientific and humanities documents, stretching from 1545 to
+ 2011.
+ Their results are a positive indicator of how far the academy has come,
+ but also of how far we have to go.
+ Prior to 1990, women were largely absent from first author positions (<15%),
+ but from 1990-2011 occupy almost 30%.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+with the mention that publication counts obviously are relevant in 
+\backslash
+emph{tenure} discussions, e.g.
+ hiring e.g.
+ perpetuating cycle
+\end_layout
+
+\begin_layout Plain Layout
+Also, HUGE points for their methods and reproducibility, e.g.
+ creating the gender browser and communicating with me about making that
+ something to apply to individual libraries in reference managers.
+ Secret part of my div that may or may not manifest depending on the cooperation
+ of these authors
+\end_layout
+
+\end_inset
+
+ The gap in last author positions has not been as successfully addressed.
+ The gap between total female authors and 
+\emph on
+first
+\emph default
+ female authorships has been less than 2% since the 1960s -- i.e.
+ women, when they're performing lab work, are given credit for their contributio
+ns.
+ On the other hand, the discrepancy between total and last authorships remains
+ above 5%, reflecting the same high dropout rate of women seen in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Neubauer_gender-stages-scientific-career"
+
+\end_inset
+
+; they may be in science, but they are not staying there.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "West2013"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Race
+\end_layout
+
+\begin_layout Standard
+As with gender, minority group members leave academia at a higher rate than
+ their White counterparts at all stages of the academic research environment.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Espinosa2011,Garrison2013"
+
+\end_inset
+
+ Underrepresented minority groups comprised 28.5 percent of the national
+ population in 2006, yet just 9.1 percent of college-educated Americans in
+ science and engineering occupations.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "CommitteeonUnderrepresentedGroupsandtheExpansionoftheScienceandEngineeringWorkforcePipelineU.S.2011"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+R01 grants from the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NIH}
+\end_layout
+
+\end_inset
+
+ underpin a great deal of academic scientific research.
+ Black applicants are 10% less likely than white applicants to receive grant
+ funding, even after controlling for demographics, employers, 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{NIH}
+\end_layout
+
+\end_inset
+
+ experience, and research productivity.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ginther2011"
+
+\end_inset
+
+ While Asian Americans represented 23 percent of those holding tenure-track
+ positions, they were only 12 percent of those at the tenure or senior scientist
+ level.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ruttimann2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Global Subjects
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+An efficient system of research should address health problems of importance
+ to populations and the interventions and outcomes considered important
+ by patients and clinicians.
+ However, public funding of research is correlated only modestly with disease
+ burden, if at all
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Chalmers2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+The medical information gap between rich and poor countries as judged by
+ publications in the NEJM appears to be larger than the gap in the funding
+ for research.
+ Under- representation of developing world health issues in the medical
+ literature is a global phenomenon.
+ International medical journals cannot rectify global inequities, but they
+ have an important role in educating their constituencies about the global
+ divide.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lown2006"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+So why is research that might transform health care and reduce health problems
+ not being successfully produced?
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Macleod 2014, biomed research}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%
+\backslash
+todo[inline,backgroundcolor=medegg,bordercolor=medegg]{global population
+ percentages (see WHO? OAEC indices? World Bank?.
+ And landmass areas}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In 1999-2000, just 6.5 percent of research literature in five major medical
+ journals (
 \emph on
 BMJ
 \emph default
@@ -1320,22 +2063,31 @@ NEJM
 \emph on
 Annals of Internal Medicin
 \emph default
-e & 
+e, & 
 \emph on
 JAMA
 \emph default
-) Their four areas are the:
+) came from the continents of Asia, South/Latin America, Eastern Europe,
+ and Africa.
+ Through the proxy of institutional affiliation, 
+\begin_inset CommandInset citation
+LatexCommand citealt*
+key "Sumathipala2004"
+
+\end_inset
+
+ grouped the originating institution of papers into 4 geographic areas:
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Itemize
 UK 
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Itemize
 USA
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Itemize
 \begin_inset ERT
 status collapsed
 
@@ -1348,11 +2100,10 @@ ac{OEAC}
 
 \end_inset
 
-, e.g.
  Canada and Australia
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Itemize
 \begin_inset ERT
 status collapsed
 
@@ -1365,79 +2116,20 @@ ac{RoW}
 
 \end_inset
 
- -- grouping together the continents of Asia, South America, and Africa,
- as well as Eastern Europe and Mexico.
+ the continents of Asia, South America, and Africa, as well as Eastern Europe
+ and Mexico.
 \end_layout
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-
-\backslash
-research{population percentages}
-\end_layout
-
-\end_inset
-
- While the homogenization is disturbing for other reasons,, the sheer weight
- of the numbers is telling.
- On average, 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RoW}
-\end_layout
-
-\end_inset
-
- authors contributed 6.5% of the research literature.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
+%
 \backslash
 todo{re: independence -- should look into the developing culture of collaboratio
 n and thus the changing nature of discrimination or not}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Some notable variations in the regional data: 2 countries, Japan and Israel,
- (Japanese nationalism and Israeli aggression in Palestine...
- their scientific dominance is not an 
-\emph on
-accident
-\emph default
-) contribute a 5th of the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{RoW}
-\end_layout
-
-\end_inset
-
--published literature, while China and India combined (the two most populous
- countries in the world) contribute a total of 13% of that 6.5%..
- Only 31% of the total articles were entirely independent RoW.
 \end_layout
 
 \end_inset
@@ -1455,8 +2147,21 @@ graffito {Numbers are boring, but wow, are they depressing.}
 
 \end_inset
 
- Of those 151 articles, 68% included a co-author from a developed country
- in Europe and in North American; 
+ Of the 151 articles 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}-published
+\end_layout
+
+\end_inset
+
+, 68% included a co-author from a developed country in Europe and in North
+ American; 
 \begin_inset Note Comment
 status collapsed
 
@@ -1467,7 +2172,222 @@ is this referring to who is publishing or who is producing or who is included?
 
 \end_inset
 
-15 original papers in the journals used data from 
+ The homogenization of the 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}
+\end_layout
+
+\end_inset
+
+ countries conceals the inequity even there -- the vast majority came from
+ Japan and Israel (countries notable for their military establishments)
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+I don't think the scientific dominance of Japan and Israel is an 
+\emph on
+accident, 
+\emph default
+but rather, like the U.S.
+ biomedical-military attachments, a consequence of military aggression and
+ dominance, e.g.
+ Japanese nationalism and Israeli aggression in Palestine.
+\end_layout
+
+\end_inset
+
+, and only 13% came from China and India, the two most populous countries
+ in the world.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sumathipala2004"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+That was 2000, of course, and the boundaries have shifted somewhat.
+ Chinese production has skyrocketed, as well as scientific production in
+ the other 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{BRICS}
+\end_layout
+
+\end_inset
+
+ countries.
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sugimoto2015,Lariviere2013"
+
+\end_inset
+
+ The rest of the world, however, has not equalized, especially sub-Saharan
+ Africa.
+ Despite the rise in absolute terms of published papers, it is falling in
+ comparison to other parts of the world, namely the research capabilities
+ of Northern institutions, as well as China's immense research capabilities
+ .
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Henry2014"
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Bioethics researchers have largely not increased in 
+\begin_inset Quotes eld
+\end_inset
+
+developing
+\begin_inset Quotes erd
+\end_inset
+
+ countries 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Borry2005"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Neo-colonial Research
+\end_layout
+
+\begin_layout Standard
+To return to a much earlier quote about literature access, 
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+Part of the problem is that none of these articles were co-written by a
+ Liberian scientist.
+ The investigators collected their samples, returned home and published
+ the startling results in European medical journals.
+ Few Liberians were then trained in laboratory or epidemiological methods.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+\align right
+Bernice Dahn, Vera Mussah, and Cameron Nutt
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mussah2015"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Yes, We Were Warned About Ebola
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\emph on
+The
+\emph default
+ 
+\emph on
+New York Times
+\end_layout
+
+\begin_layout Standard
+This is what 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Sumathipala2004"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand citealt
+key "Dahdouh-Guebas2003"
+
+\end_inset
+
+ called neo-colonial science, or the distressing tendency for wealthy Northern
+ researchers to show up, collect data, and leave without giving credit to
+ their Southern collaborators.
+ In 2003, publications of research from data acquired in the 
+\begin_inset Quotes eld
+\end_inset
+
+least developed
+\begin_inset Quotes erd
+\end_inset
+
+ countries, do not have co-authorship of local research institutes in 70%
+ of the cases
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dahdouh-Guebas2003"
+
+\end_inset
+
+ In 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Sumathipala2004"
+
+\end_inset
+
+'s examination of major medical journals, 15 papers used 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{RoW}
+\end_layout
+
+\end_inset
+
+ data with no accompanying citation.
+ 15 original papers in the journals used data from 
 \begin_inset ERT
 status collapsed
 
@@ -1494,263 +2414,88 @@ ac{RoW}
 \end_inset
 
  coauthors.
+ Researchers in several Amazonian countries have become more prolific, but
+ there has been a concurrent rise in Amazonian data being published under
+ foreign research leaders.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Malhado2014"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Moreover, the homogenization conceals even greater inequities.
- Of that 6.5%, the vast majority came from Japan and Israel, with the other
- 
+The lack of researchers -- or the lack of acknowledged researchers, rather
+ -- has consequences for local health and infrastructure.
+ It contributes to flawed, non-local data interpretations and limits the
+ capacity of countries to build a research community invested in local issues,
+ since all of the 
+\begin_inset Quotes eld
+\end_inset
+
+good research
+\begin_inset Quotes erd
+\end_inset
+
+ is happening in the U.S.
+ and Western Europe.
+\end_layout
+
+\begin_layout Section
+Which Bodies Are In Research?
+\end_layout
+
+\begin_layout Subsection
+Globally
+\end_layout
+
+\begin_layout Standard
+Across the globe, the medical problems most studied are, perhaps unsurprisingly,
+ largely the the problems of the most wealthy and the most privileged.
+  
 \begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
-ac{BRICs}
+todo{link to (bio)medicalization of issues?}
 \end_layout
 
 \end_inset
 
- countries following close behind.
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-CITATIOn
-\end_layout
-
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Subsection
-Gender Disparities
-\end_layout
-
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Although there are more female than male undergraduate [especially in 
-\begin_inset Quotes eld
-\end_inset
-
-softer
+ Health burdens fall differently based on geography, socio-economics, and
+ race.
+ Pneumonia, diarrhea, tuberculosis and malaria, which together account for
+ more than 20% of the disease burden in the world in 2004, received less
+ than 1% of the total public and private funds devoted to health research.
 \begin_inset Quotes erd
-\end_inset
-
- scientific fields
-\begin_inset Quotes erd
-\end_inset
-
- and graduate students in many countries, there are relatively few female
- full professors, and gender inequalities in hiring, earning, funding, satisfact
-ion and patenting persist.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Quantitition of gender disparities in measures of scholarly output and has
- been few and far between -- 
-\begin_inset Quotes eld
-\end_inset
-
-highly localized, mono-disciplinary, and dated
-\begin_inset Quotes erd
-\end_inset
-
-.
- They often take little account of the rise in collaborative research and
- a changing scholarly landscape.
- 
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Lariviere2013"
-
-\end_inset
-
- analyzed the relationship between gender and research output (authorship),
- collaboration extent (co-authorships) and scientific impact of publications
- (citation count according to the 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{WoS}
-\end_layout
-
-\end_inset
-
-).
- The authors analyzed >5 million research papers and reviews with more than
- 27 million involved authors.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Gender assigned using Social Security databases}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-in the most productive entries, all articles with women in dominant author
- positions receive fewer citations than those with men in the same position.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
- Accentuated by domesticity: women benefit less from the extra citations
- accrued by international collaborations
-\end_layout
-
-\end_inset
-
- Globally, women account for <30% of fractionalized authorship.
- Women are outnumbered by men in first authorship positions at a 1:1.93 ratio.
-\end_layout
-
-\begin_layout Standard
-Intriguingly, and dismaying to American exceptionalists, South America &
- Eastern Europe had the best gender parity -- in fact, female authorship
- is generally more prevalent in countries and in states with lower overall
- output.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Enumerate
-female authorship generally more prevalent in countries and/or states with
- lower output
-\end_layout
-
-\begin_layout Enumerate
-
-\series bold
-impact:
-\series default
- when a woman is in prominent position (sole authorship, first-author, last-auth
-or), the paper attracts fewer citations; holds for national and international
- collaborations
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Similar trends hold in the JSTOR corpus, in 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "West2013"
-
-\end_inset
-
-'s analysis of gender and author order in the corpus of academic papers
- spanning five centuries and a variety of topics.
- 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{and their conclusions were
-\backslash
-dots}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-with the mention that publication counts obviously are relevant in 
-\backslash
-emph{tenure} discussions, e.g.
- hiring e.g.
- perpetuating cycle
-\end_layout
-
-\begin_layout Plain Layout
-Also, HUGE points for their methods and reproducibility, e.g.
- creating the gender browser and communicating with me about making that
- something to apply to individual libraries in reference managers.
- Secret part of my div that may or may not manifest depending on the cooperation
- of these authors
-\end_layout
-
 \end_inset
 
  
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rochon2004"
 
-\begin_layout Section
-But why?
-\end_layout
+\end_inset
 
-\begin_layout Standard
-Many trends are likely not actually markers of overt discrimination against
- women in 
-\emph on
-publishing
-\emph default
-, but rather that women aren't making it to the top ranks of science and
- thus are not in a position to be publishing or collaborating on the most
- important papers.
- Age of the investigator may be 
-\emph on
-the 
-\emph default
-determining role; older investigators have had more time to build careers,
- and had systematic advantages in the past.
-\end_layout
-
-\begin_layout Section
-Which 
-\emph on
-Bodies
-\emph default
- Are In Research?
-\end_layout
-
-\begin_layout Standard
-Again, this is 
-\emph on
-numbers, 
-\emph default
-not critical analysis.
- But numbers -- for the scientists -- matter.
-\end_layout
-
-\begin_layout Subsection
-Globally: the 10/90 problem
+ Thus, the:
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+
+\series bold
 10/90
 \begin_inset space ~
 \end_inset
 
-gap: less than 10% of global spending on health research is devoted to diseases
+gap
+\series default
+: less than 10% of global spending on health research is devoted to diseases
  or conditions that account for 90% of the global disease burden.
  
 \begin_inset CommandInset citation
@@ -1763,57 +2508,46 @@ key "GlobalForumforHealthResearchOrganization2000"
 \end_layout
 
 \begin_layout Standard
-Health burdens fall differently based on geography, socio-economics, and
- race: 
-\end_layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
 
-\begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename gfx/WHO_clinical-trials-by-income.jpg
+	width 95text%
 
-\SpecialChar \ldots{}
-pneumonia, diarrhoea, tuberculosis and malaria, which together account for
- more than 20% of the disease burden in the world, receive less than 1%
- of the total public and private funds devoted to health research.
-\begin_inset Quotes erd
 \end_inset
 
 
-\end_layout
+\begin_inset Caption Standard
 
-\begin_layout Standard
-What this means, practically, that the global burden of disease falls more
- heavily on low-income countries, and much fewer resources go to solving
- 'basic' problems -- insofar as the global North has already made the steps
- to alleviate those issues.
-\end_layout
-
-\begin_layout Standard
-Only 6% of psychiatric jurnals arose from regions accounting for >90% of
- the population.
+\begin_layout Plain Layout
+Estimated numbers of trials in the International Clinical Trials Registry
+ Platform recruiting participants in low-, lower-middle-, upper-middle-
+ and high-income countries, 2012 (Fig 4.
+ from 
 \begin_inset CommandInset citation
-LatexCommand citep
-key "Sumathipala2004"
+LatexCommand citealt
+key "Viergever2013"
 
 \end_inset
 
- 
+)
 \end_layout
-
-\begin_layout Standard
-In 
-\begin_inset CommandInset citation
-LatexCommand citeauthor
-key "Rochon2004"
 
 \end_inset
 
-, 
+
 \end_layout
 
-\begin_layout Standard
-In a 2004 analysis of randomized controlled trials, of 286 trials, 43% addressed
- 1 of the 35 
+\end_inset
+
+Clinical trials of drugs occur in an approximately inverse way to the medical
+ needs of communities.
+ In a 2004 analysis of 286 randomized controlled trials, 43% addressed 1
+ of the 35 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1821,266 +2555,25 @@ leading causes of the global burden of disease
 \begin_inset Quotes erd
 \end_inset
 
-; but almost half weren't studied at all.
- These are largely causes that affect the socioeconomically depressed, which
- also means disproportionately people of color, most typically on the women
- in the global South.
-\end_layout
-
-\begin_layout Standard
-In the U.S., women are often
-\end_layout
-
-\begin_layout Quote
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Quote
-
-\series bold
-Background 
-\series default
-More than two-thirds of the world’s population live in low-income countries,
- where health priorities are different from those of people living in more
- affluent parts of the world.
- We evaluated the relation between the global burden of dis- ease and conditions
- or diseases studied in randomized controlled trials (RCTs).
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Results: 
-\series default
-Among the 286 RCTs in our sample, 124 (43.4%) addressed 1 of the 35 leading
- causes of the global burden of disease\SpecialChar \ldots{}
-Almost half of the 40 leading causes
- of the global burden of disease were not studied by any trial.
- 
-\end_layout
-
-\begin_layout Quote
-
-\series bold
-Interpretation: 
-\series default
-Many conditions or diseases common internationally are underrepresented
- in RCTs published in leading general medical journals.
- Trials published in these journals that studied one of these high-priority
- conditions were generally rated as being of little relevance to international
- health.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-\align right
+.
+ Almost half of the diseases weren't studied at all.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Rochon2004"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Subsection
-Race
+ 
 \end_layout
 
 \begin_layout Standard
-african americans
-\end_layout
-
-\begin_layout Subsection
-by gender
-\end_layout
-
-\begin_layout Standard
-heart disease, car crashes
-\end_layout
-
-\begin_layout Section
-Digital Divides
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Digital-Divides"
-
-\end_inset
-
-
-\begin_inset Note Greyedout
-status collapsed
-
-\begin_layout Plain Layout
-Lots of new scientific endeavors focus on the internet as an equalizing
- tool, but realistically, the digital divide is very very clear and doesn't
- seem to be going away anytime soon.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename gfx/InternetPopulation2011_HexCartogram_v7-01.png
-	lyxscale 10
-	width 80page%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-This map illustrates the total number of Internet users in a country as
- well as the percentage of the population that has Internet access.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-Data
-\end_layout
-
-\begin_layout Plain Layout
-The map uses 2011 data on Internet users and total population datasets that
- were obtained from the World Bank.
- The World Bank has tracked the number of Internet users and Internet connection
-s per country since the 1990s as part of its Worldwide Governance Indicators
- project.
-\end_layout
-
-\begin_layout Plain Layout
-The data are visualized with a hexagon-shaped cartogram in which the size
- of each country is drawn based on its population of Internet users.
- Each hexagon accounts for about one third of a million Internet users.
- Countries with fewer than that number have been removed from the map.
- The shading of each country reflects its Internet penetration rate: darker
- shades indicate higher levels of Internet usage in the population.
-\end_layout
-
-\begin_layout Plain Layout
-Findings
-\end_layout
-
-\begin_layout Plain Layout
-The distortion in the map paints a revealing picture about human activity
- on the Internet.
- China is now home to the world’s largest Internet population at over half
- a billion.
- The United States, India, and Japan then follow as the next most populous
- nations of Internet users.
-\end_layout
-
-\begin_layout Plain Layout
-Looking at the largest Internet countries, we see two important trends.
-\end_layout
-
-\begin_layout Plain Layout
-First, the rise of Asia as the main contributor to the world’s Internet
- population; 42% of the world’s Internet users live in Asia, and China,
- India, and Japan alone host more Internet users than Europe and North America
- combined.
-\end_layout
-
-\begin_layout Plain Layout
-Second, few of the world’s largest Internet countries fall into the top
- category (>80%) of Internet penetration (and indeed India falls into the
- lowest category, at <20% penetration).
- In other words, in all of the world’s largest Internet nations, there is
- still substantial room for growth.
-\end_layout
-
-\begin_layout Plain Layout
-We also see an interesting geographic pattern of Internet penetration.
- All but four of the countries with an Internet penetration rate of over
- 80% are in Europe (Canada, New Zealand, Qatar, and South Korea being the
- exceptions).
-\end_layout
-
-\begin_layout Plain Layout
-The map also reveals interesting patterns in some of the world’s poorest
- countries.
- Most Latin American countries now can count over 40% of their citizens
- as Internet users.
- Because of this, Latin America as a whole now hosts almost as many Internet
- users as the United States.
-\end_layout
-
-\begin_layout Plain Layout
-Some African countries have seen staggering growth, whereas other have seen
- little change since we last mapped Internet use globally in 2008.
- In the last three years, almost all North African countries doubled their
- population of Internet users (Algeria being a notable exception).
- Kenya, Nigeria, and South Africa, also saw massive growth.
- However, it remains that over half of Sub-Saharan African countries have
- an Internet penetration of less than 10%, and have seen very little grow
- in recent years.
-\end_layout
-
-\begin_layout Plain Layout
-It is therefore important to remember that despite the massive impacts that
- the Internet has on everyday life for many people, most people on our planet
- remain entirely disconnected.
- Only one third of the world’s population has access to the Internet.
-\end_layout
-
-\end_inset
-
-
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-
-\series bold
-\begin_inset Graphics
-	filename gfx/Broadband_Affordability.png
-	lyxscale 5
-	width 80page%
-
-\end_inset
-
-
-\series default
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-
-\series bold
-Description
-\series default
- -This map presents an overview of broadband affordability, as the relationship
- between average yearly income per capita and the cost of a broadband subscripti
-on.
-\end_layout
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Perel2008,Vetter2003"
 
 \end_inset
 
@@ -2089,128 +2582,25 @@ on.
 
 \end_inset
 
+What this means, practically, that the global burden of disease falls more
+ heavily on low-income countries, and many fewer economic and intellectual
+ resources go towards research on the medical or infrastructural needs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Perel2008"
 
-\begin_inset Note Note
-status collapsed
+\end_inset
 
-\begin_layout Plain Layout
-
-\series bold
-Data
-\end_layout
-
-\begin_layout Plain Layout
-The maps use the “Fixed (wired)-broadband monthly subscription charge, in
- USD” indicator published by the International Telecommunication Union (ITU)
- in the 17th edition of the World Telecommunication/ICT Indicators Database.
- We map 2011 data, being the most recent information available for this
- indicator in the dataset.
-\end_layout
-
-\begin_layout Plain Layout
-The ITU defines the indicator as the following: “Fixed (wired)-broadband
- monthly subscription charge refers to the monthly subscription charge for
- fixed (wired)-broadband Internet service.
- Fixed (wired) broadband is considered to be any dedicated connection to
- the Internet at downstream speeds equal to, or greater than, 256 kbit/s.
- If several offers are available, preference should be given to the 256
- kbit/s connection.”
-\end_layout
-
-\begin_layout Plain Layout
-The data also refer to the monthly cost of the cheapest entry-level subscription
- in any place.
- These values have been multiplied by twelve to obtain a yearly cost, and
- weighted over the gross national income per capita (Atlas method, current
- USD) data available from the World Bank, referring to the same year (2011).
-\end_layout
-
-\begin_layout Plain Layout
-The graph on the lower-left corner illustrates the evolution of the cost
- of broadband over time.
-\end_layout
-
-\begin_layout Plain Layout
-
-\series bold
-Findings
-\end_layout
-
-\begin_layout Plain Layout
-This visualization speaks to one of the core themes of the global digital
- divide: the relative cost of being connected to the Internet.
- The geographies of the phenomenon could hardly be more clear, and its consequen
-ces are illustrated in many other visualizations published on our website,
- from the cartogram of the Internet population to the graphic depicting
- the geographic distribution of the top-level domain names.
-\end_layout
-
-\begin_layout Plain Layout
-We see that the price of a broadband connection in most parts of Africa
- is out of reach for people on average incomes.
- Said differently, Africans need to pay ten times as much of their salary
- (if looking at the ratio of income to connectivity costs) for broadband
- as people in the rest of the world.
-\end_layout
-
-\begin_layout Plain Layout
-A monthly broadband subscription costs about 60 USD both in Australia and
- Mozambique.
- However, while the average yearly gross income in Australia is around 50,000
- USD, the same figure in Mozambique is less than 500 USD.
- This means that while an average worker in Australia could pay for a year’s
- worth of connectivity with one week’s salary, a Mozambican worker would
- need over one and a half year’s salary.
-\end_layout
-
-\begin_layout Plain Layout
-This situation does not mean that costs in Africa aren’t dropping.
- The average cost of an African Internet connection is now half of what
- it was four years ago, thanks to a series of cables laid around the African
- continent in 2009.
- Kenya and Nigeria, for instance, have 2011 broadband costs that are respectivel
-y 21% and 8% of what they were in 2008.
- These changes have undoubtedly contributed to the significant growth in
- the number of Internet users seen by both countries.
- The most striking drop in broadband cost has been observed in Burkina Faso,
- which has gone from over 1,700 USD a month to a most reasonable 55 USD
- (which still, however, represents 100% of the salary of an average worker).
-\end_layout
-
-\begin_layout Plain Layout
-Eritrea is the country where the Internet is least affordable.
- A yearly subscription there is the equivalent of almost fifty year’s worth
- of an average salary: an entire life of work! Over 18 countries still face
- costs of Internet subscriptions higher than the average income, including
- 14 Sub-Saharan African countries, the landlocked countries of Afghanistan
- and Tajikistan, and the islands of Kiribati and Solomon Islands.
- A broadband Internet connection cost over 500 USD a month in the Central
- African Republic, Guinea, Malawi, and Swaziland, as well as in Cuba, where,
- according to the ITU, 1,700 USD was still not enough to buy a subscription.
-\end_layout
-
-\begin_layout Plain Layout
-India and Sri Lanka have the cheapest broadband access prices, where access
- can be obtained for as little as 6 USD a month.
- Europe and North America have higher absolute costs, ranging between about
- 10 and 40 USD a month, but have some of the lowest relative costs in the
- world: with a couple of hours of work a month being sufficient for an average
- worker to afford the cost of connectivity.
-\end_layout
-
-\begin_layout Plain Layout
-The data mapped here are some of the world’s most important indicators.
- Without the ability and means to connect, the opportunities, the information,
- and the communication mediated and afforded by the Internet all remain
- impossible.
-\end_layout
+ These are largely causes that affect the socioeconomically depressed, which
+ also means disproportionately people, specifically women of color and those
+ in the majority world.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Doyal2004"
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -2404,14 +2794,93 @@ Many Southern African research projects are small, local projects, confined
 \end_layout
 
 \begin_layout Standard
-\begin_inset Branch global-science
+In many ways, this is also an access problem, both to literature and to
+ clinical compounds.
+ Much of the majority world diseases are also diseases of poverty; the minority
+ world largely no longer suffers from tuberculosis because it was eliminated
+ with the use of antibiotics.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stevens2004"
+
+\end_inset
+
+ On the other hand, drug-resistant strains of tuberculosis are emerging
+ in many areas, necessitating a new surge of research and new solutions
+ for the rest of the world.
+\end_layout
+
+\begin_layout Section
+Hardly anybody's bad
+\begin_inset Note Note
 status collapsed
+
+\begin_layout Subsection
+The vanish box
+\end_layout
+
+\begin_layout Plain Layout
+the ‘Vanish Box’ model is a more accurate representation of the gender attrition
+ in the upper reaches of the scientific professions than either the pessimistic
+ “leaky pipeline” view of permanent loss of women in science, or the more
+ optimistic, but disconfirmed, “pump priming” expectation that women’s rise
+ to high positions proportionately to male scientists would naturally occur.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Etzkowitz2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+movement out of spaces
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ochola2009"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Many trends are likely not actually markers of overt discrimination against
+ women in 
+\emph on
+publishing
+\emph default
+, but rather that women aren't making it to the top ranks of science and
+ thus are not in a position to be publishing or collaborating on the most
+ important papers.
+ Age of the investigator may be 
+\emph on
+the 
+\emph default
+determining role; older investigators have had more time to build careers,
+ and had systematic advantages in the past.
+ In terms of bodies studied, this is a changing, albeit too slowly, trend.
+ While men and the minority world continue to dominate on certain indices,
+ there is a large and growing body of scientific literature happening beyond
+ the U.S.
+ and U.K.'s research spheres.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch global-science
+status open
 
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-bibfiles "cnltx,CriticalOpenNeuro"
-options "plainnat"
+bibfiles "CriticalOpenNeuro"
+options "unsrtnat"
 
 \end_inset
 

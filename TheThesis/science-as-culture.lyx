@@ -45,7 +45,7 @@
 \use_package undertilde 1
 \cite_engine natbib
 \cite_engine_type numerical
-\biblio_style plainnat
+\biblio_style 
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -118,16 +118,7 @@ filename "Contents.lyx"
 \end_layout
 
 \begin_layout Chapter
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-Feminist Science Studies
-\end_layout
-
-\end_inset
-
-Science Studies, Feminist Theory, Cultural Studies
+Mapping Science
 \end_layout
 
 \begin_layout Standard
@@ -137,36 +128,21 @@ name "chap:feminist-science-cultural-studies"
 
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{intro sentence}
-\end_layout
-
-\end_inset
-
-Science is an empowering technology.
- The sense of systematic inquiry satisfies some deep drive to understand
- and explain the world around us; 
-\begin_inset Quotes eld
-\end_inset
-
-science
-\begin_inset Quotes erd
-\end_inset
-
- is part of a long and storied heritage of bold exploration, innovation,
+Scientific work leads to technology that empowers; science provides a sense
+ of systematic inquiry that satisfies some deep drive to understand and
+ explain the world around us.
+ Science is part of a long and storied heritage of bold exploration, innovation,
  and human ingenuity.
 \end_layout
 
 \begin_layout Standard
-The classic question in scientific philosophy classes, or history of science
- classes: 
+Science is, simultaneously and harmoniously, a handmaiden to social-technical
+ progress and a crucial strut in the reinforcement of systematic societal
+ inequities.
+ It is both a compelling and evidence-driven narrative about biological
+ and physical realities, and a knowledge necessarily developed in and shaped
+ by a social context.
+ The question that opens most scientific philosophy classes is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -174,14 +150,30 @@ what is science?
 \begin_inset Quotes erd
 \end_inset
 
- While I'd love to spend time ruminating on what the word -- or field, or
- method of knowing, or style of inquiry -- is and is not,
+ The point is not to answer it, but to teach students to question how our
+ concepts have been structured and bounded.
+ I am more interested in understanding what science 
+\emph on
+does
+\emph default
+ rather than in the concept, how it moves into the world, shaping and being
+ shaped in the process; in many ways, the science is in the doing.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Science
+\begin_inset Quotes erd
+\end_inset
+
+ is not any one grand enterprise.
+ For our purposes, it is roughly sketched as
 \begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 graffito{"But boundary crossing in itself is not very interesting for feminist,
  multicultural, antiracist technoscience projects.
@@ -193,9 +185,7 @@ graffito{"But boundary crossing in itself is not very interesting for feminist,
 
 \end_inset
 
- I move gravitate more quickly towards the practical implications of a science
- embedded in a culture.
- For our purposes:
+ 
 \end_layout
 
 \begin_layout Labeling
@@ -204,9 +194,9 @@ graffito{"But boundary crossing in itself is not very interesting for feminist,
 \series bold
 Science,
 \series default
- a systematic enterprise that builds and organizes knowledge in the form
- of testable explanations and predictions about nature and the universe;
- 
+ a technological and systematic enterprise building and organizing knowledge
+ in the form of testable explanations and predictions about nature and the
+ universe; 
 \emph on
 progress
 \end_layout
@@ -215,7 +205,10 @@ progress
 \labelwidthstring 00.00.0000
 
 \series bold
-Science,
+\emph on
+Science
+\emph default
+,
 \series default
  an international weekly science journal, published by the American Association
  for the Advancement of Science 
@@ -227,8 +220,8 @@ Science,
 \series bold
 Science,
 \series default
- a way of exploring the world from a specific cultural/philosophical/technical
- viewpoint; a practice and culture, but a 
+ an individual way of exploring the world from a specific cultural/philosophical
+/technical viewpoint; a practice and culture and a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -236,50 +229,33 @@ culture of no culture
 \begin_inset Quotes erd
 \end_inset
 
-: domination and power relations through knowledge
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{see Longino?}
-\end_layout
-
-\end_inset
-
-
+; knowledge wrapped up in consequences; technoscience, where the knowing
+ of science is inseparable from the doing of technology
 \end_layout
 
 \begin_layout Standard
-Our second is tongue-in-cheek and the third is certainly controversial,
- so we'll start with troubling the notion of science as progress and as
- a systematic truth-building exercise.
-\end_layout
-
-\begin_layout Standard
-Science is, simultaneously and harmoniously, a handmaid to progress 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{word choice of "progress"?}
-\end_layout
-
-\end_inset
-
- and a crucial strut in upholding systematic societal inequities.
- It is both a compelling, evidence-driven narrative about biological and
- physical realities and a knowledge necessarily developed in a social context.
+Science, the enterprise, is enabled by 
+\emph on
+Science 
+\emph default
+and its kin
+\emph on
+, 
+\emph default
+scientific journals that publish and codify communication.
+ Science, the way of exploring the world, underlies the enterprise and the
+ journal; and science, whatever else it may be, is 
+\emph on
+made by scientists\SpecialChar \@.
  
+\emph default
+If science has an effect on the world, we, the producers of scientific knowledge
+, have the responsibility of taking care for what we make.
 \end_layout
 
 \begin_layout Section
-Biopolitics or scientific responsibility?
+Ethics vs.
+ Value: Scientific Responsibilities
 \begin_inset Note Note
 status collapsed
 
@@ -308,22 +284,10 @@ I
 \end_layout
 
 \begin_layout Standard
-For the ethical duties and responsibilities of scientists, we have 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{IRB}s
-\end_layout
-
-\end_inset
-
- to manage human experiments, and the Republican party to manage stem cell
- and climate science.
- Ethics are relegated to the limited frame of experimental design and execution.
+This is not a discussion of bioethics, that part of the duties and responsibilit
+ies of an academic scientist managed locally by Institutional Review Boards
+ and systematically by the Republican Party.
+ Ethics are part of the limited frame of experimental design and execution.
 \begin_inset Note Note
 status collapsed
 
@@ -367,7 +331,7 @@ climate change/environmental disaster
 
 \begin_deeper
 \begin_layout Itemize
- also re: native americans
+ also re: native Americans
 \end_layout
 
 \end_deeper
@@ -381,7 +345,7 @@ reproductive techs
 
 \end_inset
 
- Notions of informed consent, 
+ The notions of informed consent, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -390,7 +354,7 @@ do no harm
 \end_inset
 
 , and the humanity of people are what I would call ethical responsibilities,
- are critical and basic scientific practices.
+ and are critical and basic scientific practices.
 \begin_inset Note Note
 status collapsed
 
@@ -401,15 +365,15 @@ Even recent history of bio-medical scientists is intimately interwoven with
 
 \end_inset
 
+ But that's not exactly what I mean.
+ I instead am thinking of the underlying value-assumptions guiding research
+ assumptions and effects.
  
 \end_layout
 
 \begin_layout Standard
-That is not, however, exactly what this dumb Div III is about.
-\end_layout
-
-\begin_layout Standard
-Take, for example, the well-known Tuskegee Syphilis experiments.
+Take, for example, a well known case of biomedical ethical failure: Tuskegee
+ Syphilis experiments.
  In 1932 Tuskegee, Alabama, the 
 \begin_inset ERT
 status collapsed
@@ -433,7 +397,9 @@ natural
 
  course of untreated, latent syphilis.
  The study heads began by enticing their participants with explicit promises
- of free health care and treatment, a promise they never intended to fulfill.
+ of free health care and treatment; they tested them for syphilis and concealed
+ the information from their subjects.
+ This led, of course, to the spread of the disease through the local community.
 \begin_inset ERT
 status collapsed
 
@@ -467,23 +433,11 @@ ac{USPHS}
 
 \end_inset
 
- researchers took steps to prevent their subjects from being treated by
- local physicians.
- When the draft came through in 1941 and tested for syphilis, the 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-ac{USPHS}
-\end_layout
-
-\end_inset
-
- researchers supplied the draft board with a list of names to be excluded
- from treatment; the U.S.
+ researchers took steps to prevent their subjects from being seen or treated
+ by local physicians.
+ When the draft came through in 1941 and tested for syphilis, the study
+ leaders supplied the draft board with a list of names to be excluded from
+ treatment; the U.S.
  Army complied.
  In 1932, no effective syphilis treatment existed, although it was believed
  that certain mercury ointments could slow its course.
@@ -492,8 +446,7 @@ ac{USPHS}
 had
 \emph default
  become established as an effective syphilis treatment, researchers increased
- their efforts to prevent interference by the outside world and to maintain
- the course of disease.
+ their efforts to prevent interference by the outside world.
  Halfway through the study, more than 30% of the test group had died 
 \emph on
 directly
@@ -506,11 +459,7 @@ key "Brandt1978"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The 
+ The 
 \begin_inset Quotes eld
 \end_inset
 
@@ -518,8 +467,8 @@ study
 \begin_inset Quotes erd
 \end_inset
 
- ceased forty years after it started, in 1972, after a whistle-blower publicatio
-n in the 
+ finally ceased forty years after it started, in 1972, after a whistle-blower
+ publication in the 
 \emph on
 New York Times
 \emph default
@@ -530,7 +479,7 @@ New York Times
 \begin_layout Standard
 In 1973, a year after the cessation of the study, the 
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -556,24 +505,11 @@ informed consent issue
 \emph on
 an
 \emph default
- experiment, without being told what the experiment entailed.
+ experiment, merely without being told what the experiment entailed.
  This remains the dominant interpretation:
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Wikipedia because it represents dominant views of culture/science}
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
+\begin_layout Quotation
 \begin_inset Quotes eld
 \end_inset
 
@@ -588,7 +524,7 @@ controversial for reasons related to ethical standards, primarily because
 
 \end_layout
 
-\begin_layout Quote
+\begin_layout Quotation
 \align right
 Wikipedia on the Tuskegee 
 \begin_inset Newline newline
@@ -611,16 +547,33 @@ To our modern sensibilities, this was a complete ethical failure on the
 \emph on
 good
 \emph default
- doctor would have done differently.
+ doctor would have done differently; clearly, the involved doctors made
+ a relatively isolated mistake by not practicing rules of informed consent.
+ These are largely ethical considerations, without regard to the unique
+ cultural context of the experiment.
+ 
 \end_layout
 
 \begin_layout Standard
-This is an ethical criticism, and an ethical lesson.
- It does not account for or consider the deep social structures that 
+The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+ac{HEW}
+\end_layout
+
+\end_inset
+
+ report and our current understanding elide the deep social structures that
+ 
 \emph on
 allowed
 \emph default
- the Tuskegee experiments to go forward.
+ the Tuskegee experiments to be conceptualized as a valid course of research.
  Doctors and researchers discounted the socioeconomics of black America,
  arguing that better medical care could not alter the 
 \begin_inset Quotes eld
@@ -631,14 +584,16 @@ evolutionary scheme
 \end_inset
 
  of things.
+ The discovery of penicillin had no bearing on their decision to watch the
+ natural course of death proceed.
+ If it had, the men would have been given the (believed to be effective)
+ mercury treatments.
  Researchers never 
 \emph on
 intended
 \emph default
  to treat these men, because in their (white) eyes, black men were a subhuman
- species.
- The discovery of penicillin had no bearing on their decision to watch the
- natural course of death.
+ species -- animalistic, promiscuous, and a fascinating object of research.
  
 \begin_inset CommandInset citation
 LatexCommand citep
@@ -650,49 +605,55 @@ key "Brandt1978"
 \end_layout
 
 \begin_layout Standard
-All parties were deeply and irrevocably shaped by the anti-back racism in
- the post-Civil War Jim Crow era that continued, with only slight variation,
- until the Civil Rights movement.
- Only deep-seated knowledges about black culture and bodies could enable
- the Tuskegee Syphilis Study.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-The cultural context, the specific moment of 1932, Alabama, tthis was conducted
- with the support of a branch of government and headed by syphilis experts
- of the time; , beliefs that were bolstered and interwoven with the science
- of the times.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
+The most critical part of this, for us, is that these researchers genuinely
+ believed in what they were doing, and they were implicitly backed by the
+ scientific community.
+ After the initiation of the study in 1932, 
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
 
 \backslash
-todo[inline]{Reports were also published every two years by JAMA, so like,
- this wasn't HIDDEN.
- Many people saw and discussed this thing.}
+graffito{JAMA: The Journal of the American Medical Association}
 \end_layout
 
 \end_inset
 
+ 
+\emph on
+JAMA
+\emph default
+ (formerly the 
+\emph on
+Archives of Internal Medicine
+\emph default
+) The details of the study were available for the medical community starting
+ in 1936
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vonderlehr1936"
 
-\end_layout
+\end_inset
+
+, with 10 more publications 1964.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rockwell1964"
+
+\end_inset
+
+ hidden to the scientific community, yet it took a whistle blower and a
+ Congressional Hearing to get stopped.
+\begin_inset Note Note
+status collapsed
 
 \begin_layout Subsection
-Ah a section divider here probably?
+Constitutive and Contextual Values
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Note Note
 status collapsed
 
@@ -750,72 +711,55 @@ todo{define modern science}
 
 \end_inset
 
-Modern scientific systems evolved in an era of Western expansionism and
- imperialism; the beginnings of biological classifications and phylogenies
- are rooted in exploratory voyages and specimen collection by Europeans.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-research{scientific imperialism, bioprospecting, new forms}
+ So what happened at Tuskegee? What kind of scientists accidentally worked
+ their way into a position of enough power to enforce racialized binaries?
 \end_layout
 
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+It is, of course, nonsense to assert the value-freedom of natural science.
+ Scientific practice is governd by norms and values generated from an understand
+ing of the goals of scientific inquiry.
+ If we take the goal of scientific activity to be the production of explanations
+ of the natural world, then these governing values and constraints are generated
+ from an understanding of what counts as a good explanation, for example,
+ the satisfaction of such criteria as truth, accuracy, simplicity, predictabilit
+y, and breadth\SpecialChar \ldots{}
+ they clearly constitute values by which to judge cmpeting
+ explanations and from which norms and constraints governing scientific
+ practice in particular fields\SpecialChar \ldots{}
+can be generated.
+\end_layout
+
+\begin_layout Quotation
+Independence from these sort of values, of course, is not what is meant
+ by those debating the value freedom of science.
+ The question is, rather, the extent to which science is free of personal,
+ social, and cultural vajues, that is, independent of group or individual
+ subjective preferences regarding what ought to be.
+\begin_inset Quotes erd
 \end_inset
 
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-graffito{western expansionism has not stopped, merely transmuted.}
 \end_layout
 
-\end_inset
-
- The Scientific Revolution enabled and fed on the expansion of European
- powers into new territory.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo[inline]{Discovery of the 'cure' for malaria (by indigenous tribes in
- the Amazon, transferred to the Jesuit, and eventually the expanding European
- empires) allowed European nations to make inroads into tropical areas,
- as their soldiers were no longer dying at the prodigious rates.}
-\end_layout
-
-\end_inset
-
-Racism -- the peculiar brand of American racism, derived from slave-owners
- desperate to justify their brutality of human bondage -- was created through
- the collusion of science and society, specifically a science that carefully
- cataloged and characterized the way black men and women differed, and were
- therefore lesser, than White slaveholders.
- Darwin's great proposal of evolution let scientists justify the status
- quo (White men, White Women, Black men, Black women, in that order) as
- a mere consequence of natural selection.
-\end_layout
-
-\begin_layout Standard
-That was the 40's and 50's -- today, we have genetic surveillance.
+\begin_layout Quotation
+\align right
 \begin_inset CommandInset citation
-LatexCommand citep
-key "Roberts2011"
+LatexCommand citealt
+before ", \"Science as social knowledge\", p. 4 "
+key "Longino1990"
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Plain Layout
+The social values underlying the Tuskegee Experiments were not some chance
+ byproduct, a fluke.
  
 \begin_inset ERT
 status collapsed
@@ -824,7 +768,7 @@ status collapsed
 
 
 \backslash
-rewrite{genetic surveillance, 1000 genomes project}
+todo[inline]{clarify notions of relevant values as per Longino's ideas}
 \end_layout
 
 \end_inset
@@ -832,139 +776,9 @@ rewrite{genetic surveillance, 1000 genomes project}
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo{we can't say it's genetic OR cultural, needs to hold a tension of like
- 'ha bisexuals exist well that's that'}
-\end_layout
-
 \end_inset
 
- We have the sciences of homosexuality: if being gay is a genetic inheritance,
- then we should be careful to screen our pre-natal children and not allow
- gay men to donate sperm.
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{intentionally focused on gay Men because patriarchy}
-\end_layout
-
-\end_inset
-
-.
- If it's cultural, we should be more careful to police the kind of culture
- we give our children, carefully isolating them in heterosexual spaces.
- We can cure the queers, if only we knew 
-\emph on
-why
-\emph default
- they were homosexual.
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-to be gay, you must have some mutation frm the norm -- bc heterosexual is
- normal and there's no HETERO gene
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo[inline]{Trans bodies have entered the neuroscientific sphere -- brain
- images used to confirm that the brains of transmen are more like cis men
- than they are cis women.}
-\end_layout
-
-\end_inset
-
- The scientific heritage, the accumulated knowledge upon which we build
- our futures, is not exempt from criticism more commonly leveled at explicitly
- political institutions.
- At the same time, the undeniable power of science and technology to do
  
-\begin_inset Quotes eld
-\end_inset
-
-good
-\begin_inset Quotes erd
-\end_inset
-
- -- hormone therapy for medical gender transitions, Internet communities
- for otherwise isolated activists, the reclamation of environmental sciences
- by Native communities, technologies that re-enable disabled bodies, pharmaceuti
-cals that prolong lifespans and raise quality of life, and allow people
- to take control of their reproductive health
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Given access and governments that don't insist on fucking bullshit lookin'
- @ you, everybody.
-\end_layout
-
-\end_inset
-
- -- means we need science to keep pushing.
- Not to mention the insatiable curiously to understand and the delightful
- appeal of 
-\begin_inset Quotes eld
-\end_inset
-
-basic
-\begin_inset Quotes erd
-\end_inset
-
- research, of discovering something new.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo[inline]{Oppenheimer and physics awakening to responsibility}
-\end_layout
-
-\begin_layout Plain Layout
-
-%
-\backslash
-todo[inline]{brain imaging and designing for consent?}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Science is not going away, and nor should it; but to ignore our scientific
- inheritance, the complicity between science and power, and the role of
- individual scientists in perpetuating and creating power dynamics is to
- be neutral in the face of injustice.
 \end_layout
 
 \begin_layout Section
@@ -972,35 +786,6 @@ Science Studies
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-(1) foucault of biopolitics
-\end_layout
-
-\begin_layout Plain Layout
-(2) better - dorothy Roberts
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-women in science: eh, boring
-\end_layout
-
-\begin_layout Plain Layout
-gender in scientific knowledge: much more interesting and to me, important
- to figure out in mol neuro.}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -1038,22 +823,6 @@ nal questions about queer, colored, trans, feminism/femme/women, poor etc;
 \end_inset
 
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Expand historical section of science studies to generate a foundation
- for current critiques
-\backslash
-dots more explicit Fleck summary w/page numbers, quotes}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Comment
 status collapsed
 
@@ -1064,18 +833,6 @@ JC - I really like the idea of expanding this section.
  about how you feel science should be critiqued now (which seems to be one
  of the overarching goals of your div).
 \end_layout
-
-\end_inset
-
-Both my historical time line and ideological foundation for science studies
- starts with Ludwik Fleck's 
-\emph on
-Genesis and Development of a Scientific Fact
-\emph default
-, first published in 1935 pre-WWII Germany.
-\begin_inset CommandInset citation
-LatexCommand citep
-key "Fleck1981"
 
 \end_inset
 
@@ -1096,23 +853,39 @@ radical
 
 \end_inset
 
- A practicing syphilis researcher and pathologist, Fleck proposes scientists
- as the creators of facts, rather than mere observers; or rather, that the
- act of observing also creates.
- He describes how certain 
-\emph on
-styles 
-\emph default
-of thinking permeate and circumscribe scientific collectives and the people
- within them.
- Scientific knowledge is only accepted as true fact once the evidence been
- thoroughly vetted, trimmed, mediated, and judged acceptable by experts
- in the field.
- This is not just the peer-review that drives science, but the presented
- facts must fit more-or-less neatly into pre-existing structures of thought.
-\end_layout
+In 1935, Ludwik 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Fleck1981"
 
-\begin_layout Standard
+\end_inset
+
+ published a small monograph in Germany.
+ Although it anticipated the conclusions of one of the most cited books
+ in post-WWII history, Thomas Kuhn's 
+\emph on
+Structure of Scientific Revolutions, 
+\emph default
+it remained relatively obscure until the
+\emph on
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kuhn1996"
+
+\end_inset
+
+
+\emph default
+ 
+\emph on
+The Genesis and Development of a Scientific Fact
+\emph default
+ proposes that scientists are the creators of facts, rather than mere observers;
+ or rather, that the very act of scientific observation also creates facts.
+ Fleck likens scientific thought collectives to a group of people who together
+ produce an idea; facts held in a common tension, without a distinct origin.
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1124,22 +897,14 @@ Facts
  made by collaboration between individual, collective, and evidence; they
  only take shape in a matrix of other beliefs and discoveries about the
  world.
- Like a group of people who together produce an idea where the origin is
- never really clear, scientific facts are held in a common tension, without
- distinctly available origin stories.
+ 
 \end_layout
 
 \begin_layout Standard
-Fleck and Kuhn and many of their concurrent and subsequent philosophers,
- historians, and sociologists of science offer compelling arguments that
- science is, yes, evolution, but not evolution 
-\emph on
-towards
-\emph default
- anything.
-\end_layout
-
-\begin_layout Standard
+Pertinent here is the discussion of different kinds of knowledge, and the
+ necessarily simplified translational nature of communication.
+ The most evocative narrative is the interactions between a doctor, a bacteriolo
+gist, and the mother of a sick child.
 \begin_inset ERT
 status open
 
@@ -1147,17 +912,382 @@ status open
 
 
 \backslash
-todo{link P}
+graffito{Fleck, p 114-118}
 \end_layout
 
 \end_inset
 
-[[Linking paragraph about how dissatisfying it is to deconstruct science
- without talking about the 
+ The doctor, passing on the throat culture to the bacteriologist from the
+ child, asks for a diagnosis.
+ The response to the doctor would be 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+the microscropic specimens correspond to diptheria,
+\begin_inset Quotes erd
+\end_inset
+
+ ignoring most of the technical information.
+ However, the 
 \emph on
-implications
+same finding
 \emph default
- of a value-laden science ]]
+ conveyed to another bacteriologist would include morphological, staining,
+ and arrangement notes; and 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+based on the origin of the examined material\SpecialChar \ldots{}
+the diagnosis [of diptheria]
+ seems well established.
+\begin_inset Quotes erd
+\end_inset
+
+ And the 
+\emph on
+same finding 
+\emph default
+conveyed again to the mother of the child would only be 
+\begin_inset Quotes eld
+\end_inset
+
+your child has diptheria.
+\begin_inset Quotes erd
+\end_inset
+
+ None of these are wrong, but the fact of needing to 
+\emph on
+communicate
+\emph default
+ requires simplifications for communication between individuals.
+ 
+\end_layout
+
+\begin_layout Standard
+Those same simplifications and transformations of knowledge-concepts are
+ in journal science, the fragmented and idiosyncratic 'cutting-edge' of
+ science.
+ As journal science is incorporated into 
+\emph on
+vademecum
+\emph default
+ science,
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{Fleck, p.
+ 123}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{
+\backslash
+emph{vademecum} "handbook", the collected working knowledge of a field or
+ discipline}
+\end_layout
+
+\end_inset
+
+, built from a mosaic of journal science and communication and personal
+ experience, the collective of researchers shapes which facts are included.
+ By the end of it, the 
+\begin_inset Quotes eld
+\end_inset
+
+true creator of a fact is not an individual but the thought collective.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fleck1981"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Especially pertinent here is the distinction between 
+\begin_inset Quotes eld
+\end_inset
+
+journal science
+\begin_inset Quotes erd
+\end_inset
+
+, the idiosyncratic, provisional, and personal forefront of scientific research.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Fleck, Kuhn and their many philosophical heirs and contempories offer compelling
+ arguments that science is, yes, evolution, but not evolution 
+\emph on
+towards
+\emph default
+ anything in particular.
+ Fleck's culturally-conditioned science is a stepping stone onto a bigger
+ question of not just what science 
+\emph on
+is,
+\emph default
+ but what it 
+\emph on
+does, 
+\emph default
+what values are built in.
+\emph on
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph off
+While the de- and re-construction of science as social knowledge is intellectual
+ly satisfying, it does not lend itself to praxis as well.
+ I’m not just interested in what science is, but what it does.
+ So what happends if we deconstruct science and its values, and tease out
+ the implications of how we’ve built scientific systems?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Contemporary science
+\end_layout
+
+\begin_layout Standard
+The modern scientific system began in an era of European colonialism, in
+ 1665, with the major powers sending 'civilizing' missions to the Sino-Japanese
+ coasts, the Indian subcontinent, vast swathes of Africa, South America,
+ North America, Australia and the Indonesian islands.
+ The beginnings of biological classifications and the Scientific Revolution,
+ coincided with the gentlemen scientists of Darwin's era, rooted in exploratory
+ voyages and specimen collection by Europeans.
+ The Scientific Revolution was enabled by and allowed the continuing expansion
+ of European powers into the rest of the world.
+ 
+\end_layout
+
+\begin_layout Standard
+Take, for example, malaria.
+ For much of early European missions, malaria proved an insurmountable hurdle
+ to the troops of colonial powers.
+ The interior of Africa and the swampy Chinese coast were rife with mosquitos
+ and their disease; troops died due to disease and infection at a rate many
+ times higher than actual warfare.
+ The same colonial missions of research, proselytizing, and conquering were
+ accompanied by botanical missions and collections.
+ Eventually, Europeans, via the acquired medical knowledge of Jesuit missionarie
+s in South America, came into contact with the Peruvian bark of the cinchona
+ tree.
+ The bark contains quinine, one of the earliest effective treatments for
+ malaria.
+ The discovery, classification, and medically-useful malarial treatment
+ allowed the penetration of European troops into hitherto inaccessible areas.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Adas1990"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Closer to temporal and spatial home, racism -- the peculiar brand of American
+ racism, derived from slave-owners desperate to justify their brutality
+ of human bondage -- was created through the collusion of science and society,
+ specifically a science that carefully cataloged and characterized the way
+ black men and women differed, and were therefore lesser, than White slaveholder
+s.
+ Darwin's great proposal of evolution let scientists justify the status
+ quo (White men, White Women, Black men, Black women, in that order) as
+ a mere consequence of natural selection.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stepan1986"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+That was the 40's and 50's -- today, we have genetic surveillance.
+ Genetic information is increasingly part of publicly accessible medical
+ records.
+ Police in the some areas of the United States and in the United Kingdom
+ have the legal right to collect blood samples without warrant or permission,
+ not only after a conviction, but after merely an arrest, or in some cases,
+ from the family members of suspected criminals.
+ The disproportionate arrest and imprisonment of black men means the genetic
+ information of 77% of black men aged fifteen to thirty-five, compared with
+ only 6% of white men, is captured in the U.K's database.
+ An unequal form of racialized biomedical surveillance that, with the increasing
+ power of biological analysis, will inevitably be used to perpetrate new
+ injustices.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Roberts2011"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+todo{we can't say it's genetic OR cultural, needs to hold a tension of like
+ 'ha bisexuals exist well that's that'}
+\end_layout
+
+\end_inset
+
+ We have the sciences of homosexuality
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+graffito{A science of homosexuality focused on homosexual men, not women,
+ not bisexuals, and not trans folks}
+\end_layout
+
+\end_inset
+
+.
+ If being gay is a genetic inheritance, then we should be careful to screen
+ our prenatal children and not allow gay men to donate sperm..
+ If it's cultural, we should be more careful to police the kind of culture
+ we give our children, carefully isolating them in heterosexual spaces.
+ We could cure the queers, if only we knew 
+\emph on
+why
+\emph default
+ they were homosexual.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "ORiordan2012"
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+to be gay, you must have some mutation frm the norm -- bc heterosexual is
+ normal and there's no HETERO gene
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+%
+\backslash
+todo[inline]{Trans bodies have entered the neuroscientific sphere -- brain
+ images used to confirm that the brains of transmen are more like cis men
+ than they are cis women.}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is the scientific heritage, the accumulated knowledge upon which we
+ build our futures, and it is not exempt from criticism more commonly leveled
+ at explicitly political institutions.
+ At the same time, the undeniable power of science and technology to do
+ 
+\begin_inset Quotes eld
+\end_inset
+
+good
+\begin_inset Quotes erd
+\end_inset
+
+ -- hormone therapy for medical gender transitions, Internet communities
+ for otherwise isolated activists, the reclamation of environmental sciences
+ by Native communities, technologies that re-enable disabled bodies, pharmaceuti
+cals that prolong lifespans, raise quality of life, and allow people to
+ take control of their reproductive health
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Given access and governments that don't insist on fucking bullshit, lookin'
+ @ you, United States.
+\end_layout
+
+\end_inset
+
+ -- means we need science to keep pushing.
+ Not to mention the insatiable curiously to understand and the delightful
+ appeal of 
+\begin_inset Quotes eld
+\end_inset
+
+basic
+\begin_inset Quotes erd
+\end_inset
+
+ research, of discovering something new.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Science is not going away, and nor should it.
+ But to ignore our scientific inheritance, the long-term complicity between
+ science and power, and the role of individual scientists in perpetuating
+ and creating power dynamics is to be neutral in the face of injustice.
 \end_layout
 
 \begin_layout Section
@@ -1167,8 +1297,7 @@ Feminist Theory
 \begin_layout Quote
 \align right
 
-\series bold
-\size large
+\size small
 \begin_inset Quotes eld
 \end_inset
 
@@ -1182,11 +1311,11 @@ Questioning representation with a vengeance.
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 rewrite{feminist science studies chronology; ways it is or is not western;
  academic feminism, co-option of grassroots}
@@ -1211,17 +1340,17 @@ The interaction of the new cultural science took root with activists of
  all shapes and kinds.
 \end_layout
 
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Rather than merely treating science as merely another object of study, efforts
+ began in earnest to examine and define how social biases were part and
+ parcel of knowledge production.
+\begin_inset Quotes erd
 \end_inset
 
 
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-.
- Rather than merely treating science as merely another object of study,
- efforts began in earnest to examine and define how social biases were part
- and parcel of knowledge production.
 \end_layout
 
 \end_inset
@@ -1322,33 +1451,68 @@ The central concept of feminist epistemology is that of a situated knower,
 
 \end_inset
 
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 New ways of knowing overlaps with technology and science studies overlaps
- with philosophy of science overlaps with uncountable modes andof analysis.
- What I now call feminist science studies emerges out of academic activists
+ with philosophy of science overlaps with uncountable modes and analysis.
+ 
+\end_layout
+
+\end_inset
+
+ What I now call feminist science studies emerges out of academic feminist
+ and activists against white supremacy, patriarchy, heteronormativity, and
+ ecological destruction working on ways to critique science as a social
+ institution, and using that critique to forge new ways of asking and answering
+ scientific questions.
  
 \begin_inset ERT
 status collapsed
 
 \begin_layout Plain Layout
 
-%todo{feminist science studies more specifically tied to 1970s women's 
+
 \backslash
-& environmental social movements: also in a specifically Western/US context}
+graffito{For a solid history, see
 \end_layout
 
 \end_inset
 
- against white supremacy, patriarchy, heteronormativity, and ecological
- destruction working on ways to critique science as a social institution,
- and using that critique to forge new ways of asking and answering scientific
- questions.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealt
+before "2010"
+key "Richardson2010"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+Feminist science studies is then, like most fields, at confluence of many
+ networks.
+ 
 \end_layout
 
 \begin_layout Standard
-Feminist science studies is then at confluence of many ideas, summed in
- Donna Haraway's 1994 
+Donna Haraway's 
 \emph on
-Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies.
+Cat's Cradle: Science Studies, Feminist Theory, Cultural Studies 
+\emph default
+drew a picture of a field at the intersection of:
+\emph on
+
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Haraway1994"
@@ -1539,28 +1703,11 @@ All that is merely to impress upon a reader that using the word feminism
 \end_layout
 
 \begin_layout Section
-What does this do in a practical sense?
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-In Practice
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Because I have to at least try to be an Emma Goldman, not Margaret Sanger.
-\end_layout
-
-\begin_layout Subsection
+In practice: 
 \begin_inset Quotes eld
 \end_inset
 
-Asking Different Questions
+Asking different questions
 \begin_inset Quotes erd
 \end_inset
 
@@ -1591,42 +1738,14 @@ Who
 \begin_inset Quotes erd
 \end_inset
 
- This extends
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-graffito{Or 
-\backslash
-emph{should} extend...}
-\end_layout
-
-\end_inset
-
- to questioning not just gender, but about race, physical ability, nationalities
-, and other sociological classifications.
+ This extends to questioning not just gender, but about race, physical ability,
+ nationalities, and other sociological classifications.
 \end_layout
 
 \begin_layout Standard
 Feminist science studies also lets -- and again, demands -- that we ask
  questions on another level about the nature of the knowledge produced.
  This includes (among many other things),
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{Representationally ~weak.}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
@@ -1685,12 +1804,43 @@ basic research
 \begin_inset Quotes erd
 \end_inset
 
- and nature/culture to explain a rapidly-growing scientific-industrial complex,
- and then linking basic research to community activism for women's rights
- and environmental movements.
+ and nature/culture to explain a rapidly-growing scientific-industrial complex;
+ linking basic research to community activism for women's rights and environment
+al movements.
 \begin_inset CommandInset citation
 LatexCommand citep
 key "Subramaniam2009"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+re-examining the 
+\begin_inset Quotes eld
+\end_inset
+
+global
+\begin_inset Quotes erd
+\end_inset
+
+ nature of research findings
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lock2001"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+re-conceptualizing what kind of knowledges are considered valid and legitimate
+ ways of knowing
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Gorelick2014,Agrawal1995"
 
 \end_inset
 
@@ -1701,6 +1851,79 @@ key "Subramaniam2009"
 It asks us to look at science as a practice inseparable from culture, and
  what that might mean for knowledge and for scientists as the future producers
  of that knowledge.
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Subsection
+Different Knowledges
+\end_layout
+
+\begin_layout Subsubsection
+Indigenous science
+\end_layout
+
+\begin_layout Plain Layout
+Different ways of knowing local areas ar
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+I feel weird about calling local knowledges sciences.
+ Science is such a clean cold scalpel like word.
+ If we use sciences, we have to re-extricated knowledges out the other side.
+ So we'll stick with knowledges maybe?
+\end_layout
+
+\end_inset
+
+Indigenous sciences are hard to define without explicit reference to our
+ dominating framework of Eurocentric experiment-based knowledge production,
+ which holds objectivity as king.
+ Maintaining a myth of Indigenous inferiority in scientific development
+ allows European-based systems to devalue and demean indigenous knowledge,
+ erasing and destroying locally created systems of knowledge.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Section
+Indigenous Sciences/Local biologies
+\end_layout
+
+\begin_layout Plain Layout
+indigenous sciences
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Brotherton2013,Emeagwali2014,Hiwasaki2014,Kirmayer2004"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+findref{Krupnick, the world is faster now}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -2085,23 +2308,10 @@ On the other hand, the Inuit strongly resist medicalization when they give
 \end_layout
 
 \begin_layout Section
-Why should scientists care?
+Why care?
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-rewrite{this? maybe with sources or more emotions}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
@@ -2329,55 +2539,47 @@ JC while I agree, I think you need some kind of a reference here to support
  Because feminist science asks questions that are fundamentally geared towards
  addressing socialized inequalities in science, it can (and has) help scientists
  take those inequalities into account.
- Scientists (in theory) care about helping people
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-todo{do they though? Still unclear, there's no fucking research}
-\end_layout
-
-\end_inset
-
-.
- It can't help people if it's racist, misogynistic, and not considerate
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-JC - or mislead themselves!
-\end_layout
-
-\end_inset
-
- of how work will be ab/used downstream.
- 
-\end_layout
-
-\begin_layout Subsection
-The point of the thesis
+ Scientists (in theory) care about the effect their work has, to cure cancer
+ or send someone to space.
+ If they are in fact interested in those effects, it's a fundamental part
+ of scientific work to consider the values that are part of scientific work.
 \end_layout
 
 \begin_layout Standard
-Scientists should care about where their work is coming from and where it's
- going, and we 
-\emph on
-need
-\emph default
- good -- read: concerned and activist -- people everywhere if we want social
- progress.
- This div is (hopefully) a road map and detailed exploration into doing
- (good) value-laden science.
- Figure out 
-\emph on
-how
-\emph default
- to apply all of that stuff to everything else I care about: namely, open
- science, open neuroscience, molecular neuroscience and then write about
- what did and did not work.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For this thesis, my feminist questions are largely about control of information.
+ If knowledge is power, how can we better distribute both? Who has the right
+ to control information? Who can control it, and what are ways to circumvent
+ systems of power? 
+\end_layout
+
+\begin_layout Standard
+My questions are focused on the value systems of scientific knowledge control
+ and flow in scientific ecosystems as a whole, and on the 
+\begin_inset Quotes eld
+\end_inset
+
+revival
+\begin_inset Quotes erd
+\end_inset
+
+ of psychedelic science.
+ From an original interest in increasing access to knowledge and understanding
+ the molecular pathways of psychedelics, I've come up with a whole host
+ of new understandings around communication and participation.
+ 
+\end_layout
+
+\begin_layout Standard
+Both open science and psychedelic research are tied to local knowledges
+ and global science systems.
+ Who has the right to control them?
 \end_layout
 
 \begin_layout Standard
