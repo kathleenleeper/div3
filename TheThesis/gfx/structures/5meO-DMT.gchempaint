@@ -5,50 +5,62 @@
   <theme name="GChemPaint" bond-length="140" bond-angle="120" bond-dist="5" bond-width="1" arrow-length="200" arrow-head-a="6" arrow-head-b="8" arrow-head-c="4" arrow-dist="5" arrow-width="1" arrow-padding="16" hash-width="1" hash-dist="2" stereo-bond-width="5" zoom-factor="4" padding="2" stoichiometry-padding="1" object-padding="16" sign-padding="8" charge-sign-size="9" font-family="Bitstream Vera Sans" font-style="normal" font-weight="normal" font-variant="normal" font-stretch="normal" font-size="12288" text-font-family="Apple Garamond" text-font-style="normal" text-font-weight="normal" text-font-variant="normal" text-font-stretch="normal" text-font-size="12288"/>
   <molecule id="m1">
     <atom id="a1" element="C">
-      <position x="427" y="683.9905"/>
+      <position x="427" y="654.803"/>
     </atom>
     <atom id="a10" element="C">
-      <position x="887.43799999999999" y="615.9905"/>
+      <position x="887.43799999999999" y="586.803"/>
     </atom>
     <atom id="a11" element="N">
-      <position x="805.14800000000002" y="729.25250000000005"/>
+      <position x="805.14800000000002" y="700.06500000000005"/>
     </atom>
     <atom id="a12" element="N">
-      <position x="871.88300000000004" y="150.43349999999998"/>
+      <position x="871.88300000000004" y="121.246"/>
+    </atom>
+    <atom id="a13" element="C">
+      <position x="781.89300000000003" y="14"/>
+    </atom>
+    <atom id="a14" element="C">
+      <position x="1009.76" y="96.935500000000005"/>
     </atom>
     <atom id="a15" element="O">
-      <position x="305.72596447685635" y="474.04331772700704"/>
+      <position x="305.72596447685635" y="444.85581772700704"/>
+    </atom>
+    <atom id="a16" element="C">
+      <position x="184.5129099437321" y="514.90862217300946"/>
     </atom>
     <atom id="a2" element="C">
-      <position x="427" y="543.9905"/>
+      <position x="427" y="514.803"/>
     </atom>
     <atom id="a3" element="C">
-      <position x="548" y="473.9905"/>
+      <position x="548" y="444.803"/>
     </atom>
     <atom id="a4" element="C">
-      <position x="824" y="281.9905"/>
+      <position x="824" y="252.803"/>
     </atom>
     <atom id="a5" element="C">
-      <position x="883.16700000000003" y="408.87349999999998"/>
+      <position x="883.16700000000003" y="379.68599999999998"/>
     </atom>
     <atom id="a6" element="C">
-      <position x="548" y="753.9905"/>
+      <position x="548" y="724.803"/>
     </atom>
     <atom id="a7" element="C">
-      <position x="672" y="685.9905"/>
+      <position x="672" y="656.803"/>
     </atom>
     <atom id="a8" element="C">
-      <position x="672" y="545.9905"/>
+      <position x="672" y="516.803"/>
     </atom>
     <atom id="a9" element="C">
-      <position x="805.14800000000002" y="502.7285"/>
+      <position x="805.14800000000002" y="473.541"/>
     </atom>
     <bond id="b1" order="2" begin="a1" end="a2"/>
     <bond id="b10" order="1" begin="a10" end="a11"/>
     <bond id="b11" order="1" begin="a11" end="a7"/>
     <bond id="b12" order="1" begin="a5" end="a9"/>
     <bond id="b13" order="1" begin="a4" end="a12"/>
+    <bond id="b14" order="1" begin="a12" end="a13"/>
+    <bond id="b15" order="1" begin="a12" end="a14"/>
     <bond id="b16" order="1" begin="a2" end="a15"/>
+    <bond id="b17" order="1" begin="a15" end="a16"/>
     <bond id="b2" order="1" begin="a2" end="a3"/>
     <bond id="b3" order="2" begin="a3" end="a8"/>
     <bond id="b4" order="2" begin="a7" end="a6"/>
