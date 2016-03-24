@@ -128,21 +128,30 @@ name "chap:feminist-science-cultural-studies"
 
 \end_inset
 
-Scientific work leads to technology that empowers; science provides a sense
- of systematic inquiry that satisfies some deep drive to understand and
- explain the world around us.
- Science is part of a long and storied heritage of bold exploration, innovation,
+
+\end_layout
+
+\begin_layout Standard
+Scientific work leads to technology that empowers; science provides a model
+ for systematic inquiry, satisfying some deep drive to understand and explain
+ the world around us.
+ Science is a long and storied heritage of bold exploration, innovation,
  and human ingenuity.
 \end_layout
 
 \begin_layout Standard
-Science is, simultaneously and harmoniously, a handmaiden to social-technical
- progress and a crucial strut in the reinforcement of systematic societal
- inequities.
- It is both a compelling and evidence-driven narrative about biological
- and physical realities, and a knowledge necessarily developed in and shaped
- by a social context.
- The question that opens most scientific philosophy classes is 
+Science is, simultaneously and harmoniously, the handmaiden to social-technical
+ progress and a crucial bar of rebar in the reinforcement of systematic
+ societal inequities.
+ It is a compelling and evidence-driven narrative about physical realities,
+ and a knowledge necessarily developed in and shaped by a social context.
+ 
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+The question that opens most scientific philosophy classes (to use a loose
+ phrase for a multi-idealistic field) is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -150,15 +159,32 @@ what is science?
 \begin_inset Quotes erd
 \end_inset
 
- The point is not to answer it, but to teach students to question how our
- concepts have been structured and bounded.
- I am more interested in understanding what science 
+ The point is never to answer it, but to teach students to question how
+ clear and logical definitions have been in fact, structured and bounded,
+ to start exploring in a theoretical sense what it means to have a valorized
+ system of knowing.
+ 
+\end_layout
+
+\end_inset
+
+I am interested in what science 
 \emph on
 does
 \emph default
- rather than in the concept, how it moves into the world, shaping and being
- shaped in the process; in many ways, the science is in the doing.
+ rather than in the concept, of what it 
+\emph on
+is
+\emph default
+.
+ I want to know, map, derive, how it moves in and into the world, shaping
+ and being shaped in the process.
+ Science is in the doing.
  
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -166,8 +192,16 @@ Science
 \begin_inset Quotes erd
 \end_inset
 
- is not any one grand enterprise.
- For our purposes, it is roughly sketched as
+ is not any one grand enterprise, but 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We can sketch it as a few things.
 \begin_inset ERT
 status collapsed
 
@@ -229,8 +263,34 @@ culture of no culture
 \begin_inset Quotes erd
 \end_inset
 
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[sandra harding citation]
+\end_layout
+
+\end_inset
+
 ; knowledge wrapped up in consequences; technoscience, where the knowing
  of science is inseparable from the doing of technology
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[but do I still think this? this phrasing?]
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -238,19 +298,31 @@ Science, the enterprise, is enabled by
 \emph on
 Science 
 \emph default
-and its kin
+and its kin.
+ Individual ways of knowing are melded into the enterprise of truth, mediated
+ by text and image, anonymized and elevated.
+ Yet this form of truth, whatever else it may be, is also made by scientists
 \emph on
-, 
-\emph default
-scientific journals that publish and codify communication.
- Science, the way of exploring the world, underlies the enterprise and the
- journal; and science, whatever else it may be, is 
-\emph on
-made by scientists\SpecialChar \@.
+.
  
 \emph default
-If science has an effect on the world, we, the producers of scientific knowledge
-, have the responsibility of taking care for what we make.
+If science does have an effect on the world, does matter, we, the producers
+ of scientific knowledge, that systematic enterprise, havea responsibility
+ to own our viewpoints and have the responsibility of taking care for what
+ we make.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+todo[rinse last sentence w/ phrasing]
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -975,7 +1047,7 @@ vademecum
 \emph default
  science,
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -989,7 +1061,7 @@ graffito{Fleck, p.
 
  
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
